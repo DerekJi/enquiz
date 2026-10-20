@@ -146,13 +146,19 @@ Build failed — fix these first:
 
 侧边栏是**两级**的：书名（可折叠）→ 该书的章节（勾选）。每本书下面有 `select all` / `clear`。
 
+章节多的时候，只有**章节列表**自己滚动；下面的 `Jump to`（Part A/B/C、Back to top）固定在侧边栏底部，
+不用再往下拖。窄屏抽屉里也是一样的分区。
+
 - 勾一章 → 单章复习
 - 勾多章（同一本书或跨书都行）→ 合并复习，每条前显示 `Ch 2` 或 `Spylark · Ch 2` 徽章，题号全局连续
+- **可以一个都不勾**（取消最后一个、或点 `clear`）→ 主区域显示「No chapter is selected」的说明，
+  不会再自作主张帮你选回第一章；这个空状态也会记住（`#ch=`）
 - URL 可直接收藏/分享：
   - `index.html` — 上次的选择（记在 localStorage）
   - `index.html#book=dead-weather` — 该书第一章
   - `index.html#ch=spylark/01` — 单章
   - `index.html#ch=spylark/01,dead-weather/prologue` — 跨书合并
+  - `index.html#ch=` — 明确「什么都不选」
   - `index.html#ch=1` — 兼容旧写法，会在各书里找 id 为 `1` 的章节
 
 ## 本地预览

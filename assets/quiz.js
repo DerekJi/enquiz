@@ -29,6 +29,7 @@
 
     var el = {
         sidebar: document.getElementById('sidebar'),
+        sidebarMain: document.querySelector('.sidebar-main'),
         bookList: document.getElementById('book-list'),
         toggle: document.getElementById('sidebar-toggle'),
         toggleLabel: document.getElementById('sidebar-toggle-label'),
@@ -217,7 +218,13 @@
     function storedSelection() {
         try {
             var saved = localStorage.getItem(STORE_KEY);
-            return saved ? saved.split(',').filter(Boolean) : null;
+            if (saved === null) {
+                return null;                       // never picked anything yet
+            }
+            if (saved === '') {
+                return [];                         // deliberately cleared everything
+            }
+            return saved.split(',').filter(Boolean);
         } catch (error) {
             return null;
         }
@@ -230,12 +237,17 @@
     function resolveSelection() {
         var params = hashParams();
 
-        if (params.ch) {
+        // "#ch=" (empty) is a deliberate "nothing selected"; a non-empty but
+        // stale "#ch=..." falls through to the stored/default selection.
+        if (params.ch !== undefined) {
             var keys = unique(params.ch.split(/[,+]/).map(function (token) {
                 return normaliseToken(token.trim());
             }).filter(Boolean));
             if (keys.length) {
                 return orderKeys(keys);
+            }
+            if (params.ch.trim() === '') {
+                return [];
             }
         }
 
@@ -247,12 +259,12 @@
             }
         }
 
-        var saved = (storedSelection() || []).filter(function (key) {
-            var pair = parseKey(key);
-            return pair && chapterEntry(pair.book, pair.chapter);
-        });
-        if (saved.length) {
-            return orderKeys(saved);
+        var saved = storedSelection();
+        if (saved !== null) {
+            return orderKeys(saved.filter(function (key) {
+                var pair = parseKey(key);
+                return pair && chapterEntry(pair.book, pair.chapter);
+            }));
         }
 
         var start = firstChapterOf(allBooks()[0]);
@@ -309,16 +321,44 @@
         return numbers.slice(0, -1).join(', ') + ' & ' + numbers[numbers.length - 1];
     }
 
-    function chapterSummary(list) {
-        var numeric = list.every(function (record) {
-            return /^Chapter\s+\d+$/i.test(record.entry.title || '');
+    // [1,2,3,5,7,8] -> ["1\u20133", "5", "7\u20138"]
+    function numberRanges(numbers) {
+        var sorted = numbers.slice().sort(function (a, b) { return a - b; });
+        var ranges = [];
+        sorted.forEach(function (number) {
+            var last = ranges[ranges.length - 1];
+            if (last && number === last[1] + 1) {
+                last[1] = number;
+            } else {
+                ranges.push([number, number]);
+            }
         });
-        if (numeric) {
-            return 'Chapters ' + joinNums(list.map(function (record) {
-                return Number(/^Chapter\s+(\d+)$/i.exec(record.entry.title)[1]);
-            }));
+        return ranges.map(function (range) {
+            return range[0] === range[1] ? String(range[0]) : range[0] + '\u2013' + range[1];
+        });
+    }
+
+    // "Chapters 1\u201340 & Acknowledgements" — ranges keep 40-chapter sheets sane.
+    function chapterSummary(list) {
+        var numbers = [];
+        var others = [];
+        list.forEach(function (record) {
+            var match = /^Chapter\s+(\d+)$/i.exec(record.entry.title || '');
+            if (match) {
+                numbers.push(Number(match[1]));
+            } else {
+                others.push(record.entry.title || record.entry.id);
+            }
+        });
+
+        var parts = [];
+        if (numbers.length === 1) {
+            parts.push('Chapter ' + numbers[0]);
+        } else if (numbers.length) {
+            parts.push('Chapters ' + joinNums(numberRanges(numbers)));
         }
-        return list.map(function (record) { return record.entry.title; }).join(' & ');
+        others.forEach(function (title) { parts.push(title); });
+        return parts.join(' & ');
     }
 
     function booksOf(list) {
@@ -380,6 +420,30 @@
                 '</div>' +
                 '</section>';
         }).join('');
+
+        updateBookListFade();
+    }
+
+    // Fade the bottom edge of the chapter pane while it still has content below,
+    // so it is obvious the list scrolls on its own.
+    function updateBookListFade() {
+        if (!el.sidebarMain || !el.bookList) {
+            return;
+        }
+        var list = el.bookList;
+        var overflowing = list.scrollHeight - list.clientHeight > 1;
+        var atBottom = list.scrollTop + list.clientHeight >= list.scrollHeight - 2;
+        el.sidebarMain.classList.toggle('is-scrollable', overflowing && !atBottom);
+    }
+
+    // A book unfolds whenever it has a ticked chapter (used on load and on
+    // #ch=… navigation, so a shared link shows its chapters straight away).
+    function syncOpenState() {
+        allBooks().forEach(function (book) {
+            state.open[book.id] = book.chapters.some(function (chapter) {
+                return state.keys.indexOf(keyOf(book.id, chapter.id)) !== -1;
+            });
+        });
     }
 
     function setNavLabel(list) {
@@ -439,9 +503,13 @@
         var list = records();
 
         if (!list.length) {
-            showEmpty('No chapter is selected.');
+            document.title = 'Vocabulary Review';
+            setNavLabel([]);
+            showNothingSelected();
             return;
         }
+
+        showSections();
 
         var multi = list.length > 1;
         var multiBook = booksOf(list).length > 1;
@@ -540,22 +608,65 @@
             '<strong>Show answers</strong> to fill them all in.';
     }
 
-    function showEmpty(message) {
+    function showSections() {
+        el.empty.hidden = true;
+        el.empty.innerHTML = '';
+        ['top', 'part-a', 'part-b', 'part-c'].forEach(function (id) {
+            var section = document.getElementById(id);
+            if (section) {
+                section.hidden = false;
+            }
+        });
+    }
+
+    function datasetNote() {
+        return '<p>Content lives in <code>books/&lt;book&gt;/*.json</code>. After adding or editing a dataset, run ' +
+            '<code>npm run data</code> (or double-click <code>tools/rebuild-data.cmd</code>). ' +
+            'It validates the JSON and regenerates <code>books/index.json</code> and <code>books/bundle.js</code>.</p>' +
+            '<p>Opened from disk (<code>file://</code>) the page needs the generated bundle; ' +
+            'served over http(s) it reads the JSON files directly.</p>';
+    }
+
+    function showEmpty(message, extraHtml) {
+        showPanel('Nothing to show yet', '<p>' + esc(message) + '</p>' +
+            (extraHtml === undefined ? datasetNote() : extraHtml));
+    }
+
+    // Zero chapters is a legal selection: explain how to pick one instead of
+    // silently showing the first chapter again.
+    function showNothingSelected() {
+        showPanel('No chapter is selected',
+            '<p>Nothing is ticked right now, so there is no material to show. Tick one or more chapters in the ' +
+            'sidebar (<strong>Books &amp; chapters</strong>) — the review list, quiz and answer key are built from ' +
+            'exactly what is ticked.</p>' +
+            '<p>The selection is kept in the URL as <code>#ch=…</code> and remembered in this browser, so a ' +
+            'combined sheet can be bookmarked or shared. <strong>select all</strong> under a book picks a whole ' +
+            'book at once.</p>');
+    }
+
+    function showPanel(title, bodyHtml) {
+        hideSections();
+        el.empty.hidden = false;
+        el.empty.innerHTML = '<h2>' + esc(title) + '</h2>' + bodyHtml;
+
+        if (el.countA) {
+            el.countA.textContent = 'Review list';
+        }
+        if (el.countB) {
+            el.countB.textContent = 'Quiz';
+        }
+        if (el.countC) {
+            el.countC.textContent = 'Answer key';
+        }
+    }
+
+    function hideSections() {
         ['top', 'part-a', 'part-b', 'part-c'].forEach(function (id) {
             var section = document.getElementById(id);
             if (section) {
                 section.hidden = true;
             }
         });
-
-        el.empty.hidden = false;
-        el.empty.innerHTML = '<h2>Nothing to show yet</h2>' +
-            '<p>' + esc(message) + '</p>' +
-            '<p>Content lives in <code>books/&lt;book&gt;/*.json</code>. After adding or editing a dataset, run ' +
-            '<code>npm run data</code> (or double-click <code>tools/rebuild-data.cmd</code>). ' +
-            'It validates the JSON and regenerates <code>books/index.json</code> and <code>books/bundle.js</code>.</p>' +
-            '<p>Opened from disk (<code>file://</code>) the page needs the generated bundle; ' +
-            'served over http(s) it reads the JSON files directly.</p>';
     }
 
     /* -------------------------------------------------------------- loading */
@@ -588,11 +699,7 @@
                     return null;
                 }
                 state.keys = resolveSelection();
-                allBooks().forEach(function (book) {
-                    state.open[book.id] = book.chapters.some(function (chapter) {
-                        return state.keys.indexOf(keyOf(book.id, chapter.id)) !== -1;
-                    });
-                });
+                syncOpenState();
                 renderBookList();
                 setDataNote();
                 observeSections();
@@ -793,6 +900,7 @@
                 section.classList.toggle('is-open', !!state.open[bookId]);
             }
             toggle.setAttribute('aria-expanded', String(!!state.open[bookId]));
+            updateBookListFade();
             return;
         }
 
@@ -862,22 +970,35 @@
         var keys = Array.prototype.slice.call(document.querySelectorAll('.chapter-option input:checked'))
             .map(function (input) { return input.getAttribute('data-chapter-key'); });
 
-        if (keys.length === 0) {
-            box.checked = true;
-            return;
-        }
-
         var label = box.closest('.chapter-option');
         if (label) {
             label.classList.toggle('is-on', box.checked);
         }
 
+        // Zero chapters is a legal state: the page then explains how to pick one.
         commitSelection(orderKeys(keys));
+        var toggled = parseKey(box.getAttribute('data-chapter-key') || '');
+        if (toggled) {
+            updateBookBadge(toggled.book);
+        }
         refresh().then(function () {
             scrollTop();
             closeNavOnNarrow();
         });
     });
+
+    function updateBookBadge(bookId) {
+        var book = bookId && bookById(bookId);
+        var section = book ? el.bookList.querySelector('.book[data-book="' + bookId + '"]') : null;
+        var count = section ? section.querySelector('.book-count') : null;
+        if (!book || !count) {
+            return;
+        }
+        var selected = book.chapters.filter(function (chapter) {
+            return state.keys.indexOf(keyOf(book.id, chapter.id)) !== -1;
+        }).length;
+        count.textContent = selected ? selected + '/' + book.chapters.length : book.chapters.length + ' ch.';
+    }
 
     function toggleBookSelection(bookId, select) {
         var book = bookById(bookId);
@@ -889,13 +1010,6 @@
         var keys = select
             ? kept.concat(book.chapters.map(function (chapter) { return keyOf(book.id, chapter.id); }))
             : kept;
-
-        if (!keys.length) {
-            var fallback = firstChapterOf(book);
-            if (fallback) {
-                keys = [fallback];
-            }
-        }
 
         commitSelection(orderKeys(keys));
         renderBookList();
@@ -938,9 +1052,16 @@
             return;
         }
         state.keys = keys;
+        syncOpenState();
         renderBookList();
         refresh();
     });
+
+    window.addEventListener('resize', updateBookListFade);
+
+    if (el.bookList) {
+        el.bookList.addEventListener('scroll', updateBookListFade, { passive: true });
+    }
 
     /* ------------------------------------------------------------------ boot */
 

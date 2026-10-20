@@ -80,12 +80,49 @@ section {
     flex: 0 0 200px;
     width: 200px;
     max-height: calc(100vh - 48px);
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    /* Fallback for very short windows: the panel scrolls rather than clipping
+       "Jump to". Normally the chapter list inside scrolls and this one does not. */
     overflow-y: auto;
     background: var(--surface);
     border: 1px solid var(--slate-200);
     border-radius: 10px;
     padding: 16px 14px;
     box-shadow: var(--shadow);
+}
+
+/* The chapter tree is its own scroll area; "Jump to" stays pinned underneath. */
+.sidebar-main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+    /* Keeps a too-short list inside its box instead of spilling over the footer. */
+    overflow: hidden;
+}
+
+/* Soft edge while the chapter list has more below — JS toggles the class. */
+.sidebar-main.is-scrollable::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 22px;
+    border-radius: 0 0 6px 6px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), var(--surface));
+    pointer-events: none;
+}
+
+.sidebar-main > .sidebar-title {
+    flex: 0 0 auto;
+}
+
+.sidebar-foot {
+    flex: 0 0 auto;
 }
 
 .sidebar-title {
@@ -102,7 +139,32 @@ section {
 .book-list {
     display: flex;
     flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 72px;
     gap: 2px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding-right: 4px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--slate-300) transparent;
+}
+
+.book-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.book-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.book-list::-webkit-scrollbar-thumb {
+    border: 2px solid var(--surface);
+    border-radius: 999px;
+    background: var(--slate-300);
+}
+
+.book-list::-webkit-scrollbar-thumb:hover {
+    background: var(--slate-400);
 }
 
 .book {
@@ -305,6 +367,18 @@ section {
 .data-note code {
     font-size: 1em;
     color: var(--slate-500);
+}
+
+/* On short windows give the chapter list every pixel the jump links can spare. */
+@media (max-height: 700px) {
+    .data-note {
+        display: none;
+    }
+
+    .sidebar {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
 }
 
 /* ---------- Drawer controls (narrow screens) ---------------------------- */
@@ -812,6 +886,7 @@ body.redirect-page .btn {
         width: min(86vw, 330px);
         max-height: none;
         padding: 58px 16px 24px;
+        overflow-x: hidden;
         overflow-y: auto;
         border: none;
         border-right: 1px solid var(--slate-200);
@@ -819,6 +894,11 @@ body.redirect-page .btn {
         box-shadow: 0 10px 40px rgba(15, 23, 42, 0.2);
         transform: translateX(-105%);
         transition: transform 0.22s ease;
+    }
+
+    /* Drawer: same split — chapters scroll, jump links stay at the bottom. */
+    .book-list {
+        -webkit-overflow-scrolling: touch;
     }
 
     body.nav-open .sidebar {
