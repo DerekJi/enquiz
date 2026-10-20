@@ -438,9 +438,12 @@
 
     // A book unfolds whenever it has a ticked chapter (used on load and on
     // #ch=… navigation, so a shared link shows its chapters straight away).
+    // With nothing ticked every book opens, otherwise the page would tell you
+    // to tick a chapter that is hidden behind a collapsed book.
     function syncOpenState() {
+        var anythingSelected = state.keys.length > 0;
         allBooks().forEach(function (book) {
-            state.open[book.id] = book.chapters.some(function (chapter) {
+            state.open[book.id] = !anythingSelected || book.chapters.some(function (chapter) {
                 return state.keys.indexOf(keyOf(book.id, chapter.id)) !== -1;
             });
         });
