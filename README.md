@@ -32,7 +32,8 @@ Quiz/                              ← 仓库根目录
     build-data.mjs                 ← 校验 JSON + 生成 index.json / bundle.js
     rebuild-data.cmd               ← 双击版
     serve.mjs                      ← 本地预览（等同 GitHub Pages）
-    github-pages.yml               ← 可选：自动部署
+  .github/workflows/pages.yml      ← push 到 main 就自动发布到 GitHub Pages
+  .nojekyll                        ← 别让 GitHub 用 Jekyll 处理这个站点
   data/                            ← 原始笔记／书稿，整目录 .gitignore，不发布
   Spylark_Chapter_N_Review_Quiz.html   ← 旧链接，跳转到新页面
 ```
@@ -44,7 +45,7 @@ Quiz/                              ← 仓库根目录
 
 | 打开方式 | 数据来源 | 改完 JSON 要做什么 |
 | --- | --- | --- |
-| GitHub Pages / `npm run serve` / 任意 http(s) | `fetch` 读 `books/index.json`，再按需取选中的章节文件 | **改内容：刷新即可**；**新书/新章：跑一次 rebuild** |
+| GitHub Pages / `npm run serve` / 任意 http(s) | `fetch` 读 `books/index.json`，再按需取选中的章节文件 | **改内容：刷新即可**；**新书/新章：跑一次 rebuild**（push 后 CI 也会自动 rebuild） |
 | 双击本地 `index.html`（`file://`） | 自动加载生成的 `books/bundle.js` | 需要 rebuild |
 
 `index.json` 和 `bundle.js` 都是构建产物，**不要手改**。
@@ -161,14 +162,27 @@ npm run serve          # 或 node tools/serve.mjs，默认 http://localhost:4173
 这是和 GitHub Pages 完全一致的加载方式（读 JSON 原文，改完刷新即可）。
 双击 `index.html` 也能用，走 `bundle.js`。
 
-## 部署到 GitHub Pages
+## 部署到 GitHub Pages（push 即发布）
 
-1. 把整个 `Quiz` 目录作为仓库根目录推上去。
-2. Settings → Pages：
-   - 省事：*Deploy from a branch* → `main` / `/ (root)`（提交前跑过 `npm run data`）
-   - 全自动：把 `tools/github-pages.yml` 移到 `.github/workflows/pages.yml`，
-     再把 Source 选成 *GitHub Actions*。之后每次 push 自动校验 + 重建清单 + 发布。
-3. 站点形如 `https://<用户名>.github.io/<仓库名>/`，全部相对路径，无需改动。
+仓库里已经放好了 [`.github/workflows/pages.yml`](.github/workflows/pages.yml)，只剩**一次**手工设置：
+
+1. Settings → **Pages** → Build and deployment → Source 选 **GitHub Actions**
+   （不是 *Deploy from a branch*）。
+2. Done。之后每次 `git push` 到 `main` 都会自动跑一遍：
+   1. `node tools/build-data.mjs` —— 校验 `books/**/*.json`，有错就整个 workflow 失败、线上保持旧版；
+   2. 重新生成 `books/index.json` 和 `books/bundle.js`；
+   3. 把 `index.html` + `assets/` + `books/` 发布上去（`data/`、`tools/`、`.git` 不上传）。
+
+也可以在 Actions 页面点 **Run workflow**（`workflow_dispatch`）手动重发一次。站点形如
+`https://<用户名>.github.io/<仓库名>/`，全部是相对路径，不需要改任何配置。
+
+几点说明：
+
+- 构建产物由 CI 重新生成，所以**本地忘了跑 `npm run data` 也能正确发布**；但为了双击 `index.html`
+  离线能用，提交前跑一次、让 `index.json` / `bundle.js` 保持最新仍然是个好习惯。
+- 分支名不是 `main`（比如 `master`）时，改 workflow 里的 `branches: [main]`。
+- 私有仓库要发布 Pages 需要 GitHub Pro；公开仓库免费。
+- 首次推送后去 Actions 看一次运行结果；`configure-pages` 报错通常就是第 1 步没做。
 
 > `.gitignore` 里只有 `data/`，所以 `books/` 会正常入库；原始书稿不会。
 

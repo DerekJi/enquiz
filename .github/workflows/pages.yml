@@ -1,0 +1,74 @@
+# Publish the quiz to GitHub Pages on every push to main.
+#
+# One-time setup (repository owner, in the browser):
+#   Settings → Pages → Build and deployment → Source: "GitHub Actions"
+#
+# After that, every push to main:
+#   1. validates all books/<book>/<chapter>.json (build fails on bad data),
+#   2. regenerates books/index.json + books/bundle.js,
+#   3. publishes index.html + assets/ + books/ to
+#      https://<user>.github.io/<repo>/
+#
+# Deploying from the repo root instead of a branch also means the generated
+# files never have to be committed in sync — the artifact is always rebuilt.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Read the repo, publish to Pages, and mint the OIDC token deploy-pages needs.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a newer push supersedes an in-flight one.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Exits non-zero on any JSON/schema error, so a broken dataset never ships.
+      - name: Validate data and rebuild manifest + bundle
+        run: node tools/build-data.mjs
+
+      # Publish only the site itself — not data/, tools/ or the git history.
+      - name: Assemble the site
+        run: |
+          mkdir -p _site
+          cp index.html .nojekyll _site/
+          cp -R assets books _site/
+          rm -rf _site/books/_template
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

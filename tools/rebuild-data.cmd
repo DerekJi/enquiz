@@ -1,6 +1,6 @@
 @echo off
-rem Double-click this file after editing data\chapters\*.json.
-rem It regenerates data\chapters\chapters.js so the browser can load the data.
+rem Double-click this file after editing books\<book>\*.json.
+rem It validates the datasets and regenerates books\index.json + books\bundle.js.
 title Build Spylark quiz data
 cd /d "%~dp0"
 
