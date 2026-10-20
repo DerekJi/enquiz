@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-10-20T09:09:46.011Z",
+  "books": [
+    {
+      "id": "spylark",
+      "title": "Spylark",
+      "order": 1,
+      "chapters": [
+        {
+          "id": "01",
+          "title": "Chapter 1",
+          "order": 1,
+          "file": "books/spylark/01.json",
+          "words": 57,
+          "quiz": 57
+        },
+        {
+          "id": "02",
+          "title": "Chapter 2",
+          "order": 2,
+          "file": "books/spylark/02.json",
+          "words": 69,
+          "quiz": 69
+        },
+        {
+          "id": "03",
+          "title": "Chapter 3",
+          "order": 3,
+          "file": "books/spylark/03.json",
+          "words": 65,
+          "quiz": 65
+        },
+        {
+          "id": "04",
+          "title": "Chapter 4",
+          "order": 4,
+          "file": "books/spylark/04.json",
+          "words": 109,
+          "quiz": 109
+        },
+        {
+          "id": "05",
+          "title": "Chapter 5",
+          "order": 5,
+          "file": "books/spylark/05.json",
+          "words": 48,
+          "quiz": 48
+        },
+        {
+          "id": "06",
+          "title": "Chapter 6",
+          "order": 6,
+          "file": "books/spylark/06.json",
+          "words": 64,
+          "quiz": 64
+        },
+        {
+          "id": "07",
+          "title": "Chapter 7",
+          "order": 7,
+          "file": "books/spylark/07.json",
+          "words": 37,
+          "quiz": 37
+        },
+        {
+          "id": "08",
+          "title": "Chapter 8",
+          "order": 8,
+          "file": "books/spylark/08.json",
+          "words": 68,
+          "quiz": 68
+        },
+        {
+          "id": "09",
+          "title": "Chapter 9",
+          "order": 9,
+          "file": "books/spylark/09.json",
+          "words": 88,
+          "quiz": 87
+        },
+        {
+          "id": "10",
+          "title": "Chapter 10",
+          "order": 10,
+          "file": "books/spylark/10.json",
+          "words": 60,
+          "quiz": 60
+        },
+        {
+          "id": "11",
+          "title": "Chapter 11",
+          "order": 11,
+          "file": "books/spylark/11.json",
+          "words": 54,
+          "quiz": 54
+        },
+        {
+          "id": "12",
+          "title": "Chapter 12",
+          "order": 12,
+          "file": "books/spylark/12.json",
+          "words": 52,
+          "quiz": 51
+        },
+        {
+          "id": "13",
+          "title": "Chapter 13",
+          "order": 13,
+          "file": "books/spylark/13.json",
+          "words": 41,
+          "quiz": 41
+        },
+        {
+          "id": "14",
+          "title": "Chapter 14",
+          "order": 14,
+          "file": "books/spylark/14.json",
+          "words": 52,
+          "quiz": 52
+        },
+        {
+          "id": "15",
+          "title": "Chapter 15",
+          "order": 15,
+          "file": "books/spylark/15.json",
+          "words": 58,
+          "quiz": 58
+        }
+      ]
+    }
+  ]
+}

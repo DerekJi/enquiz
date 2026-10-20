@@ -1,0 +1,32 @@
+{
+  "id": "01",
+  "title": "Chapter 1",
+  "order": 1,
+  "words": [
+    {
+      "word": "return leg",
+      "examples": [
+        "After a short stop the pilot began the return leg of the flight.",
+        "例句可以有多句"
+      ]
+    },
+    {
+      "word": "draw level with",
+      "examples": [
+        "The runner accelerated to draw level with the leader."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "After a brief layover, the pilot prepared the aircraft for the {} of the journey.",
+      "answer": "return leg",
+      "hint": "返程段/第二回合"
+    },
+    {
+      "prompt": "The children were told to {} at the end of the room.",
+      "answer": "draw level with",
+      "hint": "与…并驾齐驱"
+    }
+  ]
+}

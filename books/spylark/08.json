@@ -1,0 +1,789 @@
+{
+  "id": "08",
+  "title": "Chapter 8",
+  "order": 8,
+  "words": [
+    {
+      "word": "head to",
+      "examples": [
+        "Tom collected Skylark from Maggot, and headed to the workshop."
+      ]
+    },
+    {
+      "word": "itching to",
+      "examples": [
+        "He headed to the workshop, itching to get back into the sky."
+      ]
+    },
+    {
+      "word": "plaster",
+      "ipa": "/ˈplɑːstə(r)/",
+      "examples": [
+        "Most of his right side was in plaster after the accident."
+      ]
+    },
+    {
+      "word": "cannibalize",
+      "ipa": "/ˈkænɪb(ə)lˌaɪz/",
+      "examples": [
+        "He welded together components cannibalized from half-dead machines."
+      ]
+    },
+    {
+      "word": "recklessness",
+      "examples": [
+        "He welded components together with a Frankenstein-like recklessness."
+      ]
+    },
+    {
+      "word": "stripped-down",
+      "examples": [
+        "The lawnmower was based on a stripped-down Flymo."
+      ]
+    },
+    {
+      "word": "demon-possessed",
+      "examples": [
+        "'It's like a demon-possessed hovercraft,' his aunt had laughed."
+      ]
+    },
+    {
+      "word": "go out of one's way",
+      "examples": [
+        "She went out of her way to make her guests feel welcome.",
+        "She really went out of her way to help us."
+      ]
+    },
+    {
+      "word": "go out of one's mind",
+      "examples": [
+        "The wait nearly drove him out of his mind.",
+        "He was going out of his mind with worry."
+      ]
+    },
+    {
+      "word": "hovercraft",
+      "ipa": "/ˈhɒvəkrɑːft/",
+      "examples": [
+        "It's like a demon-possessed hovercraft."
+      ]
+    },
+    {
+      "word": "obsolete",
+      "ipa": "/ˈɒbsəliːt/",
+      "examples": [
+        "He added an obsolete mobile phone that served as a GPS receiver."
+      ]
+    },
+    {
+      "word": "autonomous",
+      "ipa": "/ɔːˈtɒnəməs/",
+      "examples": [
+        "This was the first fully autonomous lawnmower."
+      ]
+    },
+    {
+      "word": "patent",
+      "ipa": "/ˈpætnt/",
+      "examples": [
+        "You could patent that, Tom, make a packet."
+      ]
+    },
+    {
+      "word": "make a packet",
+      "examples": [
+        "You could patent that, Tom, make a packet."
+      ]
+    },
+    {
+      "word": "blustery",
+      "ipa": "/ˈblʌstəri/",
+      "examples": [
+        "It was during a blustery night that Jim's boat came adrift."
+      ]
+    },
+    {
+      "word": "come adrift",
+      "ipa": "/əˈdrɪft/",
+      "examples": [
+        "Jim's vintage char boat had come adrift."
+      ]
+    },
+    {
+      "word": "gunwale",
+      "ipa": "/ˈɡʌn(ə)lz/",
+      "examples": [
+        "The waves crashed against the gunwales, sending spray into their faces."
+      ]
+    },
+    {
+      "word": "in the warm",
+      "examples": [
+        "If only we had an eye in the sky, we'd be back in the warm in no time!"
+      ]
+    },
+    {
+      "word": "in no time",
+      "examples": [
+        "We'd be back in the warm in no time!"
+      ]
+    },
+    {
+      "word": "on patrol",
+      "examples": [
+        "It sounded like the security services were on patrol."
+      ]
+    },
+    {
+      "word": "stretch out",
+      "examples": [
+        "He climbed until the southern half of the lake stretched out beyond the islands."
+      ]
+    },
+    {
+      "word": "smudge",
+      "examples": [
+        "The rain clouds hung in moist charcoal smudges over Morecambe Bay."
+      ]
+    },
+    {
+      "word": "saturated",
+      "ipa": "/ˈsætʃəˌreɪtɪd/",
+      "examples": [
+        "The air was crisp and the lake and hills saturated with colour."
+      ]
+    },
+    {
+      "word": "solitary",
+      "ipa": "/ˈsɑləˌteri/",
+      "examples": [
+        "A solitary yacht, its sails white in the sun, meandered downwind."
+      ]
+    },
+    {
+      "word": "meander",
+      "ipa": "/miˈændər/",
+      "examples": [
+        "A solitary yacht meandered downwind."
+      ]
+    },
+    {
+      "word": "lose oneself in",
+      "examples": [
+        "Normally Tom would have lost himself in the flight."
+      ]
+    },
+    {
+      "word": "a quick foray",
+      "ipa": "/ˈfɒreɪ/",
+      "examples": [
+        "A quick foray north took him to Brockbarrow."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "examples": [
+        "The only sign of life was a handful of Swaledales dotted among the bracken."
+      ]
+    },
+    {
+      "word": "leg stretches",
+      "examples": [
+        "On Rigg Knott there was a lone runner doing some leg stretches."
+      ]
+    },
+    {
+      "word": "apart from that",
+      "examples": [
+        "Apart from that the hilltop was empty."
+      ]
+    },
+    {
+      "word": "shingle beach",
+      "examples": [
+        "The dinghy was pulled up on the shingle beach."
+      ]
+    },
+    {
+      "word": "hang out with",
+      "examples": [
+        "They wouldn't expect him to spend the summer holidays hanging out with them."
+      ]
+    },
+    {
+      "word": "do one's bit",
+      "examples": [
+        "He would do his bit to keep Aunt Emily happy."
+      ]
+    },
+    {
+      "word": "least known",
+      "examples": [
+        "Benson Isle was the largest island but also the least known."
+      ]
+    },
+    {
+      "word": "reclusive",
+      "ipa": "/rɪˈkluːsɪv/",
+      "examples": [
+        "It had been owned by the same reclusive family since the eighteenth century."
+      ]
+    },
+    {
+      "word": "set foot on",
+      "examples": [
+        "Even Jim Rothwell had never stepped foot on it."
+      ]
+    },
+    {
+      "word": "come to think of it",
+      "examples": [
+        "Come to think of it, I don't know anyone who has."
+      ]
+    },
+    {
+      "word": "inquisitive",
+      "ipa": "/ɪnˈkwɪzətɪv/",
+      "examples": [
+        "In his many inquisitive flights over it, Tom had seen little sign of the owners."
+      ]
+    },
+    {
+      "word": "moor",
+      "ipa": "/mɔːr/",
+      "examples": [
+        "The Invincible was moored up under the Private: Keep Off sign."
+      ]
+    },
+    {
+      "word": "secluded",
+      "ipa": "/sɪˈkluːdɪd/",
+      "examples": [
+        "He now owned its biggest and most secluded island."
+      ]
+    },
+    {
+      "word": "luscious",
+      "ipa": "/ˈlʌʃəs/",
+      "examples": [
+        "Luscious Lakeland - Real Ice Cream, Fresh from the Farm."
+      ]
+    },
+    {
+      "word": "be up to",
+      "examples": [
+        "Whatever he was up to, he clearly meant business."
+      ]
+    },
+    {
+      "word": "mean business",
+      "examples": [
+        "Whatever he was up to, he clearly meant business."
+      ]
+    },
+    {
+      "word": "tourist launch",
+      "examples": [
+        "Most people, speeding by on a tourist launch, only glimpsed the round house."
+      ]
+    },
+    {
+      "word": "outbuilding",
+      "ipa": "/ˈaʊtbɪldɪŋ/",
+      "examples": [
+        "She disappeared into a concrete outbuilding around the back."
+      ]
+    },
+    {
+      "word": "around the back",
+      "examples": [
+        "She disappeared into a concrete outbuilding around the back."
+      ]
+    },
+    {
+      "word": "disused",
+      "ipa": "/dɪsˈjuːzd/",
+      "examples": [
+        "The flight path took Tom over a disused slate quarry."
+      ]
+    },
+    {
+      "word": "slate quarry",
+      "ipa": "/sleɪt ˈkwɒri/",
+      "examples": [
+        "The flight path took Tom over a disused slate quarry."
+      ]
+    },
+    {
+      "word": "peregrine falcon",
+      "ipa": "/ˈperəɡrɪn ˈfɔːlkən/",
+      "examples": [
+        "He had flown in to look at a nest of peregrine falcons."
+      ]
+    },
+    {
+      "word": "perch",
+      "ipa": "/pɜːtʃ/",
+      "examples": [
+        "The falcons were perched high up in the wall of rock."
+      ]
+    },
+    {
+      "word": "slate-strewn",
+      "ipa": "/sleɪt struːn/",
+      "examples": [
+        "A vehicle was parked on the slate-strewn floor."
+      ]
+    },
+    {
+      "word": "stand guard",
+      "examples": [
+        "Standing guard at the entrance was ponytail man."
+      ]
+    },
+    {
+      "word": "feel a jolt",
+      "ipa": "/dʒəʊlt/",
+      "examples": [
+        "Tom felt a jolt as he realized it was a sub-machine gun."
+      ]
+    },
+    {
+      "word": "sub-machine gun",
+      "examples": [
+        "Tom felt a jolt as he realized it was a sub-machine gun."
+      ]
+    },
+    {
+      "word": "fall away",
+      "examples": [
+        "Where the ground fell away into the woods, he saw straw-hat man."
+      ]
+    },
+    {
+      "word": "clipboard",
+      "ipa": "/ˈklɪpbɔːrd/",
+      "examples": [
+        "Straw-hat man stood there in a blazer and tie, with a clipboard in his hand."
+      ]
+    },
+    {
+      "word": "billow",
+      "ipa": "/ˈbɪləʊ/",
+      "examples": [
+        "Two Land Rovers followed with clouds of dust billowing behind."
+      ]
+    },
+    {
+      "word": "kitted out with",
+      "examples": [
+        "Two black Land Rovers kitted out with spotlights and snorkels."
+      ]
+    },
+    {
+      "word": "bring up the rear",
+      "examples": [
+        "One Land Rover came at the front, one bringing up the rear."
+      ]
+    },
+    {
+      "word": "snorkel",
+      "ipa": "/ˈsnɔːkl/",
+      "examples": [
+        "Two Land Rovers kitted out with spotlights and snorkels."
+      ]
+    },
+    {
+      "word": "a flotilla of",
+      "examples": [
+        "The Teal made her way through a flotilla of red and blue dinghies."
+      ]
+    },
+    {
+      "word": "stand around",
+      "examples": [
+        "They stood around talking for a few more minutes."
+      ]
+    },
+    {
+      "word": "wisps of",
+      "examples": [
+        "Tom watched the wisps of dust disperse."
+      ]
+    },
+    {
+      "word": "disperse",
+      "ipa": "/dɪˈspɜːs/",
+      "examples": [
+        "Tom watched the wisps of dust disperse."
+      ]
+    },
+    {
+      "word": "cross the world",
+      "examples": [
+        "He knew that tourists crossed the world to see sights like this."
+      ]
+    },
+    {
+      "word": "something told him",
+      "examples": [
+        "But something told him these people were not there to enjoy the scenery."
+      ]
+    },
+    {
+      "word": "sights",
+      "examples": [
+        "Tourists crossed the world to see sights like this."
+      ]
+    },
+    {
+      "word": "scenery",
+      "ipa": "/ˈsiːnəri/",
+      "examples": [
+        "These people were not there to enjoy the scenery."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "Tom collected Skylark from Maggot, and {} the workshop.",
+      "answer": "headed to",
+      "hint": "前往/朝……去"
+    },
+    {
+      "prompt": "He headed to the workshop, {} get back into the sky.",
+      "answer": "itching to",
+      "hint": "迫不及待想做某事/手痒想……"
+    },
+    {
+      "prompt": "Most of his right side was in {} after the accident.",
+      "answer": "plaster",
+      "hint": "（固定骨折的）石膏/灰泥"
+    },
+    {
+      "prompt": "He welded together components {} from half-dead machines.",
+      "answer": "cannibalized",
+      "hint": "拆东补西/用拆下的零件修配"
+    },
+    {
+      "prompt": "He welded components together with a Frankenstein-like {}.",
+      "answer": "recklessness",
+      "hint": "鲁莽/不顾后果"
+    },
+    {
+      "prompt": "The lawnmower was based on a {} Flymo.",
+      "answer": "stripped-down",
+      "hint": "精简的/去繁就简的"
+    },
+    {
+      "prompt": "'It's like a {} hovercraft,' his aunt had laughed.",
+      "answer": "demon-possessed",
+      "hint": "像着了魔的/疯狂停不下来的"
+    },
+    {
+      "prompt": "It's like a demon-possessed {}.",
+      "answer": "hovercraft",
+      "hint": "气垫船"
+    },
+    {
+      "prompt": "He added an {} mobile phone that served as a GPS receiver.",
+      "answer": "obsolete",
+      "hint": "过时的/被淘汰的"
+    },
+    {
+      "prompt": "This was the first fully {} lawnmower.",
+      "answer": "autonomous",
+      "hint": "自主的/自动的"
+    },
+    {
+      "prompt": "You could {} that, Tom, make a packet.",
+      "answer": "patent",
+      "hint": "申请专利"
+    },
+    {
+      "prompt": "You could patent that, Tom, {}.",
+      "answer": "make a packet",
+      "hint": "赚一大笔钱"
+    },
+    {
+      "prompt": "It was during a {} night that Jim's boat came adrift.",
+      "answer": "blustery",
+      "hint": "狂风大作的/大风的"
+    },
+    {
+      "prompt": "Jim's vintage char boat had {}.",
+      "answer": "come adrift",
+      "hint": "（船）缆绳松脱漂走/失控漂移"
+    },
+    {
+      "prompt": "The waves crashed against the {}, sending spray into their faces.",
+      "answer": "gunwales",
+      "hint": "船舷上缘"
+    },
+    {
+      "prompt": "If only we had an eye in the sky, we'd be back {} in no time!",
+      "answer": "in the warm",
+      "hint": "回到暖和安全的地方"
+    },
+    {
+      "prompt": "We'd be back in the warm {}!",
+      "answer": "in no time",
+      "hint": "立刻/马上/很快"
+    },
+    {
+      "prompt": "It sounded like the security services were {}.",
+      "answer": "on patrol",
+      "hint": "在巡逻/在执勤"
+    },
+    {
+      "prompt": "He climbed until the southern half of the lake {} beyond the islands.",
+      "answer": "stretched out",
+      "hint": "延伸/展开"
+    },
+    {
+      "prompt": "The rain clouds hung in moist charcoal {} over Morecambe Bay.",
+      "answer": "smudges",
+      "hint": "污迹/模糊的一片"
+    },
+    {
+      "prompt": "The air was crisp and the lake and hills {} with colour.",
+      "answer": "saturated",
+      "hint": "饱和的/浸透的/（颜色）浓郁的"
+    },
+    {
+      "prompt": "A {} yacht, its sails white in the sun, meandered downwind.",
+      "answer": "solitary",
+      "hint": "孤零零的/单独的"
+    },
+    {
+      "prompt": "A solitary yacht {} downwind.",
+      "answer": "meandered",
+      "hint": "蜿蜒而行/缓缓漂流"
+    },
+    {
+      "prompt": "{} north took him to Brockbarrow.",
+      "answer": "A quick foray",
+      "hint": "一次短暂的探路/快速涉足"
+    },
+    {
+      "prompt": "The only sign of life was {} Swaledales dotted among the bracken.",
+      "answer": "a handful of",
+      "hint": "少数几个/少量"
+    },
+    {
+      "prompt": "On Rigg Knott there was a lone runner doing some {}.",
+      "answer": "leg stretches",
+      "hint": "腿部拉伸动作"
+    },
+    {
+      "prompt": "The dinghy was pulled up on the {}.",
+      "answer": "shingle beach",
+      "hint": "卵石滩/砾石海滩"
+    },
+    {
+      "prompt": "They wouldn't expect him to spend the summer holidays {} them.",
+      "answer": "hanging out with",
+      "hint": "和某人待在一起/一起闲混"
+    },
+    {
+      "prompt": "He would {} to keep Aunt Emily happy.",
+      "answer": "do his bit",
+      "hint": "尽自己的一份力"
+    },
+    {
+      "prompt": "Benson Isle was the largest island but also the {}.",
+      "answer": "least known",
+      "hint": "最不为人知的/知名度最低的"
+    },
+    {
+      "prompt": "It had been owned by the same {} family since the eighteenth century.",
+      "answer": "reclusive",
+      "hint": "隐居避世的/不合群的"
+    },
+    {
+      "prompt": "Even Jim Rothwell had never {} it.",
+      "answer": "stepped foot on",
+      "hint": "踏上/涉足"
+    },
+    {
+      "prompt": "{}, I don't know anyone who has.",
+      "answer": "Come to think of it",
+      "hint": "说起来/这么一想"
+    },
+    {
+      "prompt": "In his many {} flights over it, Tom had seen little sign of the owners.",
+      "answer": "inquisitive",
+      "hint": "好奇的/爱打听的"
+    },
+    {
+      "prompt": "The Invincible was {} up under the Private: Keep Off sign.",
+      "answer": "moored",
+      "hint": "停泊（船只）"
+    },
+    {
+      "prompt": "He now owned its biggest and most {} island.",
+      "answer": "secluded",
+      "hint": "隐秘的/僻静隐蔽的"
+    },
+    {
+      "prompt": "{} Lakeland - Real Ice Cream, Fresh from the Farm.",
+      "answer": "Luscious",
+      "hint": "甜美诱人的/浓郁的"
+    },
+    {
+      "prompt": "Whatever he {}, he clearly meant business.",
+      "answer": "was up to",
+      "hint": "在密谋/在干（不明的事）"
+    },
+    {
+      "prompt": "Whatever he was up to, he clearly {}.",
+      "answer": "meant business",
+      "hint": "动真格的/态度认真不是玩玩"
+    },
+    {
+      "prompt": "Most people, speeding by on a {}, only glimpsed the round house.",
+      "answer": "tourist launch",
+      "hint": "旅游船/观光汽艇"
+    },
+    {
+      "prompt": "She disappeared into a concrete {} around the back.",
+      "answer": "outbuilding",
+      "hint": "附属房/后院小屋"
+    },
+    {
+      "prompt": "She disappeared into a concrete outbuilding {}.",
+      "answer": "around the back",
+      "hint": "在后面/绕到背面"
+    },
+    {
+      "prompt": "The flight path took Tom over a {} slate quarry.",
+      "answer": "disused",
+      "hint": "废弃不用的/闲置的"
+    },
+    {
+      "prompt": "The flight path took Tom over a disused {}.",
+      "answer": "slate quarry",
+      "hint": "板岩采石场"
+    },
+    {
+      "prompt": "He had flown in to look at a nest of {}.",
+      "answer": "peregrine falcons",
+      "hint": "游隼"
+    },
+    {
+      "prompt": "The falcons were {} high up in the wall of rock.",
+      "answer": "perched",
+      "hint": "（鸟）栖息/停歇"
+    },
+    {
+      "prompt": "A vehicle was parked on the {} floor.",
+      "answer": "slate-strewn",
+      "hint": "满地散落板岩的"
+    },
+    {
+      "prompt": "{} at the entrance was ponytail man.",
+      "answer": "Standing guard",
+      "hint": "站岗/警戒看守"
+    },
+    {
+      "prompt": "Tom {} as he realized it was a sub-machine gun.",
+      "answer": "felt a jolt",
+      "hint": "心头猛然一震/精神受到冲击"
+    },
+    {
+      "prompt": "Tom felt a jolt as he realized it was a {}.",
+      "answer": "sub-machine gun",
+      "hint": "冲锋枪"
+    },
+    {
+      "prompt": "Where the ground {} into the woods, he saw straw-hat man.",
+      "answer": "fell away",
+      "hint": "（地面）陡降/向下倾斜"
+    },
+    {
+      "prompt": "Straw-hat man stood there in a blazer and tie, with a {} in his hand.",
+      "answer": "clipboard",
+      "hint": "写字板/夹板"
+    },
+    {
+      "prompt": "Two Land Rovers followed with clouds of dust {} behind.",
+      "answer": "billowing",
+      "hint": "（烟/尘）滚滚翻涌"
+    },
+    {
+      "prompt": "Two black Land Rovers {} spotlights and snorkels.",
+      "answer": "kitted out with",
+      "hint": "全套配备/加装了（设备）"
+    },
+    {
+      "prompt": "One Land Rover came at the front, one {}.",
+      "answer": "bringing up the rear",
+      "hint": "殿后/走在最后"
+    },
+    {
+      "prompt": "Two Land Rovers kitted out with spotlights and {}.",
+      "answer": "snorkels",
+      "hint": "涉水喉/通气管"
+    },
+    {
+      "prompt": "The Teal made her way through {} red and blue dinghies.",
+      "answer": "a flotilla of",
+      "hint": "一小支船队/一群船"
+    },
+    {
+      "prompt": "They {} talking for a few more minutes.",
+      "answer": "stood around",
+      "hint": "闲站着（聊天）"
+    },
+    {
+      "prompt": "Tom watched the {} dust disperse.",
+      "answer": "wisps of",
+      "hint": "一缕缕/一丝丝（飘散之物）"
+    },
+    {
+      "prompt": "Tom watched the wisps of dust {}.",
+      "answer": "disperse",
+      "hint": "散开/驱散"
+    },
+    {
+      "prompt": "He knew that tourists {} to see sights like this.",
+      "answer": "crossed the world",
+      "hint": "不远万里/漂洋过海"
+    },
+    {
+      "prompt": "But {} these people were not there to enjoy the scenery.",
+      "answer": "something told him",
+      "hint": "有某种预感/直觉告诉他"
+    },
+    {
+      "prompt": "Tourists crossed the world to see {} like this.",
+      "answer": "sights",
+      "hint": "名胜/景点（常用复数）"
+    },
+    {
+      "prompt": "These people were not there to enjoy the {}.",
+      "answer": "scenery",
+      "hint": "（整体的）自然风光/景色"
+    },
+    {
+      "prompt": "She {} to make her guests feel welcome.",
+      "answer": "went out of her way",
+      "hint": "特意费心地（帮忙做某事）"
+    },
+    {
+      "prompt": "He was {} with worry.",
+      "answer": "going out of his mind",
+      "hint": "发疯/极度焦虑不安"
+    },
+    {
+      "prompt": "Normally Tom would have {} the flight.",
+      "answer": "lost himself in",
+      "hint": "沉浸于/陶醉于"
+    },
+    {
+      "prompt": "{} the hilltop was empty.",
+      "answer": "Apart from that",
+      "hint": "除此之外"
+    }
+  ]
+}

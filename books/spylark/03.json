@@ -1,0 +1,738 @@
+{
+  "id": "03",
+  "title": "Chapter 3",
+  "order": 3,
+  "words": [
+    {
+      "word": "flicker one's eyes",
+      "examples": [
+        "He flickered open his eyes for a moment and saw Jim Rothwell looking down at him."
+      ]
+    },
+    {
+      "word": "a flicker of",
+      "examples": [
+        "The warm sun breaking through the dark rainclouds brought a flicker of hope to the travelers."
+      ]
+    },
+    {
+      "word": "twitch",
+      "examples": [
+        "Jim Rothwell looked down at him, serious but calm, concern showing in the slightest twitch of his greying moustache."
+      ]
+    },
+    {
+      "word": "indignation",
+      "examples": [
+        "\"It wasn't us, Mr Rothwell. We were just getting our things from the lockers,\" said Podge, his voice squeaky with indignation."
+      ]
+    },
+    {
+      "word": "pipe tobacco",
+      "ipa": "təˈbækəʊ",
+      "examples": [
+        "The front seat of the ancient Subaru Forester had a familiar smell of pipe tobacco."
+      ]
+    },
+    {
+      "word": "debris",
+      "ipa": "ˈdebriː",
+      "examples": [
+        "The floor of the car was strewn with the debris of fishing tackle and bits of old rope."
+      ]
+    },
+    {
+      "word": "fishing tackle",
+      "examples": [
+        "He kept all his fishing tackle, including rods, lines, and hooks, in the back of his vehicle."
+      ]
+    },
+    {
+      "word": "humiliation",
+      "ipa": "hjuːˌmɪliˈeɪʃn",
+      "examples": [
+        "Tom stared ahead, humiliation and anger competing with relief and thankfulness for being rescued."
+      ]
+    },
+    {
+      "word": "cagoule",
+      "ipa": "kəˈɡuːl",
+      "examples": [
+        "They crawled through the main street of the village, where tourists were hurrying to unfold their cagoules."
+      ]
+    },
+    {
+      "word": "fusspot",
+      "ipa": "ˈfʌspɒt",
+      "examples": [
+        "I know she's a bit of a fusspot sometimes, Tom, but she does her best."
+      ]
+    },
+    {
+      "word": "strew",
+      "examples": [
+        "The floor was covered with the debris of fishing tackle and bits of old rope strewn around the seats."
+      ]
+    },
+    {
+      "word": "deserve a good hiding",
+      "examples": [
+        "\"And so she should be. Those lads deserve a good hiding.\""
+      ]
+    },
+    {
+      "word": "happen to be",
+      "examples": [
+        "\"Even if that school handyman happens to be your friend?\""
+      ]
+    },
+    {
+      "word": "cling to",
+      "examples": [
+        "They left the village behind and Tom watched the road as it tracked around the bottom of Brockbarrow, clinging to the curves of the drystone walls."
+      ]
+    },
+    {
+      "word": "the last thing someone needs",
+      "examples": [
+        "The last thing he needed now school was finished was a big fuss."
+      ]
+    },
+    {
+      "word": "return one's smile",
+      "examples": [
+        "Tom let out a breath and managed to return Jim's smile."
+      ]
+    },
+    {
+      "word": "turn off the road",
+      "examples": [
+        "Jim braked and turned off the road through a stone gateway with 'Cedar Holme' marked on a piece of slate."
+      ]
+    },
+    {
+      "word": "inhale",
+      "examples": [
+        "Tom inhaled deeply, feeling a shift in the weather, and was desperate to get into the air before it was too late."
+      ]
+    },
+    {
+      "word": "a shift in the weather",
+      "examples": [
+        "Tom inhaled; he could feel a shift in the weather and wanted to fly his drone immediately."
+      ]
+    },
+    {
+      "word": "be desperate to do sth",
+      "examples": [
+        "He could feel a shift in the weather and was desperate to get into the air before it was too late."
+      ]
+    },
+    {
+      "word": "converted",
+      "examples": [
+        "He stomped through the damp garden to 'River's Edge', the converted boathouse his aunt rented out to people for holidays."
+      ]
+    },
+    {
+      "word": "slump",
+      "examples": [
+        "How was your last day? said Aunt Emily brightly, when he stepped inside and slumped on to a sofa in the big open lounge."
+      ]
+    },
+    {
+      "word": "earlobe",
+      "examples": [
+        "He put a hand over the lobe of his ear, where a crust of dried blood was forming."
+      ]
+    },
+    {
+      "word": "a crust of dried blood",
+      "examples": [
+        "He put a hand over the lobe of his ear, where a crust of dried blood was forming."
+      ]
+    },
+    {
+      "word": "snap sth shut",
+      "examples": [
+        "\"Perfect.\" His aunt snapped the notebook shut."
+      ]
+    },
+    {
+      "word": "blurt out",
+      "examples": [
+        "\"A whole month!\" Tom blurted out before he could stop himself."
+      ]
+    },
+    {
+      "word": "locum",
+      "ipa": "ˈləʊkəm",
+      "examples": [
+        "Mr Green is a vet, doing a locum for someone in the village."
+      ]
+    },
+    {
+      "word": "at a loose end",
+      "examples": [
+        "So, no doubt the children are going to be at a loose end a lot of the time."
+      ]
+    },
+    {
+      "word": "do miracles",
+      "examples": [
+        "\"No one expects you to do miracles, Thomas. But I would like to see you doing things that are normal.\""
+      ]
+    },
+    {
+      "word": "fit in fine",
+      "examples": [
+        "He may not have been at the centre of the popular crowd, but he'd fitted in fine."
+      ]
+    },
+    {
+      "word": "mean a lot",
+      "examples": [
+        "I'm sure it would mean a lot to Mr and Mrs Green if they knew the children had someone to look after them."
+      ]
+    },
+    {
+      "word": "someone one's own age",
+      "examples": [
+        "I'm sure it would mean a lot if they knew the children had someone their own age to look after them."
+      ]
+    },
+    {
+      "word": "tour of duty",
+      "examples": [
+        "His father had enrolled him in the college during his final tour of duty in the Middle East."
+      ]
+    },
+    {
+      "word": "as a dare",
+      "examples": [
+        "They'd taken them on a night climb up Dollywaggon Pike followed by a freezing swim in Grisedale Tarn as a dare."
+      ]
+    },
+    {
+      "word": "hypothermia",
+      "ipa": "ˌhaɪpəˈθɜːmiə",
+      "examples": [
+        "They'd nearly got hypothermia and had laughed hysterically about it for hours while they thawed out."
+      ]
+    },
+    {
+      "word": "hysterically",
+      "ipa": "hɪˈsterɪkli",
+      "examples": [
+        "They'd nearly got hypothermia and had laughed hysterically about it for hours while they thawed out."
+      ]
+    },
+    {
+      "word": "thaw out",
+      "examples": [
+        "They sat closer to the wood burner to thaw out after swimming in the freezing lake."
+      ]
+    },
+    {
+      "word": "utterly",
+      "examples": [
+        "He wanted to soar into empty air until he was utterly alone in the silent sky."
+      ]
+    },
+    {
+      "word": "dinghy",
+      "ipa": "ˈdɪŋi",
+      "examples": [
+        "Below the living area was the wet dock where Aunt Emily kept an ancient wooden sailing dinghy, Bobalong."
+      ]
+    },
+    {
+      "word": "submerged",
+      "examples": [
+        "It was like a stone barn built over the water, with a pair of half-submerged wooden gates opening on to the river."
+      ]
+    },
+    {
+      "word": "open on to",
+      "examples": [
+        "The old wooden doors open on to a beautiful wooden balcony overlooking the lake."
+      ]
+    },
+    {
+      "word": "rafter",
+      "ipa": "ˈrɑːftə",
+      "examples": [
+        "It was like a stone barn built over the water, with swallows nesting in the rafters."
+      ]
+    },
+    {
+      "word": "play of light",
+      "examples": [
+        "Tom loved the dainty play of light on water that broke through cracks in the doors."
+      ]
+    },
+    {
+      "word": "the rug is kicked away from under someone",
+      "examples": [
+        "His old comfortable life had suddenly been kicked away from under him the day his father's plane disappeared."
+      ]
+    },
+    {
+      "word": "reconnaissance",
+      "ipa": "rɪˈkɒnɪsns",
+      "examples": [
+        "His father's reconnaissance plane had suddenly disappeared off the radar."
+      ]
+    },
+    {
+      "word": "That's settled.",
+      "examples": [
+        "\"That's settled, then,\" Aunt Emily emerged from the bedroom with a vase of flowers."
+      ]
+    },
+    {
+      "word": "wilt",
+      "examples": [
+        "Aunt Emily emerged from the bedroom carrying a vase of wilting flowers."
+      ]
+    },
+    {
+      "word": "show someone around",
+      "examples": [
+        "\"You just need to show them round and make them feel welcome. They won't bite.\""
+      ]
+    },
+    {
+      "word": "make someone feel welcome",
+      "examples": [
+        "\"You just need to show them round and make them feel welcome.\""
+      ]
+    },
+    {
+      "word": "manage to do sth",
+      "examples": [
+        "\"Oh, and by the way, Thomas, I somehow managed to lose my engagement ring.\""
+      ]
+    },
+    {
+      "word": "somehow manage to do",
+      "examples": [
+        "She somehow managed to drop her keys into the deep water while stepping onto the boat."
+      ]
+    },
+    {
+      "word": "arrange flowers",
+      "examples": [
+        "She began to arrange fresh flowers in the vase after clearing away the old ones."
+      ]
+    },
+    {
+      "word": "hang out the washing",
+      "examples": [
+        "\"I think it must have been when I was hanging out the washing yesterday morning.\""
+      ]
+    },
+    {
+      "word": "keep a lookout for someone",
+      "examples": [
+        "\"If I did lose it in the garden, it must still be there somewhere. Will you keep a lookout for me?\""
+      ]
+    },
+    {
+      "word": "be grateful for sth",
+      "examples": [
+        "\"I'm sorry,\" said Tom, grateful for the change of topic."
+      ]
+    },
+    {
+      "word": "despite oneself",
+      "examples": [
+        "Despite himself, he found himself smiling back at Aunt Emily's sudden hopefulness."
+      ]
+    },
+    {
+      "word": "downpour",
+      "examples": [
+        "Tom left River's Edge and stepped into a sudden downpour."
+      ]
+    },
+    {
+      "word": "pelt",
+      "examples": [
+        "He looked up, fat droplets pelting him in the face."
+      ]
+    },
+    {
+      "word": "be drained of sth",
+      "examples": [
+        "The sky had been drained of colour as the storm rolled over the village."
+      ]
+    },
+    {
+      "word": "work the wind",
+      "examples": [
+        "A lone bird worked the wind for a while, and then curved into the treetops for refuge."
+      ]
+    },
+    {
+      "word": "anemometer",
+      "ipa": "ˌænɪˈmɒmɪtə(r)",
+      "examples": [
+        "He pushed the workshop door closed against a gust, and didn't even bother looking at the anemometer."
+      ]
+    },
+    {
+      "word": "not bother doing sth",
+      "examples": [
+        "It was raining so heavily that he didn't even bother looking outside."
+      ]
+    },
+    {
+      "word": "set in",
+      "examples": [
+        "It was force five at least, and the rain was set in."
+      ]
+    },
+    {
+      "word": "head in one's hands",
+      "examples": [
+        "He found the map he'd sketched and stared at it, his head in his hands."
+      ]
+    },
+    {
+      "word": "thrust",
+      "ipa": "θrʌst",
+      "examples": [
+        "\"You already have hurt me!\" he shouted, thrusting the exercise book across the room."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "He {} for a moment when a warm hand gently touched his forehead.",
+      "answer": "flickered open his eyes",
+      "hint": "眨眼、微微睁开眼"
+    },
+    {
+      "prompt": "Even in the darkest moments of the nightmare, he still held onto {} hope.",
+      "answer": "a flicker of",
+      "hint": "一丝/闪烁的微弱情绪"
+    },
+    {
+      "prompt": "Tom noticed the slightest {} of Jim's greying moustache, which showed his true concern.",
+      "answer": "twitch",
+      "hint": "细微抽动/颤动"
+    },
+    {
+      "prompt": "\"It wasn't us!\" shouted the boy, his squeaky voice filled with {}.",
+      "answer": "indignation",
+      "hint": "愤慨/义愤"
+    },
+    {
+      "prompt": "The old cabin retained a distinct, nostalgic scent of premium {}.",
+      "answer": "pipe tobacco",
+      "hint": "烟斗丝/烟草"
+    },
+    {
+      "prompt": "The rescue team had to clear away the heavy {} left by the sudden storm.",
+      "answer": "debris",
+      "hint": "碎片/残骸/杂物"
+    },
+    {
+      "prompt": "Before heading out to the lake, the old fisherman carefully checked his box of {}.",
+      "answer": "fishing tackle",
+      "hint": "渔具/整套钓鱼用品"
+    },
+    {
+      "prompt": "Rescue brought immense relief, yet Tom could not shake off the profound {} of the situation.",
+      "answer": "humiliation",
+      "hint": "难堪/屈辱"
+    },
+    {
+      "prompt": "As the dark clouds gathered overhead, the tourists quickly unpacked their waterproof {}.",
+      "answer": "cagoules",
+      "hint": "带兜帽的薄防雨外套",
+      "key": "cagoule"
+    },
+    {
+      "prompt": "Don't worry too much about her constant complaints; she's just a bit of a {}.",
+      "answer": "fusspot",
+      "hint": "爱小题大做/过分操心的人"
+    },
+    {
+      "prompt": "Pages from the ruined notebook were {} all over the muddy lawn.",
+      "answer": "strewn",
+      "hint": "散落/散布"
+    },
+    {
+      "prompt": "Aunt Emily angrily stated that those cruel boys definitely {}.",
+      "answer": "deserved a good hiding",
+      "hint": "活该挨一顿教训"
+    },
+    {
+      "prompt": "It is quite funny that the new school handyman should {} an old friend of mine.",
+      "answer": "happen to be",
+      "hint": "碰巧是"
+    },
+    {
+      "prompt": "The ancient village road was narrow, tightly {} the old drystone walls.",
+      "answer": "clinging to",
+      "hint": "紧贴/依傍而延伸"
+    },
+    {
+      "prompt": "With exams starting tomorrow, a major family argument was {}.",
+      "answer": "the last thing he needed",
+      "hint": "他最不需要的最后一件事"
+    },
+    {
+      "prompt": "When she nodded gently to greet him, Tom managed to {}.",
+      "answer": "return her smile",
+      "hint": "回以微笑"
+    },
+    {
+      "prompt": "The car slowed down significantly right before they {} onto the slate driveway.",
+      "answer": "turned off the road",
+      "hint": "驶离主干道/拐弯分道"
+    },
+    {
+      "prompt": "He paused at the doorway and {} the refreshing, cool mountain air.",
+      "answer": "inhaled",
+      "hint": "吸气/深吸一口气"
+    },
+    {
+      "prompt": "Standing on the balcony, he could clearly feel {} as the wind picked up.",
+      "answer": "a shift in the weather",
+      "hint": "天气或风向正在发生转变"
+    },
+    {
+      "prompt": "The local kids were {} some outdoor swimming before the holiday ended.",
+      "answer": "desperate to do",
+      "hint": "迫切/迫不及待想做某事"
+    },
+    {
+      "prompt": "They spent their summer holiday living in a beautifully {} Victorian barn.",
+      "answer": "converted",
+      "hint": "改建的/改造用途的"
+    },
+    {
+      "prompt": "Exhausted from the long journey, the tired boy {} heavily onto the soft sofa.",
+      "answer": "slumped",
+      "hint": "重重坐下/瘫坐"
+    },
+    {
+      "prompt": "She got her {} pierced last week so she could wear the new earrings.",
+      "answer": "earlobe",
+      "hint": "耳垂"
+    },
+    {
+      "prompt": "After the fight, he noticed {} forming right behind his ear.",
+      "answer": "a crust of dried blood",
+      "hint": "干结成痂的血迹"
+    },
+    {
+      "prompt": "After cross-checking the arrival names, she abruptly {}.",
+      "answer": "snapped the notebook shut",
+      "hint": "“啪”地合上"
+    },
+    {
+      "prompt": "\"I don't want to go!\" he {} before realizing how rude it sounded.",
+      "answer": "blurted out",
+      "hint": "脱口而出"
+    },
+    {
+      "prompt": "The local veterinary clinic hired an experienced {} to handle the peak season.",
+      "answer": "locum",
+      "hint": "临时代班的医生/兽医等"
+    },
+    {
+      "prompt": "If you are {} this afternoon, you could help me tidy up the backyard garden.",
+      "answer": "at a loose end",
+      "hint": "无事可做/闲得发慌"
+    },
+    {
+      "prompt": "Although he is incredibly smart, no one expects him to {} overnight.",
+      "answer": "do miracles",
+      "hint": "创造奇迹"
+    },
+    {
+      "prompt": "Despite joining the new boarding school mid-term, the friendly boy {}.",
+      "answer": "fitted in fine",
+      "hint": "相处融洽/融入得很好"
+    },
+    {
+      "prompt": "Your kind guidance during my first week here really {} to me.",
+      "answer": "meant a lot",
+      "hint": "对我意义重大/非常感激"
+    },
+    {
+      "prompt": "It would be excellent if the children could find {} to play with.",
+      "answer": "someone their own age",
+      "hint": "同龄的人/相同年纪的人"
+    },
+    {
+      "prompt": "The brave soldier was highly decorated for his outstanding service during his last {}.",
+      "answer": "tour of duty",
+      "hint": "一轮服役/外派任务"
+    },
+    {
+      "prompt": "He jumped straight into the freezing lake on Christmas morning completely {}.",
+      "answer": "as a dare",
+      "hint": "出于互相激将/打赌挑战"
+    },
+    {
+      "prompt": "Spending hours in the freezing rainwater without proper clothing can quickly cause {}.",
+      "answer": "hypothermia",
+      "hint": "失温症/体温过低"
+    },
+    {
+      "prompt": "The group of children laughed {} when they recalled the funny story.",
+      "answer": "hysterically",
+      "hint": "歇斯底里地/狂热大笑地"
+    },
+    {
+      "prompt": "They drank hot chocolate in front of the wood burner to {} their frozen fingers.",
+      "answer": "thaw out",
+      "hint": "缓过来/使手脚暖和解冻"
+    },
+    {
+      "prompt": "Flying high in the empty air made him feel {} free and peaceful.",
+      "answer": "utterly",
+      "hint": "完全地/彻底地"
+    },
+    {
+      "prompt": "Guests are welcome to use the small wooden sailing {} parked down at the wet dock.",
+      "answer": "dinghy",
+      "hint": "小型无篷小艇/小木船"
+    },
+    {
+      "prompt": "The structural poles of the ancient lake pier were half {} under the water.",
+      "answer": "submerged",
+      "hint": "被淹没的/浸在水下的"
+    },
+    {
+      "prompt": "The beautiful double glass doors of the master bedroom {} the private river balcony.",
+      "answer": "open on to",
+      "hint": "门窗通道正对着/通向"
+    },
+    {
+      "prompt": "Looking up at the ceiling of the old barn, we saw multiple birds building nests in the {}.",
+      "answer": "rafters",
+      "hint": "房梁/椽木"
+    },
+    {
+      "prompt": "The dainty {} on the rippling lake surface was absolutely mesmerising.",
+      "answer": "play of light",
+      "hint": "光影跃动/光线变幻"
+    },
+    {
+      "prompt": "When his father's plane disappeared, his entire secure life {}.",
+      "answer": "was kicked away from under him",
+      "hint": "赖以支撑的一切突然消失/生活骤然崩塌"
+    },
+    {
+      "prompt": "The military sent a specialized {} aircraft to survey the mountain territory.",
+      "answer": "reconnaissance",
+      "hint": "侦查"
+    },
+    {
+      "prompt": "\"{}, then. We will start our journey tomorrow morning,\" said the guide.",
+      "answer": "That's settled",
+      "hint": "这事定了/就这么办了"
+    },
+    {
+      "prompt": "The long absence of fresh water caused the beautiful roses in the vase to {}.",
+      "answer": "wilt",
+      "hint": "枯萎/发蔫"
+    },
+    {
+      "prompt": "Since it is your first time visiting our lakeside workshop, let me {}.",
+      "answer": "show you around",
+      "hint": "带某人到处看看/参观"
+    },
+    {
+      "prompt": "We prepared a warm welcome dinner to {}.",
+      "answer": "make our new guests feel welcome",
+      "hint": "让某人感到受瞩目/宾至如归"
+    },
+    {
+      "prompt": "Despite the terrible weather conditions, they somehow {} complete the flight.",
+      "answer": "managed to",
+      "hint": "设法做成了某事/好不容易做到了"
+    },
+    {
+      "prompt": "I {} my precious engagement ring while hanging out the clothes.",
+      "answer": "somehow managed to lose",
+      "hint": "不知怎么回事居然把...弄丢了"
+    },
+    {
+      "prompt": "Aunt Emily loved to {} carefully in the ceramic vase every afternoon.",
+      "answer": "arrange flowers",
+      "hint": "插花/排列花卉"
+    },
+    {
+      "prompt": "She stepped out into the backyard to {} under the morning sun.",
+      "answer": "hang out the washing",
+      "hint": "晾衣服"
+    },
+    {
+      "prompt": "Please {} any missing keys while you clean the garden soil.",
+      "answer": "keep a lookout for",
+      "hint": "帮我留意/多留心寻找"
+    },
+    {
+      "prompt": "Tom smiled at his friend, deeply {} the timely rescue.",
+      "answer": "grateful for",
+      "hint": "因某事感到庆幸/感激"
+    },
+    {
+      "prompt": "{}, he found himself laughing out loud at his aunt's funny expression.",
+      "answer": "Despite himself",
+      "hint": "不由自主/尽管本来不想笑"
+    },
+    {
+      "prompt": "The gentle morning breeze quickly turned into a heavy, blinding {}.",
+      "answer": "downpour",
+      "hint": "倾盆大雨/暴雨"
+    },
+    {
+      "prompt": "Massive drops of cold rain were {} hard against the workshop windows.",
+      "answer": "pelting",
+      "hint": "密集猛烈地拍打/砸击"
+    },
+    {
+      "prompt": "After the storm passed, the evening sky was completely {} its vibrant colors.",
+      "answer": "drained of",
+      "hint": "被抽空/失去特有色彩或特质"
+    },
+    {
+      "prompt": "The eagle gracefully {} for minutes before diving down towards the trees.",
+      "answer": "worked the wind",
+      "hint": "鸟类利用气流/借着风力盘旋"
+    },
+    {
+      "prompt": "He looked over at the digital {} to check the exact wind speed of the gale.",
+      "answer": "anemometer",
+      "hint": "风速计/风力仪"
+    },
+    {
+      "prompt": "It was getting extremely dark, so they did {} for the missing tackle.",
+      "answer": "not bother looking",
+      "hint": "不必费心做/没必要去做"
+    },
+    {
+      "prompt": "The gray fog had completely {}, indicating that the bad weather would stay.",
+      "answer": "set in",
+      "hint": "恶劣天气开始并持续下去"
+    },
+    {
+      "prompt": "Sitting on the classroom floor, he stared at his failed exam with his {}.",
+      "answer": "head in his hands",
+      "hint": "双手抱头"
+    },
+    {
+      "prompt": "He yelled out in pure anger, {} the heavy dictionary straight across the room.",
+      "answer": "thrusting",
+      "hint": "猛推/用力掷出"
+    }
+  ]
+}

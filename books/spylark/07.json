@@ -1,0 +1,419 @@
+{
+  "id": "07",
+  "title": "Chapter 7",
+  "order": 7,
+  "words": [
+    {
+      "word": "pick up (wind)",
+      "examples": [
+        "On the trip back, the northerly breeze picked up, tilting yachts."
+      ]
+    },
+    {
+      "word": "yacht",
+      "ipa": "/jɒt/",
+      "examples": [
+        "The breeze picked up, tilting yachts and sending gulls scything the air."
+      ]
+    },
+    {
+      "word": "scythe",
+      "ipa": "/saɪð/",
+      "examples": [
+        "The breeze sent gulls scything the air."
+      ]
+    },
+    {
+      "word": "as if",
+      "examples": [
+        "Maggot ploughed through the waves, as if eager to be home."
+      ]
+    },
+    {
+      "word": "dread",
+      "examples": [
+        "Maggot ploughed through the waves, but Tom was dreading it."
+      ]
+    },
+    {
+      "word": "Sure enough",
+      "examples": [
+        "Sure enough, Aunt Emily was waiting for him at the stone harbour."
+      ]
+    },
+    {
+      "word": "listen for",
+      "examples": [
+        "She must have been listening for him coming up the river."
+      ]
+    },
+    {
+      "word": "turn in",
+      "examples": [
+        "As he turned in and cut the engine, there she was."
+      ]
+    },
+    {
+      "word": "leave (a quality)",
+      "examples": [
+        "Her hands were on her hips, but the sharpness had left her voice."
+      ]
+    },
+    {
+      "word": "storm off",
+      "examples": [
+        "You missed your lunch, storming off like that."
+      ]
+    },
+    {
+      "word": "bollard",
+      "ipa": "/ˈbɒlɑːd/",
+      "examples": [
+        "He tied a figure of eight on the bollard and made his way up the steps."
+      ]
+    },
+    {
+      "word": "look cross",
+      "examples": [
+        "He could see that she didn't look cross, just tired and sad."
+      ]
+    },
+    {
+      "word": "telling-off",
+      "examples": [
+        "He'd braced himself for a telling-off, but this would be worse."
+      ]
+    },
+    {
+      "word": "I've got to / I gotta",
+      "examples": [
+        "I'm fine. I've got to go to the workshop."
+      ]
+    },
+    {
+      "word": "edge away",
+      "examples": [
+        "He tried to edge away, but his aunt halted him with a raised palm."
+      ]
+    },
+    {
+      "word": "halt someone with a raised palm",
+      "examples": [
+        "He tried to edge away, but his aunt halted him with a raised palm."
+      ]
+    },
+    {
+      "word": "You're going to",
+      "examples": [
+        "You're not fine, and you're going to come inside the house."
+      ]
+    },
+    {
+      "word": "timidly",
+      "examples": [
+        "He followed her timidly over the lawn and into the kitchen."
+      ]
+    },
+    {
+      "word": "holidaymaker",
+      "examples": [
+        "It's hard to pretend to be the friendly local boy for the holidaymakers."
+      ]
+    },
+    {
+      "word": "be out of order with",
+      "examples": [
+        "He had been out of order with Maggie and Joel, he could see that."
+      ]
+    },
+    {
+      "word": "mind one's own business",
+      "examples": [
+        "The pilot had warned him to mind his own business."
+      ]
+    },
+    {
+      "word": "pour oneself a cup of tea",
+      "examples": [
+        "She poured herself a cup of tea and sat down."
+      ]
+    },
+    {
+      "word": "in the sticks",
+      "examples": [
+        "To live with your old aunt up here in the sticks."
+      ]
+    },
+    {
+      "word": "have it easy",
+      "examples": [
+        "No one thinks you have it easy, Tom."
+      ]
+    },
+    {
+      "word": "withdrawn and miserable",
+      "examples": [
+        "None of that gives you an excuse for being withdrawn and miserable."
+      ]
+    },
+    {
+      "word": "be mortified at",
+      "examples": [
+        "Mr and Mrs Green were mortified at the way you went off like that."
+      ]
+    },
+    {
+      "word": "get up to",
+      "examples": [
+        "She trusted him and never questioned what he got up to with them."
+      ]
+    },
+    {
+      "word": "ask something of someone",
+      "examples": [
+        "The very small thing she asked of him was to make her guests feel welcome."
+      ]
+    },
+    {
+      "word": "too big a deal",
+      "examples": [
+        "Making her guests feel welcome was too big a deal for him."
+      ]
+    },
+    {
+      "word": "no biggie",
+      "examples": [
+        "'Sorry I forgot to call!' - 'No biggie.'"
+      ]
+    },
+    {
+      "word": "not come here to do",
+      "examples": [
+        "You know very well they haven't come here to go to the cinema."
+      ]
+    },
+    {
+      "word": "go in circles",
+      "examples": [
+        "No matter how hard he tried, he went in circles."
+      ]
+    },
+    {
+      "word": "the one + noun",
+      "examples": [
+        "He remembered the one time he had gone swimming after the accident."
+      ]
+    },
+    {
+      "word": "row alongside",
+      "examples": [
+        "You can row alongside them and be the lifeguard."
+      ]
+    },
+    {
+      "word": "there is no way out",
+      "examples": [
+        "Tom could see there was no way out."
+      ]
+    },
+    {
+      "word": "kill two birds with one stone",
+      "examples": [
+        "Perhaps he could kill two birds with one stone and take them somewhere useful."
+      ]
+    },
+    {
+      "word": "the hardest bit of all",
+      "examples": [
+        "Finally, Thomas, the hardest bit of all - say that difficult word!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "On the trip back, the northerly breeze {}, tilting yachts.",
+      "answer": "picked up",
+      "hint": "（风）渐起渐强"
+    },
+    {
+      "prompt": "The breeze picked up, tilting {} and sending gulls scything the air.",
+      "answer": "yachts",
+      "hint": "游艇/帆船"
+    },
+    {
+      "prompt": "The breeze sent gulls {} the air.",
+      "answer": "scything",
+      "hint": "像镰刀般快速划过"
+    },
+    {
+      "prompt": "Maggot ploughed through the waves, {} eager to be home.",
+      "answer": "as if",
+      "hint": "好像/仿佛"
+    },
+    {
+      "prompt": "Maggot ploughed through the waves, but Tom was {} it.",
+      "answer": "dreading",
+      "hint": "畏惧/害怕（尚未发生之事）"
+    },
+    {
+      "prompt": "{}, Aunt Emily was waiting for him at the stone harbour.",
+      "answer": "Sure enough",
+      "hint": "果然/不出所料"
+    },
+    {
+      "prompt": "She must have been {} him coming up the river.",
+      "answer": "listening for",
+      "hint": "留意听/等着听到某个动静"
+    },
+    {
+      "prompt": "As he {} and cut the engine, there she was.",
+      "answer": "turned in",
+      "hint": "（车辆/船）驶入"
+    },
+    {
+      "prompt": "Her hands were on her hips, but the sharpness had {} her voice.",
+      "answer": "left",
+      "hint": "（某种特质）消失/离去"
+    },
+    {
+      "prompt": "You missed your lunch, {} like that.",
+      "answer": "storming off",
+      "hint": "气冲冲地走开/拂袖而去"
+    },
+    {
+      "prompt": "He tied a figure of eight on the {} and made his way up the steps.",
+      "answer": "bollard",
+      "hint": "系船柱/隔离桩"
+    },
+    {
+      "prompt": "He could see that she didn't {}, just tired and sad.",
+      "answer": "look cross",
+      "hint": "看起来生气/不高兴（英式口语）"
+    },
+    {
+      "prompt": "He'd braced himself for a {}, but this would be worse.",
+      "answer": "telling-off",
+      "hint": "责骂/训斥"
+    },
+    {
+      "prompt": "I'm fine. I've {} go to the workshop.",
+      "answer": "got to",
+      "hint": "不得不/必须（I gotta 为缩读）"
+    },
+    {
+      "prompt": "He tried to {}, but his aunt halted him with a raised palm.",
+      "answer": "edge away",
+      "hint": "悄悄挪开/缓缓退开"
+    },
+    {
+      "prompt": "He tried to edge away, but his aunt {}.",
+      "answer": "halted him with a raised palm",
+      "hint": "举起手掌示意某人停下/抬手拦住"
+    },
+    {
+      "prompt": "He followed her {} over the lawn and into the kitchen.",
+      "answer": "timidly",
+      "hint": "胆怯地/怯生生地"
+    },
+    {
+      "prompt": "It's hard to pretend to be the friendly local boy for the {}.",
+      "answer": "holidaymakers",
+      "hint": "度假者/游客（英式）"
+    },
+    {
+      "prompt": "He had been {} Maggie and Joel, he could see that.",
+      "answer": "out of order with",
+      "hint": "对某人无礼/惹某人生气"
+    },
+    {
+      "prompt": "The pilot had warned him to {}.",
+      "answer": "mind his own business",
+      "hint": "管好自己的事/别多管闲事"
+    },
+    {
+      "prompt": "She {} and sat down.",
+      "answer": "poured herself a cup of tea",
+      "hint": "给自己倒了杯茶"
+    },
+    {
+      "prompt": "To live with your old aunt up here {}.",
+      "answer": "in the sticks",
+      "hint": "在乡下/在偏僻的地方"
+    },
+    {
+      "prompt": "No one thinks you {}, Tom.",
+      "answer": "have it easy",
+      "hint": "过得轻松/日子好过"
+    },
+    {
+      "prompt": "None of that gives you an excuse for being {}.",
+      "answer": "withdrawn and miserable",
+      "hint": "孤僻消沉、闷闷不乐"
+    },
+    {
+      "prompt": "Mr and Mrs Green were {} the way you went off like that.",
+      "answer": "mortified at",
+      "hint": "对……感到极度羞愧难堪"
+    },
+    {
+      "prompt": "She trusted him and never questioned what he {} with them.",
+      "answer": "got up to",
+      "hint": "（尤指）搞什么名堂/干（淘气的事）"
+    },
+    {
+      "prompt": "The very small thing she {} was to make her guests feel welcome.",
+      "answer": "asked of him",
+      "hint": "向某人要求某事"
+    },
+    {
+      "prompt": "Making her guests feel welcome was {} for him.",
+      "answer": "too big a deal",
+      "hint": "太当回事/小题大做"
+    },
+    {
+      "prompt": "'Sorry I forgot to call!' - '{}.'",
+      "answer": "No biggie",
+      "hint": "没什么大不了的/小事一桩"
+    },
+    {
+      "prompt": "You know very well they {} to the cinema.",
+      "answer": "haven't come here to go",
+      "hint": "……不是为了做某事（否定后面的目的）"
+    },
+    {
+      "prompt": "He remembered {} he had gone swimming after the accident.",
+      "answer": "the one time",
+      "hint": "唯一的那个……"
+    },
+    {
+      "prompt": "You can {} them and be the lifeguard.",
+      "answer": "row alongside",
+      "hint": "划船与……并排"
+    },
+    {
+      "prompt": "Tom could see {}.",
+      "answer": "there was no way out",
+      "hint": "无路可走/没有出路"
+    },
+    {
+      "prompt": "Perhaps he could {} and take them somewhere useful.",
+      "answer": "kill two birds with one stone",
+      "hint": "一石二鸟/一举两得"
+    },
+    {
+      "prompt": "Finally, Thomas, {} - say that difficult word!",
+      "answer": "the hardest bit of all",
+      "hint": "最难的那部分/最难的一关"
+    },
+    {
+      "prompt": "You're not fine, and {} come inside the house.",
+      "answer": "you're going to",
+      "hint": "（不容拒绝的安排）你得去……"
+    },
+    {
+      "prompt": "No matter how hard he tried, he {}.",
+      "answer": "went in circles",
+      "hint": "原地打转/兜圈子没进展"
+    }
+  ]
+}

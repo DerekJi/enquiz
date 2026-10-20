@@ -1,0 +1,282 @@
+#!/usr/bin/env node
+/* ==========================================================================
+   build-data.mjs — books/<book>/*.json  ->  two generated helpers
+
+     books/index.json    manifest: every book, its chapters, counts and files
+     books/bundle.js     all datasets bundled into one <script> file
+
+   Layout it expects:
+
+     books/
+       spylark/
+         book.json        { "id": "spylark", "title": "Spylark", "order": 1 }
+         01.json          { "id": "01", "title": "Chapter 1", "order": 1, words, quiz }
+         02.json
+       another-book/
+         book.json
+         prologue.json    ids and titles are free text, order is optional
+
+   The JSON files are the single source of truth. This script validates them
+   and regenerates the two files above.
+
+   Served over http(s) — GitHub Pages, `npm run serve` — the page fetches
+   index.json and only the selected chapter files, so edits need no rebuild.
+   The bundle exists for double-clicking index.html from disk (file://), where
+   browsers are not allowed to fetch local files.
+
+   Usage:  node tools/build-data.mjs     (or double-click rebuild-data.cmd)
+   ========================================================================== */
+
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const here = path.dirname(fileURLToPath(import.meta.url));
+const projectDir = path.resolve(here, '..');
+const booksDir = path.join(projectDir, 'books');
+const manifestFile = path.join(booksDir, 'index.json');
+const bundleFile = path.join(booksDir, 'bundle.js');
+
+const errors = [];
+const warnings = [];
+const books = [];
+
+const isText = (value) => typeof value === 'string' && value.trim() !== '';
+const slug = (value) => /^[a-z0-9][a-z0-9._-]*$/i.test(String(value));
+
+// Files inside a book folder that are not chapters.
+const RESERVED = new Set(['book.json', 'index.json', 'bundle.js']);
+
+function readJson(file) {
+    // Strip a UTF-8 BOM: editors on Windows often add one.
+    return JSON.parse(fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, ''));
+}
+
+function fail(where, message) {
+    errors.push(`${where}: ${message}`);
+}
+
+if (!fs.existsSync(booksDir)) {
+    console.error(`Missing folder: ${booksDir}`);
+    process.exit(1);
+}
+
+const bookNames = fs.readdirSync(booksDir, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_') && !entry.name.startsWith('.'))
+    .map((entry) => entry.name)
+    .sort();
+
+if (bookNames.length === 0) {
+    console.error(`No book folders found in ${booksDir}`);
+    process.exit(1);
+}
+
+for (const folder of bookNames) {
+    const bookDir = path.join(booksDir, folder);
+    const bookFile = path.join(bookDir, 'book.json');
+    const where = `books/${folder}`;
+
+    let meta = {};
+    if (fs.existsSync(bookFile)) {
+        try {
+            meta = readJson(bookFile);
+        } catch (error) {
+            fail(`${where}/book.json`, `invalid JSON — ${error.message}`);
+            continue;
+        }
+    }
+
+    const id = isText(meta.id) ? meta.id : folder;
+    if (!slug(id)) {
+        fail(`${where}/book.json`, '"id" must be lowercase letters, digits, dots, dashes or underscores');
+        continue;
+    }
+
+    const book = {
+        id,
+        title: isText(meta.title) ? meta.title : folder,
+        order: Number.isInteger(meta.order) ? meta.order : 0,
+        chapters: [],
+    };
+
+    const chapterFiles = fs.readdirSync(bookDir)
+        .filter((name) => name.toLowerCase().endsWith('.json'))
+        .filter((name) => !name.startsWith('_') && !RESERVED.has(name))
+        .sort();
+
+    if (chapterFiles.length === 0) {
+        warnings.push(`${where}: no chapter files`);
+    }
+
+    const seen = new Set();
+
+    for (const file of chapterFiles) {
+        const fileWhere = `${where}/${file}`;
+        let chapter;
+
+        try {
+            chapter = readJson(path.join(bookDir, file));
+        } catch (error) {
+            fail(fileWhere, `invalid JSON — ${error.message}`);
+            continue;
+        }
+
+        const chapterId = isText(chapter.id) ? chapter.id : file.replace(/\.json$/i, '');
+        if (!slug(chapterId)) {
+            fail(fileWhere, '"id" must be lowercase letters, digits, dots, dashes or underscores');
+        } else if (seen.has(chapterId)) {
+            fail(fileWhere, `duplicate chapter id "${chapterId}"`);
+        }
+        seen.add(chapterId);
+
+        const order = Number.isInteger(chapter.order) ? chapter.order : null;
+        if (!isText(chapter.title)) {
+            chapter.title = Number.isInteger(chapter.order) ? `Chapter ${chapter.order}` : chapterId;
+        }
+
+        if (!Array.isArray(chapter.words)) {
+            fail(fileWhere, '"words" must be an array');
+            chapter.words = [];
+        }
+        chapter.words.forEach((entry, index) => {
+            if (!entry || !isText(entry.word)) {
+                fail(fileWhere, `words[${index}].word is missing`);
+                return;
+            }
+            if (!Array.isArray(entry.examples) || entry.examples.length === 0) {
+                fail(fileWhere, `words[${index}] "${entry.word}" needs at least one example sentence`);
+            } else {
+                entry.examples.forEach((example, i) => {
+                    if (!isText(example)) {
+                        fail(fileWhere, `words[${index}] "${entry.word}" examples[${i}] is empty`);
+                    }
+                });
+            }
+        });
+
+        if (!Array.isArray(chapter.quiz)) {
+            fail(fileWhere, '"quiz" must be an array');
+            chapter.quiz = [];
+        }
+        chapter.quiz.forEach((entry, index) => {
+            const at = `quiz[${index}]`;
+            if (!isText(entry.prompt)) {
+                fail(fileWhere, `${at}.prompt is missing`);
+            } else if ((entry.prompt.match(/\{\}/g) || []).length !== 1) {
+                fail(fileWhere, `${at}.prompt must contain exactly one {} placeholder`);
+            }
+            if (!isText(entry.answer)) fail(fileWhere, `${at}.answer is missing`);
+            if (!isText(entry.hint)) fail(fileWhere, `${at}.hint is missing`);
+            if (entry.key !== undefined && !isText(entry.key)) {
+                fail(fileWhere, `${at}.key must be a non-empty string when present`);
+            }
+        });
+
+        if (chapter.words.length !== chapter.quiz.length) {
+            warnings.push(`${fileWhere}: ${chapter.words.length} words vs ${chapter.quiz.length} quiz items`);
+        }
+
+        book.chapters.push({
+            id: chapterId,
+            title: chapter.title,
+            order: Number.isInteger(order) ? order : null,
+            file: `books/${folder}/${file}`,
+            words: chapter.words.length,
+            quiz: chapter.quiz.length,
+            data: chapter,
+        });
+    }
+
+    book.chapters.sort((a, b) => {
+        if (a.order !== null && b.order !== null && a.order !== b.order) return a.order - b.order;
+        if (a.order === null && b.order !== null) return 1;
+        if (a.order !== null && b.order === null) return -1;
+        return a.id.localeCompare(b.id);
+    });
+
+    books.push(book);
+}
+
+books.sort((a, b) => (a.order - b.order) || a.title.localeCompare(b.title));
+
+const bookIds = new Set();
+books.forEach((book) => {
+    if (bookIds.has(book.id)) fail(`books/${book.id}`, `duplicate book id "${book.id}"`);
+    bookIds.add(book.id);
+});
+
+if (errors.length > 0) {
+    console.error('\nBuild failed — fix these first:\n');
+    errors.forEach((message) => console.error(`  ✗ ${message}`));
+    console.error('');
+    process.exit(1);
+}
+
+/* ------------------------------------------------------------------ output */
+
+const builtAt = new Date().toISOString();
+
+const manifest = {
+    generatedAt: builtAt,
+    books: books.map((book) => ({
+        id: book.id,
+        title: book.title,
+        order: book.order,
+        chapters: book.chapters.map((chapter) => ({
+            id: chapter.id,
+            title: chapter.title,
+            order: chapter.order,
+            file: chapter.file,
+            words: chapter.words,
+            quiz: chapter.quiz,
+        })),
+    })),
+};
+
+const header = `/* ==========================================================================
+   AUTO-GENERATED FILE — do not edit by hand.
+   Source : books/<book>/*.json
+   Rebuild: tools/rebuild-data.cmd   (or: npm run data)
+   Built  : ${builtAt}
+   ========================================================================== */
+window.SPYLARK_DATA = window.SPYLARK_DATA || {};
+
+`;
+
+const assignments = [];
+books.forEach((book) => {
+    book.chapters.forEach((chapter) => {
+        assignments.push(`window.SPYLARK_DATA[${JSON.stringify(`${book.id}/${chapter.id}`)}] = ${JSON.stringify(chapter.data, null, 2)};`);
+    });
+});
+
+const bundle = `${header}window.SPYLARK_MANIFEST = ${JSON.stringify(manifest, null, 2)};
+
+${assignments.join('\n\n')}
+`;
+
+fs.writeFileSync(manifestFile, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+fs.writeFileSync(bundleFile, bundle, 'utf8');
+
+const rel = (file) => path.relative(projectDir, file);
+const sizeKb = (file) => (fs.statSync(file).size / 1024).toFixed(1);
+
+console.log(`Built ${books.length} book(s):`);
+books.forEach((book) => {
+    const total = book.chapters.reduce((sum, chapter) => sum + chapter.quiz, 0);
+    console.log(`  ✓ ${book.title}  [${book.id}]  ${book.chapters.length} chapter(s), ${total} questions`);
+    book.chapters.forEach((chapter) => {
+        console.log(`      ${String(chapter.id).padEnd(12)} ${String(chapter.words).padStart(3)} words  ${String(chapter.quiz).padStart(3)} quiz  (${chapter.title})`);
+    });
+});
+
+console.log('');
+console.log(`  ${rel(manifestFile).padEnd(20)} ${sizeKb(manifestFile)} KB  (manifest — required on GitHub Pages)`);
+console.log(`  ${rel(bundleFile).padEnd(20)} ${sizeKb(bundleFile)} KB  (bundle — only for file:// double-click)`);
+
+if (warnings.length > 0) {
+    console.log('\nNotes:');
+    warnings.forEach((message) => console.log(`  · ${message}`));
+}
+
+console.log('\nReload index.html in the browser to see the changes.');

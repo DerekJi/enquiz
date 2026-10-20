@@ -1,0 +1,50 @@
+// Optional GitHub Pages deployment.
+//
+// To enable:
+//   1. move this file to  .github/workflows/pages.yml
+//   2. repository Settings → Pages → Source: "GitHub Actions"
+//
+// Every push then validates the JSON, rebuilds index.json + chapters.js and
+// publishes the folder — so adding a chapter never needs a local build step
+// and the committed generated files are always in sync with the site.
+
+name: Deploy quiz to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate datasets and rebuild manifest + bundle
+        run: node tools/build-data.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

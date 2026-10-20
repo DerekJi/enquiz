@@ -1,0 +1,10 @@
+{
+  "name": "spylark-review",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Data-driven vocabulary review sheets for Spylark — static site, GitHub Pages ready",
+  "scripts": {
+    "data": "node tools/build-data.mjs",
+    "serve": "node tools/serve.mjs"
+  }
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Review</title>
+    <link rel="stylesheet" href="assets/quiz.css">
+</head>
+<body>
+
+    <button type="button" class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false" aria-controls="sidebar">
+        <span aria-hidden="true">&#9776;</span>
+        <span class="sidebar-toggle-label" id="sidebar-toggle-label">Chapters</span>
+    </button>
+    <div class="sidebar-backdrop" id="sidebar-backdrop" hidden></div>
+
+    <nav class="sidebar" id="sidebar" aria-label="Books and chapters">
+        <p class="sidebar-title">Books &amp; chapters</p>
+        <div class="book-list" id="book-list"></div>
+
+        <div class="sidebar-sep"></div>
+
+        <p class="sidebar-title">Jump to</p>
+        <a class="sidebar-link" href="#part-a" data-scroll="part-a">
+            <span class="sidebar-label">Part A</span>
+            <span class="sidebar-sub" id="count-a">Review list</span>
+        </a>
+        <a class="sidebar-link" href="#part-b" data-scroll="part-b">
+            <span class="sidebar-label">Part B</span>
+            <span class="sidebar-sub" id="count-b">Quiz</span>
+        </a>
+        <a class="sidebar-link" href="#part-c" data-scroll="part-c">
+            <span class="sidebar-label">Part C</span>
+            <span class="sidebar-sub" id="count-c">Answer key</span>
+        </a>
+
+        <div class="sidebar-sep"></div>
+
+        <a class="sidebar-link sidebar-link--top" href="#top" data-scroll="top">&uarr; Back to top</a>
+        <p class="data-note" id="data-note"></p>
+    </nav>
+
+    <main class="content">
+
+        <section id="top">
+            <h1 id="page-title">Vocabulary Review</h1>
+            <p class="quiz-meta" id="page-meta"></p>
+            <div class="intro" id="page-intro" hidden></div>
+        </section>
+
+        <section id="part-a">
+            <h2>Part A &mdash; English-Only Review List</h2>
+            <ol class="review-list" id="review-list"></ol>
+        </section>
+
+        <section id="part-b">
+            <h2>Part B &mdash; Fill-in-the-Blank Quiz</h2>
+            <div class="quiz-toolbar">
+                <button type="button" class="btn" data-quiz-action="check">Check answers</button>
+                <button type="button" class="btn btn--ghost" data-quiz-action="show">Show answers</button>
+                <button type="button" class="btn btn--ghost" data-quiz-action="clear">Clear</button>
+                <button type="button" class="btn btn--ghost" data-quiz-action="print">Print</button>
+                <span class="quiz-progress" data-quiz-progress></span>
+            </div>
+            <div id="quiz-list"></div>
+        </section>
+
+        <section id="part-c">
+            <h2>Part C &mdash; Answer Key</h2>
+            <ul class="answer-key-list" id="answer-key"></ul>
+        </section>
+
+        <div class="empty-state" id="empty-state" hidden></div>
+
+    </main>
+
+    <noscript>
+        <p class="empty-state">This page needs JavaScript: it renders the review material from the chapter datasets in <code>books/</code>.</p>
+    </noscript>
+
+    <!-- quiz.js loads the data: over http(s) it fetches books/index.json and the
+         selected chapter files; from disk (file://) it loads books/bundle.js. -->
+    <script src="assets/quiz.js"></script>
+</body>
+</html>

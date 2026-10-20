@@ -1,0 +1,735 @@
+{
+  "id": "06",
+  "title": "Chapter 6",
+  "order": 6,
+  "words": [
+    {
+      "word": "clamber",
+      "ipa": "/ˈklæmbə/",
+      "examples": [
+        "He had to clamber through trees for half an hour to get to the edge of the water."
+      ]
+    },
+    {
+      "word": "edge of the water",
+      "examples": [
+        "He pushed through the trees to get to the edge of the water without being seen."
+      ]
+    },
+    {
+      "word": "film set",
+      "examples": [
+        "The bay was as busy as a film set."
+      ]
+    },
+    {
+      "word": "coincide with",
+      "examples": [
+        "The study centre was being opened to coincide with the start of the Lakes Summer Festival."
+      ]
+    },
+    {
+      "word": "a jolt of",
+      "examples": [
+        "He felt a jolt of panic as the helicopter came into view."
+      ]
+    },
+    {
+      "word": "creep",
+      "ipa": "/kriːp/",
+      "examples": [
+        "He crept through the trees in a wide arc."
+      ]
+    },
+    {
+      "word": "force one's way through",
+      "examples": [
+        "The bushes were bare enough inside for him to force his way through."
+      ]
+    },
+    {
+      "word": "a rustle of leaves",
+      "ipa": "/ˈrʌsl/",
+      "examples": [
+        "The machine came down with a rustle of leaves."
+      ]
+    },
+    {
+      "word": "rustle",
+      "ipa": "/ˈrʌsl/",
+      "examples": [
+        "The machine came down with a rustle of leaves."
+      ]
+    },
+    {
+      "word": "block the way out",
+      "examples": [
+        "A man was standing in front of him, blocking the way out."
+      ]
+    },
+    {
+      "word": "turn up",
+      "examples": [
+        "I was wondering when you were going to turn up.",
+        "Don't worry, he'll turn up sooner or later."
+      ]
+    },
+    {
+      "word": "grim",
+      "ipa": "/ɡrɪm/",
+      "examples": [
+        "The pilot took in Tom's expression with a grim satisfaction."
+      ]
+    },
+    {
+      "word": "a good",
+      "examples": [
+        "He was a good six inches taller than Tom."
+      ]
+    },
+    {
+      "word": "seconds away from doing",
+      "examples": [
+        "I was seconds away from calling a full-scale terror alert."
+      ]
+    },
+    {
+      "word": "exasperation",
+      "ipa": "/ˌeɡzɑːˈspeɪʃn/",
+      "examples": [
+        "The pilot scratched his neck, exasperation in his voice."
+      ]
+    },
+    {
+      "word": "reproach",
+      "ipa": "/rɪˈprəʊtʃ/",
+      "examples": [
+        "The word was full of reproach."
+      ]
+    },
+    {
+      "word": "full of reproach",
+      "ipa": "/rɪˈprəʊtʃ/",
+      "examples": [
+        "'Oh,' the word was full of reproach."
+      ]
+    },
+    {
+      "word": "keep a lookout for",
+      "examples": [
+        "What were you looking at, instead of keeping a lookout for other aircraft?"
+      ]
+    },
+    {
+      "word": "at arm's length",
+      "examples": [
+        "He held the drone at arm's length, feeling its weight."
+      ]
+    },
+    {
+      "word": "from scratch",
+      "examples": [
+        "You made this? From scratch?"
+      ]
+    },
+    {
+      "word": "sculpt",
+      "examples": [
+        "Flawless aerodynamic sculpting, perfectly balanced delta wing."
+      ]
+    },
+    {
+      "word": "aerodynamic sculpting",
+      "examples": [
+        "Flawless aerodynamic sculpting, perfectly balanced delta wing."
+      ]
+    },
+    {
+      "word": "delta wing",
+      "examples": [
+        "A perfectly balanced delta wing, no less."
+      ]
+    },
+    {
+      "word": "triple prop configuration",
+      "examples": [
+        "Triple prop configuration: two forwards and a pusher at the back."
+      ]
+    },
+    {
+      "word": "pusher",
+      "examples": [
+        "Two props forwards and a pusher at the back."
+      ]
+    },
+    {
+      "word": "lift off vertically",
+      "examples": [
+        "All able to swivel up, so you can lift off vertically like a helicopter."
+      ]
+    },
+    {
+      "word": "fixed-wing aeroplane",
+      "examples": [
+        "You can fly horizontally with the speed of a fixed-wing aeroplane."
+      ]
+    },
+    {
+      "word": "a nice bit of kit",
+      "examples": [
+        "Perfectly balanced delta wing. Nice bit of kit!"
+      ]
+    },
+    {
+      "word": "flick",
+      "examples": [
+        "He flicked a piece of dirt from the fuselage."
+      ]
+    },
+    {
+      "word": "full-on",
+      "ipa": "/ˌfʊl ˈɒn/",
+      "examples": [
+        "It would take a full-on aeronautical genius to make a tricopter like this."
+      ]
+    },
+    {
+      "word": "aeronautical",
+      "ipa": "/ˌeərəˈnɔːtɪkl/",
+      "examples": [
+        "It would take a full-on aeronautical genius to make a tricopter like this."
+      ]
+    },
+    {
+      "word": "startle",
+      "ipa": "/ˈstɑːtl/",
+      "examples": [
+        "The question startled him."
+      ]
+    },
+    {
+      "word": "fuselage",
+      "ipa": "/ˈfjuːzɪlɑːʒ/",
+      "examples": [
+        "He flicked a piece of dirt from the fuselage."
+      ]
+    },
+    {
+      "word": "flesh-and-blood",
+      "examples": [
+        "Here was a flesh-and-blood helicopter pilot quizzing him."
+      ]
+    },
+    {
+      "word": "drape",
+      "ipa": "/dreɪp/",
+      "examples": [
+        "The life vest draped around the pilot's shoulders obscured his name badge."
+      ]
+    },
+    {
+      "word": "obscure",
+      "ipa": "/əbˈskjʊə(r)/",
+      "examples": [
+        "The life vest obscured the pilot's name badge."
+      ]
+    },
+    {
+      "word": "obscurity",
+      "ipa": "/əbˈskjʊərəti/",
+      "examples": [
+        "The old book fell into obscurity after its author died."
+      ]
+    },
+    {
+      "word": "braid",
+      "ipa": "/breɪd/",
+      "examples": [
+        "Tom recognized his shoulder braid as that of a squadron leader."
+      ]
+    },
+    {
+      "word": "squadron leader",
+      "examples": [
+        "Tom recognized the shoulder braid as that of a squadron leader."
+      ]
+    },
+    {
+      "word": "wind tunnel",
+      "examples": [
+        "I made a wind tunnel in my workshop."
+      ]
+    },
+    {
+      "word": "jam one's kit",
+      "examples": [
+        "I wouldn't have jammed your kit if you were just a hobby flyer."
+      ]
+    },
+    {
+      "word": "nose around",
+      "examples": [
+        "You just happened to be nosing around a sector under surveillance."
+      ]
+    },
+    {
+      "word": "under surveillance",
+      "examples": [
+        "You were nosing around a sector under surveillance."
+      ]
+    },
+    {
+      "word": "clock",
+      "examples": [
+        "You took evasive action when we clocked you."
+      ]
+    },
+    {
+      "word": "take evasive action",
+      "examples": [
+        "You took evasive action when we clocked you."
+      ]
+    },
+    {
+      "word": "be up against",
+      "examples": [
+        "I need to know who I'm up against here when I'm talking to you."
+      ]
+    },
+    {
+      "word": "a fraction of a second",
+      "examples": [
+        "For a fraction of a second some part of him wondered whether this was real."
+      ]
+    },
+    {
+      "word": "swoop through valleys",
+      "examples": [
+        "When he flew he was always alone, swooping through the valleys."
+      ]
+    },
+    {
+      "word": "skim craggy tops",
+      "examples": [
+        "He flew alone, skimming the craggy tops."
+      ]
+    },
+    {
+      "word": "left behind like a shell",
+      "examples": [
+        "His body sat in the workshop, left behind like a shell."
+      ]
+    },
+    {
+      "word": "one's bladder is bursting",
+      "examples": [
+        "Sometimes he'd land and realize his bladder was bursting."
+      ]
+    },
+    {
+      "word": "hem",
+      "ipa": "/hem/",
+      "examples": [
+        "Between his flying glove and the hem of his sleeve he saw a tiny tattoo."
+      ]
+    },
+    {
+      "word": "depict",
+      "ipa": "/dɪˈpɪkt/",
+      "examples": [
+        "A tiny tattoo depicting a running man with wings."
+      ]
+    },
+    {
+      "word": "immersion",
+      "ipa": "/ɪˈmɜːʃn/",
+      "examples": [
+        "The part still catching up from the immersion of his flight earlier."
+      ]
+    },
+    {
+      "word": "some part of someone",
+      "examples": [
+        "For a second some part of him wondered whether this conversation was real."
+      ]
+    },
+    {
+      "word": "bemused",
+      "ipa": "/bɪˈmjuːzd/",
+      "examples": [
+        "His aunt stood there looking bemused."
+      ]
+    },
+    {
+      "word": "into focus",
+      "examples": [
+        "He forced himself to bring the two worlds of his existence into focus."
+      ]
+    },
+    {
+      "word": "gather oneself together",
+      "examples": [
+        "He gathered himself together and held his hand out for the drone."
+      ]
+    },
+    {
+      "word": "the tiniest hint of a smile",
+      "examples": [
+        "The tiniest hint of a smile flickered on the pilot's face."
+      ]
+    },
+    {
+      "word": "flicker on one's face",
+      "examples": [
+        "The tiniest hint of a smile flickered on his face, then was gone."
+      ]
+    },
+    {
+      "word": "bob around",
+      "ipa": "/bɒb/",
+      "examples": [
+        "Tom could see divers bobbing around the hull of the Teal."
+      ]
+    },
+    {
+      "word": "I'll be watching you",
+      "examples": [
+        "But I'll be watching you, Tom Hopkins."
+      ]
+    },
+    {
+      "word": "cross someone's path",
+      "examples": [
+        "If that drone crosses my path again, I'll blast it into the middle of next week."
+      ]
+    },
+    {
+      "word": "blast someone into next week",
+      "examples": [
+        "If that drone crosses my path again, I'll blast it into the middle of next week."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "He had to {} through trees for half an hour to get to the edge of the water.",
+      "answer": "clamber",
+      "hint": "（手脚并用地）费力攀爬"
+    },
+    {
+      "prompt": "He pushed through the trees to get to the {} without being seen.",
+      "answer": "edge of the water",
+      "hint": "水边/岸边"
+    },
+    {
+      "prompt": "The bay was as busy as a {}.",
+      "answer": "film set",
+      "hint": "电影片场/拍摄现场"
+    },
+    {
+      "prompt": "The study centre was being opened to {} the start of the Lakes Summer Festival.",
+      "answer": "coincide with",
+      "hint": "与……同时发生/与……相吻合"
+    },
+    {
+      "prompt": "He felt {} panic as the helicopter came into view.",
+      "answer": "a jolt of",
+      "hint": "一阵突如其来的（恐慌/震惊）"
+    },
+    {
+      "prompt": "He {} through the trees in a wide arc.",
+      "answer": "crept",
+      "hint": "悄悄地移动/潜行"
+    },
+    {
+      "prompt": "The bushes were bare enough inside for him to {}.",
+      "answer": "force his way through",
+      "hint": "强行挤过/硬穿过"
+    },
+    {
+      "prompt": "The machine came down with {}.",
+      "answer": "a rustle of leaves",
+      "hint": "树叶的沙沙声"
+    },
+    {
+      "prompt": "The machine came down with a {} of leaves.",
+      "answer": "rustle",
+      "hint": "（使）发出沙沙声"
+    },
+    {
+      "prompt": "A man was standing in front of him, {}.",
+      "answer": "blocking the way out",
+      "hint": "挡住出口/堵住去路"
+    },
+    {
+      "prompt": "I was wondering when you were going to {}.",
+      "answer": "turn up",
+      "hint": "出现/到场（姗姗来迟）"
+    },
+    {
+      "prompt": "The pilot took in Tom's expression with a {} satisfaction.",
+      "answer": "grim",
+      "hint": "严峻的/冷酷的"
+    },
+    {
+      "prompt": "He was {} six inches taller than Tom.",
+      "answer": "a good",
+      "hint": "足足/整整（强调数量充足）"
+    },
+    {
+      "prompt": "I was {} a full-scale terror alert.",
+      "answer": "seconds away from calling",
+      "hint": "马上就要做某事/差几秒就……"
+    },
+    {
+      "prompt": "The pilot scratched his neck, {} in his voice.",
+      "answer": "exasperation",
+      "hint": "恼怒/因反复受挫而烦躁"
+    },
+    {
+      "prompt": "The word was full of {}.",
+      "answer": "reproach",
+      "hint": "责备/责怪"
+    },
+    {
+      "prompt": "'Oh,' the word was {}.",
+      "answer": "full of reproach",
+      "hint": "满是责备的/充满责怪语气的"
+    },
+    {
+      "prompt": "What were you looking at, instead of {} other aircraft?",
+      "answer": "keeping a lookout for",
+      "hint": "留意观察/警惕搜寻"
+    },
+    {
+      "prompt": "He held the drone {}, feeling its weight.",
+      "answer": "at arm's length",
+      "hint": "保持一臂距离/不靠近"
+    },
+    {
+      "prompt": "Flawless aerodynamic {}, perfectly balanced delta wing.",
+      "answer": "sculpting",
+      "hint": "塑造/打磨（外形）"
+    },
+    {
+      "prompt": "Flawless {}, perfectly balanced delta wing.",
+      "answer": "aerodynamic sculpting",
+      "hint": "气动外形塑造"
+    },
+    {
+      "prompt": "A perfectly balanced {}, no less.",
+      "answer": "delta wing",
+      "hint": "三角翼"
+    },
+    {
+      "prompt": "{}: two forwards and a pusher at the back.",
+      "answer": "Triple prop configuration",
+      "hint": "三螺旋桨布局"
+    },
+    {
+      "prompt": "Two props forwards and a {} at the back.",
+      "answer": "pusher",
+      "hint": "推进式螺旋桨/推进式布局"
+    },
+    {
+      "prompt": "All able to swivel up, so you can {} like a helicopter.",
+      "answer": "lift off vertically",
+      "hint": "垂直起飞"
+    },
+    {
+      "prompt": "You can fly horizontally with the speed of a {}.",
+      "answer": "fixed-wing aeroplane",
+      "hint": "固定翼飞机"
+    },
+    {
+      "prompt": "Perfectly balanced delta wing. {}!",
+      "answer": "Nice bit of kit",
+      "hint": "（英式口语）相当不错的装备"
+    },
+    {
+      "prompt": "He {} a piece of dirt from the fuselage.",
+      "answer": "flicked",
+      "hint": "用手指快速弹掉"
+    },
+    {
+      "prompt": "It would take a {} aeronautical genius to make a tricopter like this.",
+      "answer": "full-on",
+      "hint": "完全的/不折不扣的/全力以赴的"
+    },
+    {
+      "prompt": "It would take a full-on {} genius to make a tricopter like this.",
+      "answer": "aeronautical",
+      "hint": "航空（学）的"
+    },
+    {
+      "prompt": "The question {} him.",
+      "answer": "startled",
+      "hint": "使惊吓/使吃惊"
+    },
+    {
+      "prompt": "He flicked a piece of dirt from the {}.",
+      "answer": "fuselage",
+      "hint": "（飞机的）机身"
+    },
+    {
+      "prompt": "Here was a {} helicopter pilot quizzing him.",
+      "answer": "flesh-and-blood",
+      "hint": "有血有肉的/活生生的"
+    },
+    {
+      "prompt": "The life vest {} around the pilot's shoulders obscured his name badge.",
+      "answer": "draped",
+      "hint": "（随意地）披挂/搭"
+    },
+    {
+      "prompt": "The life vest {} the pilot's name badge.",
+      "answer": "obscured",
+      "hint": "遮蔽/使模糊"
+    },
+    {
+      "prompt": "The old book fell into {} after its author died.",
+      "answer": "obscurity",
+      "hint": "默默无闻/无人问津"
+    },
+    {
+      "prompt": "Tom recognized his shoulder {} as that of a squadron leader.",
+      "answer": "braid",
+      "hint": "（军装）肩饰穗带/编织带"
+    },
+    {
+      "prompt": "Tom recognized the shoulder braid as that of a {}.",
+      "answer": "squadron leader",
+      "hint": "（英国皇家空军）中队长"
+    },
+    {
+      "prompt": "I made a {} in my workshop.",
+      "answer": "wind tunnel",
+      "hint": "风洞"
+    },
+    {
+      "prompt": "I wouldn't have {} if you were just a hobby flyer.",
+      "answer": "jammed your kit",
+      "hint": "干扰/弄卡（装备、信号）"
+    },
+    {
+      "prompt": "You just happened to be {} a sector under surveillance.",
+      "answer": "nosing around",
+      "hint": "四处打探/窥探"
+    },
+    {
+      "prompt": "You were nosing around a sector {}.",
+      "answer": "under surveillance",
+      "hint": "在监视之下/被监控"
+    },
+    {
+      "prompt": "You took evasive action when we {} you.",
+      "answer": "clocked",
+      "hint": "（英式口语）注意到/认出"
+    },
+    {
+      "prompt": "You {} when we clocked you.",
+      "answer": "took evasive action",
+      "hint": "采取规避动作"
+    },
+    {
+      "prompt": "I need to know who I'm {} here when I'm talking to you.",
+      "answer": "up against",
+      "hint": "面临（对手/难题）/与……对抗"
+    },
+    {
+      "prompt": "For {} some part of him wondered whether this was real.",
+      "answer": "a fraction of a second",
+      "hint": "一刹那/一瞬间"
+    },
+    {
+      "prompt": "When he flew he was always alone, {}.",
+      "answer": "swooping through the valleys",
+      "hint": "在山谷间俯冲穿梭"
+    },
+    {
+      "prompt": "He flew alone, {}.",
+      "answer": "skimming the craggy tops",
+      "hint": "掠过嶙峋的山顶"
+    },
+    {
+      "prompt": "His body sat in the workshop, {}.",
+      "answer": "left behind like a shell",
+      "hint": "被撂在原地像具空壳"
+    },
+    {
+      "prompt": "Sometimes he'd land and realize {}.",
+      "answer": "his bladder was bursting",
+      "hint": "憋尿憋得受不了（口语夸张）"
+    },
+    {
+      "prompt": "Between his flying glove and the {} of his sleeve he saw a tiny tattoo.",
+      "answer": "hem",
+      "hint": "（衣服）下摆/袖口贴边"
+    },
+    {
+      "prompt": "A tiny tattoo {} a running man with wings.",
+      "answer": "depicting",
+      "hint": "描绘/刻画"
+    },
+    {
+      "prompt": "The part still catching up from the {} of his flight earlier.",
+      "answer": "immersion",
+      "hint": "沉浸/全身心投入"
+    },
+    {
+      "prompt": "For a second {} wondered whether this conversation was real.",
+      "answer": "some part of him",
+      "hint": "某人内心某个部分/隐约觉得"
+    },
+    {
+      "prompt": "His aunt stood there looking {}.",
+      "answer": "bemused",
+      "hint": "困惑的/茫然的"
+    },
+    {
+      "prompt": "He forced himself to bring the two worlds of his existence {}.",
+      "answer": "into focus",
+      "hint": "变得清晰/聚焦明朗"
+    },
+    {
+      "prompt": "He {} and held his hand out for the drone.",
+      "answer": "gathered himself together",
+      "hint": "振作精神/稳住心神"
+    },
+    {
+      "prompt": "The tiniest hint of a smile {}, then was gone.",
+      "answer": "flickered on his face",
+      "hint": "（表情）脸上一闪而过"
+    },
+    {
+      "prompt": "Tom could see divers {} the hull of the Teal.",
+      "answer": "bobbing around",
+      "hint": "（在水中）上下浮动/漂荡"
+    },
+    {
+      "prompt": "But {}, Tom Hopkins.",
+      "answer": "I'll be watching you",
+      "hint": "我会盯着你的（警告/威胁）"
+    },
+    {
+      "prompt": "If that drone crosses my path again, I'll {}.",
+      "answer": "blast it into the middle of next week",
+      "hint": "（夸张）彻底击毁/狠揍一顿"
+    },
+    {
+      "prompt": "You made this? {}?",
+      "answer": "From scratch",
+      "hint": "从零开始/从头做起"
+    },
+    {
+      "prompt": "{} flickered on the pilot's face.",
+      "answer": "The tiniest hint of a smile",
+      "hint": "一丝极淡的笑意"
+    },
+    {
+      "prompt": "If that drone {} again, I'll blast it into the middle of next week.",
+      "answer": "crosses my path",
+      "hint": "与某人相遇/撞上某人"
+    }
+  ]
+}
