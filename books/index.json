@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:09:46.011Z",
+  "generatedAt": "2026-10-20T11:04:14.794Z",
   "books": [
     {
       "id": "spylark",
@@ -125,6 +125,46 @@
           "file": "books/spylark/15.json",
           "words": 58,
           "quiz": 58
+        },
+        {
+          "id": "16",
+          "title": "Chapter 16",
+          "order": 16,
+          "file": "books/spylark/16.json",
+          "words": 53,
+          "quiz": 45
+        },
+        {
+          "id": "17",
+          "title": "Chapter 17",
+          "order": 17,
+          "file": "books/spylark/17.json",
+          "words": 38,
+          "quiz": 35
+        },
+        {
+          "id": "18",
+          "title": "Chapter 18",
+          "order": 18,
+          "file": "books/spylark/18.json",
+          "words": 30,
+          "quiz": 29
+        },
+        {
+          "id": "19",
+          "title": "Chapter 19",
+          "order": 19,
+          "file": "books/spylark/19.json",
+          "words": 70,
+          "quiz": 69
+        },
+        {
+          "id": "20",
+          "title": "Chapter 20",
+          "order": 20,
+          "file": "books/spylark/20.json",
+          "words": 43,
+          "quiz": 43
         }
       ]
     }

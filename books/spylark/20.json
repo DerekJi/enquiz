@@ -1,0 +1,564 @@
+{
+  "id": "20",
+  "title": "Chapter 20",
+  "order": 20,
+  "words": [
+    {
+      "word": "exhilaration",
+      "ipa": "ɪɡˌzɪləˈreɪʃn",
+      "examples": [
+        "He was tight with fear, not laughing in exhilaration as before.",
+        "The climbers shouted with exhilaration when they reached the summit."
+      ]
+    },
+    {
+      "word": "bow rails",
+      "examples": [
+        "Tom was leaning over the bow rails of the Teal.",
+        "Passengers gripped the bow rails as the ship cut through the rough sea."
+      ]
+    },
+    {
+      "word": "white knuckles",
+      "examples": [
+        "He grabbed the cold metal of the railings with white knuckles.",
+        "She held the armrest with white knuckles during the turbulent landing."
+      ]
+    },
+    {
+      "word": "spin the wheel",
+      "examples": [
+        "Rufus Clay was on the bridge, spinning the wheel like a madman.",
+        "The old sailor began to spin the wheel to turn the boat around."
+      ],
+      "key": "spin the wheel"
+    },
+    {
+      "word": "platter",
+      "ipa": "ˈplætə(r)",
+      "examples": [
+        "Snakey was presenting the Queen with a huge fish on a platter.",
+        "The turkey was served on a large silver platter."
+      ]
+    },
+    {
+      "word": "hoarse",
+      "ipa": "hɔːs",
+      "examples": [
+        "His voice was a hoarse whisper that was whipped away by the wind.",
+        "After shouting all night, his voice had gone hoarse."
+      ]
+    },
+    {
+      "word": "hacksaw",
+      "ipa": "ˈhæksɔː",
+      "examples": [
+        "On another bench there was a couple of hacksaws.",
+        "He used a hacksaw to cut through the metal pipe."
+      ]
+    },
+    {
+      "word": "blowtorch",
+      "ipa": "ˈbləʊtɔːtʃ",
+      "examples": [
+        "On the bench lay a blowtorch and a scattering of syringes.",
+        "The plumber used a blowtorch to join the copper pipes."
+      ]
+    },
+    {
+      "word": "syringe",
+      "ipa": "sɪˈrɪndʒ",
+      "examples": [
+        "There were a couple of hacksaws and a scattering of syringes.",
+        "The nurse filled a syringe with the vaccine."
+      ]
+    },
+    {
+      "word": "matt",
+      "ipa": "mæt",
+      "examples": [
+        "Each drone had been painted a matt grey.",
+        "Choose a matt finish for the wall so it doesn't glare."
+      ]
+    },
+    {
+      "word": "matt gray",
+      "examples": [
+        "Each drone had been painted a matt grey to avoid reflection.",
+        "The military vehicle was coated in matt gray paint."
+      ]
+    },
+    {
+      "word": "nostrils",
+      "ipa": "ˈnɒstrəlz",
+      "examples": [
+        "Maggie's nostrils flared at the smell.",
+        "The horse flared its nostrils and snorted."
+      ]
+    },
+    {
+      "word": "prop",
+      "ipa": "prɒp",
+      "examples": [
+        "She propped the door open with a fire extinguisher.",
+        "He propped his bicycle against the wall."
+      ],
+      "key": "prop"
+    },
+    {
+      "word": "slump",
+      "ipa": "slʌmp",
+      "examples": [
+        "She pulled a dart out and the bear slumped on its side, as if dead.",
+        "He slumped into the chair, exhausted after the marathon."
+      ]
+    },
+    {
+      "word": "bung",
+      "ipa": "bʌŋ",
+      "examples": [
+        "A hollow needle was stuck into a rubber bung.",
+        "He pulled the rubber bung out of the bucket to drain the water."
+      ]
+    },
+    {
+      "word": "run a hand through one's hair",
+      "examples": [
+        "Tom swung his legs over the sofa and ran a hand through his hair.",
+        "He nervously ran a hand through his hair before answering."
+      ],
+      "key": "run a hand through one's hair"
+    },
+    {
+      "word": "pros",
+      "ipa": "prɒz",
+      "examples": [
+        "The people we are dealing with are pros, not schoolboys.",
+        "Don't worry — they're pros and know exactly what to do."
+      ]
+    },
+    {
+      "word": "come quietly",
+      "examples": [
+        "What if they don't come quietly when we turn up?",
+        "The suspect was told to come quietly or be arrested by force."
+      ],
+      "key": "come quietly"
+    },
+    {
+      "word": "the nuclear option",
+      "examples": [
+        "So you think we need a 'nuclear option'?",
+        "Firing everyone was seen as the nuclear option of management."
+      ],
+      "key": "the nuclear option"
+    },
+    {
+      "word": "sawn-off",
+      "ipa": "sɔːn ɒf",
+      "examples": [
+        "A cluster of metal tubes, like sawn-off shotguns, had sprouted from the machine.",
+        "He carried a sawn-off shotgun under his coat."
+      ]
+    },
+    {
+      "word": "shotgun",
+      "ipa": "ˈʃɒtɡʌn",
+      "examples": [
+        "A cluster of metal tubes like sawn-off shotguns.",
+        "The farmer kept a shotgun to scare off foxes."
+      ]
+    },
+    {
+      "word": "sprout overnight",
+      "examples": [
+        "Metal tubes had sprouted overnight from the centre of the machine.",
+        "New coffee shops seem to sprout overnight in this district."
+      ],
+      "key": "sprout overnight"
+    },
+    {
+      "word": "pneumatic",
+      "ipa": "njuːˈmætɪk",
+      "examples": [
+        "There was a pneumatic hiss, like a sharp intake of breath.",
+        "The factory uses pneumatic tools to drill the metal."
+      ]
+    },
+    {
+      "word": "sickeningly",
+      "ipa": "ˈsɪkənɪŋli",
+      "examples": [
+        "The weapon was sickeningly quiet.",
+        "The room fell into a sickeningly familiar silence."
+      ]
+    },
+    {
+      "word": "solemnly",
+      "ipa": "ˈsɒləmli",
+      "examples": [
+        "The others watched him solemnly as he shut the drone down.",
+        "He solemnly promised that he would return by nightfall."
+      ]
+    },
+    {
+      "word": "innocently",
+      "ipa": "ˈɪnəsntli",
+      "examples": [
+        "Two other drones, each parked innocently in front of its monitor.",
+        "The child looked up innocently and asked, 'Who, me?'"
+      ]
+    },
+    {
+      "word": "We don't have long",
+      "examples": [
+        "Listen carefully, because we don't have long.",
+        "Hurry — we don't have long before the shop closes."
+      ]
+    },
+    {
+      "word": "coordinate",
+      "ipa": "kəʊˈɔːdɪneɪt",
+      "examples": [
+        "We have to coordinate our attack exactly.",
+        "The volunteers coordinated the rescue effort across the valley."
+      ]
+    },
+    {
+      "word": "the tricky bit",
+      "examples": [
+        "We have to coordinate our attack exactly, and that's the tricky bit.",
+        "Getting it started is easy; keeping it running is the tricky bit."
+      ],
+      "key": "the tricky bit"
+    },
+    {
+      "word": "pass across",
+      "examples": [
+        "A flicker of doubt passed across her face.",
+        "A shadow of sadness passed across his eyes."
+      ],
+      "key": "pass across"
+    },
+    {
+      "word": "a flicker of doubt",
+      "examples": [
+        "But a flicker of doubt passed across her face.",
+        "For a moment a flicker of doubt crossed his mind."
+      ],
+      "key": "a flicker of doubt"
+    },
+    {
+      "word": "rounds",
+      "ipa": "raʊndz",
+      "examples": [
+        "There are four rounds on each drone.",
+        "The soldier loaded a few extra rounds into his rifle."
+      ]
+    },
+    {
+      "word": "fast-acting",
+      "ipa": "ˌfɑːst ˈæktɪŋ",
+      "examples": [
+        "One shot will administer a dose of a fast-acting anaesthetic.",
+        "Keep a fast-acting painkiller in the first-aid kit."
+      ]
+    },
+    {
+      "word": "anaesthetic",
+      "ipa": "ˌænəsˈθetɪk",
+      "examples": [
+        "A dose of a fast-acting anaesthetic.",
+        "The dentist gave him a local anaesthetic before pulling the tooth."
+      ]
+    },
+    {
+      "word": "put someone out",
+      "examples": [
+        "The anaesthetic will put the terrorists out for just long enough.",
+        "The gas was strong enough to put the whole household out."
+      ],
+      "key": "put ... out"
+    },
+    {
+      "word": "sail out of range",
+      "examples": [
+        "It will put them out long enough for the Teal to sail out of range.",
+        "The ship increased speed to sail out of range of the shore guns."
+      ],
+      "key": "sail out of range"
+    },
+    {
+      "word": "twenty minutes tops",
+      "examples": [
+        "Twenty minutes tops for the hexacopters.",
+        "The walk should take ten minutes tops."
+      ]
+    },
+    {
+      "word": "be yet to do",
+      "examples": [
+        "He knew the worst was yet to come.",
+        "The full consequences of the decision are yet to be seen."
+      ],
+      "key": "be yet to do"
+    },
+    {
+      "word": "juice",
+      "ipa": "dʒuːs",
+      "examples": [
+        "There won't be enough juice to get the drones back home.",
+        "My phone is dead — it's completely out of juice."
+      ]
+    },
+    {
+      "word": "administer",
+      "ipa": "ədˈmɪnɪstə(r)",
+      "examples": [
+        "One shot will administer a dose of anaesthetic.",
+        "The nurse administered the injection very slowly."
+      ]
+    },
+    {
+      "word": "propofol",
+      "ipa": "ˈprəʊpəfɒl",
+      "examples": [
+        "Propofol would do the job as an emergency anaesthetic.",
+        "The patient was kept under with a steady drip of propofol."
+      ]
+    },
+    {
+      "word": "hold out one's palms in refusal",
+      "examples": [
+        "Maggie held out her palms in refusal.",
+        "He held up both hands in refusal and backed away."
+      ],
+      "key": "hold out one's palms in refusal"
+    },
+    {
+      "word": "nosedive",
+      "ipa": "ˈnəʊzdaɪv",
+      "examples": [
+        "Then we'll nosedive all three drones into the water.",
+        "The plane seemed to nosedive straight towards the ground."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "The children screamed with {} as the roller coaster plunged down.",
+      "answer": "exhilaration",
+      "hint": "极度兴奋/狂喜"
+    },
+    {
+      "prompt": "Tourists crowded the {} to feel the sea spray on their faces.",
+      "answer": "bow rails",
+      "hint": "船头栏杆"
+    },
+    {
+      "prompt": "During the storm he clutched the railing with {}.",
+      "answer": "white knuckles",
+      "hint": "（紧张得）指节发白"
+    },
+    {
+      "prompt": "The runaway driver {} wildly as the car swerved.",
+      "answer": "spun the wheel",
+      "hint": "猛打方向盘"
+    },
+    {
+      "prompt": "The roasted ham was presented on a huge silver {}.",
+      "answer": "platter",
+      "hint": "大浅盘/大餐盘"
+    },
+    {
+      "prompt": "After hours of shouting for help, his voice came out as a {} whisper.",
+      "answer": "hoarse",
+      "hint": "沙哑的"
+    },
+    {
+      "prompt": "He needed a {} to cut through the steel bar.",
+      "answer": "hacksaw",
+      "hint": "钢锯"
+    },
+    {
+      "prompt": "The welder lit the {} to heat the metal.",
+      "answer": "blowtorch",
+      "hint": "喷灯/焊枪"
+    },
+    {
+      "prompt": "The vet drew the medicine into a clean {}.",
+      "answer": "syringe",
+      "hint": "注射器/针筒"
+    },
+    {
+      "prompt": "The wall was painted with a flat, {} finish to reduce glare.",
+      "answer": "matt",
+      "hint": "哑光的"
+    },
+    {
+      "prompt": "The fighter jet was coated in dull {} to hide its reflection.",
+      "answer": "matt gray",
+      "hint": "哑光灰"
+    },
+    {
+      "prompt": "The stag {} its nostrils at the strange scent.",
+      "answer": "flared",
+      "hint": "（鼻孔）张开/扩张"
+    },
+    {
+      "prompt": "He {} the gate open with a stone so it wouldn't shut.",
+      "answer": "propped",
+      "hint": "用东西顶住撑住"
+    },
+    {
+      "prompt": "Exhausted, he {} into the sofa and fell asleep at once.",
+      "answer": "slumped",
+      "hint": "瘫倒/颓然倒下"
+    },
+    {
+      "prompt": "He pulled the rubber {} from the barrel and the water poured out.",
+      "answer": "bung",
+      "hint": "（容器的）密封塞"
+    },
+    {
+      "prompt": "Nervously, he {} before stepping onto the stage.",
+      "answer": "ran a hand through his hair",
+      "hint": "用手捋过头发"
+    },
+    {
+      "prompt": "Leave the roof repair to the {} — they'll do it fast.",
+      "answer": "pros",
+      "hint": "内行/专业老手"
+    },
+    {
+      "prompt": "The officers told the thief to {} or face force.",
+      "answer": "come quietly",
+      "hint": "乖乖就擒"
+    },
+    {
+      "prompt": "Quitting his job was the {} of a man who had no other choice.",
+      "answer": "nuclear option",
+      "hint": "孤注一掷的终极方案"
+    },
+    {
+      "prompt": "He carried a {} shotgun concealed under his coat.",
+      "answer": "sawn-off",
+      "hint": "锯短的"
+    },
+    {
+      "prompt": "The hunter loaded the {} and waited at the edge of the woods.",
+      "answer": "shotgun",
+      "hint": "霰弹枪/猎枪"
+    },
+    {
+      "prompt": "Pop-up stores seem to {} along the busy high street.",
+      "answer": "sprout overnight",
+      "hint": "一夜之间冒出来"
+    },
+    {
+      "prompt": "The {} brakes of the train hissed as it slowed.",
+      "answer": "pneumatic",
+      "hint": "气动的"
+    },
+    {
+      "prompt": "The gun fired with a {} silence that chilled her.",
+      "answer": "sickeningly",
+      "hint": "令人发慌/叫人不适地"
+    },
+    {
+      "prompt": "He {} placed his hand on the flag and swore an oath.",
+      "answer": "solemnly",
+      "hint": "严肃地/郑重地"
+    },
+    {
+      "prompt": "'Did you eat the cake?' the toddler asked {} with wide eyes.",
+      "answer": "innocently",
+      "hint": "若无其事地/无辜地"
+    },
+    {
+      "prompt": "Let's talk fast — {} before the meeting starts.",
+      "answer": "we don't have long",
+      "hint": "我们时间不多"
+    },
+    {
+      "prompt": "Two teams worked together to {} the relief effort.",
+      "answer": "coordinate",
+      "hint": "协调/统筹"
+    },
+    {
+      "prompt": "Starting is easy; maintaining it over years is {}.",
+      "answer": "the tricky bit",
+      "hint": "最棘手的环节"
+    },
+    {
+      "prompt": "For a second a shadow of fear {} his face.",
+      "answer": "passed across",
+      "hint": "掠过/一闪而过"
+    },
+    {
+      "prompt": "She agreed, though {} crossed her mind.",
+      "answer": "a flicker of doubt",
+      "hint": "一丝疑虑"
+    },
+    {
+      "prompt": "The soldier checked his {} before the exercise began.",
+      "answer": "rounds",
+      "hint": "弹药/发弹"
+    },
+    {
+      "prompt": "A {} painkiller is essential for the first-aid box.",
+      "answer": "fast-acting",
+      "hint": "速效的"
+    },
+    {
+      "prompt": "The dentist gave him a local {} before pulling the tooth.",
+      "answer": "anaesthetic",
+      "hint": "麻醉剂"
+    },
+    {
+      "prompt": "The gas was strong enough to {} the guard for an hour.",
+      "answer": "put out",
+      "hint": "麻醉放倒/使失去意识"
+    },
+    {
+      "prompt": "The ship sped up to {} from the enemy's guns.",
+      "answer": "sail out of range",
+      "hint": "驶出射程范围"
+    },
+    {
+      "prompt": "The job should only take an hour, {}.",
+      "answer": "tops",
+      "hint": "（口语）顶多/至多"
+    },
+    {
+      "prompt": "After all their hard work, they felt the best {}.",
+      "answer": "was yet to come",
+      "hint": "尚未到来"
+    },
+    {
+      "prompt": "My laptop has no {} left; I need to charge it.",
+      "answer": "juice",
+      "hint": "（口语）电量"
+    },
+    {
+      "prompt": "The vet carefully {} a sedative to the frightened horse.",
+      "answer": "administered",
+      "hint": "施用/给药"
+    },
+    {
+      "prompt": "The surgeon used {} to keep the patient asleep during surgery.",
+      "answer": "propofol",
+      "hint": "丙泊酚（静脉麻醉药）"
+    },
+    {
+      "prompt": "She {} , refusing to take part in the risky plan.",
+      "answer": "held out her palms in refusal",
+      "hint": "摊开双手表示拒绝"
+    },
+    {
+      "prompt": "The hawk {} from a great height to seize its prey.",
+      "answer": "nosedived",
+      "hint": "俯冲/头朝下猛冲"
+    }
+  ]
+}

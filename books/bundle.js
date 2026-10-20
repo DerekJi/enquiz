@@ -2,12 +2,12 @@
    AUTO-GENERATED FILE — do not edit by hand.
    Source : books/<book>/*.json
    Rebuild: tools/rebuild-data.cmd   (or: npm run data)
-   Built  : 2026-10-20T09:09:46.011Z
+   Built  : 2026-10-20T11:04:14.794Z
    ========================================================================== */
 window.SPYLARK_DATA = window.SPYLARK_DATA || {};
 
 window.SPYLARK_MANIFEST = {
-  "generatedAt": "2026-10-20T09:09:46.011Z",
+  "generatedAt": "2026-10-20T11:04:14.794Z",
   "books": [
     {
       "id": "spylark",
@@ -133,6 +133,46 @@ window.SPYLARK_MANIFEST = {
           "file": "books/spylark/15.json",
           "words": 58,
           "quiz": 58
+        },
+        {
+          "id": "16",
+          "title": "Chapter 16",
+          "order": 16,
+          "file": "books/spylark/16.json",
+          "words": 53,
+          "quiz": 45
+        },
+        {
+          "id": "17",
+          "title": "Chapter 17",
+          "order": 17,
+          "file": "books/spylark/17.json",
+          "words": 38,
+          "quiz": 35
+        },
+        {
+          "id": "18",
+          "title": "Chapter 18",
+          "order": 18,
+          "file": "books/spylark/18.json",
+          "words": 30,
+          "quiz": 29
+        },
+        {
+          "id": "19",
+          "title": "Chapter 19",
+          "order": 19,
+          "file": "books/spylark/19.json",
+          "words": 70,
+          "quiz": 69
+        },
+        {
+          "id": "20",
+          "title": "Chapter 20",
+          "order": 20,
+          "file": "books/spylark/20.json",
+          "words": 43,
+          "quiz": 43
         }
       ]
     }
@@ -10735,6 +10775,2982 @@ window.SPYLARK_DATA["spylark/15"] = {
       "prompt": "His voice went up a {} as he gave the order.",
       "answer": "tone",
       "hint": "(语音)音调；音高"
+    }
+  ]
+};
+
+window.SPYLARK_DATA["spylark/16"] = {
+  "id": "16",
+  "title": "Chapter 16",
+  "order": 16,
+  "words": [
+    {
+      "word": "pelt",
+      "ipa": "pelt",
+      "examples": [
+        "Maggie was pelting along the wooden boards, Archie at her heels.",
+        "Heavy rain pelted down on the tin roof all night."
+      ]
+    },
+    {
+      "word": "at one's heels",
+      "examples": [
+        "Maggie was pelting along the wooden boards, Archie at her heels.",
+        "The little dog followed at his master's heels everywhere he went."
+      ]
+    },
+    {
+      "word": "charge",
+      "ipa": "tʃɑːdʒ",
+      "examples": [
+        "She charged along the jetty and, without a single twitch, sprang off the end.",
+        "The bull lowered its head and charged straight at the matador."
+      ]
+    },
+    {
+      "word": "without a single twitch",
+      "examples": [
+        "She charged along the jetty and, without a single twitch, sprang off the end like an Olympic diver.",
+        "He stared at the accident scene without a single twitch of emotion."
+      ]
+    },
+    {
+      "word": "spring off",
+      "examples": [
+        "She sprang off the end of the jetty like an Olympic diver.",
+        "The cat sprang off the sofa and vanished under the bed."
+      ]
+    },
+    {
+      "word": "heave oneself into",
+      "examples": [
+        "Maggie heaved herself into the boat and lay on the bottom, panting.",
+        "The old sailor heaved himself into the chair with a groan."
+      ],
+      "key": "heave oneself into"
+    },
+    {
+      "word": "arc through the air",
+      "examples": [
+        "She arced through the air and hit the surface in front of the boat.",
+        "The stone arced through the air and splashed into the pond."
+      ]
+    },
+    {
+      "word": "skid",
+      "ipa": "skɪd",
+      "examples": [
+        "Archie skidded along the jetty, and then plunged in after her.",
+        "The car skidded on the icy road and hit the barrier."
+      ]
+    },
+    {
+      "word": "splutter",
+      "ipa": "ˈsplʌtə(r)",
+      "examples": [
+        "When Maggie reappeared, spluttering but alert, she had swum under the boat.",
+        "He spluttered and coughed after nearly drowning in the pool."
+      ]
+    },
+    {
+      "word": "alert",
+      "ipa": "əˈlɜːt",
+      "examples": [
+        "When Maggie reappeared, spluttering but alert, she had swum under the boat.",
+        "Stay alert and keep your eyes on the road at all times."
+      ]
+    },
+    {
+      "word": "pull on the oars",
+      "examples": [
+        "Tom pulled hard on the oars for a few strokes.",
+        "The rowers pulled hard on their oars to win the race."
+      ]
+    },
+    {
+      "word": "scowl",
+      "ipa": "skaʊl",
+      "examples": [
+        "Joel interrupted, scowling at the screen.",
+        "He looked up from his work with an angry scowl."
+      ]
+    },
+    {
+      "word": "stall",
+      "ipa": "stɔːl",
+      "examples": [
+        "He watched it slow almost to a stall as Joel tried to bring it down.",
+        "The engine stalled three times before it finally started."
+      ]
+    },
+    {
+      "word": "slow almost to a stall",
+      "examples": [
+        "He watched it slow almost to a stall as Joel tried to bring it down to the beach."
+      ]
+    },
+    {
+      "word": "squall",
+      "ipa": "skwɔːl",
+      "examples": [
+        "A sudden squall of wind flipped it on to its back and it plummeted down.",
+        "A squall of wind suddenly swept across the lake."
+      ]
+    },
+    {
+      "word": "squall of wind",
+      "examples": [
+        "A sudden squall of wind flipped the drone on to its back.",
+        "A squall of wind blew his hat right off his head."
+      ]
+    },
+    {
+      "word": "flip",
+      "ipa": "flɪp",
+      "examples": [
+        "A sudden squall of wind flipped it on to its back.",
+        "He flipped the pancake over in the pan."
+      ]
+    },
+    {
+      "word": "plummet",
+      "ipa": "ˈplʌmɪt",
+      "examples": [
+        "A sudden squall of wind flipped it on to its back and it plummeted down.",
+        "Temperatures plummeted overnight to well below freezing."
+      ]
+    },
+    {
+      "word": "flip it onto its back",
+      "examples": [
+        "A sudden squall of wind flipped it on to its back and it plummeted down."
+      ]
+    },
+    {
+      "word": "cormorant",
+      "ipa": "ˈkɔːmərənt",
+      "examples": [
+        "It was almost graceful, like the silken splash of a cormorant when it dives.",
+        "A cormorant sat drying its wings on the riverbank."
+      ]
+    },
+    {
+      "word": "silken",
+      "ipa": "ˈsɪlkən",
+      "examples": [
+        "It was almost graceful, like the silken splash of a cormorant when it dives.",
+        "She ran her fingers through her silken hair."
+      ]
+    },
+    {
+      "word": "tack",
+      "ipa": "tæk",
+      "examples": [
+        "The steady breeze pushed them homewards in a few long tacks.",
+        "The yacht had to tack back and forth against the headwind."
+      ]
+    },
+    {
+      "word": "it couldn't be helped",
+      "examples": [
+        "'I don't know yet,' said Tom. 'It couldn't be helped.'",
+        "The plan had failed, but it couldn't be helped, so they moved on."
+      ]
+    },
+    {
+      "word": "homewards",
+      "ipa": "ˈhəʊmwədz",
+      "examples": [
+        "The steady breeze pushed them homewards in a few long tacks.",
+        "She set off homewards as the sun was setting."
+      ]
+    },
+    {
+      "word": "catch one's breath",
+      "examples": [
+        "Maggie said, when she had caught her breath.",
+        "He paused at the top of the stairs to catch his breath."
+      ],
+      "key": "catch one's breath"
+    },
+    {
+      "word": "be up to something",
+      "examples": [
+        "I don't know what they're up to, but it's bad.",
+        "The children were very quiet — they must be up to something."
+      ],
+      "key": "be up to something"
+    },
+    {
+      "word": "the water creaming under the bow",
+      "examples": [
+        "While Tom steered them home, the water creaming under the bow, she told them what she had seen."
+      ]
+    },
+    {
+      "word": "muse",
+      "ipa": "mjuːz",
+      "examples": [
+        "'Watch the show from Astrum Seven'? Joel mused.",
+        "She paused to muse over the strange message on her phone."
+      ]
+    },
+    {
+      "word": "tiller",
+      "ipa": "ˈtɪlə(r)",
+      "examples": [
+        "Tom started, jerking the tiller, so Bobalong lost the wind.",
+        "He gripped the tiller firmly as the boat rocked in the waves."
+      ]
+    },
+    {
+      "word": "lose the wind",
+      "examples": [
+        "Bobalong lost the wind and quivered and flapped for a few alarming moments.",
+        "The sails went slack as the boat lost the wind."
+      ]
+    },
+    {
+      "word": "alarming moments",
+      "examples": [
+        "Bobalong lost the wind and quivered for a few alarming moments.",
+        "There were a few alarming moments when the plane dropped suddenly."
+      ]
+    },
+    {
+      "word": "dismissively",
+      "ipa": "dɪsˈmɪsɪvli",
+      "examples": [
+        "She flicked her hair dismissively.",
+        "He waved his hand dismissively and turned away."
+      ]
+    },
+    {
+      "word": "pea and ham soup",
+      "examples": [
+        "Aunt Emily brought in a huge pan of pea and ham soup."
+      ]
+    },
+    {
+      "word": "set the table",
+      "examples": [
+        "As she set them on the table, she gave Tom an encouraging smile.",
+        "She set the table for dinner and called everyone to eat."
+      ]
+    },
+    {
+      "word": "set into",
+      "examples": [
+        "Tom watched the two siblings as they set into the food gratefully.",
+        "He sat down and set into his meal with real appetite."
+      ],
+      "key": "set into"
+    },
+    {
+      "word": "be wired",
+      "examples": [
+        "Was it just the way they were wired, or did they find the whole thing amusing?",
+        "Some people are just wired to stay calm in a crisis."
+      ],
+      "key": "be wired"
+    },
+    {
+      "word": "amusing",
+      "ipa": "əˈmjuːzɪŋ",
+      "examples": [
+        "Did they find the whole thing amusing and exciting, like a great adventure?",
+        "He told an amusing story that made everyone laugh."
+      ]
+    },
+    {
+      "word": "lay on",
+      "examples": [
+        "Was it like some great adventure laid on for their holidays?",
+        "The school laid on a bus for the trip to the museum."
+      ],
+      "key": "lay on"
+    },
+    {
+      "word": "take somebody into one's confidence",
+      "examples": [
+        "He began to wonder whether he was right to take them into his confidence.",
+        "I took her into my confidence and told her the whole secret."
+      ],
+      "key": "take ... into one's confidence"
+    },
+    {
+      "word": "after all",
+      "examples": [
+        "He wondered whether he was right to take them into his confidence, after all.",
+        "It wasn't such a difficult task after all."
+      ]
+    },
+    {
+      "word": "spot",
+      "ipa": "spɒt",
+      "examples": [
+        "If they'd spotted me then, they would have caught me for sure.",
+        "The police spotted the stolen car parked near the station."
+      ]
+    },
+    {
+      "word": "on end",
+      "examples": [
+        "They would have tortured you for weeks on end.",
+        "She could sit reading for hours on end without getting bored."
+      ]
+    },
+    {
+      "word": "ransom",
+      "ipa": "ˈrænsəm",
+      "examples": [
+        "I would have offered them my brave little brother as a ransom.",
+        "The kidnappers demanded a huge ransom for the hostage's release."
+      ]
+    },
+    {
+      "word": "irritable",
+      "ipa": "ˈɪrɪtəbl",
+      "examples": [
+        "He wondered what she really thought of him: limping, irritable, electronic gadgets instead of friends.",
+        "He gets very irritable when he hasn't had enough sleep."
+      ]
+    },
+    {
+      "word": "commemorative",
+      "ipa": "kəˈmemərətɪv",
+      "examples": [
+        "He stared at the commemorative Diamond Jubilee tin that had originally held shortbread.",
+        "The mint issued a commemorative coin for the queen's reign."
+      ]
+    },
+    {
+      "word": "Diamond Jubilee",
+      "examples": [
+        "He stared at the commemorative Diamond Jubilee tin.",
+        "The nation celebrated the Diamond Jubilee of the monarch's sixty years on the throne."
+      ]
+    },
+    {
+      "word": "jubilee",
+      "ipa": "ˈdʒuːbɪliː",
+      "examples": [
+        "He stared at the commemorative Diamond Jubilee tin.",
+        "The country held a great jubilee to mark fifty years of the reign."
+      ]
+    },
+    {
+      "word": "look out for",
+      "examples": [
+        "She had asked him to look out for danger from Skylark.",
+        "Look out for the low branches as you drive through the forest."
+      ],
+      "key": "look out for"
+    },
+    {
+      "word": "fill somebody in on something",
+      "examples": [
+        "He filled them in on everything he had seen.",
+        "Let me fill you in on what happened while you were away."
+      ],
+      "key": "fill ... in on"
+    },
+    {
+      "word": "duke",
+      "ipa": "djuːk",
+      "examples": [
+        "It's just some guy called the Duke of Lancaster.",
+        "The duke opened the new freshwater study centre at Dowthwaite House."
+      ]
+    },
+    {
+      "word": "be crawling with",
+      "examples": [
+        "The place will be crawling with people protecting the Teal.",
+        "The beach was crawling with tourists in the height of summer."
+      ],
+      "key": "be crawling with"
+    },
+    {
+      "word": "by any chance",
+      "ipa": "baɪ ˈeni tʃɑːns",
+      "examples": [
+        "I don't suppose you've heard of the Duke of Lancaster, by any chance?",
+        "Do you happen to know his name, by any chance?"
+      ]
+    },
+    {
+      "word": "one and the same",
+      "examples": [
+        "The Duke of Lancaster is Her Majesty the Queen! They are one and the same.",
+        "It turned out the two strangers were one and the same person."
+      ],
+      "key": "one and the same"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "The suspect {} across the field as fast as he could while the police gave chase.",
+      "answer": "pelted",
+      "hint": "飞奔疾跑"
+    },
+    {
+      "prompt": "A small dog trotted {} as the boy walked to school.",
+      "answer": "at his heels",
+      "hint": "紧跟其后"
+    },
+    {
+      "prompt": "The angry wild boar lowered its head and {} toward the fence.",
+      "answer": "charged",
+      "hint": "猛冲"
+    },
+    {
+      "prompt": "He listened to the bad news {} of emotion on his face.",
+      "answer": "without a single twitch",
+      "hint": "没有一丝反应"
+    },
+    {
+      "prompt": "The gymnast {} the diving board and soared into the pool.",
+      "answer": "sprang off",
+      "hint": "纵身跳离"
+    },
+    {
+      "prompt": "The exhausted climber {} the tent and collapsed.",
+      "answer": "heaved himself into",
+      "hint": "费力爬进"
+    },
+    {
+      "prompt": "The ball {} and landed softly in the grass.",
+      "answer": "arced through the air",
+      "hint": "在空中划出一道弧线"
+    },
+    {
+      "prompt": "On the wet tiles, he lost his footing and {} across the floor.",
+      "answer": "skidded",
+      "hint": "打滑滑行"
+    },
+    {
+      "prompt": "After swallowing water the wrong way, he {} and gasped.",
+      "answer": "spluttered",
+      "hint": "噗噗吐水/呛咳"
+    },
+    {
+      "prompt": "Keep your senses {} throughout the whole examination.",
+      "answer": "alert",
+      "hint": "警惕清醒的"
+    },
+    {
+      "prompt": "The crew {} to bring the lifeboat alongside the ship.",
+      "answer": "pulled on the oars",
+      "hint": "拉桨划行"
+    },
+    {
+      "prompt": "She {} at the noisy students who wouldn't be quiet.",
+      "answer": "scowled",
+      "hint": "怒视/沉脸"
+    },
+    {
+      "prompt": "The old car kept {} at traffic lights because of a faulty ignition.",
+      "answer": "stalling",
+      "hint": "熄火"
+    },
+    {
+      "prompt": "A sudden {} caught the small sailboat and capsized it.",
+      "answer": "squall of wind",
+      "hint": "一阵突如其来的狂风"
+    },
+    {
+      "prompt": "He {} the coin high into the air before making his choice.",
+      "answer": "flipped",
+      "hint": "快速翻转"
+    },
+    {
+      "prompt": "Share prices {} after the bad news was announced.",
+      "answer": "plummeted",
+      "hint": "骤然下跌/急速下坠"
+    },
+    {
+      "prompt": "A cormorant dove into the lake with a {} splash.",
+      "answer": "silken",
+      "hint": "丝滑轻柔的"
+    },
+    {
+      "prompt": "The yacht had to {} repeatedly to sail against the wind.",
+      "answer": "tack",
+      "hint": "抢风调向"
+    },
+    {
+      "prompt": "We missed the last train, but {}, so we walked home.",
+      "answer": "it couldn't be helped",
+      "hint": "这也是没办法的事"
+    },
+    {
+      "prompt": "It was late, so everyone began heading {} for home.",
+      "answer": "homewards",
+      "hint": "朝家的方向"
+    },
+    {
+      "prompt": "He stopped at the summit to {} after the steep climb.",
+      "answer": "catch his breath",
+      "hint": "喘过气来"
+    },
+    {
+      "prompt": "The teenagers whispered in the corner — clearly they {} something suspicious.",
+      "answer": "were up to",
+      "hint": "在谋划（不好的事）"
+    },
+    {
+      "prompt": "She sat by the lake, {} over where the mysterious signal might have come from.",
+      "answer": "musing",
+      "hint": "沉思/若有所思"
+    },
+    {
+      "prompt": "The skipper kept a steady hand on the {} as they crossed the choppy water.",
+      "answer": "tiller",
+      "hint": "舵柄"
+    },
+    {
+      "prompt": "When the sailboat turned into the wind, it suddenly {} and drifted.",
+      "answer": "lost the wind",
+      "hint": "失风"
+    },
+    {
+      "prompt": "He {} brushed aside all of my concerns as if they were nothing.",
+      "answer": "dismissively",
+      "hint": "不以为然地/不屑一顾地"
+    },
+    {
+      "prompt": "Before the guests arrive, please help me {} with clean plates and glasses.",
+      "answer": "set the table",
+      "hint": "摆餐桌"
+    },
+    {
+      "prompt": "Starving after the hike, they {} the dinner without hesitation.",
+      "answer": "set into",
+      "hint": "扑向/狼吞虎咽地吃"
+    },
+    {
+      "prompt": "No matter how hard he tries, he isn't {}; he'll always be disorganised.",
+      "answer": "wired that way",
+      "hint": "天生如此（性格）"
+    },
+    {
+      "prompt": "The clown's silly tricks were highly {}, and the kids loved them.",
+      "answer": "amusing",
+      "hint": "有趣的/引人发笑的"
+    },
+    {
+      "prompt": "The hotel {} a special buffet for the wedding guests.",
+      "answer": "laid on",
+      "hint": "专门筹备提供"
+    },
+    {
+      "prompt": "She finally {} and told her best friend the secret.",
+      "answer": "took her into her confidence",
+      "hint": "向…吐露秘密"
+    },
+    {
+      "prompt": "In the end, he did the right thing, {}.",
+      "answer": "after all",
+      "hint": "终究/毕竟"
+    },
+    {
+      "prompt": "The hawk {} a rabbit moving in the long grass.",
+      "answer": "spotted",
+      "hint": "发现/瞥见"
+    },
+    {
+      "prompt": "The baby cried for hours {} and wouldn't settle.",
+      "answer": "on end",
+      "hint": "连续不断地"
+    },
+    {
+      "prompt": "The kidnappers refused to free the hostage until the {} was paid.",
+      "answer": "ransom",
+      "hint": "赎金"
+    },
+    {
+      "prompt": "Lacking sleep, he became short-tempered and {}.",
+      "answer": "irritable",
+      "hint": "易怒烦躁的"
+    },
+    {
+      "prompt": "The museum sold a {} plate marking the queen's reign.",
+      "answer": "commemorative",
+      "hint": "纪念性的"
+    },
+    {
+      "prompt": "The country celebrated the monarch's {} after sixty years on the throne.",
+      "answer": "jubilee",
+      "hint": "周年大庆/禧年"
+    },
+    {
+      "prompt": "While on watch, the guard was told to {} anything unusual.",
+      "answer": "look out for",
+      "hint": "警惕留意"
+    },
+    {
+      "prompt": "Let me quickly {} the details before we start.",
+      "answer": "fill you in on",
+      "hint": "把内情补告给…"
+    },
+    {
+      "prompt": "In Britain, the monarch is also referred to as the {} of Lancaster.",
+      "answer": "duke",
+      "hint": "公爵"
+    },
+    {
+      "prompt": "The market {} shoppers on a Saturday morning.",
+      "answer": "is crawling with",
+      "hint": "密密麻麻挤满"
+    },
+    {
+      "prompt": "Would you happen to have seen my keys, {}?",
+      "answer": "by any chance",
+      "hint": "会不会/碰巧（问句）"
+    },
+    {
+      "prompt": "The two rival suspects turned out to be {}, shocking everyone.",
+      "answer": "one and the same",
+      "hint": "完全同一个人/同一个事物"
+    }
+  ]
+};
+
+window.SPYLARK_DATA["spylark/17"] = {
+  "id": "17",
+  "title": "Chapter 17",
+  "order": 17,
+  "words": [
+    {
+      "word": "puff out",
+      "ipa": "pʌf aʊt",
+      "examples": [
+        "Joel puffed out his cheeks.",
+        "He puffed out his chest proudly after winning the race."
+      ],
+      "key": "puff out"
+    },
+    {
+      "word": "TV presenter",
+      "examples": [
+        "Not TV presenters and football players.",
+        "She works as a TV presenter on the evening news."
+      ]
+    },
+    {
+      "word": "reach for",
+      "examples": [
+        "Joel reached for the laptop.",
+        "She reached for the book on the top shelf."
+      ],
+      "key": "reach for"
+    },
+    {
+      "word": "tap away at",
+      "examples": [
+        "Joel tapped away at the computer.",
+        "He sat tapping away at his keyboard long after everyone had gone."
+      ],
+      "key": "tap away at"
+    },
+    {
+      "word": "It's a pity (that)",
+      "examples": [
+        "Ah, pity, there's no local address.",
+        "It's a pity that you missed the concert last night."
+      ]
+    },
+    {
+      "word": "good call",
+      "examples": [
+        "'Good call,' said Joel. 'Let's try good old Google.'",
+        "Choosing the quieter road was a good call — we avoided the jam."
+      ]
+    },
+    {
+      "word": "good old",
+      "examples": [
+        "Let's try good old Google.",
+        "Nothing beats a good old cup of tea on a cold day."
+      ]
+    },
+    {
+      "word": "here we go",
+      "examples": [
+        "Here we go. Not just an ice cream van, but an ice cream company.",
+        "Here we go, the lesson starts now."
+      ]
+    },
+    {
+      "word": "bring up",
+      "examples": [
+        "A few moments later he brought up the face of ponytail man.",
+        "I'll bring up the report on the screen so everyone can see."
+      ],
+      "key": "bring up"
+    },
+    {
+      "word": "khaki",
+      "ipa": "ˈkɑːki",
+      "examples": [
+        "The man was wearing full khaki combat gear.",
+        "He wore a khaki jacket that had faded in the sun."
+      ]
+    },
+    {
+      "word": "combat gear",
+      "examples": [
+        "Ponytail man was wearing full khaki combat gear.",
+        "The soldiers were inspected in full combat gear before the mission."
+      ]
+    },
+    {
+      "word": "middle of nowhere",
+      "examples": [
+        "It's north of here. Middle of nowhere, really.",
+        "The old farmhouse is out in the middle of nowhere, miles from any shop."
+      ]
+    },
+    {
+      "word": "hotchpotch",
+      "ipa": "ˈhɒtʃpɒtʃ",
+      "examples": [
+        "They hunched together to look at the hotchpotch of faces and pictures.",
+        "The exhibition was a hotchpotch of styles and periods."
+      ]
+    },
+    {
+      "word": "banjo",
+      "ipa": "ˈbændʒəʊ",
+      "examples": [
+        "An old man with a long beard sat playing a banjo surrounded by hay bales.",
+        "He learned to play the banjo from his grandfather."
+      ]
+    },
+    {
+      "word": "hay bale",
+      "ipa": "heɪ beɪl",
+      "examples": [
+        "An old man played a banjo surrounded by hay bales.",
+        "The farmer stacked the hay bales in the barn for winter."
+      ]
+    },
+    {
+      "word": "be greeted by",
+      "examples": [
+        "Joel clicked to a second page, to be greeted by banjo man again.",
+        "Opening the door, she was greeted by a cloud of warm air."
+      ],
+      "key": "be greeted by"
+    },
+    {
+      "word": "grainy",
+      "ipa": "ˈɡreɪni",
+      "examples": [
+        "He leant close to look at the grainy face staring back at him.",
+        "The old photograph was grainy and hard to make out."
+      ]
+    },
+    {
+      "word": "suntan",
+      "ipa": "ˈsʌntæn",
+      "examples": [
+        "Look at their suntans, the dust at their feet – not grass.",
+        "He came back from Spain with a deep suntan."
+      ]
+    },
+    {
+      "word": "here we are",
+      "examples": [
+        "Yes, here we are . . . it's the emblem of the Royal Signals.",
+        "Here we are at last — the station is just ahead."
+      ]
+    },
+    {
+      "word": "emblem",
+      "ipa": "ˈembləm",
+      "examples": [
+        "It's the emblem of the Royal Signals.",
+        "The lion is the emblem of the national football team."
+      ]
+    },
+    {
+      "word": "triumph",
+      "ipa": "ˈtraɪʌmf",
+      "examples": [
+        "He said with a note of triumph, 'Our Mr Clay is an expert in electronic warfare.'",
+        "They celebrated their triumph over the rival team."
+      ]
+    },
+    {
+      "word": "electronic warfare",
+      "ipa": "ɪˌlekˈtrɒnɪk ˈwɔːfeə(r)",
+      "examples": [
+        "Our Mr Clay is an expert in electronic warfare.",
+        "The unit specialised in electronic warfare and signals."
+      ]
+    },
+    {
+      "word": "windowsill",
+      "ipa": "ˈwɪndəʊsɪl",
+      "examples": [
+        "I've put it on the kitchen windowsill to dry in the sun.",
+        "She left the plant on the windowsill to catch the morning light."
+      ]
+    },
+    {
+      "word": "squawk",
+      "ipa": "skwɔːk",
+      "examples": [
+        "A loud crash was followed by the squawk and fluttering of a startled bird.",
+        "The parrot squawked loudly from its cage."
+      ]
+    },
+    {
+      "word": "jagged",
+      "ipa": "ˈdʒæɡɪd",
+      "examples": [
+        "Joel brought back a jagged piece of slate.",
+        "He cut his hand on a jagged piece of broken glass."
+      ]
+    },
+    {
+      "word": "slate",
+      "ipa": "sleɪt",
+      "examples": [
+        "Joel brought back a jagged piece of slate with a skull scratched on it.",
+        "The old cottage had a roof made of grey slate."
+      ]
+    },
+    {
+      "word": "skull and crossbones",
+      "examples": [
+        "A jagged piece of slate with a crude skull and crossbones scratched on one side.",
+        "The bottle carried a skull and crossbones to warn it was poisonous."
+      ]
+    },
+    {
+      "word": "lot",
+      "ipa": "lɒt",
+      "examples": [
+        "It's what Snakey's lot call themselves.",
+        "That lot at the back of the class never stop talking."
+      ]
+    },
+    {
+      "word": "for one thing",
+      "examples": [
+        "He wouldn't have the guts, for one thing.",
+        "I won't go — for one thing, it's too expensive."
+      ]
+    },
+    {
+      "word": "tip someone off",
+      "examples": [
+        "By tipping them off about what he had discovered, Tom would be putting everyone in danger.",
+        "Someone must have tipped the thieves off about the alarm."
+      ],
+      "key": "tip ... off"
+    },
+    {
+      "word": "whirr",
+      "ipa": "wɜː(r)",
+      "examples": [
+        "He could hear the whirr of the lawnmower somewhere.",
+        "The hard drive gave a soft whirr as it spun up."
+      ]
+    },
+    {
+      "word": "lie on its side",
+      "examples": [
+        "The plant was lying on its side, soil scattered over the worktop.",
+        "The spilled bottle was lying on its side, leaking across the shelf."
+      ],
+      "key": "lie on its side"
+    },
+    {
+      "word": "worktop",
+      "ipa": "ˈwɜːktɒp",
+      "examples": [
+        "A handful of soil was scattered over the worktop.",
+        "She wiped the worktop clean after preparing dinner."
+      ]
+    },
+    {
+      "word": "one's throat tightening",
+      "examples": [
+        "His throat tightening, he went to find Aunt Emily.",
+        "With her throat tightening, she could barely speak."
+      ],
+      "key": "one's throat tightening"
+    },
+    {
+      "word": "a prickle of alarm",
+      "examples": [
+        "He understood, with a prickle of alarm, that its prevention solely rested on him.",
+        "A prickle of alarm ran down her spine when she heard the noise."
+      ]
+    },
+    {
+      "word": "solely",
+      "ipa": "ˈsəʊlli",
+      "examples": [
+        "Its prevention solely rested on him and his friends.",
+        "Success depends solely on how hard you work."
+      ]
+    },
+    {
+      "word": "rest on",
+      "examples": [
+        "Its prevention solely rested on him and his friends.",
+        "The whole decision rests on her shoulders."
+      ],
+      "key": "rest on"
+    },
+    {
+      "word": "It's nothing really",
+      "examples": [
+        "'Oh, no, it's nothing really.'",
+        "'Are you upset?' — 'It's nothing really, don't worry about it.'"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "He {} in pride after his team won the championship.",
+      "answer": "puffed out his chest",
+      "hint": "挺起胸膛（骄傲）"
+    },
+    {
+      "prompt": "He sat down and {} the phone to check a message.",
+      "answer": "reached for",
+      "hint": "伸手去拿"
+    },
+    {
+      "prompt": "The secretary {} the keyboard all morning writing emails.",
+      "answer": "tapped away at",
+      "hint": "不停敲击"
+    },
+    {
+      "prompt": "You didn't get a ticket? {}!",
+      "answer": "It's a pity (that)",
+      "hint": "真可惜"
+    },
+    {
+      "prompt": "'Let's take the underground,' she said. '{}' — that's the smartest option.",
+      "answer": "Good call",
+      "hint": "说得对/好主意"
+    },
+    {
+      "prompt": "When the internet fails, I always go back to {} — the library.",
+      "answer": "good old",
+      "hint": "靠得住的老（办法）"
+    },
+    {
+      "prompt": "After searching everywhere, he found the file and said, '{}! There it is.'",
+      "answer": "Here we go",
+      "hint": "找到了/这就来了"
+    },
+    {
+      "prompt": "The teacher {} the graph on the screen for the class to see.",
+      "answer": "brought up",
+      "hint": "调出/显示"
+    },
+    {
+      "prompt": "The soldiers were dressed in {} boots and uniforms.",
+      "answer": "khaki",
+      "hint": "卡其色的"
+    },
+    {
+      "prompt": "The troops packed their {} before heading to the front.",
+      "answer": "combat gear",
+      "hint": "作战装备"
+    },
+    {
+      "prompt": "The petrol station was miles out in the {}, with no shops around.",
+      "answer": "middle of nowhere",
+      "hint": "前不着村后不着店的地方"
+    },
+    {
+      "prompt": "His room was a {} of old toys, books and CDs.",
+      "answer": "hotchpotch",
+      "hint": "大杂烩/五花八门的一堆"
+    },
+    {
+      "prompt": "He strummed a tune on his {} by the campfire.",
+      "answer": "banjo",
+      "hint": "班卓琴"
+    },
+    {
+      "prompt": "The horses ate from the {} stacked in the field.",
+      "answer": "hay bales",
+      "hint": "干草捆"
+    },
+    {
+      "prompt": "Opening the door, she {} a wonderful smell of fresh bread.",
+      "answer": "was greeted by",
+      "hint": "映入眼帘/被…迎接"
+    },
+    {
+      "prompt": "The security camera only gave a {}, blurry image of the suspect.",
+      "answer": "grainy",
+      "hint": "颗粒感重的/模糊粗糙的"
+    },
+    {
+      "prompt": "After days at the beach she had a golden {} on her shoulders.",
+      "answer": "suntan",
+      "hint": "晒黑的肤色"
+    },
+    {
+      "prompt": "The badge on his jacket was the {} of the regiment.",
+      "answer": "emblem",
+      "hint": "徽章/标志"
+    },
+    {
+      "prompt": "She shouted 'We won!' in a great cry of {}.",
+      "answer": "triumph",
+      "hint": "胜利/凯旋"
+    },
+    {
+      "prompt": "The modern battlefield relies heavily on {} to jam enemy communications.",
+      "answer": "electronic warfare",
+      "hint": "电子战"
+    },
+    {
+      "prompt": "A cat sat sunning itself on the kitchen {}.",
+      "answer": "windowsill",
+      "hint": "窗台"
+    },
+    {
+      "prompt": "The frightened owl {} as it flew off into the trees.",
+      "answer": "squawked",
+      "hint": "嘎嘎尖叫"
+    },
+    {
+      "prompt": "He picked up a {} rock with sharp edges from the ground.",
+      "answer": "jagged",
+      "hint": "锯齿状的/边缘参差的"
+    },
+    {
+      "prompt": "The roofer replaced the broken {} tile on the roof.",
+      "answer": "slate",
+      "hint": "板岩/石板"
+    },
+    {
+      "prompt": "The warning label showed a {} to indicate the poison was deadly.",
+      "answer": "skull and crossbones",
+      "hint": "骷髅交叉骨（危险标志）"
+    },
+    {
+      "prompt": "I don't trust that {} down at the garage — they cheat customers.",
+      "answer": "lot",
+      "hint": "一伙人/一帮人"
+    },
+    {
+      "prompt": "I won't buy that phone. {}, it's too expensive; for another, the battery is weak.",
+      "answer": "For one thing",
+      "hint": "先说一点（列举理由）"
+    },
+    {
+      "prompt": "Police believe an insider {} about the cash delivery.",
+      "answer": "tipped the robbers off",
+      "hint": "给…通风报信"
+    },
+    {
+      "prompt": "The fan gave a gentle {} as it spun.",
+      "answer": "whirr",
+      "hint": "嗡嗡旋转声"
+    },
+    {
+      "prompt": "The overturned vase {} on the floor, water everywhere.",
+      "answer": "lay on its side",
+      "hint": "侧倒/翻侧"
+    },
+    {
+      "prompt": "She spread all the ingredients out on the kitchen {}.",
+      "answer": "worktop",
+      "hint": "（厨房）操作台/台面"
+    },
+    {
+      "prompt": "He tried to speak, but with {} he could barely get the words out.",
+      "answer": "his throat tightening",
+      "hint": "喉咙发紧"
+    },
+    {
+      "prompt": "A {} ran through him when he realised the door was unlocked.",
+      "answer": "prickle of alarm",
+      "hint": "一阵警觉/心头一紧"
+    },
+    {
+      "prompt": "The success of the project was {} due to her hard work.",
+      "answer": "solely",
+      "hint": "仅仅/唯独"
+    },
+    {
+      "prompt": "The final decision {} the manager's judgement.",
+      "answer": "rests on",
+      "hint": "取决于/寄托于"
+    }
+  ]
+};
+
+window.SPYLARK_DATA["spylark/18"] = {
+  "id": "18",
+  "title": "Chapter 18",
+  "order": 18,
+  "words": [
+    {
+      "word": "spooked",
+      "ipa": "spuːkt",
+      "examples": [
+        "The three of them stood outside the kitchen window, eyes like spooked deer.",
+        "The horse got spooked by a plastic bag and reared up."
+      ]
+    },
+    {
+      "word": "in great detail",
+      "examples": [
+        "Maggie relayed everything they knew in great detail.",
+        "She described the suspect in great detail to the police."
+      ]
+    },
+    {
+      "word": "matter-of-fact",
+      "examples": [
+        "He took everything down with the same matter-of-fact tone as a missing-cat report.",
+        "In a matter-of-fact way, she explained what had gone wrong."
+      ]
+    },
+    {
+      "word": "put someone on hold",
+      "examples": [
+        "I'm just going to put you on hold for a second.",
+        "The operator put me on hold while she checked the records."
+      ],
+      "key": "put ... on hold"
+    },
+    {
+      "word": "jargon",
+      "ipa": "ˈdʒɑːɡən",
+      "examples": [
+        "Beneath the air force jargon was a simple and clear message.",
+        "The report was full of legal jargon that ordinary people couldn't follow."
+      ]
+    },
+    {
+      "word": "beneath",
+      "examples": [
+        "Beneath the jargon was a simple message: mind your own business.",
+        "Beneath his tough exterior, he was actually quite shy."
+      ]
+    },
+    {
+      "word": "at this point",
+      "examples": [
+        "I can't give you a crime number at this point.",
+        "At this point in the game, there was nothing more they could do."
+      ]
+    },
+    {
+      "word": "Is there anything else I can help you with",
+      "examples": [
+        "Is there anything else I can help you with today?",
+        "'Here's your change. Is there anything else I can help you with?'"
+      ]
+    },
+    {
+      "word": "help someone with something",
+      "examples": [
+        "Is there anything else I can help you with?",
+        "Can I help you with those heavy bags?"
+      ],
+      "key": "help ... with"
+    },
+    {
+      "word": "aileron",
+      "ipa": "ˈeɪlərɒn",
+      "examples": [
+        "Skylark had suffered a broken aileron in the crash-landing.",
+        "The pilot checked the ailerons before takeoff."
+      ]
+    },
+    {
+      "word": "waterlog",
+      "ipa": "ˈwɔːtəlɒɡ",
+      "examples": [
+        "Maggot's waterlogged outboard was another matter.",
+        "The basement was waterlogged after the flood."
+      ]
+    },
+    {
+      "word": "lay out",
+      "examples": [
+        "Tom laid out his tools and settled down to the task.",
+        "She laid out the clothes on the bed before packing."
+      ],
+      "key": "lay out"
+    },
+    {
+      "word": "settle down to",
+      "examples": [
+        "He put his overalls on and settled down to the task.",
+        "After the holiday, I need to settle down to some serious study."
+      ],
+      "key": "settle down to"
+    },
+    {
+      "word": "siphon",
+      "ipa": "ˈsaɪfn",
+      "examples": [
+        "He made a start by siphoning the fuel tank.",
+        "He siphoned the water out of the tank using gravity."
+      ]
+    },
+    {
+      "word": "topple",
+      "ipa": "ˈtɒpl",
+      "examples": [
+        "Unbalanced, he toppled against the engine stand.",
+        "The tall stack of boxes toppled over when the door slammed."
+      ]
+    },
+    {
+      "word": "scold",
+      "ipa": "skəʊld",
+      "examples": [
+        "'Archie, sit down!' Maggie scolded.",
+        "My mum always scolded me for coming home late."
+      ]
+    },
+    {
+      "word": "flustered",
+      "ipa": "ˈflʌstəd",
+      "examples": [
+        "Flustered, Tom began to pick up the engine parts.",
+        "She got all flustered when the interviewer asked a tricky question."
+      ]
+    },
+    {
+      "word": "come flooding back",
+      "examples": [
+        "The events of the last twenty-four hours came flooding back to him.",
+        "All the childhood memories came flooding back when he heard the song."
+      ],
+      "key": "come flooding back"
+    },
+    {
+      "word": "intimidate",
+      "ipa": "ɪnˈtɪmɪdeɪt",
+      "examples": [
+        "She had been intimidated by Snakey.",
+        "The big man tried to intimidate the shopkeeper into silence."
+      ]
+    },
+    {
+      "word": "gruffly",
+      "ipa": "ˈɡrʌfli",
+      "examples": [
+        "'The water is heavier so it settles on the bottom,' he explained gruffly.",
+        "'Go away,' he said gruffly without looking up."
+      ]
+    },
+    {
+      "word": "spark plug",
+      "ipa": "ˈspɑːk plʌɡ",
+      "examples": [
+        "He began to loosen a spark plug with a spanner.",
+        "The mechanic replaced all four spark plugs."
+      ]
+    },
+    {
+      "word": "cork",
+      "ipa": "kɔːk",
+      "examples": [
+        "A metal cylinder about the size of two corks put end to end.",
+        "She pulled the cork out of the wine bottle."
+      ]
+    },
+    {
+      "word": "spring into position",
+      "examples": [
+        "A pair of rotor blades sprung into position with a click.",
+        "The seats spring into position when you press the button."
+      ],
+      "key": "spring into position"
+    },
+    {
+      "word": "ruffle",
+      "ipa": "ˈrʌfl",
+      "examples": [
+        "The machine lifted into the air, ruffling her hair with the breeze of the rotors.",
+        "The wind ruffled the feathers of the pigeon on the sill."
+      ]
+    },
+    {
+      "word": "kinetic energy",
+      "examples": [
+        "The batteries are charged by kinetic energy.",
+        "A moving object stores kinetic energy."
+      ]
+    },
+    {
+      "word": "pluck something from something",
+      "examples": [
+        "Tom said, plucking it from the space between them.",
+        "She plucked a grape from the bunch and ate it."
+      ],
+      "key": "pluck ... from"
+    },
+    {
+      "word": "slot A into B",
+      "examples": [
+        "He slotted Gnat into the tube again.",
+        "Slot the USB drive into the port at the front."
+      ],
+      "key": "slot ... into"
+    },
+    {
+      "word": "It does the job",
+      "examples": [
+        "'It does the job,' said Tom.",
+        "The old laptop is slow, but it does the job for writing."
+      ]
+    },
+    {
+      "word": "apart from anything else",
+      "examples": [
+        "Apart from anything else, he makes the best cakes you've ever tasted.",
+        "Apart from anything else, it's too far to walk in this rain."
+      ]
+    },
+    {
+      "word": "pay a visit to",
+      "examples": [
+        "It's time we paid a visit to Jim Rothwell.",
+        "We paid a visit to the local museum on Sunday."
+      ],
+      "key": "pay a visit to"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "The horses, {} by the sudden thunder, bolted across the field.",
+      "answer": "spooked",
+      "hint": "受惊的"
+    },
+    {
+      "prompt": "Please describe the missing bag {} so we can identify it.",
+      "answer": "in great detail",
+      "hint": "详尽地"
+    },
+    {
+      "prompt": "She told the shocking news in a calm, {} tone.",
+      "answer": "matter-of-fact",
+      "hint": "就事论事的/平淡客观的"
+    },
+    {
+      "prompt": "The receptionist {} while she looked up my booking.",
+      "answer": "put me on hold",
+      "hint": "（电话）让…稍等别挂"
+    },
+    {
+      "prompt": "The manual was full of technical {} that confused me.",
+      "answer": "jargon",
+      "hint": "行话/术语"
+    },
+    {
+      "prompt": "His rudeness was really just insecurity {} the surface.",
+      "answer": "beneath",
+      "hint": "在…表象之下"
+    },
+    {
+      "prompt": "We've discussed this for hours; {} there's nothing more to add.",
+      "answer": "at this point",
+      "hint": "到了这个地步/此刻"
+    },
+    {
+      "prompt": "At the counter a clerk asks politely, 'Anything else I can {}?'",
+      "answer": "help you with",
+      "hint": "能帮您别的吗（客服套话）"
+    },
+    {
+      "prompt": "The engineer damaged one of the plane's {} during a hard landing.",
+      "answer": "ailerons",
+      "hint": "副翼"
+    },
+    {
+      "prompt": "After the flood, the whole ground floor was {} and ruined.",
+      "answer": "waterlogged",
+      "hint": "浸满水的"
+    },
+    {
+      "prompt": "Before starting the repair, he {} all his tools on the table.",
+      "answer": "laid out",
+      "hint": "摊开摆好"
+    },
+    {
+      "prompt": "It's time to stop daydreaming and {} real work.",
+      "answer": "settle down to",
+      "hint": "静心着手做"
+    },
+    {
+      "prompt": "He used a hose to {} the water out of the flooded boat.",
+      "answer": "siphon",
+      "hint": "虹吸抽出"
+    },
+    {
+      "prompt": "The old man tripped and {} against the wall.",
+      "answer": "toppled",
+      "hint": "摇晃着倒下/倾倒"
+    },
+    {
+      "prompt": "She {} the children for making a mess in the kitchen.",
+      "answer": "scolded",
+      "hint": "斥责/数落"
+    },
+    {
+      "prompt": "He grew {} when five reporters started shouting questions at him.",
+      "answer": "flustered",
+      "hint": "慌乱的/手足无措的"
+    },
+    {
+      "prompt": "Old memories {} when I visited my primary school.",
+      "answer": "came flooding back",
+      "hint": "（记忆）潮水般涌回"
+    },
+    {
+      "prompt": "The thugs tried to {} the witness into withdrawing the complaint.",
+      "answer": "intimidate",
+      "hint": "恐吓/胁迫"
+    },
+    {
+      "prompt": "'I'm busy,' he muttered {} without turning around.",
+      "answer": "gruffly",
+      "hint": "粗声粗气地"
+    },
+    {
+      "prompt": "The car wouldn't start because a {} had failed.",
+      "answer": "spark plug",
+      "hint": "火花塞"
+    },
+    {
+      "prompt": "He popped the {} out of the bottle with a soft bang.",
+      "answer": "cork",
+      "hint": "软木塞"
+    },
+    {
+      "prompt": "The landing gear {} automatically as the plane touched down.",
+      "answer": "sprung into position",
+      "hint": "弹到位"
+    },
+    {
+      "prompt": "The strong breeze {} the surface of the lake.",
+      "answer": "ruffled",
+      "hint": "吹乱/拂起波纹"
+    },
+    {
+      "prompt": "A waterfall can generate electricity by converting {} into power.",
+      "answer": "kinetic energy",
+      "hint": "动能"
+    },
+    {
+      "prompt": "She {} and popped it into her mouth.",
+      "answer": "plucked a grape from the bunch",
+      "hint": "一把摘下/抓出"
+    },
+    {
+      "prompt": "Please {} the reader to continue.",
+      "answer": "slot your card into",
+      "hint": "把…卡入"
+    },
+    {
+      "prompt": "It's not a fancy solution, but {} — it fixes the problem.",
+      "answer": "it does the job",
+      "hint": "能派上用场/够用"
+    },
+    {
+      "prompt": "We won't go. {} , it's far too expensive.",
+      "answer": "Apart from anything else",
+      "hint": "且不说别的"
+    },
+    {
+      "prompt": "We should {} the retired teacher and thank her personally.",
+      "answer": "pay a visit to",
+      "hint": "拜访/造访"
+    }
+  ]
+};
+
+window.SPYLARK_DATA["spylark/19"] = {
+  "id": "19",
+  "title": "Chapter 19",
+  "order": 19,
+  "words": [
+    {
+      "word": "lime-washed",
+      "ipa": "laɪm wɒʃt",
+      "examples": [
+        "The old wooden boat, with her tarred hull and lime-washed decks, blended into the surroundings.",
+        "The village church had lime-washed walls that glowed in the sun."
+      ]
+    },
+    {
+      "word": "tarred",
+      "ipa": "tɑːd",
+      "examples": [
+        "The old wooden boat, with her tarred hull, blended into the surroundings.",
+        "Sailors used to tar the ropes to keep them from rotting."
+      ]
+    },
+    {
+      "word": "alder",
+      "ipa": "ˈɔːldə(r)",
+      "examples": [
+        "The boat blended into the surroundings as easily as the twisted alders that fringed the shore.",
+        "Alders grow abundantly along the damp riverbank."
+      ]
+    },
+    {
+      "word": "galley",
+      "ipa": "ˈɡæli",
+      "examples": [
+        "Tom rapped on the galley window before climbing aboard.",
+        "Jim got to work in the cramped galley of the houseboat."
+      ]
+    },
+    {
+      "word": "fender",
+      "ipa": "ˈfendə(r)",
+      "examples": [
+        "Tom killed the engine and let Maggot drift into the rope fender.",
+        "He hung a fender over the side to stop the boat scraping the quay."
+      ]
+    },
+    {
+      "word": "rap",
+      "ipa": "ræp",
+      "examples": [
+        "Tom rapped on the galley window.",
+        "Someone rapped sharply on the door and demanded entry."
+      ]
+    },
+    {
+      "word": "squash",
+      "ipa": "skwɒʃ",
+      "examples": [
+        "Maggie and Joel were squashed together on a bench.",
+        "Five kids were squashed into the back of the tiny car."
+      ]
+    },
+    {
+      "word": "absently",
+      "ipa": "ˈæbsəntli",
+      "examples": [
+        "Tom paced about, absently looking at the framed photos.",
+        "She twirled her hair absently while lost in thought."
+      ]
+    },
+    {
+      "word": "elderflower",
+      "ipa": "ˈeldəflaʊə(r)",
+      "examples": [
+        "He brought out a bottle of home-made elderflower cordial.",
+        "In summer the hedge was thick with fragrant elderflower."
+      ]
+    },
+    {
+      "word": "cordial",
+      "ipa": "ˈkɔːdiəl",
+      "examples": [
+        "He brought out a bottle of home-made elderflower cordial.",
+        "She was given a glass of fruit cordial diluted with water."
+      ]
+    },
+    {
+      "word": "fizzy",
+      "ipa": "ˈfɪzi",
+      "examples": [
+        "He brought out some elderflower cordial and fizzy water.",
+        "The child loved the fizzy feel of lemonade on his tongue."
+      ]
+    },
+    {
+      "word": "on an empty stomach",
+      "examples": [
+        "No one thinks well on an empty stomach.",
+        "You shouldn't take these tablets on an empty stomach."
+      ]
+    },
+    {
+      "word": "muzzle",
+      "ipa": "ˈmʌzl",
+      "examples": [
+        "He added, rubbing Archie's muzzle.",
+        "The dog wore a muzzle to stop it biting."
+      ]
+    },
+    {
+      "word": "fiddle",
+      "ipa": "ˈfɪdl",
+      "examples": [
+        "Tom fiddled with his untouched glass.",
+        "He sat fiddling nervously with the buttons of his coat."
+      ]
+    },
+    {
+      "word": "bay leaf",
+      "ipa": "beɪ liːf",
+      "examples": [
+        "He tore up a couple of bay leaves and scattered them on the fish.",
+        "A single bay leaf adds flavour to the stew."
+      ]
+    },
+    {
+      "word": "make one's mouth water",
+      "examples": [
+        "The cabin filled with an aroma that made their mouths water.",
+        "The smell of fresh bread makes my mouth water."
+      ],
+      "key": "make one's mouth water"
+    },
+    {
+      "word": "chez",
+      "ipa": "ʃeɪ",
+      "examples": [
+        "Then we'll be ready for char and chips, chez Matilda!",
+        "Tonight's dinner is chez us — you're all invited."
+      ]
+    },
+    {
+      "word": "fill someone in on something",
+      "examples": [
+        "Tom filled Jim in on everything they knew.",
+        "Let me fill you in on the latest news."
+      ],
+      "key": "fill ... in on"
+    },
+    {
+      "word": "pearly",
+      "ipa": "ˈpɜːli",
+      "examples": [
+        "As they ate the pearly flesh, they burnt their mouths on the chips.",
+        "She had a lovely pearly complexion."
+      ]
+    },
+    {
+      "word": "flesh",
+      "ipa": "fleʃ",
+      "examples": [
+        "As they ate the pearly flesh of the fish.",
+        "The fish flesh was soft and flaky."
+      ]
+    },
+    {
+      "word": "chatter away",
+      "examples": [
+        "While we were chattering away, Tom's got it all worked out.",
+        "The children chattered away happily throughout lunch."
+      ],
+      "key": "chatter away"
+    },
+    {
+      "word": "get it all worked out",
+      "examples": [
+        "Tom's got it all worked out!",
+        "Don't worry about the trip — I'll get it all worked out."
+      ],
+      "key": "get it all worked out"
+    },
+    {
+      "word": "sit back",
+      "examples": [
+        "We can't sit back and do nothing.",
+        "You can't just sit back and expect everything to work out by itself."
+      ],
+      "key": "sit back"
+    },
+    {
+      "word": "rather too",
+      "examples": [
+        "Said Joel, rather too matter-of-factly, given the enormity of what this involved.",
+        "It's rather too expensive for my budget."
+      ]
+    },
+    {
+      "word": "enormity",
+      "ipa": "ɪˈnɔːməti",
+      "examples": [
+        "Given the enormity of what this was going to involve.",
+        "They slowly grasped the enormity of the disaster."
+      ]
+    },
+    {
+      "word": "mop up",
+      "examples": [
+        "Maggie mopped up some salt with the last chip.",
+        "He used the bread to mop up the sauce on his plate."
+      ],
+      "key": "mop up"
+    },
+    {
+      "word": "turret",
+      "ipa": "ˈtʌrɪt",
+      "examples": [
+        "Joel turned his head like the rotating turret of a tank.",
+        "The soldier ducked back inside the tank's turret."
+      ]
+    },
+    {
+      "word": "adapted",
+      "ipa": "əˈdæptɪd",
+      "examples": [
+        "Just a couple of adapted multi-rotors with blue lights.",
+        "The van was adapted to be used as an ambulance."
+      ]
+    },
+    {
+      "word": "the game's up",
+      "examples": [
+        "So we tell them they're surrounded, and the game's up?",
+        "When the police arrived, the thieves knew the game was up."
+      ],
+      "key": "the game's up"
+    },
+    {
+      "word": "simultaneous",
+      "ipa": "ˌsɪmlˈteɪniəs",
+      "examples": [
+        "We can buzz them simultaneously using Skylark and two hexacopters.",
+        "There were simultaneous explosions in three different cities."
+      ]
+    },
+    {
+      "word": "hexacopter",
+      "ipa": "ˈheksəkɒptə(r)",
+      "examples": [
+        "We can buzz them using Skylark and two hexacopters.",
+        "A hexacopter has six rotors for extra stability."
+      ]
+    },
+    {
+      "word": "pike",
+      "ipa": "paɪk",
+      "examples": [
+        "There was a picture of Jim holding a huge pike by the gills.",
+        "He caught a large pike in the deep part of the lake."
+      ]
+    },
+    {
+      "word": "gills",
+      "ipa": "ɡɪlz",
+      "examples": [
+        "He held a huge pike by the gills.",
+        "A fish breathes through its gills."
+      ]
+    },
+    {
+      "word": "beam",
+      "ipa": "biːm",
+      "examples": [
+        "They were beaming at the camera.",
+        "The old man beamed with pride when his grandson won."
+      ]
+    },
+    {
+      "word": "after all this time",
+      "examples": [
+        "He still wore his wedding ring after all this time.",
+        "After all this time, she still remembered his kindness."
+      ]
+    },
+    {
+      "word": "puff out a cloud of smoke",
+      "examples": [
+        "He puffed out a cloud of blue smoke.",
+        "The old engine puffed out a cloud of black smoke."
+      ],
+      "key": "puff out a cloud of"
+    },
+    {
+      "word": "hear oneself whisper",
+      "examples": [
+        "Tom heard himself whisper: 'No, Jim.'",
+        "She was so shocked she heard herself whisper in disbelief."
+      ],
+      "key": "hear oneself whisper"
+    },
+    {
+      "word": "showcase",
+      "examples": [
+        "They want to showcase some local delicacies.",
+        "The fair showcases traditional crafts from the region."
+      ]
+    },
+    {
+      "word": "delicacies",
+      "ipa": "ˈdelɪkəsiz",
+      "examples": [
+        "They want to showcase some local delicacies.",
+        "The restaurant is famous for its seafood delicacies."
+      ]
+    },
+    {
+      "word": "poached",
+      "ipa": "pəʊtʃt",
+      "examples": [
+        "There's going to be my char, poached with a wood sorrel sauce.",
+        "She ordered the poached eggs for breakfast."
+      ]
+    },
+    {
+      "word": "wood sorrel",
+      "ipa": "wʊd ˈsɒrəl",
+      "examples": [
+        "My char, poached with a wood sorrel sauce.",
+        "The salad was garnished with fresh wood sorrel."
+      ]
+    },
+    {
+      "word": "suck one's cheeks in",
+      "examples": [
+        "He sucked his cheeks in and then expelled a jet of smoke.",
+        "She sucked her cheeks in to stop herself laughing."
+      ],
+      "key": "suck one's cheeks in"
+    },
+    {
+      "word": "panelling",
+      "ipa": "ˈpænəlɪŋ",
+      "examples": [
+        "The cloud swirled against the wood panelling of the cabin.",
+        "The room was lined with dark oak panelling."
+      ]
+    },
+    {
+      "word": "wheel out",
+      "examples": [
+        "They need to be able to wheel out a crusty old dinosaur.",
+        "The company wheeled out its old chairman to charm the press."
+      ],
+      "key": "wheel out"
+    },
+    {
+      "word": "a crusty old dinosaur",
+      "examples": [
+        "They need to wheel out a crusty old dinosaur with local knowledge.",
+        "He's a crusty old dinosaur who hates all new technology."
+      ],
+      "key": "a crusty old dinosaur"
+    },
+    {
+      "word": "swing out of the bay",
+      "examples": [
+        "As the Teal swings out of the bay, I'll be on the port side.",
+        "The ferry swung out of the bay and pointed towards the open sea."
+      ],
+      "key": "swing out of the bay"
+    },
+    {
+      "word": "port side",
+      "examples": [
+        "I'll be standing on the port side giving a little talk.",
+        "The lifeboats are stored on the port side of the ship."
+      ]
+    },
+    {
+      "word": "physical proximity",
+      "ipa": "prɒkˈsɪməti",
+      "examples": [
+        "I will be the human being in closest physical proximity to Her Majesty.",
+        "For safety, keep a respectful physical proximity from the edge."
+      ]
+    },
+    {
+      "word": "flora and fauna",
+      "ipa": "ˈflɔːrə ənd ˈfɔːnə",
+      "examples": [
+        "I'll talk about the lake, its history, industry, flora and fauna.",
+        "The national park protects the local flora and fauna."
+      ]
+    },
+    {
+      "word": "give a start",
+      "examples": [
+        "Tom gave a start, knocking over an empty glass.",
+        "She gave a start when the phone suddenly rang."
+      ],
+      "key": "give a start"
+    },
+    {
+      "word": "open and shut one's mouth",
+      "examples": [
+        "Joel was opening and shutting his mouth, too stunned to speak.",
+        "He stood there opening and shutting his mouth like a fish."
+      ],
+      "key": "open and shut one's mouth"
+    },
+    {
+      "word": "stammer",
+      "ipa": "ˈstæmə(r)",
+      "examples": [
+        "'But ...' stammered Tom.",
+        "He was so nervous he began to stammer his answer."
+      ]
+    },
+    {
+      "word": "swat away",
+      "examples": [
+        "Jim waved his hand as if casually swatting away a fly.",
+        "She swatted away the mosquito buzzing around her head."
+      ],
+      "key": "swat away"
+    },
+    {
+      "word": "be up for discussion",
+      "examples": [
+        "Tom knew it wasn't up for discussion.",
+        "The price is not up for discussion — that's final."
+      ],
+      "key": "be up for discussion"
+    },
+    {
+      "word": "rhubarb",
+      "ipa": "ˈruːbɑːb",
+      "examples": [
+        "Jim brought out a huge rhubarb and custard cake.",
+        "She made a tart with fresh rhubarb from the garden."
+      ]
+    },
+    {
+      "word": "slab",
+      "ipa": "slæb",
+      "examples": [
+        "He served the cake in generous slabs with cream.",
+        "He cut a thick slab of cheese from the wheel."
+      ]
+    },
+    {
+      "word": "resolutely",
+      "ipa": "ˈrezəluːtli",
+      "examples": [
+        "Jim smiled, teeth clamped on the pipe resolutely.",
+        "She resolutely refused to give up despite the setbacks."
+      ]
+    },
+    {
+      "word": "weak link",
+      "examples": [
+        "There were too many unknowns, too many weak links.",
+        "A chain is only as strong as its weakest link."
+      ],
+      "key": "weak link"
+    },
+    {
+      "word": "streaks of smoke",
+      "examples": [
+        "He could imagine vivid streaks of smoke emanating from the peaks.",
+        "Streaks of smoke drifted lazily from the factory chimneys."
+      ]
+    },
+    {
+      "word": "emanate",
+      "ipa": "ˈeməneɪt",
+      "examples": [
+        "Vivid streaks of smoke emanating from the peaks.",
+        "A warm smell of baking emanated from the kitchen."
+      ]
+    },
+    {
+      "word": "impact",
+      "ipa": "ˈɪmpækt",
+      "examples": [
+        "A sudden screaming roar, and then impact.",
+        "The car was badly damaged on impact with the wall."
+      ]
+    },
+    {
+      "word": "soothing",
+      "ipa": "ˈsuːðɪŋ",
+      "examples": [
+        "The sound of the propeller bubbling away behind him was soothing.",
+        "The gentle music had a soothing effect on the baby."
+      ]
+    },
+    {
+      "word": "drastic",
+      "ipa": "ˈdræstɪk",
+      "examples": [
+        "He needed a safety net that, however drastic, would protect the Teal.",
+        "The government took drastic measures to fight inflation."
+      ]
+    },
+    {
+      "word": "safety net",
+      "examples": [
+        "He needed a safety net to protect the Teal and all her passengers.",
+        "Unemployment benefits act as a safety net in hard times."
+      ],
+      "key": "safety net"
+    },
+    {
+      "word": "lash out at",
+      "examples": [
+        "He felt the urge to lash out at something or someone.",
+        "In his anger he lashed out at anyone nearby."
+      ],
+      "key": "lash out at"
+    },
+    {
+      "word": "no more than",
+      "examples": [
+        "In the end, the drones were no more than eyes.",
+        "It was no more than a scratch, nothing serious."
+      ]
+    },
+    {
+      "word": "pathetic",
+      "ipa": "pəˈθetɪk",
+      "examples": [
+        "Throw back Snakey's slate with its pathetic skull and crossbones.",
+        "His excuse for being late was absolutely pathetic."
+      ]
+    },
+    {
+      "word": "huddle",
+      "ipa": "ˈhʌdl",
+      "examples": [
+        "Maggie was huddled in the bow, arms around Archie.",
+        "The lost hikers huddled together for warmth."
+      ]
+    },
+    {
+      "word": "pull away from",
+      "examples": [
+        "The dog pulled his head away from her.",
+        "She pulled away from him when he tried to hug her."
+      ],
+      "key": "pull away from"
+    },
+    {
+      "word": "instantly",
+      "ipa": "ˈɪnstəntli",
+      "examples": [
+        "Instantly, Tom knew what he had to do.",
+        "The door flew open instantly at the sound of the bell."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "The old cottage walls were {} white to protect them from the weather.",
+      "answer": "lime-washed",
+      "hint": "刷了石灰水的"
+    },
+    {
+      "prompt": "The fishermen {} the rope to stop it rotting in the sea spray.",
+      "answer": "tarred",
+      "hint": "给…涂焦油"
+    },
+    {
+      "prompt": "{}, birch and willow lined the soggy riverbank.",
+      "answer": "Alders",
+      "hint": "桤木"
+    },
+    {
+      "prompt": "The narrow {} on the ship was barely big enough for one cook.",
+      "answer": "galley",
+      "hint": "（船上/飞机上的）厨房"
+    },
+    {
+      "prompt": "He hung a {} over the side so the hull wouldn't scrape the dock.",
+      "answer": "fender",
+      "hint": "碰垫/护舷"
+    },
+    {
+      "prompt": "Someone {} sharply on the window to get our attention.",
+      "answer": "rapped",
+      "hint": "笃笃地敲"
+    },
+    {
+      "prompt": "The three small children were {} into one seat.",
+      "answer": "squashed",
+      "hint": "挤在一起"
+    },
+    {
+      "prompt": "'Where's my pen?' he asked, {} patting his pockets.",
+      "answer": "absently",
+      "hint": "心不在焉地"
+    },
+    {
+      "prompt": "In June the hedgerows were full of sweet-smelling {}.",
+      "answer": "elderflower",
+      "hint": "接骨木花"
+    },
+    {
+      "prompt": "She poured the fruit {} and then added water to dilute it.",
+      "answer": "cordial",
+      "hint": "浓缩果味糖浆"
+    },
+    {
+      "prompt": "He added some {} water to the syrup to make a fizzy drink.",
+      "answer": "fizzy",
+      "hint": "冒泡的/含气泡的"
+    },
+    {
+      "prompt": "Never drink strong coffee {} first thing in the morning.",
+      "answer": "on an empty stomach",
+      "hint": "空腹"
+    },
+    {
+      "prompt": "The vet gently examined the dog's ears, paws and {}.",
+      "answer": "muzzle",
+      "hint": "（动物的）口鼻部"
+    },
+    {
+      "prompt": "He kept {} the lock, pretending he wasn't nervous.",
+      "answer": "fiddling with",
+      "hint": "摆弄/拨弄"
+    },
+    {
+      "prompt": "The recipe asks you to crush one {} into the sauce.",
+      "answer": "bay leaf",
+      "hint": "月桂叶"
+    },
+    {
+      "prompt": "The sight of the warm chocolate cake {}.",
+      "answer": "made my mouth water",
+      "hint": "令人垂涎/馋得流口水"
+    },
+    {
+      "prompt": "Tonight we're eating {} my parents — come round at seven.",
+      "answer": "chez",
+      "hint": "在…家（法语外来词）"
+    },
+    {
+      "prompt": "Let me {} what happened while you were away.",
+      "answer": "fill you in on",
+      "hint": "把内情补告给…"
+    },
+    {
+      "prompt": "She wore a string of {} pearls at the wedding.",
+      "answer": "pearly",
+      "hint": "珍珠般光泽的"
+    },
+    {
+      "prompt": "The knife slipped and a little of the {} of his finger was cut.",
+      "answer": "flesh",
+      "hint": "肉/肉质"
+    },
+    {
+      "prompt": "The two old friends {} for hours, catching up on everything.",
+      "answer": "chattered away",
+      "hint": "叽叽喳喳闲聊"
+    },
+    {
+      "prompt": "Don't worry about the timetable; I'll {} by tonight.",
+      "answer": "get it all worked out",
+      "hint": "把…全部盘算好"
+    },
+    {
+      "prompt": "We shouldn't just {} and let the problem get worse.",
+      "answer": "sit back",
+      "hint": "袖手旁观"
+    },
+    {
+      "prompt": "The film was {} long for such young children.",
+      "answer": "rather too",
+      "hint": "未免过于"
+    },
+    {
+      "prompt": "They only then realised the {} of what had happened.",
+      "answer": "enormity",
+      "hint": "重大程度/严重性"
+    },
+    {
+      "prompt": "He used a piece of bread to {} the remaining sauce.",
+      "answer": "mop up",
+      "hint": "（蘸/擦）吸干"
+    },
+    {
+      "prompt": "The machine-gunner ducked back inside the tank's {}.",
+      "answer": "turret",
+      "hint": "炮塔"
+    },
+    {
+      "prompt": "The old barn has been {} into a lovely holiday home.",
+      "answer": "adapted",
+      "hint": "改装/改造"
+    },
+    {
+      "prompt": "When they ran out of excuses, they knew {}.",
+      "answer": "the game was up",
+      "hint": "把戏败露了"
+    },
+    {
+      "prompt": "The three dancers made a {} jump at the same beat.",
+      "answer": "simultaneous",
+      "hint": "同时发生的"
+    },
+    {
+      "prompt": "A {} has six rotors and can carry a heavier camera than a quadcopter.",
+      "answer": "hexacopter",
+      "hint": "六轴无人机"
+    },
+    {
+      "prompt": "He hauled a huge {} out of the cold mountain lake.",
+      "answer": "pike",
+      "hint": "狗鱼"
+    },
+    {
+      "prompt": "A fish uses its {} to take in oxygen from water.",
+      "answer": "gills",
+      "hint": "鱼鳃"
+    },
+    {
+      "prompt": "Grandfather {} with pride as his granddaughter collected her prize.",
+      "answer": "beamed",
+      "hint": "眉开眼笑"
+    },
+    {
+      "prompt": "He still writes to his old teacher every year, {}.",
+      "answer": "after all this time",
+      "hint": "时隔这么久"
+    },
+    {
+      "prompt": "So shocked was she that she could only {} in disbelief.",
+      "answer": "hear herself whisper",
+      "hint": "听见自己低声说出"
+    },
+    {
+      "prompt": "The exhibition {} the skills of local artists.",
+      "answer": "showcases",
+      "hint": "展示（突出优点）"
+    },
+    {
+      "prompt": "The market stall offered exotic local {}, from smoked fish to wild honey.",
+      "answer": "delicacies",
+      "hint": "珍馐/地方佳肴"
+    },
+    {
+      "prompt": "The recipe calls for {} salmon served with lemon.",
+      "answer": "poached",
+      "hint": "水波煮的"
+    },
+    {
+      "prompt": "The sauce, made from a tangy wild herb called {}, tasted fresh and sour.",
+      "answer": "wood sorrel",
+      "hint": "酸模（酢浆草）"
+    },
+    {
+      "prompt": "He {} hard to keep from laughing out loud.",
+      "answer": "sucked his cheeks in",
+      "hint": "收腮/把脸颊往里吸"
+    },
+    {
+      "prompt": "The study was lined with beautiful dark oak {}.",
+      "answer": "panelling",
+      "hint": "木镶板/护墙板"
+    },
+    {
+      "prompt": "Whenever reporters came, the firm {} its chairman to give a statement.",
+      "answer": "wheeled out",
+      "hint": "搬出/动用"
+    },
+    {
+      "prompt": "The old professor is a real {}, refusing to use any computer.",
+      "answer": "crusty old dinosaur",
+      "hint": "古板的老顽固/老古董"
+    },
+    {
+      "prompt": "As the ferry {} , the coastline began to shrink behind us.",
+      "answer": "swung out of the bay",
+      "hint": "摆开船头驶离港湾"
+    },
+    {
+      "prompt": "Standing on the {} of the ship, they watched the sunset over the stern.",
+      "answer": "port side",
+      "hint": "左舷"
+    },
+    {
+      "prompt": "The firemen had to mind their {} to the leaking gas.",
+      "answer": "physical proximity",
+      "hint": "物理距离上的靠近"
+    },
+    {
+      "prompt": "The documentary explored the unique {} of the rainforest.",
+      "answer": "flora and fauna",
+      "hint": "动植物群"
+    },
+    {
+      "prompt": "The loud bang made her {} and spill her coffee.",
+      "answer": "give a start",
+      "hint": "猛地一惊/吓一跳"
+    },
+    {
+      "prompt": "Too stunned to speak, he just stood there {} like a landed fish.",
+      "answer": "opening and shutting his mouth",
+      "hint": "嘴巴一张一合说不出话"
+    },
+    {
+      "prompt": "So nervous was he that he began to {} when asked his name.",
+      "answer": "stammer",
+      "hint": "结结巴巴地说"
+    },
+    {
+      "prompt": "He kept {} the flies that buzzed around his head.",
+      "answer": "swatting away",
+      "hint": "挥手拍走"
+    },
+    {
+      "prompt": "The deadline is fixed; it isn't {} .",
+      "answer": "up for discussion",
+      "hint": "可供讨论的"
+    },
+    {
+      "prompt": "She baked a cake using tart red {} from the back garden.",
+      "answer": "rhubarb",
+      "hint": "大黄（食用）"
+    },
+    {
+      "prompt": "He cut a thick {} of cheese and set it on the board.",
+      "answer": "slab",
+      "hint": "厚块/厚片"
+    },
+    {
+      "prompt": "Despite everyone's doubts, she {} carried on with her plan.",
+      "answer": "resolutely",
+      "hint": "坚决地/果断地"
+    },
+    {
+      "prompt": "The old bridge has too many {} to carry heavy lorries safely.",
+      "answer": "weak links",
+      "hint": "薄弱环节/软肋"
+    },
+    {
+      "prompt": "{} rose slowly from the distant factory chimneys.",
+      "answer": "Streaks of smoke",
+      "hint": "一道道烟痕"
+    },
+    {
+      "prompt": "A lovely aroma {} from the kitchen, drawing everyone in.",
+      "answer": "emanated",
+      "hint": "散发/冒出"
+    },
+    {
+      "prompt": "The ball was so fast it burst the net on {}.",
+      "answer": "impact",
+      "hint": "撞击/冲击"
+    },
+    {
+      "prompt": "The sound of rain on the roof was strangely {}.",
+      "answer": "soothing",
+      "hint": "令人平静的"
+    },
+    {
+      "prompt": "Faced with the crisis, the government took {} action.",
+      "answer": "drastic",
+      "hint": "极端的/大刀阔斧的"
+    },
+    {
+      "prompt": "A good savings account acts as a {} during unemployment.",
+      "answer": "safety net",
+      "hint": "兜底保障/安全网"
+    },
+    {
+      "prompt": "Angered, he began to {} his own teammates.",
+      "answer": "lash out at",
+      "hint": "大发雷霆/迁怒攻击"
+    },
+    {
+      "prompt": "The 'huge' discount turned out to be {} a few pennies.",
+      "answer": "no more than",
+      "hint": "仅仅/只不过"
+    },
+    {
+      "prompt": "His attempt to fix the engine was a {} mess of wires.",
+      "answer": "pathetic",
+      "hint": "蹩脚的/差劲的"
+    },
+    {
+      "prompt": "The freezing children {} together under one blanket.",
+      "answer": "huddled",
+      "hint": "蜷缩挤在一起"
+    },
+    {
+      "prompt": "When he reached for her hand, she {} and stepped back.",
+      "answer": "pulled away from",
+      "hint": "挣脱/挪开离开"
+    },
+    {
+      "prompt": "The lights went out {} when the fuse blew.",
+      "answer": "instantly",
+      "hint": "立刻/一瞬间"
+    }
+  ]
+};
+
+window.SPYLARK_DATA["spylark/20"] = {
+  "id": "20",
+  "title": "Chapter 20",
+  "order": 20,
+  "words": [
+    {
+      "word": "exhilaration",
+      "ipa": "ɪɡˌzɪləˈreɪʃn",
+      "examples": [
+        "He was tight with fear, not laughing in exhilaration as before.",
+        "The climbers shouted with exhilaration when they reached the summit."
+      ]
+    },
+    {
+      "word": "bow rails",
+      "examples": [
+        "Tom was leaning over the bow rails of the Teal.",
+        "Passengers gripped the bow rails as the ship cut through the rough sea."
+      ]
+    },
+    {
+      "word": "white knuckles",
+      "examples": [
+        "He grabbed the cold metal of the railings with white knuckles.",
+        "She held the armrest with white knuckles during the turbulent landing."
+      ]
+    },
+    {
+      "word": "spin the wheel",
+      "examples": [
+        "Rufus Clay was on the bridge, spinning the wheel like a madman.",
+        "The old sailor began to spin the wheel to turn the boat around."
+      ],
+      "key": "spin the wheel"
+    },
+    {
+      "word": "platter",
+      "ipa": "ˈplætə(r)",
+      "examples": [
+        "Snakey was presenting the Queen with a huge fish on a platter.",
+        "The turkey was served on a large silver platter."
+      ]
+    },
+    {
+      "word": "hoarse",
+      "ipa": "hɔːs",
+      "examples": [
+        "His voice was a hoarse whisper that was whipped away by the wind.",
+        "After shouting all night, his voice had gone hoarse."
+      ]
+    },
+    {
+      "word": "hacksaw",
+      "ipa": "ˈhæksɔː",
+      "examples": [
+        "On another bench there was a couple of hacksaws.",
+        "He used a hacksaw to cut through the metal pipe."
+      ]
+    },
+    {
+      "word": "blowtorch",
+      "ipa": "ˈbləʊtɔːtʃ",
+      "examples": [
+        "On the bench lay a blowtorch and a scattering of syringes.",
+        "The plumber used a blowtorch to join the copper pipes."
+      ]
+    },
+    {
+      "word": "syringe",
+      "ipa": "sɪˈrɪndʒ",
+      "examples": [
+        "There were a couple of hacksaws and a scattering of syringes.",
+        "The nurse filled a syringe with the vaccine."
+      ]
+    },
+    {
+      "word": "matt",
+      "ipa": "mæt",
+      "examples": [
+        "Each drone had been painted a matt grey.",
+        "Choose a matt finish for the wall so it doesn't glare."
+      ]
+    },
+    {
+      "word": "matt gray",
+      "examples": [
+        "Each drone had been painted a matt grey to avoid reflection.",
+        "The military vehicle was coated in matt gray paint."
+      ]
+    },
+    {
+      "word": "nostrils",
+      "ipa": "ˈnɒstrəlz",
+      "examples": [
+        "Maggie's nostrils flared at the smell.",
+        "The horse flared its nostrils and snorted."
+      ]
+    },
+    {
+      "word": "prop",
+      "ipa": "prɒp",
+      "examples": [
+        "She propped the door open with a fire extinguisher.",
+        "He propped his bicycle against the wall."
+      ],
+      "key": "prop"
+    },
+    {
+      "word": "slump",
+      "ipa": "slʌmp",
+      "examples": [
+        "She pulled a dart out and the bear slumped on its side, as if dead.",
+        "He slumped into the chair, exhausted after the marathon."
+      ]
+    },
+    {
+      "word": "bung",
+      "ipa": "bʌŋ",
+      "examples": [
+        "A hollow needle was stuck into a rubber bung.",
+        "He pulled the rubber bung out of the bucket to drain the water."
+      ]
+    },
+    {
+      "word": "run a hand through one's hair",
+      "examples": [
+        "Tom swung his legs over the sofa and ran a hand through his hair.",
+        "He nervously ran a hand through his hair before answering."
+      ],
+      "key": "run a hand through one's hair"
+    },
+    {
+      "word": "pros",
+      "ipa": "prɒz",
+      "examples": [
+        "The people we are dealing with are pros, not schoolboys.",
+        "Don't worry — they're pros and know exactly what to do."
+      ]
+    },
+    {
+      "word": "come quietly",
+      "examples": [
+        "What if they don't come quietly when we turn up?",
+        "The suspect was told to come quietly or be arrested by force."
+      ],
+      "key": "come quietly"
+    },
+    {
+      "word": "the nuclear option",
+      "examples": [
+        "So you think we need a 'nuclear option'?",
+        "Firing everyone was seen as the nuclear option of management."
+      ],
+      "key": "the nuclear option"
+    },
+    {
+      "word": "sawn-off",
+      "ipa": "sɔːn ɒf",
+      "examples": [
+        "A cluster of metal tubes, like sawn-off shotguns, had sprouted from the machine.",
+        "He carried a sawn-off shotgun under his coat."
+      ]
+    },
+    {
+      "word": "shotgun",
+      "ipa": "ˈʃɒtɡʌn",
+      "examples": [
+        "A cluster of metal tubes like sawn-off shotguns.",
+        "The farmer kept a shotgun to scare off foxes."
+      ]
+    },
+    {
+      "word": "sprout overnight",
+      "examples": [
+        "Metal tubes had sprouted overnight from the centre of the machine.",
+        "New coffee shops seem to sprout overnight in this district."
+      ],
+      "key": "sprout overnight"
+    },
+    {
+      "word": "pneumatic",
+      "ipa": "njuːˈmætɪk",
+      "examples": [
+        "There was a pneumatic hiss, like a sharp intake of breath.",
+        "The factory uses pneumatic tools to drill the metal."
+      ]
+    },
+    {
+      "word": "sickeningly",
+      "ipa": "ˈsɪkənɪŋli",
+      "examples": [
+        "The weapon was sickeningly quiet.",
+        "The room fell into a sickeningly familiar silence."
+      ]
+    },
+    {
+      "word": "solemnly",
+      "ipa": "ˈsɒləmli",
+      "examples": [
+        "The others watched him solemnly as he shut the drone down.",
+        "He solemnly promised that he would return by nightfall."
+      ]
+    },
+    {
+      "word": "innocently",
+      "ipa": "ˈɪnəsntli",
+      "examples": [
+        "Two other drones, each parked innocently in front of its monitor.",
+        "The child looked up innocently and asked, 'Who, me?'"
+      ]
+    },
+    {
+      "word": "We don't have long",
+      "examples": [
+        "Listen carefully, because we don't have long.",
+        "Hurry — we don't have long before the shop closes."
+      ]
+    },
+    {
+      "word": "coordinate",
+      "ipa": "kəʊˈɔːdɪneɪt",
+      "examples": [
+        "We have to coordinate our attack exactly.",
+        "The volunteers coordinated the rescue effort across the valley."
+      ]
+    },
+    {
+      "word": "the tricky bit",
+      "examples": [
+        "We have to coordinate our attack exactly, and that's the tricky bit.",
+        "Getting it started is easy; keeping it running is the tricky bit."
+      ],
+      "key": "the tricky bit"
+    },
+    {
+      "word": "pass across",
+      "examples": [
+        "A flicker of doubt passed across her face.",
+        "A shadow of sadness passed across his eyes."
+      ],
+      "key": "pass across"
+    },
+    {
+      "word": "a flicker of doubt",
+      "examples": [
+        "But a flicker of doubt passed across her face.",
+        "For a moment a flicker of doubt crossed his mind."
+      ],
+      "key": "a flicker of doubt"
+    },
+    {
+      "word": "rounds",
+      "ipa": "raʊndz",
+      "examples": [
+        "There are four rounds on each drone.",
+        "The soldier loaded a few extra rounds into his rifle."
+      ]
+    },
+    {
+      "word": "fast-acting",
+      "ipa": "ˌfɑːst ˈæktɪŋ",
+      "examples": [
+        "One shot will administer a dose of a fast-acting anaesthetic.",
+        "Keep a fast-acting painkiller in the first-aid kit."
+      ]
+    },
+    {
+      "word": "anaesthetic",
+      "ipa": "ˌænəsˈθetɪk",
+      "examples": [
+        "A dose of a fast-acting anaesthetic.",
+        "The dentist gave him a local anaesthetic before pulling the tooth."
+      ]
+    },
+    {
+      "word": "put someone out",
+      "examples": [
+        "The anaesthetic will put the terrorists out for just long enough.",
+        "The gas was strong enough to put the whole household out."
+      ],
+      "key": "put ... out"
+    },
+    {
+      "word": "sail out of range",
+      "examples": [
+        "It will put them out long enough for the Teal to sail out of range.",
+        "The ship increased speed to sail out of range of the shore guns."
+      ],
+      "key": "sail out of range"
+    },
+    {
+      "word": "twenty minutes tops",
+      "examples": [
+        "Twenty minutes tops for the hexacopters.",
+        "The walk should take ten minutes tops."
+      ]
+    },
+    {
+      "word": "be yet to do",
+      "examples": [
+        "He knew the worst was yet to come.",
+        "The full consequences of the decision are yet to be seen."
+      ],
+      "key": "be yet to do"
+    },
+    {
+      "word": "juice",
+      "ipa": "dʒuːs",
+      "examples": [
+        "There won't be enough juice to get the drones back home.",
+        "My phone is dead — it's completely out of juice."
+      ]
+    },
+    {
+      "word": "administer",
+      "ipa": "ədˈmɪnɪstə(r)",
+      "examples": [
+        "One shot will administer a dose of anaesthetic.",
+        "The nurse administered the injection very slowly."
+      ]
+    },
+    {
+      "word": "propofol",
+      "ipa": "ˈprəʊpəfɒl",
+      "examples": [
+        "Propofol would do the job as an emergency anaesthetic.",
+        "The patient was kept under with a steady drip of propofol."
+      ]
+    },
+    {
+      "word": "hold out one's palms in refusal",
+      "examples": [
+        "Maggie held out her palms in refusal.",
+        "He held up both hands in refusal and backed away."
+      ],
+      "key": "hold out one's palms in refusal"
+    },
+    {
+      "word": "nosedive",
+      "ipa": "ˈnəʊzdaɪv",
+      "examples": [
+        "Then we'll nosedive all three drones into the water.",
+        "The plane seemed to nosedive straight towards the ground."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "The children screamed with {} as the roller coaster plunged down.",
+      "answer": "exhilaration",
+      "hint": "极度兴奋/狂喜"
+    },
+    {
+      "prompt": "Tourists crowded the {} to feel the sea spray on their faces.",
+      "answer": "bow rails",
+      "hint": "船头栏杆"
+    },
+    {
+      "prompt": "During the storm he clutched the railing with {}.",
+      "answer": "white knuckles",
+      "hint": "（紧张得）指节发白"
+    },
+    {
+      "prompt": "The runaway driver {} wildly as the car swerved.",
+      "answer": "spun the wheel",
+      "hint": "猛打方向盘"
+    },
+    {
+      "prompt": "The roasted ham was presented on a huge silver {}.",
+      "answer": "platter",
+      "hint": "大浅盘/大餐盘"
+    },
+    {
+      "prompt": "After hours of shouting for help, his voice came out as a {} whisper.",
+      "answer": "hoarse",
+      "hint": "沙哑的"
+    },
+    {
+      "prompt": "He needed a {} to cut through the steel bar.",
+      "answer": "hacksaw",
+      "hint": "钢锯"
+    },
+    {
+      "prompt": "The welder lit the {} to heat the metal.",
+      "answer": "blowtorch",
+      "hint": "喷灯/焊枪"
+    },
+    {
+      "prompt": "The vet drew the medicine into a clean {}.",
+      "answer": "syringe",
+      "hint": "注射器/针筒"
+    },
+    {
+      "prompt": "The wall was painted with a flat, {} finish to reduce glare.",
+      "answer": "matt",
+      "hint": "哑光的"
+    },
+    {
+      "prompt": "The fighter jet was coated in dull {} to hide its reflection.",
+      "answer": "matt gray",
+      "hint": "哑光灰"
+    },
+    {
+      "prompt": "The stag {} its nostrils at the strange scent.",
+      "answer": "flared",
+      "hint": "（鼻孔）张开/扩张"
+    },
+    {
+      "prompt": "He {} the gate open with a stone so it wouldn't shut.",
+      "answer": "propped",
+      "hint": "用东西顶住撑住"
+    },
+    {
+      "prompt": "Exhausted, he {} into the sofa and fell asleep at once.",
+      "answer": "slumped",
+      "hint": "瘫倒/颓然倒下"
+    },
+    {
+      "prompt": "He pulled the rubber {} from the barrel and the water poured out.",
+      "answer": "bung",
+      "hint": "（容器的）密封塞"
+    },
+    {
+      "prompt": "Nervously, he {} before stepping onto the stage.",
+      "answer": "ran a hand through his hair",
+      "hint": "用手捋过头发"
+    },
+    {
+      "prompt": "Leave the roof repair to the {} — they'll do it fast.",
+      "answer": "pros",
+      "hint": "内行/专业老手"
+    },
+    {
+      "prompt": "The officers told the thief to {} or face force.",
+      "answer": "come quietly",
+      "hint": "乖乖就擒"
+    },
+    {
+      "prompt": "Quitting his job was the {} of a man who had no other choice.",
+      "answer": "nuclear option",
+      "hint": "孤注一掷的终极方案"
+    },
+    {
+      "prompt": "He carried a {} shotgun concealed under his coat.",
+      "answer": "sawn-off",
+      "hint": "锯短的"
+    },
+    {
+      "prompt": "The hunter loaded the {} and waited at the edge of the woods.",
+      "answer": "shotgun",
+      "hint": "霰弹枪/猎枪"
+    },
+    {
+      "prompt": "Pop-up stores seem to {} along the busy high street.",
+      "answer": "sprout overnight",
+      "hint": "一夜之间冒出来"
+    },
+    {
+      "prompt": "The {} brakes of the train hissed as it slowed.",
+      "answer": "pneumatic",
+      "hint": "气动的"
+    },
+    {
+      "prompt": "The gun fired with a {} silence that chilled her.",
+      "answer": "sickeningly",
+      "hint": "令人发慌/叫人不适地"
+    },
+    {
+      "prompt": "He {} placed his hand on the flag and swore an oath.",
+      "answer": "solemnly",
+      "hint": "严肃地/郑重地"
+    },
+    {
+      "prompt": "'Did you eat the cake?' the toddler asked {} with wide eyes.",
+      "answer": "innocently",
+      "hint": "若无其事地/无辜地"
+    },
+    {
+      "prompt": "Let's talk fast — {} before the meeting starts.",
+      "answer": "we don't have long",
+      "hint": "我们时间不多"
+    },
+    {
+      "prompt": "Two teams worked together to {} the relief effort.",
+      "answer": "coordinate",
+      "hint": "协调/统筹"
+    },
+    {
+      "prompt": "Starting is easy; maintaining it over years is {}.",
+      "answer": "the tricky bit",
+      "hint": "最棘手的环节"
+    },
+    {
+      "prompt": "For a second a shadow of fear {} his face.",
+      "answer": "passed across",
+      "hint": "掠过/一闪而过"
+    },
+    {
+      "prompt": "She agreed, though {} crossed her mind.",
+      "answer": "a flicker of doubt",
+      "hint": "一丝疑虑"
+    },
+    {
+      "prompt": "The soldier checked his {} before the exercise began.",
+      "answer": "rounds",
+      "hint": "弹药/发弹"
+    },
+    {
+      "prompt": "A {} painkiller is essential for the first-aid box.",
+      "answer": "fast-acting",
+      "hint": "速效的"
+    },
+    {
+      "prompt": "The dentist gave him a local {} before pulling the tooth.",
+      "answer": "anaesthetic",
+      "hint": "麻醉剂"
+    },
+    {
+      "prompt": "The gas was strong enough to {} the guard for an hour.",
+      "answer": "put out",
+      "hint": "麻醉放倒/使失去意识"
+    },
+    {
+      "prompt": "The ship sped up to {} from the enemy's guns.",
+      "answer": "sail out of range",
+      "hint": "驶出射程范围"
+    },
+    {
+      "prompt": "The job should only take an hour, {}.",
+      "answer": "tops",
+      "hint": "（口语）顶多/至多"
+    },
+    {
+      "prompt": "After all their hard work, they felt the best {}.",
+      "answer": "was yet to come",
+      "hint": "尚未到来"
+    },
+    {
+      "prompt": "My laptop has no {} left; I need to charge it.",
+      "answer": "juice",
+      "hint": "（口语）电量"
+    },
+    {
+      "prompt": "The vet carefully {} a sedative to the frightened horse.",
+      "answer": "administered",
+      "hint": "施用/给药"
+    },
+    {
+      "prompt": "The surgeon used {} to keep the patient asleep during surgery.",
+      "answer": "propofol",
+      "hint": "丙泊酚（静脉麻醉药）"
+    },
+    {
+      "prompt": "She {} , refusing to take part in the risky plan.",
+      "answer": "held out her palms in refusal",
+      "hint": "摊开双手表示拒绝"
+    },
+    {
+      "prompt": "The hawk {} from a great height to seize its prey.",
+      "answer": "nosedived",
+      "hint": "俯冲/头朝下猛冲"
     }
   ]
 };
