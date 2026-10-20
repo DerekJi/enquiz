@@ -1,0 +1,150 @@
+{
+  "id": "34",
+  "title": "Chapter 34",
+  "order": 34,
+  "words": [
+    {
+      "word": "a knight in armour",
+      "trans": "常见固定比喻表达，完整原版习语是 a knight in shining armour（身穿闪亮铠甲的骑士）。喻义：救星、白马王子；危难时刻挺身而出帮你的人（英式 armour / 美式 armor）",
+      "examples": [
+        "You were like a knight in armour, the way you were waving that branch around!"
+      ],
+      "ipa": "ə ˌnaɪt ɪn ˈʃaɪnɪŋ ˈɑːmə(r)",
+      "key": "a knight in shining armour"
+    },
+    {
+      "word": "make out",
+      "trans": "① 辨认出、看清（原本模糊、不易分清的东西——重点：费力才勉强看出来，不是清清楚楚看见）；② 理解、弄明白；③ 写（支票、汇票）。make out + 从句 时多取“理解”义",
+      "examples": [
+        "After a while they could make out the shapes of branches."
+      ],
+      "key": "make out"
+    },
+    {
+      "word": "silhouette",
+      "trans": "v. 使呈现剪影、使显出黑色轮廓（be silhouetted against... 在……映衬下显出黑色轮廓）；n. 剪影、黑色轮廓（作后置定语时：形成剪影的、轮廓黝黑的）",
+      "examples": [
+        "They could make out the shapes of branches silhouetted against the night sky."
+      ],
+      "ipa": "ˌsɪluˈet"
+    },
+    {
+      "word": "beck",
+      "trans": "n.（英式北部/苏格兰文学用词）小溪、山涧、小河沟（= small stream，多指山区、荒原里那种浅浅的流水溪，正是荒野小说的场景词；⚠️ 美式英语几乎不用这个义项）",
+      "examples": [
+        "The tiny beck in the middle of the gorge was lost in moon shadow."
+      ],
+      "ipa": "bek"
+    },
+    {
+      "word": "gorge",
+      "trans": "n. 峡谷、峡沟；咽喉；v. 狼吞虎咽、暴食（gorge oneself on sth）",
+      "examples": [
+        "The tiny beck in the middle of the gorge was lost in moon shadow."
+      ],
+      "ipa": "ɡɔːdʒ"
+    },
+    {
+      "word": "updraught",
+      "trans": "n.（英式拼写；美式 updraft）上升气流、上涌气流——空气顺着山坡、悬崖向上抬升形成的气流，正合峡谷、峭壁、荒原这类场景",
+      "examples": [
+        "Carried to their ears by the gentle updraught."
+      ],
+      "ipa": "ˈʌpdrɑːft"
+    },
+    {
+      "word": "draught",
+      "trans": "n. 一股气流、一阵风；一口（饮品）。a cold draught 一股穿堂冷风；draught beer 生啤、扎啤（英式拼写，美式 draft）",
+      "examples": [
+        "A cold draught blew through the open window."
+      ],
+      "ipa": "drɑːft"
+    },
+    {
+      "word": "floodlit",
+      "trans": "adj. 泛光灯照亮的、被强力探照灯照亮的（动词 floodlight 的过去式/过去分词作形容词）",
+      "examples": [
+        "Hurried figures were moving around the floodlit yard."
+      ],
+      "ipa": "ˈflʌdlɪt"
+    },
+    {
+      "word": "stalk",
+      "trans": "n.（植物的）茎、秆、柄（野草、蕨类、禾本植物的长秆，不是树干 trunk、树枝 branch）；也指（芹菜、芦笋等的）茎",
+      "examples": [
+        "She could see every hair stand out on the stalks of bracken."
+      ],
+      "ipa": "stɔːk"
+    },
+    {
+      "word": "shaft",
+      "trans": "n.（光的）一束、一道（文学描写光线高频：shafts of light 一束束光柱）；也指杆、柄、竖井",
+      "examples": [
+        "The drones were casting cone-shaped shafts of light through patches of mist."
+      ],
+      "ipa": "ʃɑːft"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "You came to my rescue like a knight in shining {}.",
+      "answer": "armour",
+      "hint": "（习语）救星、白马王子"
+    },
+    {
+      "prompt": "Through the fog I could just {} the outline of a house.",
+      "answer": "make out",
+      "hint": "勉强辨认出、看清"
+    },
+    {
+      "prompt": "He couldn't {} what she meant by that remark.",
+      "answer": "make out",
+      "hint": "理解、弄明白"
+    },
+    {
+      "prompt": "The castle was {} against the setting sun.",
+      "answer": "silhouetted",
+      "hint": "呈现剪影、显出黑色轮廓"
+    },
+    {
+      "prompt": "A clear {} wound through the valley.",
+      "answer": "beck",
+      "hint": "（山区）小溪、山涧"
+    },
+    {
+      "prompt": "The river had cut a deep {} between the cliffs.",
+      "answer": "gorge",
+      "hint": "峡谷、峡沟"
+    },
+    {
+      "prompt": "Warm {} lifted the glider higher.",
+      "answer": "updraught",
+      "hint": "上升气流"
+    },
+    {
+      "prompt": "Shut the door—there's a cold {} coming in.",
+      "answer": "draught",
+      "hint": "一股气流、穿堂风"
+    },
+    {
+      "prompt": "We sat at the bar and ordered a {} of beer.",
+      "answer": "draught",
+      "hint": "（draught beer）生啤、扎啤"
+    },
+    {
+      "prompt": "The stadium was brightly {} at night.",
+      "answer": "floodlit",
+      "hint": "泛光灯照亮的"
+    },
+    {
+      "prompt": "He snapped a {} of celery and ate it.",
+      "answer": "stalk",
+      "hint": "（植物的）茎、秆"
+    },
+    {
+      "prompt": "Sunlight came in golden {} through the window.",
+      "answer": "shafts",
+      "hint": "（光的）一束、一道"
+    }
+  ]
+}

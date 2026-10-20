@@ -1,0 +1,657 @@
+{
+  "id": "38",
+  "title": "Chapter 38",
+  "order": 38,
+  "words": [
+    {
+      "word": "caress",
+      "trans": "v. 轻抚、温柔触碰（此处拟人写水草轻拂腿）",
+      "examples": [
+        "Water weeds caressed the back of his legs."
+      ],
+      "ipa": "kəˈres"
+    },
+    {
+      "word": "find oneself doing sth",
+      "trans": "句式：不由自主、不知不觉做某事（强调没刻意就做出了某动作/状态）",
+      "examples": [
+        "He slumped on a chair to read the note again before it would sink in. \"Crazy!\" he found himself almost shouting to the walls."
+      ],
+      "key": "find oneself doing sth"
+    },
+    {
+      "word": "a viper's nest",
+      "trans": "习语：字面\"毒蛇窝\"，实际指龙潭虎穴、危机四伏、遍布敌人的险境",
+      "examples": [
+        "Maggie and Joel were walking into a viper's nest."
+      ],
+      "key": "a viper's nest"
+    },
+    {
+      "word": "scribble",
+      "trans": "v. 潦草地写、草草书写",
+      "examples": [
+        "He scribbled a message on the paper, rolled it up tight."
+      ],
+      "ipa": "ˈskrɪbl"
+    },
+    {
+      "word": "landline",
+      "trans": "n. 座机、固定电话（相对于手机 mobile）",
+      "examples": [
+        "He picked up Uncle Ted's old landline that hung on the wall."
+      ],
+      "ipa": "ˈlændlaɪn"
+    },
+    {
+      "word": "relief map",
+      "trans": "名词短语：（地形）地势起伏图、立体地势图（用阴影/色彩表现高低的山峦地图）",
+      "examples": [
+        "He kept climbing until fells and valleys spread out like a relief map."
+      ],
+      "key": "relief map"
+    },
+    {
+      "word": "fir tree",
+      "trans": "n. 冷杉树（针叶常绿）",
+      "examples": [
+        "He reached a small tarn enclosed with fir trees."
+      ],
+      "key": "fir tree"
+    },
+    {
+      "word": "wisp",
+      "trans": "n. 一缕（烟、雾）；wisps of mist 缕缕薄雾",
+      "examples": [
+        "A small tarn, a few wisps of mist rising from the water."
+      ],
+      "ipa": "wɪsp"
+    },
+    {
+      "word": "a stretch of",
+      "trans": "短语：一片、一段（土地/水域，沿一个方向延伸的一条）",
+      "examples": [
+        "He spotted their camping place on a stretch of solid ground running alongside a stream."
+      ],
+      "key": "a stretch of"
+    },
+    {
+      "word": "vicious",
+      "trans": "adj.（口语）很深的、剧烈的；恶劣的；凶恶残暴的（vicious tyre marks 很深的轮胎印痕）",
+      "examples": [
+        "Some vicious tyre marks told him all he needed to know."
+      ],
+      "ipa": "ˈvɪʃəs"
+    },
+    {
+      "word": "squat",
+      "trans": "adj. 低矮敦实的（矮而粗短）；v./n. 蹲",
+      "examples": [
+        "He began to cross the valley towards the squat grey set of buildings."
+      ],
+      "ipa": "skwɒt"
+    },
+    {
+      "word": "break into a smile",
+      "trans": "短语：突然绽开笑容（break into + 表情/反应，突然露出）",
+      "examples": [
+        "He couldn't help breaking into a smile when he realized his escape left evidence everywhere."
+      ],
+      "key": "break into a smile"
+    },
+    {
+      "word": "flail",
+      "trans": "v. 乱挥、抽打（flail the bracken with sticks 用棍子乱扫蕨丛）",
+      "examples": [
+        "A couple of men with dogs were descending towards the stream, flailing the waist-high bracken with sticks."
+      ],
+      "ipa": "fleɪl"
+    },
+    {
+      "word": "no sign of",
+      "trans": "短语：不见……的踪影、没有……的迹象",
+      "examples": [
+        "There was no sign of Maggie and Joel."
+      ],
+      "key": "no sign of"
+    },
+    {
+      "word": "gnarled",
+      "trans": "adj.（树木/老枝）多节瘤的、扭曲粗糙的",
+      "examples": [
+        "Something in the sky above the gnarled top of Sour Hollow Crag caught a flash of sunlight."
+      ],
+      "ipa": "nɑːld"
+    },
+    {
+      "word": "bulky",
+      "trans": "adj. 庞大笨重的（bulk 体积）",
+      "examples": [
+        "A hexacopter with a bulky fuselage was following the rim of the valley."
+      ],
+      "ipa": "ˈbʌlki"
+    },
+    {
+      "word": "fuselage",
+      "trans": "n.（飞行器的）机身（承载乘客/设备的主体部分）",
+      "examples": [
+        "A powerful-looking hexacopter with a bulky fuselage was searching the ground."
+      ],
+      "ipa": "ˈfjuːzəlɑːʒ"
+    },
+    {
+      "word": "shudder to think",
+      "trans": "固定表达：一想到……就不寒而栗、不敢往下想",
+      "examples": [
+        "He shuddered to think who might be at the controls somewhere in that building."
+      ],
+      "key": "shudder to think"
+    },
+    {
+      "word": "at all costs",
+      "trans": "习语：不惜一切代价（= at any cost）",
+      "examples": [
+        "Rufus Clay calmly gave orders to find the fugitive at all costs."
+      ],
+      "key": "at all costs"
+    },
+    {
+      "word": "It was now or never",
+      "trans": "习语：机不可失、时不再来（要么现在就动手，要么永远没机会）",
+      "examples": [
+        "The sky was clear above the farm. It was now or never."
+      ],
+      "key": "It was now or never"
+    },
+    {
+      "word": "frenzy",
+      "trans": "n. 狂乱、慌乱；in a frenzy 内心极度慌乱/狂躁",
+      "examples": [
+        "He forced his shaking hands to relax, though his mind was in a frenzy."
+      ],
+      "ipa": "ˈfrenzi"
+    },
+    {
+      "word": "buzzard",
+      "trans": "n. 鵟（大型猛禽，盘旋搜寻猎物）",
+      "examples": [
+        "He angled into a steep glide, looking for the hatch like a buzzard hunting for prey."
+      ],
+      "ipa": "ˈbʌzəd"
+    },
+    {
+      "word": "jumble",
+      "trans": "n. 杂乱一堆；a jumble of 一堆乱糟糟的……",
+      "examples": [
+        "The shapeless grey rooftop began to separate into a jumble of gables and skylights."
+      ],
+      "ipa": "ˈdʒʌmbl"
+    },
+    {
+      "word": "gable",
+      "trans": "n.（建筑）山墙、三角墙（屋顶两侧的三角形墙）",
+      "examples": [
+        "The rooftop separated into a jumble of gables and skylights, ducts and pipes."
+      ],
+      "ipa": "ˈɡeɪbl"
+    },
+    {
+      "word": "lair",
+      "trans": "n.（野兽）巢穴；坏人老窝、藏身处（贬义）",
+      "examples": [
+        "Finding that opening he'd spotted while he was inside Clay's lair was going to be impossible."
+      ],
+      "ipa": "leə(r)"
+    },
+    {
+      "word": "corrugated",
+      "trans": "adj. 有波纹的、瓦楞状的（压出平行褶皱沟槽以增强强度）",
+      "examples": [
+        "The rooftop was full of slate and corrugated iron, but no way in."
+      ],
+      "ipa": "ˈkɒrəɡeɪtɪd"
+    },
+    {
+      "word": "corrugated iron",
+      "trans": "名词短语：波纹铁皮、瓦楞铁皮（屋顶常用材料）",
+      "examples": [
+        "The rooftop was full of slate and corrugated iron."
+      ],
+      "key": "corrugated iron"
+    },
+    {
+      "word": "duck into",
+      "trans": "短语：一闪身迅速钻进（duck 低头躲避般快速进入）",
+      "examples": [
+        "He ducked into the room full of bird drones."
+      ],
+      "key": "duck into"
+    },
+    {
+      "word": "tranquil",
+      "trans": "adj. 平静的、安静的（= calm，书面）",
+      "examples": [
+        "The staring birds stood grimly tranquil on their perches and wires."
+      ],
+      "ipa": "ˈtræŋkwɪl"
+    },
+    {
+      "word": "perch",
+      "trans": "n.（鸟）栖木、栖息架；v. 栖息、落在高处",
+      "examples": [
+        "The staring birds stood grimly tranquil on their perches and wires."
+      ],
+      "ipa": "pɜːtʃ"
+    },
+    {
+      "word": "flash up",
+      "trans": "短语：（屏幕画面）闪现、跳出来",
+      "examples": [
+        "As they flashed up on the screen, he thought they would win a wildlife competition."
+      ],
+      "key": "flash up"
+    },
+    {
+      "word": "stand a better chance of doing",
+      "trans": "固定句式：有更大机会做某事、更有可能做……（stand a chance of 有机会）",
+      "examples": [
+        "He thought the photos would stand a better chance of winning a wildlife competition than incriminating Clay."
+      ],
+      "key": "stand a better chance of doing"
+    },
+    {
+      "word": "incriminate",
+      "trans": "v. 使显出有罪、连累、指控……涉案（作犯罪证据）",
+      "examples": [
+        "They would stand a better chance of winning a wildlife prize than incriminating Rufus Clay as a terrorist mastermind."
+      ],
+      "ipa": "ɪnˈkrɪmɪneɪt"
+    },
+    {
+      "word": "pulse racing",
+      "trans": "常用表达：脉搏狂跳、心跳加速（紧张/恐惧时）",
+      "examples": [
+        "He was back in the cell, his pulse racing."
+      ],
+      "key": "pulse racing"
+    },
+    {
+      "word": "reassure",
+      "trans": "v. 使安心、消除疑虑（re- 再 + assure 保证）",
+      "examples": [
+        "He had to gulp air to reassure himself he was miles away in his workshop."
+      ],
+      "ipa": "ˌriːəˈʃʊə(r)"
+    },
+    {
+      "word": "on one's way",
+      "trans": "短语：正在赶来的路上（= coming/en route）",
+      "examples": [
+        "He gulped air to reassure himself that the police were on their way."
+      ],
+      "key": "on one's way"
+    },
+    {
+      "word": "retrace",
+      "trans": "v. 原路折返、重走来路；retrace the route 重走那条路线",
+      "examples": [
+        "He retraced the route Mike McCain had taken him, until he faced that unmarked door."
+      ],
+      "ipa": "rɪˈtreɪs"
+    },
+    {
+      "word": "think through",
+      "trans": "短语：全盘考虑、彻底想明白（把每步后果都想清楚）",
+      "examples": [
+        "This was a dead end he had not thought through."
+      ],
+      "key": "think through"
+    },
+    {
+      "word": "go out",
+      "trans": "短语：（灯火/火）熄灭、被吹灭",
+      "examples": [
+        "He saw the light go out."
+      ],
+      "key": "go out"
+    },
+    {
+      "word": "nose cone",
+      "trans": "名词短语：机头锥、飞行器头部整流锥罩",
+      "examples": [
+        "He promised to build a microphone into Skylark's nose cone."
+      ],
+      "key": "nose cone"
+    },
+    {
+      "word": "threshold",
+      "trans": "n. 门槛、门口（引申：临界点、开端）",
+      "examples": [
+        "Rufus Clay stood in the threshold, blinking."
+      ],
+      "ipa": "ˈθreʃhəʊld"
+    },
+    {
+      "word": "shoot over",
+      "trans": "短语：飞速冲过、掠过（从上方快速飞过）",
+      "examples": [
+        "Tom shot over his head, into the office, and landed on the desk."
+      ],
+      "key": "shoot over"
+    },
+    {
+      "word": "boxy",
+      "trans": "adj. 方方正正的（像箱子一样）",
+      "examples": [
+        "Behind them was some kind of boxy concrete structure and a cluster of palm trees."
+      ],
+      "ipa": "ˈbɒksi"
+    },
+    {
+      "word": "stately",
+      "trans": "adj. 庄重威严的、气派的（stately manor 庄严府邸）",
+      "examples": [
+        "There on a stand was the peregrine falcon, stately and statuesque."
+      ],
+      "ipa": "ˈsteɪtli"
+    },
+    {
+      "word": "statuesque",
+      "trans": "adj.（尤女子）雕像般高大端庄的、颀长秀美的",
+      "examples": [
+        "The peregrine falcon stood stately and statuesque on a stand."
+      ],
+      "ipa": "ˌstætʃuˈesk"
+    },
+    {
+      "word": "cavity",
+      "trans": "n. 空洞、腔体（牙洞/胸腔等空腔）",
+      "examples": [
+        "It had a cavity open in its chest, revealing entrails of bright components."
+      ],
+      "ipa": "ˈkævəti"
+    },
+    {
+      "word": "entrails",
+      "trans": "n.〔复数〕内脏；此处引申（机器）内部构件、内藏",
+      "examples": [
+        "A cavity open in its chest revealed entrails of bright components."
+      ],
+      "ipa": "ˈentreɪlz"
+    },
+    {
+      "word": "stalk",
+      "trans": "v. 大步逼近；（像猎食动物）蹑手蹑脚悄悄靠近（stalk one's way closer 一步步逼近）",
+      "examples": [
+        "He stalked his way closer, wary but curious, step by step, to Skylark."
+      ],
+      "ipa": "stɔːk"
+    },
+    {
+      "word": "come to a stop",
+      "trans": "短语：停下来（车/滚动物体停住）",
+      "examples": [
+        "He saw the canister roll out across the desk and come to a stop."
+      ],
+      "key": "come to a stop"
+    },
+    {
+      "word": "twitch",
+      "trans": "v.（嘴角/肌肉）抽动、微动",
+      "examples": [
+        "He thought he saw the corners of Rufus Clay's mouth twitch into the faintest smile."
+      ],
+      "ipa": "twɪtʃ"
+    },
+    {
+      "word": "smile for the camera",
+      "trans": "固定习语（拍照专用）：为了相机（拍出来好看）而微笑；摄影师常说 Smile for the camera!",
+      "examples": [
+        "He recited the message on the note: Smile for the camera."
+      ],
+      "key": "smile for the camera"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "Water weeds {} the back of his legs as he drifted.",
+      "answer": "caressed",
+      "hint": "轻抚"
+    },
+    {
+      "prompt": "He {} almost shouting at the walls.",
+      "answer": "found himself",
+      "hint": "不知不觉（find oneself doing）"
+    },
+    {
+      "prompt": "Maggie and Joel were walking into a {} nest.",
+      "answer": "viper's",
+      "hint": "毒蛇窝/险境（a viper's nest）"
+    },
+    {
+      "prompt": "He {} a message on the paper.",
+      "answer": "scribbled",
+      "hint": "潦草地写"
+    },
+    {
+      "prompt": "He picked up the old {} on the wall.",
+      "answer": "landline",
+      "hint": "座机"
+    },
+    {
+      "prompt": "Fells and valleys spread out like a {} map.",
+      "answer": "relief",
+      "hint": "地势图（relief map）"
+    },
+    {
+      "prompt": "He reached a tarn enclosed with {} trees.",
+      "answer": "fir",
+      "hint": "冷杉"
+    },
+    {
+      "prompt": "A few {} of mist rose from the water.",
+      "answer": "wisps",
+      "hint": "一缕缕（wisp）"
+    },
+    {
+      "prompt": "They camped on a {} of solid ground by the stream.",
+      "answer": "stretch",
+      "hint": "一片/一段（a stretch of）"
+    },
+    {
+      "prompt": "Some {} tyre marks told him all he needed to know.",
+      "answer": "vicious",
+      "hint": "很深的/剧烈的"
+    },
+    {
+      "prompt": "He crossed to the {} grey set of buildings.",
+      "answer": "squat",
+      "hint": "低矮敦实的"
+    },
+    {
+      "prompt": "He couldn't help {}ing into a smile.",
+      "answer": "break",
+      "hint": "绽开笑容（break into a smile）"
+    },
+    {
+      "prompt": "Men were {}ing the waist-high bracken with sticks.",
+      "answer": "flail",
+      "hint": "乱挥抽打（flail）"
+    },
+    {
+      "prompt": "There was no {} of Maggie and Joel.",
+      "answer": "sign",
+      "hint": "踪影（no sign of）"
+    },
+    {
+      "prompt": "Something caught the sunlight above the {} top of the crag.",
+      "answer": "gnarled",
+      "hint": "多节瘤扭曲的"
+    },
+    {
+      "prompt": "The hexacopter had a bulky {}.",
+      "answer": "fuselage",
+      "hint": "机身"
+    },
+    {
+      "prompt": "He {}d to think who might be at the controls.",
+      "answer": "shudder",
+      "hint": "不寒而栗（shudder to think）"
+    },
+    {
+      "prompt": "Clay ordered the fugitive found at all {}.",
+      "answer": "costs",
+      "hint": "不惜一切代价（at all costs）"
+    },
+    {
+      "prompt": "The sky was clear; it was now or {}.",
+      "answer": "never",
+      "hint": "机不可失（now or never）"
+    },
+    {
+      "prompt": "His hands relaxed but his mind was in a {}.",
+      "answer": "frenzy",
+      "hint": "狂乱慌乱"
+    },
+    {
+      "prompt": "He glided down like a {} hunting for prey.",
+      "answer": "buzzard",
+      "hint": "鵟（大型猛禽）"
+    },
+    {
+      "prompt": "The rooftop became a {} of gables and skylights.",
+      "answer": "jumble",
+      "hint": "杂乱一堆"
+    },
+    {
+      "prompt": "The rooftop separated into gables and {}.",
+      "answer": "gable",
+      "hint": "三角墙（gable）"
+    },
+    {
+      "prompt": "Finding the opening in Clay's {} was impossible.",
+      "answer": "lair",
+      "hint": "老窝/巢穴"
+    },
+    {
+      "prompt": "The roof was slate and {} iron.",
+      "answer": "corrugated",
+      "hint": "波纹的瓦楞"
+    },
+    {
+      "prompt": "He {}ed into the room full of bird drones.",
+      "answer": "duck",
+      "hint": "一闪身钻入（duck into）"
+    },
+    {
+      "prompt": "The birds stood grimly {} on their wires.",
+      "answer": "tranquil",
+      "hint": "平静的"
+    },
+    {
+      "prompt": "The birds perched grimly on their {}.",
+      "answer": "perch",
+      "hint": "栖木"
+    },
+    {
+      "prompt": "The photos {}ed up on the screen.",
+      "answer": "flash",
+      "hint": "闪现（flash up）"
+    },
+    {
+      "prompt": "The photos would stand a better {} of winning than convicting Clay.",
+      "answer": "chance",
+      "hint": "机会（stand a chance）"
+    },
+    {
+      "prompt": "The photos were useless for {}ing Clay as a terrorist.",
+      "answer": "incriminat",
+      "hint": "使显出有罪"
+    },
+    {
+      "prompt": "He was back in the cell, his pulse {}.",
+      "answer": "racing",
+      "hint": "狂跳（pulse racing）"
+    },
+    {
+      "prompt": "He gulped air to {} himself he was safe.",
+      "answer": "reassure",
+      "hint": "使安心"
+    },
+    {
+      "prompt": "He reassured himself the police were on their {}.",
+      "answer": "way",
+      "hint": "赶来的路上（on one's way）"
+    },
+    {
+      "prompt": "He {}d the route McCain had taken him.",
+      "answer": "retrace",
+      "hint": "原路折返重走"
+    },
+    {
+      "prompt": "This was a dead end he had not thought {}.",
+      "answer": "through",
+      "hint": "全盘想明白（think through）"
+    },
+    {
+      "prompt": "He saw the light go {}.",
+      "answer": "out",
+      "hint": "熄灭（go out）"
+    },
+    {
+      "prompt": "He promised to build a mic into Skylark's nose {}.",
+      "answer": "cone",
+      "hint": "机头锥（nose cone）"
+    },
+    {
+      "prompt": "Rufus Clay stood in the {}, blinking.",
+      "answer": "threshold",
+      "hint": "门槛、门口"
+    },
+    {
+      "prompt": "Tom {} over his head into the office.",
+      "answer": "shot",
+      "hint": "飞速掠过（shoot over）"
+    },
+    {
+      "prompt": "Behind them stood a boxy concrete {}.",
+      "answer": "boxy",
+      "hint": "方方正正的"
+    },
+    {
+      "prompt": "The falcon stood stately and {} on a stand.",
+      "answer": "statuesque",
+      "hint": "雕像般端庄的"
+    },
+    {
+      "prompt": "It had a {} open in its chest.",
+      "answer": "cavity",
+      "hint": "空洞腔体"
+    },
+    {
+      "prompt": "The cavity revealed entrails of bright {}.",
+      "answer": "entrails",
+      "hint": "内部构件/内脏"
+    },
+    {
+      "prompt": "He {}ed his way closer, step by step.",
+      "answer": "stalk",
+      "hint": "一步步逼近"
+    },
+    {
+      "prompt": "The canister rolled across the desk and came to a {}.",
+      "answer": "stop",
+      "hint": "停下来（come to a stop）"
+    },
+    {
+      "prompt": "He saw Clay's mouth {} into a faint smile.",
+      "answer": "twitch",
+      "hint": "抽动微动"
+    },
+    {
+      "prompt": "\"{} for the camera,\" Tom recited.",
+      "answer": "Smile",
+      "hint": "为拍照而微笑"
+    }
+  ]
+}

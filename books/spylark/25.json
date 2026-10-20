@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "cast-iron",
+      "trans": "adj. 铸铁的，生铁铸造的",
       "ipa": "ˌkɑːst ˈaɪən",
       "examples": [
         "An old cast-iron pan.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "lazybones",
+      "trans": "n. 懒骨头，懒家伙（口语，单复数同形）",
       "ipa": "ˈleɪzibəʊnz",
       "examples": [
         "Go and get the map, lazybones.",
@@ -21,6 +23,7 @@
     },
     {
       "word": "Ordnance Survey",
+      "trans": "n. 英国地形测量局；Ordnance Survey map 英国官方详细地形图，简写 OS map",
       "ipa": "ˈɔːdnəns ˈsɜːveɪ",
       "examples": [
         "Joel fetched an Ordnance Survey map.",
@@ -29,6 +32,7 @@
     },
     {
       "word": "taper",
+      "trans": "v. 逐渐变细，向远方收窄",
       "ipa": "ˈteɪpə(r)",
       "examples": [
         "The ribbon of the Elleray tapered away to the west.",
@@ -37,6 +41,7 @@
     },
     {
       "word": "swathe",
+      "trans": "n. 一大片土地或区域（a swathe of forest 一大片森林）",
       "ipa": "sweɪð",
       "examples": [
         "A swathe of brown showed the high fells.",
@@ -45,6 +50,7 @@
     },
     {
       "word": "woodland",
+      "trans": "n. 林地，树林区域",
       "ipa": "ˈwʊdlənd",
       "examples": [
         "Patches of green indicated woodland.",
@@ -53,6 +59,7 @@
     },
     {
       "word": "relentless",
+      "trans": "adj. 无休止的，持续不断的；毫不松懈的，不会减弱的",
       "ipa": "rɪˈlentləs",
       "examples": [
         "The relentless march of the contour lines.",
@@ -61,6 +68,7 @@
     },
     {
       "word": "contour",
+      "trans": "n. 轮廓；（地图）等高线（contour lines 地图等高线）",
       "ipa": "ˈkɒntʊə(r)",
       "examples": [
         "The relentless march of the contour lines.",
@@ -69,6 +77,7 @@
     },
     {
       "word": "trough",
+      "trans": "n. 槽；U形山谷洼地",
       "ipa": "trɒf",
       "examples": [
         "It stopped in a deep U-shaped trough.",
@@ -77,6 +86,7 @@
     },
     {
       "word": "jagged",
+      "trans": "adj. 锯齿状的，凹凸嶙峋的",
       "ipa": "ˈdʒæɡɪd",
       "examples": [
         "A trough framed by jagged ridges.",
@@ -85,6 +95,7 @@
     },
     {
       "word": "ridge",
+      "trans": "n. 山脊",
       "ipa": "rɪdʒ",
       "examples": [
         "Up that ridge.",
@@ -93,6 +104,7 @@
     },
     {
       "word": "hideout",
+      "trans": "n. 藏身点，窝点",
       "ipa": "ˈhaɪdaʊt",
       "examples": [
         "The perfect hideout for someone up to no good.",
@@ -101,6 +113,7 @@
     },
     {
       "word": "proper",
+      "trans": "adj. 像样的，正规的，标准的",
       "ipa": "ˈprɒpə(r)",
       "examples": [
         "It's not even on a proper road.",
@@ -109,6 +122,7 @@
     },
     {
       "word": "a farm track",
+      "trans": "一条农场小路（a farm track of some sort 某条农场土路之类的）",
       "examples": [
         "That dotted line must be a farm track.",
         "We followed the farm track."
@@ -116,6 +130,7 @@
     },
     {
       "word": "passers-by",
+      "trans": "n. 过路人，路人，途经此处的人（passers-by）",
       "examples": [
         "No passers-by.",
         "passers-by stopped to watch."
@@ -123,6 +138,7 @@
     },
     {
       "word": "for certain",
+      "trans": "确凿地，有把握地（don’t know for certain that… 无法确凿断定）",
       "examples": [
         "We don't know for certain that this is their base.",
         "I can't say for certain."
@@ -130,6 +146,7 @@
     },
     {
       "word": "by the looks of it",
+      "trans": "固定短语：看样子，从表面来看。非常地道高频的英式口语表达，可日常使用；末尾的 it 不能随便换成别的名词（固定习语）",
       "examples": [
         "It's going to be baking today, by the looks of it.",
         "By the looks of it, we'll be late."
@@ -137,6 +154,7 @@
     },
     {
       "word": "tarn",
+      "trans": "n. 高山小湖，冰斗湖，湖区专用词汇",
       "ipa": "tɑːn",
       "examples": [
         "Around that tarn.",
@@ -145,6 +163,7 @@
     },
     {
       "word": "grid references",
+      "trans": "n. 网格坐标，英国 OS 地图的方格定位编号（grid references）",
       "examples": [
         "Maggie left the grid references for the tarn.",
         "find the grid reference on a map."
@@ -152,6 +171,7 @@
     },
     {
       "word": "haggard",
+      "trans": "adj. 面容憔悴的，疲惫不堪的",
       "ipa": "ˈhæɡəd",
       "examples": [
         "She looked haggard, Maggie thought.",
@@ -160,6 +180,7 @@
     },
     {
       "word": "skin",
+      "trans": "n. 液体表面结出的薄皮、膜",
       "examples": [
         "A skin of milk had formed on the top.",
         "The soup had a skin."
@@ -167,6 +188,7 @@
     },
     {
       "word": "brief",
+      "trans": "adj. 短暂的，时间不长的（briefly 短暂地，短短的，时间上一晃而过）",
       "ipa": "briːf",
       "examples": [
         "I saw him briefly.",
@@ -175,6 +197,7 @@
     },
     {
       "word": "unsettle",
+      "trans": "v. 使心神不宁；扰乱；使动摇",
       "ipa": "ʌnˈsetl",
       "examples": [
         "She said something about unsettling him.",
@@ -183,6 +206,7 @@
     },
     {
       "word": "inmate",
+      "trans": "n.（监狱、精神病院、收容所等封闭机构里的）囚犯，被收容者，住院者",
       "ipa": "ˈɪnmeɪt",
       "examples": [
         "Outside contact with inmates.",
@@ -191,6 +215,7 @@
     },
     {
       "word": "crease",
+      "trans": "n. 折痕，褶皱；（脸上的）皱纹  v. 起折痕；弄皱；（面部）蹙起（crease up 英式口语：笑到弯腰、捧腹大笑，crease up with laughter 笑得直不起腰）",
       "ipa": "kriːs",
       "examples": [
         "She creased the newspaper along its fold.",
@@ -199,6 +224,7 @@
     },
     {
       "word": "gather oneself together",
+      "trans": "短语：镇定下来，平复情绪，收拾好心情（gather oneself together）",
       "examples": [
         "Aunt Emily gathered herself together.",
         "Take a moment to gather yourself together."
@@ -206,6 +232,7 @@
     },
     {
       "word": "claustrophobia",
+      "trans": "n. 幽闭恐惧症",
       "ipa": "ˌklɔːstrəˈfəʊbiə",
       "examples": [
         "Hasn't he told you about his claustrophobia?",
@@ -214,6 +241,7 @@
     },
     {
       "word": "enclosed spaces",
+      "trans": "n. 封闭狭小空间（enclosed spaces）",
       "examples": [
         "He hates being in enclosed spaces.",
         "the fear of enclosed spaces."
@@ -221,6 +249,7 @@
     },
     {
       "word": "panic attack",
+      "trans": "n. 惊恐发作，心理上突发的强烈恐慌（panic attack）",
       "examples": [
         "He had a panic attack in the tunnel.",
         "She suffered panic attacks."
@@ -228,6 +257,7 @@
     },
     {
       "word": "ledge",
+      "trans": "n. 岩架，岩石突出的窄台",
       "ipa": "ledʒ",
       "examples": [
         "Falling down past a ledge.",
@@ -236,6 +266,7 @@
     },
     {
       "word": "more to it",
+      "trans": "固定搭配：事情另有隐情，背后还有别的缘故，并不像表面看上去那么简单（I wonder if there was more to it. 我总觉得这事没那么简单/恐怕另有隐情）",
       "examples": [
         "I wonder if there was more to it.",
         "There's more to it than that."
@@ -243,6 +274,7 @@
     },
     {
       "word": "in his deepest voice",
+      "trans": "用他所能发出最低沉的嗓音说话（in his deepest voice）",
       "examples": [
         "He said in his deepest voice.",
         "She said it in her deepest voice."
@@ -250,6 +282,7 @@
     },
     {
       "word": "sleep like a baby",
+      "trans": "习语：睡得很香，睡得很沉（sleep like a baby）",
       "examples": [
         "I slept like a baby.",
         "He slept like a baby through the storm."
@@ -257,6 +290,7 @@
     },
     {
       "word": "check out",
+      "trans": "短语：实地探查；查看；结账（check out）",
       "examples": [
         "It's time we checked out that farm.",
         "We checked out the hotel online."
@@ -264,6 +298,7 @@
     },
     {
       "word": "spring up",
+      "trans": "短语：猛地跳起来，一跃而起（spring up）",
       "examples": [
         "Archie sprang up, sensing action.",
         "He sprang up from his chair."
@@ -271,6 +306,7 @@
     },
     {
       "word": "lead",
+      "trans": "n. 案件的线索，突破口（lead）",
       "examples": [
         "It's the one lead we have to go on.",
         "The police had no lead."
@@ -278,6 +314,7 @@
     },
     {
       "word": "go on",
+      "trans": "短语：作为依据（go on。something to go on 可以立足、赖以调查的线索凭据；nothing to go on 没有别的线索/凭据，没法往别的方向查）",
       "examples": [
         "It's the one lead we have to go on.",
         "They had nothing else to go on."
@@ -285,6 +322,7 @@
     },
     {
       "word": "up to no good",
+      "trans": "习语：图谋不轨，干坏事（up to no good）",
       "examples": [
         "The perfect hideout for someone up to no good.",
         "He's probably up to no good."
@@ -292,6 +330,7 @@
     },
     {
       "word": "come at it a different way",
+      "trans": "短语：换个方向或方式靠近（come at it a different way）",
       "examples": [
         "We need to come at it a different way.",
         "Let's come at the problem a different way."
@@ -299,6 +338,7 @@
     },
     {
       "word": "in which case",
+      "trans": "短语连词：既然那样，在这种情况下。承接上文事实，引出基于刚提到情况的推论、结果，常放句首后接逗号（It might rain, in which case we will cancel the walk.）",
       "examples": [
         "It'll be baking; in which case, a second breakfast is in order.",
         "It might rain, in which case we cancel."
@@ -306,6 +346,7 @@
     },
     {
       "word": "be in order",
+      "trans": "习语：合乎情理，理应做某事（A celebration is in order. 是时候该庆祝一番了）",
       "examples": [
         "A second breakfast might be in order.",
         "A celebration is in order."
@@ -313,6 +354,7 @@
     },
     {
       "word": "given the circumstances",
+      "trans": "短语：考虑当下处境，在这种情况下（given the circumstances）",
       "examples": [
         "Not surprising, given the circumstances.",
         "Given the circumstances, we should wait."
@@ -320,6 +362,7 @@
     },
     {
       "word": "cut in",
+      "trans": "短语：插嘴，打断别人说话（cut in）",
       "examples": [
         "Joel cut in before she could speak.",
         "Don't cut in while I'm talking."
@@ -327,6 +370,7 @@
     },
     {
       "word": "so long as",
+      "trans": "短语连词：只要（so long as）",
       "examples": [
         "So long as he's not cooped up in a small space.",
         "You can go, so long as you're back by ten."
@@ -334,6 +378,7 @@
     },
     {
       "word": "coop up",
+      "trans": "短语动词：将某人关在狭小空间，困住（coop up）",
       "examples": [
         "Cooped up in a small space.",
         "He hates being cooped up."
@@ -341,6 +386,7 @@
     },
     {
       "word": "have this thing about",
+      "trans": "have this thing about：对某件事抱有特殊的感受、心结、癖好、心理抵触，可喜欢可反感/心理阴影（看上下文）。固定口语习语，英式小说对话高频",
       "examples": [
         "He has this thing about enclosed spaces.",
         "I have this thing about the dark."
@@ -348,6 +394,7 @@
     },
     {
       "word": "properly",
+      "trans": "此处 properly 不是“恰当地、正确地”。英式口语典型用法：加强形容词/过去分词，表程度：真正地、实打实的（It’s the only thing he’s properly scared of. 这是他唯一真正害怕的事）",
       "ipa": "ˈprɒpəli",
       "examples": [
         "It's the only thing he's properly scared of.",
@@ -356,6 +403,7 @@
     },
     {
       "word": "break off",
+      "trans": "短语：说话突然中断（break off）",
       "examples": [
         "She broke off, and wiped her eyes.",
         "The talks broke off."
@@ -363,6 +411,7 @@
     },
     {
       "word": "in a bit of a state",
+      "trans": "口语短语：状态糟糕，情绪慌乱（in a bit of a state）",
       "examples": [
         "She was in a bit of a state.",
         "She was in a bit of a state after the phone call."
@@ -370,6 +419,7 @@
     },
     {
       "word": "rash",
+      "trans": "adj. 鲁莽的，冲动不计后果的。侧重考虑不周、仓促冲动，做事前没好好想清楚后果，多半一时脑子发热，不一定主观上想闯大祸。（与 reckless 区别：reckless 侧重明知有危险还是不在乎、肆意乱来，心里知道会有坏结果但根本不在意风险，语气比 rash 重，带“不顾安危”）",
       "ipa": "ræʃ",
       "examples": [
         "It was a rash decision.",

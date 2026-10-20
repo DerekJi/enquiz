@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "quirky",
+      "trans": "古怪有趣的、脑洞清奇的、有点另类怪萌的",
       "ipa": "ˈkwɜːrki",
       "examples": [
         "During French the 'end-of-term treat' was to sit through a quirky French film about a dog."
@@ -12,114 +13,133 @@
     },
     {
       "word": "sit through",
+      "trans": "耐着性子从头到尾熬完（并不那么好看的东西）",
       "examples": [
         "During French the 'end-of-term treat' was to sit through a quirky French film about a dog."
       ]
     },
     {
       "word": "straggly-haired",
+      "trans": "头发乱糟糟、稀稀拉拉、一缕缕耷拉下来的",
       "examples": [
         "Tom was sitting with Manky McDonald, the small, straggly-haired boy everyone avoided."
       ]
     },
     {
       "word": "straggle",
+      "trans": "v. 散乱散落、四处耷拉、不成束",
       "examples": [
         "A few vines began to straggle over the old stone wall in the garden."
       ]
     },
     {
       "word": "straggly",
+      "trans": "adj.（毛发/植物）蓬乱、一缕缕耷拉、不整齐",
       "examples": [
         "His beard was long and straggly, looking as if it hadn't been trimmed in months."
       ]
     },
     {
       "word": "stink",
+      "trans": "发出恶臭、臭烘烘；很糟糕、烂透了",
       "examples": [
         "Tom was sitting with Manky McDonald, the small, straggly-haired boy everyone avoided because, they said, he stank."
       ]
     },
     {
       "word": "laid-back",
+      "trans": "心态松弛、随遇而安、佛系、不急不躁的（≈chill）",
       "examples": [
         "Manky, whose real name was Alasdair, was also the most laid-back person Tom knew."
       ]
     },
     {
       "word": "suit someone just fine",
+      "trans": "某事对某人来说刚刚好、正中下怀",
       "examples": [
         "And he didn't ask Tom any questions about himself, which suited Tom just fine."
       ]
     },
     {
       "word": "dimmed",
+      "trans": "（光线）昏暗的、被调暗的",
       "examples": [
         "Now, with the lights dimmed, Manky chuckled his way through the film."
       ]
     },
     {
       "word": "chuckle",
+      "trans": "轻声笑、咯咯地笑、暗自微笑",
       "examples": [
         "Now, with the lights dimmed, Manky chuckled his way through the film."
       ]
     },
     {
       "word": "chuckle one's way through sth",
+      "trans": "边笑边熬过某事（同 sleep/laugh/fight/struggle one's way through 以…的方式度过）",
       "examples": [
         "Now, with the lights dimmed, Manky chuckled his way through the film, occasionally nudging Tom in the ribs."
       ]
     },
     {
       "word": "nudge",
+      "trans": "（用胳膊肘）轻轻碰、捅一下",
       "examples": [
         "Manky chuckled his way through the film, occasionally nudging Tom in the ribs about something funny."
       ]
     },
     {
       "word": "nudge someone in the ribs",
+      "trans": "用胳膊肘轻捅某人肋部（示意、提醒）",
       "examples": [
         "Manky chuckled his way through the film, occasionally nudging Tom in the ribs about something funny."
       ]
     },
     {
       "word": "give someone a nudge",
+      "trans": "给某人一个暗示/轻推",
       "examples": [
         "She gave him a gentle nudge to wake him up before the teacher noticed."
       ]
     },
     {
       "word": "oblivious to sth",
+      "trans": "对…毫无察觉、没注意到",
       "examples": [
         "He was completely oblivious to the fact that Tom's mind was elsewhere."
       ]
     },
     {
       "word": "run over",
+      "trans": "快速过一遍、复盘（run over the plan 快速过一遍方案 / run over the events in one's head 脑中复盘）",
       "examples": [
         "He ran over what he'd seen earlier in his head."
       ]
     },
     {
       "word": "in the empty stillness",
+      "trans": "在空荡的寂静中",
       "examples": [
         "Whatever it was that he'd witnessed in the empty stillness of the morning, he knew no one was supposed to have seen it."
       ]
     },
     {
       "word": "implode",
+      "trans": "向内坍缩、向内爆裂（explode 向外爆炸，implode 向内坍压，沉船经典描写）",
       "examples": [
         "He imagined the wreckage resting on the lakebed, silently imploding with the weight of water above."
       ]
     },
     {
       "word": "if only",
+      "trans": "要是…就好了（if only+had done 后悔过去；+过去时 遗憾现在；+would/could 但愿将来）",
       "examples": [
         "If only he had not taken his eyes off the screen at that moment!"
       ]
     },
     {
       "word": "prank",
+      "trans": "恶作剧、胡闹（pull a prank on sb / prank sb）",
       "ipa": "præŋk",
       "examples": [
         "Why would anyone want to send an old tub like that to the bottom of the lake? Revenge? Some kind of prank?"
@@ -127,24 +147,28 @@
     },
     {
       "word": "come up with",
+      "trans": "想出、琢磨出（主意、理由、方案、解释）",
       "examples": [
         "Tom was trying to come up with other possible reasons for the sinking."
       ]
     },
     {
       "word": "tune into",
+      "trans": "收听、收看；关注、留意",
       "examples": [
         "He found himself tuning into a whispered conversation a few rows behind him."
       ]
     },
     {
       "word": "take-off",
+      "trans": "【英式】滑稽模仿、恶搞戏仿（= parody）",
       "examples": [
         "It was a ridiculous take-off of the elite Navy unit."
       ]
     },
     {
       "word": "elite",
+      "trans": "精英的、精锐的",
       "ipa": "eɪˈliːt",
       "examples": [
         "It was a ridiculous take-off of the elite Navy unit."
@@ -152,36 +176,42 @@
     },
     {
       "word": "moronic",
+      "trans": "傻里傻气的、蠢兮兮的",
       "examples": [
         "Usually he filtered out their moronic banter about farts and girls."
       ]
     },
     {
       "word": "banter",
+      "trans": "同辈之间插科打诨、开玩笑斗嘴",
       "examples": [
         "Usually he filtered out their moronic banter about farts and girls."
       ]
     },
     {
       "word": "belch",
+      "trans": "打嗝；（引擎）突突喷废气",
       "examples": [
         "Stingray was a beast of a machine with a belching Cobra engine that growled and spat."
       ]
     },
     {
       "word": "belching engine",
+      "trans": "突突喷气的引擎",
       "examples": [
         "Stingray was a beast of a machine with a belching Cobra engine that growled and spat."
       ]
     },
     {
       "word": "growl",
+      "trans": "（野兽）低沉低吼、咆哮（growled and spat 低吼带喷气）",
       "examples": [
         "Stingray was a beast of a machine with a belching Cobra engine that growled and spat."
       ]
     },
     {
       "word": "anarchy",
+      "trans": "本义无政府状态、秩序崩溃；本文引申无人管束、彻底放飞、疯玩胡闹",
       "ipa": "ˈænəki",
       "examples": [
         "They would be planning on using the boat for some end-of-term anarchy on the island."
@@ -189,6 +219,7 @@
     },
     {
       "word": "anarchic",
+      "trans": "乱糟糟、不受管束的",
       "ipa": "æˈnɑːkɪk",
       "examples": [
         "The classroom became completely anarchic the moment the teacher stepped out."
@@ -196,90 +227,105 @@
     },
     {
       "word": "hunt for",
+      "trans": "搜寻、去找、寻觅",
       "examples": [
         "He pulled himself up and decided to go and hunt for it as soon as he got home."
       ]
     },
     {
       "word": "pull oneself up",
+      "trans": "自己艰难站起来（pull him up 拉别人起来；pull himself up 反身代词自己撑起，重点）",
       "examples": [
         "He pulled himself up and decided to go and hunt for it as soon as he got home."
       ]
     },
     {
       "word": "trudge",
+      "trans": "步履沉重、费力地走；拖着脚步走",
       "examples": [
         "He trudged purposefully towards the lockers, people spilling past him on either side."
       ]
     },
     {
       "word": "purposefully",
+      "trans": "目标明确地、有决心地、坚定从容地",
       "examples": [
         "He trudged purposefully towards the lockers, people spilling past him on either side."
       ]
     },
     {
       "word": "people spilling past him",
+      "trans": "人们从他身旁（像溢出般）涌过（spill 涌出、涌流）",
       "examples": [
         "He trudged purposefully towards the lockers, people spilling past him on either side."
       ]
     },
     {
       "word": "cloakroom",
+      "trans": "（校园/公共场所）衣帽间",
       "examples": [
         "By the time he reached the cloakroom, the commotion had receded into the yard."
       ]
     },
     {
       "word": "commotion",
+      "trans": "喧闹、吵吵嚷嚷的混乱场面",
       "examples": [
         "By the time he reached the cloakrooms, the commotion had receded into the yard."
       ]
     },
     {
       "word": "recede",
+      "trans": "后退、退去；（声音、景象）渐渐远去、淡去",
       "examples": [
         "By the time he reached the cloakrooms, the commotion had receded into the yard."
       ]
     },
     {
       "word": "rucksack",
+      "trans": "【英式】双肩大背包、帆布登山背包",
       "examples": [
         "He stuffed the contents of his locker into his rucksack."
       ]
     },
     {
       "word": "slice away",
+      "trans": "一脚横向扫过去、利落把东西拨开/踢飞/扫走，像刀片一划那样干脆（侧重横向扫开的动作）",
       "examples": [
         "Then, without warning, his walking stick was sliced away with a kick."
       ]
     },
     {
       "word": "eyes popping with amusement",
+      "trans": "眼睛因觉得好笑而瞪大（同 with surprise/anger；face burning with embarrassment）",
       "examples": [
         "He looked up to find Snakey kneeling over him, eyes popping with amusement."
       ]
     },
     {
       "word": "let out",
+      "trans": "发出（声音）、释放、放出（let out a laugh/scream/sigh/gasp）",
       "examples": [
         "'Hello, Hop-Hop-Hop-Hopkins!' Snakey let out a laugh."
       ]
     },
     {
       "word": "almost-cute",
+      "trans": "算不上真正好看但带一点点可爱、有点可爱又不完全可爱",
       "examples": [
         "With his almost-cute freckles and glasses, Ryan Snaith did not look like a brutal tormenter."
       ]
     },
     {
       "word": "freckle",
+      "trans": "雀斑",
       "examples": [
         "With his almost-cute freckles, below average height and glasses, Ryan Snaith did not look like a bully."
       ]
     },
     {
       "word": "tormenter",
+      "trans": "欺负人的人、折磨者、霸凌者（torment 折磨）",
       "ipa": "tɔːˈmentə(r)",
       "examples": [
         "Ryan Snaith did not look like the brutal tormenter he had been since Tom's first day."
@@ -287,102 +333,119 @@
     },
     {
       "word": "get away with something",
+      "trans": "做了坏事却逃过惩罚、侥幸得逞、没被追责",
       "examples": [
         "Perhaps that was how he got away with it."
       ]
     },
     {
       "word": "whiff",
+      "trans": "一股淡淡的气味、一阵短暂飘过来的气息",
       "examples": [
         "Tom caught the familiar whiff of body spray as Snakey leant close."
       ]
     },
     {
       "word": "catch a whiff of sth",
+      "trans": "闻到一阵淡淡飘过来的气味",
       "examples": [
         "Tom caught the familiar whiff of body spray as Snakey leant close."
       ]
     },
     {
       "word": "body spray",
+      "trans": "香体喷雾（青少年常用、止汗淡香，区别于浓香水 perfume）",
       "examples": [
         "Tom caught the familiar whiff of body spray as Snakey leant close."
       ]
     },
     {
       "word": "leering",
+      "trans": "色眯眯地看、不怀好意地斜睨、坏笑着盯着人",
       "examples": [
         "He could see Podge and Sam leering over his shoulders."
       ]
     },
     {
       "word": "munching",
+      "trans": "用力大口咀嚼、嘎嘣嘎嘣地吃",
       "examples": [
         "Sam was munching on a handful of the sour wiggly worms he seemed to live on."
       ]
     },
     {
       "word": "rubbery chop",
+      "trans": "橡皮般松软的腮帮子/嘴（rubbery chops 嚼动的大嘴）",
       "examples": [
         "Podge had his rubbery chops clenched around a lollipop stick."
       ]
     },
     {
       "word": "hoarsely",
+      "trans": "沙哑地、嗓音嘶哑地（大喊大叫后嗓子发粗）",
       "examples": [
         "'Go on, Snakey!' Podge shouted hoarsely, a gurgle of phlegm in his throat."
       ]
     },
     {
       "word": "gurgle of phlegm",
+      "trans": "带着痰音、呼噜呼噜的声响（gurgle 咕噜声，phlegm 痰、黏液）",
       "examples": [
         "'Go on, Snakey!' Podge shouted hoarsely, a gurgle of phlegm in his throat."
       ]
     },
     {
       "word": "take hold",
+      "trans": "扎根、控制住人（情绪涌上来占上风）",
       "examples": [
         "But the old fear took hold, like cats' claws scraping the lining of his stomach."
       ]
     },
     {
       "word": "lash out",
+      "trans": "猛地一脚挥踢出去、突然攻击",
       "examples": [
         "The other boy lashed out with his free foot and Tom felt a crack at the side of his head."
       ]
     },
     {
       "word": "writhed and thrashed",
+      "trans": "拼命挣扎扭动（writhe 因痛苦害怕扭动；thrash 猛烈扭动、四肢乱蹬），like an animal 像野兽一样",
       "examples": [
         "Tom writhed and thrashed like an animal, trying to pull him over."
       ]
     },
     {
       "word": "go limp",
+      "trans": "（受惊/受撞击后）浑身发软、失去力气、瘫软下来",
       "examples": [
         "He went limp and felt merciless hands on his shoulders and legs."
       ]
     },
     {
       "word": "merciless",
+      "trans": "毫不留情的、狠心的",
       "examples": [
         "He went limp and felt merciless hands on his shoulders and legs."
       ]
     },
     {
       "word": "pin someone down",
+      "trans": "把人死死按住、制住不让动弹（pin down 压住、固定住）",
       "examples": [
         "They felt merciless hands on his shoulders and legs, pinning him down."
       ]
     },
     {
       "word": "make someone beg",
+      "trans": "逼某人求饶、迫使对方苦苦哀求",
       "examples": [
         "I've got a better idea. Remember the mines? Let's make him beg."
       ]
     },
     {
       "word": "lining",
+      "trans": "n. 内层、内壁、衬里（the lining of the throat/stomach/jacket）",
       "ipa": "ˈlaɪnɪŋ",
       "examples": [
         "But the old fear took hold, like cats' claws scraping the lining of his stomach."
@@ -390,36 +453,42 @@
     },
     {
       "word": "at the top of one's voice",
+      "trans": "用最大嗓门、放声大喊（= at the top of one's lungs）",
       "examples": [
         "He couldn't stop himself from yelling out and begging at the top of his voice."
       ]
     },
     {
       "word": "a flicker of",
+      "trans": "一丝、一闪而过的（a flicker of hope/anger/fear）",
       "examples": [
         "He saw a flicker of fear register in Sam Noyland's face."
       ]
     },
     {
       "word": "flicker",
+      "trans": "（火光）闪烁、摇曳；（表情）一闪而过（A smile flickered 一抹笑容转瞬即逝）",
       "examples": [
         "He saw a flicker of fear register in Sam Noyland's face."
       ]
     },
     {
       "word": "shoot sb a look",
+      "trans": "朝某人投去一眼",
       "examples": [
         "Snakey shot Sam a look of disgust."
       ]
     },
     {
       "word": "throbbing",
+      "trans": "持续、有规律地搏动、跳动、隐隐抽痛（会顺血脉传；throbbing headache 一跳一跳的偏头痛）",
       "examples": [
         "The panic rose inside him like a bubble, his heart throbbing in his ears."
       ]
     },
     {
       "word": "slate mine",
+      "trans": "板岩矿（地下开采板岩的幽深黑暗矿洞）",
       "examples": [
         "The panic rose until the memory of the slate mine overwhelmed every other thought."
       ]

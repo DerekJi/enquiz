@@ -1,0 +1,768 @@
+{
+  "id": "40",
+  "title": "Chapter 40",
+  "order": 40,
+  "words": [
+    {
+      "word": "bemusement",
+      "trans": "n. 困惑、茫然不解；哭笑不得的状态（in bemusement 茫然地）",
+      "examples": [
+        "She stood back and looked at him, shaking her head in bemusement."
+      ],
+      "ipa": "bɪˈmjuːzmənt"
+    },
+    {
+      "word": "burst out laughing",
+      "trans": "固定短语：突然哈哈大笑；拓展 burst out + doing 突然做……，burst into + 名词（burst into laughter）同义",
+      "examples": [
+        "They both burst out laughing at the amount of water that had transferred to her dress."
+      ],
+      "key": "burst out laughing"
+    },
+    {
+      "word": "dripping",
+      "trans": "adj. 滴水的、湿漉漉的；v.（drip 现在分词）往下滴水",
+      "examples": [
+        "Ten minutes later, Tom's clothes were still dripping on to the kitchen floor."
+      ],
+      "ipa": "ˈdrɪpɪŋ"
+    },
+    {
+      "word": "Police Constable",
+      "trans": "n.（英国）警员，最低一级的正式警察（穿制服的普通巡警，缩写 PC）",
+      "examples": [
+        "Jim arrived with PC Clark, who had shown him into the pickup truck."
+      ],
+      "ipa": "pəˌliːs ˈkʌnstəbl",
+      "key": "Police Constable"
+    },
+    {
+      "word": "code words",
+      "trans": "短语：暗语、代码词、暗号（此处是警方无线电用语）",
+      "examples": [
+        "She listened with wide eyes and called some code words and a location into her radio."
+      ],
+      "key": "code words"
+    },
+    {
+      "word": "rumble",
+      "trans": "v. & n. 隆隆作响、低沉轰鸣（雷/引擎/远处动静）",
+      "examples": [
+        "There was a rumble overhead as the Puma helicopter appeared."
+      ],
+      "ipa": "ˈrʌmbl"
+    },
+    {
+      "word": "in time to do sth",
+      "trans": "短语：及时赶到、结果正好能做某事；just in time 更常见，just 加强\"刚好险些来不及\"",
+      "examples": [
+        "They rushed to the harbour in time to see an orange flash as the Invincible rocketed past."
+      ],
+      "key": "in time to do sth"
+    },
+    {
+      "word": "clamber",
+      "trans": "v. 费力攀爬、艰难往上爬（手脚并用）",
+      "examples": [
+        "Heavily armed soldiers clambered down ladders on to the boat."
+      ],
+      "ipa": "ˈklæmbə"
+    },
+    {
+      "word": "lush",
+      "trans": "adj. ①（草木）繁茂葱郁（lush forest）；②（毛发）浓密丰厚（文中形容头发）",
+      "examples": [
+        "There was no mistaking Dr Victoria Juniper's lush red hair."
+      ],
+      "ipa": "lʌʃ"
+    },
+    {
+      "word": "hoist",
+      "trans": "v. 吊起、抬升；（此处）押送带走（was hoisted at gunpoint 在枪口威胁下被押上直升机）",
+      "examples": [
+        "She was hoisted at gunpoint into the bowels of the helicopter."
+      ],
+      "ipa": "ˈhɔɪst"
+    },
+    {
+      "word": "bowels",
+      "trans": "n. 复数，（建筑物、大型交通工具的）内部深处（熟词僻义，不只是\"肠子\"）；the bowels of the ship 船舱深处",
+      "examples": [
+        "They were hoisted into the bowels of the helicopter."
+      ],
+      "ipa": "ˈbaʊəlz",
+      "key": "bowels"
+    },
+    {
+      "word": "dauntless",
+      "trans": "adj. 无所畏惧的、勇敢的（daunt 使退缩 + -less）",
+      "examples": [
+        "He woke to hear Maggie's voice, as fresh and dauntless as ever."
+      ],
+      "ipa": "ˈdɔːntləs"
+    },
+    {
+      "word": "run a bath",
+      "trans": "短语：放洗澡水（往浴缸放水备好一缸热水；美式一般说 draw a bath）",
+      "examples": [
+        "Aunt Emily had run a bath at last."
+      ],
+      "key": "run a bath"
+    },
+    {
+      "word": "keep him going",
+      "trans": "固定短语：给他补充能量、撑住体力，让他能继续坚持下去",
+      "examples": [
+        "Aunt Emily brought him brownies and milk 'to keep him going'."
+      ],
+      "key": "keep him going"
+    },
+    {
+      "word": "tune into the conversation",
+      "trans": "短语：侧耳听见、开始留意听（tune into 原指收音机调台接收信号，比喻留意倾听）",
+      "examples": [
+        "While he dressed he tuned into the conversation below."
+      ],
+      "key": "tune into the conversation"
+    },
+    {
+      "word": "wake with a start",
+      "trans": "固定习语：猛地惊醒（start 此处名词：突然一惊，不是\"开始\"）",
+      "examples": [
+        "He woke with a start, the milk and brownies still by the bath."
+      ],
+      "key": "wake with a start"
+    },
+    {
+      "word": "stagger",
+      "trans": "v. 踉跄、摇摇晃晃地走（累/虚弱/醉）",
+      "examples": [
+        "You should have seen him when he staggered into the kitchen."
+      ],
+      "ipa": "ˈstæɡə"
+    },
+    {
+      "word": "drowned rat",
+      "trans": "英语习语：落汤鸡（字面\"淹死的老鼠\"，形容浑身湿透的人）",
+      "examples": [
+        "He looked like a drowned rat."
+      ],
+      "key": "drowned rat"
+    },
+    {
+      "word": "thug",
+      "trans": "n. 暴徒、恶棍",
+      "examples": [
+        "Letting Thomas get taken off like that by those thugs at the police station."
+      ],
+      "ipa": "θʌɡ"
+    },
+    {
+      "word": "get taken off",
+      "trans": "短语：被带走、被带走离开（被动，被警察/某人带走）",
+      "examples": [
+        "She felt stupid letting Thomas get taken off like that."
+      ],
+      "key": "get taken off"
+    },
+    {
+      "word": "one way or another",
+      "trans": "固定短语：不管怎样、想方设法、无论用什么办法",
+      "examples": [
+        "They were going to get me one way or another."
+      ],
+      "key": "one way or another"
+    },
+    {
+      "word": "You can say that again",
+      "trans": "习语：可不是嘛！说得太对了！（感叹降调=赞同；区别于 Can you say that again? 升调=请重复一遍）",
+      "examples": [
+        "'You can say that again, Tom,' said Joel."
+      ],
+      "key": "You can say that again"
+    },
+    {
+      "word": "keel over",
+      "trans": "习语：（人）轰然倒下、昏倒；（船）倾覆",
+      "examples": [
+        "You should have seen him keel over when Tom shot him with the darts."
+      ],
+      "key": "keel over"
+    },
+    {
+      "word": "have catching up to do",
+      "trans": "短语：有一堆信息/故事等着互相讲（各自经历要分享补齐）",
+      "examples": [
+        "I can see you three have a bit of catching up to do."
+      ],
+      "key": "have catching up to do"
+    },
+    {
+      "word": "propofol",
+      "trans": "n.【医学】丙泊酚（短效麻醉药物）",
+      "examples": [
+        "We've spoken to Dad about the propofol."
+      ],
+      "ipa": "ˈprəʊpəfɒl"
+    },
+    {
+      "word": "triple dose",
+      "trans": "名词短语：三倍剂量（triple 三倍 + dose 剂量）",
+      "examples": [
+        "You gave him a triple dose, so he was like Sleeping Beauty."
+      ],
+      "key": "triple dose"
+    },
+    {
+      "word": "dose",
+      "trans": "n.（药物的）一剂、剂量",
+      "examples": [
+        "You gave him a triple dose."
+      ],
+      "ipa": "dəʊs"
+    },
+    {
+      "word": "it takes sth to do",
+      "trans": "固定句型：做某事需要付出（代价/手段）；that's what it takes 这就是做成这件事所需的代价",
+      "examples": [
+        "He said, 'If that's what it took to save my daughter's life, I won't be complaining.'"
+      ],
+      "key": "it takes sth to do"
+    },
+    {
+      "word": "if it weren't for sb/sth",
+      "trans": "固定虚拟表达：要不是……、若非有……（虚拟语气）",
+      "examples": [
+        "But if it weren't for you two, I wouldn't be here now."
+      ],
+      "key": "if it weren't for sb/sth"
+    },
+    {
+      "word": "perish",
+      "trans": "v. 丧生、灭亡、毁灭（正式/新闻常用，火灾遇难）",
+      "examples": [
+        "The news report says the owner perished with the farm."
+      ],
+      "ipa": "ˈperɪʃ"
+    },
+    {
+      "word": "aqueduct",
+      "trans": "n. 引水渠、高架输水管道（Thirlmere Aqueduct 输水隧道）",
+      "examples": [
+        "He will have carried on in the aqueduct to come out somewhere else."
+      ],
+      "ipa": "ˈækwɪdʌkt"
+    },
+    {
+      "word": "interrogation",
+      "trans": "n. 审问、审讯（interrogate 的名词）",
+      "examples": [
+        "Right at the end of his interrogation, I saw he had a tiny submarine."
+      ],
+      "ipa": "ɪnˌterəˈɡeɪʃn"
+    },
+    {
+      "word": "do a runner",
+      "trans": "英式口语习语：逃之夭夭、溜之大吉（字面看不出逃跑含义；逃避买单/责任/追捕）",
+      "examples": [
+        "I saw him take it out of the cupboard and do a runner."
+      ],
+      "key": "do a runner"
+    },
+    {
+      "word": "take one's chances",
+      "trans": "短语：碰运气、冒险赌一把、听天由命试一试（明知危险成败难料还是去做）",
+      "examples": [
+        "While the others took their chances in the river, he went through the aqueduct."
+      ],
+      "key": "take one's chances"
+    },
+    {
+      "word": "carry on",
+      "trans": "v. 继续、接着进行、持续下去",
+      "examples": [
+        "He carried on in the aqueduct to come out somewhere else."
+      ],
+      "key": "carry on"
+    },
+    {
+      "word": "interviews",
+      "trans": "n. 此处不是普通\"采访\"，而是（警方、情报机构的）问询、正式问话笔录",
+      "examples": [
+        "The next day the interviews began."
+      ],
+      "key": "interviews"
+    },
+    {
+      "word": "give an account of sth",
+      "trans": "短语：陈述、描述某事经过（account 此处=口头/书面的描述，多用于官方问询、目击证词；give an account of what happened 陈述经过）",
+      "examples": [
+        "They had given detailed accounts of everything they knew."
+      ],
+      "key": "give an account of sth"
+    },
+    {
+      "word": "convicted",
+      "trans": "v. 定罪、宣判有罪（convict 的过去分词；be convicted 被定罪）",
+      "examples": [
+        "None of it would be enough to get the gang members convicted and locked up."
+      ],
+      "ipa": "kənˈvɪkt"
+    },
+    {
+      "word": "be of interest",
+      "trans": "短语：有价值、值得关注、有参考意义（≠好玩有趣）。调查/法律语境潜台词：有用，但还不够决定性证据。书面正式句式",
+      "examples": [
+        "The photos were of interest but would only link Clay himself."
+      ],
+      "key": "be of interest"
+    },
+    {
+      "word": "conclusive",
+      "trans": "adj. 确凿的、决定性的、一锤定音的（conclusive evidence 铁证）",
+      "examples": [
+        "The photos were far from conclusive."
+      ],
+      "ipa": "kənˈkluːsɪv"
+    },
+    {
+      "word": "sinister",
+      "trans": "adj. 邪恶的、凶险的、暗藏歹意的、有阴谋的",
+      "examples": [
+        "Official records pointed to nothing more sinister than an ice cream factory."
+      ],
+      "ipa": "ˈsɪnɪstə(r)"
+    },
+    {
+      "word": "sworn to secrecy",
+      "trans": "固定短语：宣誓保密、被要求发誓保守秘密（sworn 宣誓过的 + secrecy 保密）",
+      "examples": [
+        "They had been sworn to secrecy until further notice."
+      ],
+      "key": "sworn to secrecy"
+    },
+    {
+      "word": "delinquent",
+      "trans": "adj. 失足的、有过失的、违法违纪的（a delinquent boy 问题少年）",
+      "examples": [
+        "A delinquent boy who tried to ram the Queen's boat."
+      ],
+      "ipa": "dɪˈlɪŋkwənt"
+    },
+    {
+      "word": "ram",
+      "trans": "v. 猛撞、撞击、冲撞（交通工具高速撞向）",
+      "examples": [
+        "A delinquent boy who tried to ram the Queen's boat."
+      ],
+      "ipa": "ræm"
+    },
+    {
+      "word": "gutting",
+      "trans": "adj.【英式口语】令人极度失望的、让人泄气的（熟词僻义；gut 摧毁内部，gutting 让人内心受挫）",
+      "examples": [
+        "'Totally gutting,' Maggie said."
+      ],
+      "ipa": "ˈɡʌtɪŋ"
+    },
+    {
+      "word": "in exasperation",
+      "trans": "介词短语：恼怒地、万分恼火地（exasperation 恼怒）",
+      "examples": [
+        "'Totally gutting,' Maggie said in exasperation."
+      ],
+      "ipa": "ɪɡˌzɑːspəˈreɪʃn",
+      "key": "in exasperation"
+    },
+    {
+      "word": "summon",
+      "trans": "v. 传唤、召来（传唤某人到场；summons 传票）",
+      "examples": [
+        "Tom had been summoned back to the interview room alone."
+      ],
+      "ipa": "ˈsʌmən"
+    },
+    {
+      "word": "discharge",
+      "trans": "v. 准许离开、释放、放行（wait to be discharged 等候办手续离开）",
+      "examples": [
+        "He was told to wait to be discharged."
+      ],
+      "ipa": "dɪsˈtʃɑːdʒ"
+    },
+    {
+      "word": "clutch",
+      "trans": "v. 紧紧抓住、攥紧、抱紧（n. 另见 36 章\"离合器\"）",
+      "examples": [
+        "He was expecting PC Clark to walk in clutching some forms."
+      ],
+      "ipa": "klʌtʃ"
+    },
+    {
+      "word": "aviator-style sunglasses",
+      "trans": "名词短语：飞行员款墨镜、蛤蟆镜（aviator 飞行员）",
+      "examples": [
+        "A black man with aviator-style sunglasses came in."
+      ],
+      "key": "aviator-style sunglasses"
+    },
+    {
+      "word": "squadron",
+      "trans": "n.（空军）中队；Squadron Leader（英军 RAF 军衔）空军中队长",
+      "examples": [
+        "He introduced himself as Squadron Leader Richard Riley."
+      ],
+      "ipa": "ˈskwɒdrən",
+      "key": "squadron"
+    },
+    {
+      "word": "intently",
+      "trans": "adv. 专心地、凝神地、目不转睛地",
+      "examples": [
+        "Squadron Leader Riley listened intently, eyes fixed on Tom."
+      ],
+      "ipa": "ɪnˈtentli"
+    },
+    {
+      "word": "bring down",
+      "trans": "（航空/飞行器语境）= 击落、使坠毁（bring down a plane 把飞机打下来）",
+      "examples": [
+        "They discovered the plot to bring down the Red Arrows."
+      ],
+      "key": "bring down"
+    },
+    {
+      "word": "second",
+      "trans": "v.【正式】借调、抽调（人员去另一岗位；熟词僻义，读 /sɪˈkɒnd/，非\"第二\"）",
+      "examples": [
+        "I was seconded to the Signals for a while."
+      ],
+      "ipa": "sɪˈkɒnd"
+    },
+    {
+      "word": "save trouble",
+      "trans": "短语：省去麻烦、省事",
+      "examples": [
+        "I would have saved a whole lot of trouble."
+      ],
+      "key": "save trouble"
+    },
+    {
+      "word": "fixed wings",
+      "trans": "名词短语：固定翼（普通飞机，相对直升机旋翼）",
+      "examples": [
+        "He taught me to fly fixed wings."
+      ],
+      "key": "fixed wings"
+    },
+    {
+      "word": "rotary",
+      "trans": "n. rotary-wing 旋翼（直升机）；transfer to rotary 转飞旋翼机",
+      "examples": [
+        "Before I transferred to rotary, I flew fixed wings."
+      ],
+      "ipa": "ˈrəʊtəri",
+      "key": "rotary"
+    },
+    {
+      "word": "puff out one's cheeks",
+      "trans": "固定动作描写：鼓起腮帮子（表示震惊、惊叹、松了一口气）",
+      "examples": [
+        "He leant back and puffed out his cheeks in amazement."
+      ],
+      "key": "puff out one's cheeks"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "She looked at him, shaking her head in {}.",
+      "answer": "bemusement",
+      "hint": "困惑茫然"
+    },
+    {
+      "prompt": "They both {} out laughing at the water.",
+      "answer": "burst",
+      "hint": "突然大笑（burst out laughing）"
+    },
+    {
+      "prompt": "Tom's clothes were still {} on to the floor.",
+      "answer": "dripping",
+      "hint": "滴水的"
+    },
+    {
+      "prompt": "Jim arrived with {} Clark, a uniformed officer.",
+      "answer": "PC",
+      "hint": "警员（Police Constable）"
+    },
+    {
+      "prompt": "She called some {} words into her radio.",
+      "answer": "code",
+      "hint": "暗语（code words）"
+    },
+    {
+      "prompt": "There was a {} overhead as the helicopter appeared.",
+      "answer": "rumble",
+      "hint": "隆隆声"
+    },
+    {
+      "prompt": "They reached the harbour in {} to see the flash.",
+      "answer": "time",
+      "hint": "及时（in time to do）"
+    },
+    {
+      "prompt": "Soldiers {}ed down ladders onto the boat.",
+      "answer": "clamber",
+      "hint": "费力攀爬（clamber）"
+    },
+    {
+      "prompt": "He recognised her {} red hair.",
+      "answer": "lush",
+      "hint": "浓密的（lush）"
+    },
+    {
+      "prompt": "She was {}ed at gunpoint into the helicopter.",
+      "answer": "hoist",
+      "hint": "吊起、押送（hoist）"
+    },
+    {
+      "prompt": "They were hoisted into the {} of the helicopter.",
+      "answer": "bowels",
+      "hint": "内部深处（bowels）"
+    },
+    {
+      "prompt": "Maggie sounded fresh and {} as ever.",
+      "answer": "dauntless",
+      "hint": "无所畏惧的"
+    },
+    {
+      "prompt": "Aunt Emily had run a {} at last.",
+      "answer": "bath",
+      "hint": "放洗澡水（run a bath）"
+    },
+    {
+      "prompt": "She brought milk to keep him {}.",
+      "answer": "going",
+      "hint": "撑住体力（keep him going）"
+    },
+    {
+      "prompt": "While dressing he {} into the conversation below.",
+      "answer": "tuned",
+      "hint": "侧耳听见（tune into）"
+    },
+    {
+      "prompt": "He woke with a {}.",
+      "answer": "start",
+      "hint": "猛地惊醒（wake with a start）"
+    },
+    {
+      "prompt": "He {}ered into the kitchen, soaked and exhausted.",
+      "answer": "stagger",
+      "hint": "踉跄"
+    },
+    {
+      "prompt": "He looked like a drowned {}.",
+      "answer": "rat",
+      "hint": "落汤鸡（drowned rat）"
+    },
+    {
+      "prompt": "Those {} took Thomas off at the station.",
+      "answer": "thugs",
+      "hint": "暴徒恶棍"
+    },
+    {
+      "prompt": "Thomas got taken {} by the police.",
+      "answer": "off",
+      "hint": "被带走（get taken off）"
+    },
+    {
+      "prompt": "They'd get me one way or {}.",
+      "answer": "another",
+      "hint": "不管怎样（one way or another）"
+    },
+    {
+      "prompt": "You can say that {}, said Joel (= absolutely).",
+      "answer": "again",
+      "hint": "可不是嘛（You can say that again）"
+    },
+    {
+      "prompt": "He {}ed over when shot with the darts.",
+      "answer": "keel",
+      "hint": "轰然倒下（keel over）"
+    },
+    {
+      "prompt": "You three have catching {} to do, Aunt Emily said.",
+      "answer": "up",
+      "hint": "有故事要讲（have catching up to do）"
+    },
+    {
+      "prompt": "They spoke to Dad about the {}.",
+      "answer": "propofol",
+      "hint": "丙泊酚（麻醉药）"
+    },
+    {
+      "prompt": "You gave him a triple {}.",
+      "answer": "dose",
+      "hint": "三倍剂量（triple dose）"
+    },
+    {
+      "prompt": "A triple {} of the drug left him asleep.",
+      "answer": "dose",
+      "hint": "一剂、剂量（dose）"
+    },
+    {
+      "prompt": "If that's what it took to save her, I won't complain (the {} phrase).",
+      "answer": "it takes",
+      "hint": "付出代价句型（it takes sth to do）"
+    },
+    {
+      "prompt": "But if it {} for you two, I wouldn't be here.",
+      "answer": "weren't",
+      "hint": "要不是（if it weren't for）"
+    },
+    {
+      "prompt": "The report says the owner {} with the farm.",
+      "answer": "perished",
+      "hint": "丧生"
+    },
+    {
+      "prompt": "He carried on in the {} and came out elsewhere.",
+      "answer": "aqueduct",
+      "hint": "引水渠"
+    },
+    {
+      "prompt": "At the end of his {}, Tom saw the submarine.",
+      "answer": "interrogation",
+      "hint": "审问审讯"
+    },
+    {
+      "prompt": "He took the sub out and did a {}.",
+      "answer": "runner",
+      "hint": "逃之夭夭（do a runner）"
+    },
+    {
+      "prompt": "Others {} their chances in the river.",
+      "answer": "took",
+      "hint": "冒险赌一把（take one's chances）"
+    },
+    {
+      "prompt": "He carried {} in the aqueduct.",
+      "answer": "on",
+      "hint": "继续（carry on）"
+    },
+    {
+      "prompt": "The next day the {} began.",
+      "answer": "interviews",
+      "hint": "问询笔录（非采访）"
+    },
+    {
+      "prompt": "They gave detailed accounts of all they {}.",
+      "answer": "knew",
+      "hint": "陈述经过（give an account of）"
+    },
+    {
+      "prompt": "It was not enough to get the gang {}.",
+      "answer": "convicted",
+      "hint": "定罪"
+    },
+    {
+      "prompt": "The photos were of {} but only linked Clay.",
+      "answer": "interest",
+      "hint": "有参考价值（be of interest）"
+    },
+    {
+      "prompt": "The photos were far from {}.",
+      "answer": "conclusive",
+      "hint": "确凿决定性的"
+    },
+    {
+      "prompt": "Records pointed to nothing more {} than a factory.",
+      "answer": "sinister",
+      "hint": "凶险有阴谋的"
+    },
+    {
+      "prompt": "They had been sworn to {}.",
+      "answer": "secrecy",
+      "hint": "保密（sworn to secrecy）"
+    },
+    {
+      "prompt": "It was a {} boy who tried to ram the boat.",
+      "answer": "delinquent",
+      "hint": "失足的违法的"
+    },
+    {
+      "prompt": "A boy tried to {} the Queen's boat.",
+      "answer": "ram",
+      "hint": "猛撞"
+    },
+    {
+      "prompt": "Totally {} Maggie said, disappointed.",
+      "answer": "gutting",
+      "hint": "令人泄气的"
+    },
+    {
+      "prompt": "Totally gutting she said in {}.",
+      "answer": "exasperation",
+      "hint": "恼怒地（in exasperation）"
+    },
+    {
+      "prompt": "Tom had been {}ed back to the room alone.",
+      "answer": "summon",
+      "hint": "传唤召来"
+    },
+    {
+      "prompt": "He waited to be {} from the interview.",
+      "answer": "discharged",
+      "hint": "准许离开释放"
+    },
+    {
+      "prompt": "He pictured Clark entering, {}ing forms.",
+      "answer": "clutch",
+      "hint": "紧紧抓住（clutch）"
+    },
+    {
+      "prompt": "A man with aviator-style {} came in.",
+      "answer": "sunglasses",
+      "hint": "飞行员款墨镜（aviator-style sunglasses）"
+    },
+    {
+      "prompt": "He was a Squadron {} named Riley.",
+      "answer": "Leader",
+      "hint": "空军中队长（Squadron Leader）"
+    },
+    {
+      "prompt": "Riley listened {}, eyes fixed on Tom.",
+      "answer": "intently",
+      "hint": "专心凝神地"
+    },
+    {
+      "prompt": "They plotted to bring {} the Red Arrows.",
+      "answer": "down",
+      "hint": "击落（bring down）"
+    },
+    {
+      "prompt": "He was {}ed to the Signals for a while.",
+      "answer": "second",
+      "hint": "借调抽调（second）"
+    },
+    {
+      "prompt": "Doing so would have saved a lot of {}.",
+      "answer": "trouble",
+      "hint": "省麻烦（save trouble）"
+    },
+    {
+      "prompt": "Tony taught him to fly fixed {}.",
+      "answer": "wings",
+      "hint": "固定翼（fixed wings）"
+    },
+    {
+      "prompt": "Then he transferred to {} (helicopters).",
+      "answer": "rotary",
+      "hint": "旋翼机（rotary）"
+    },
+    {
+      "prompt": "He leant back and puffed out his {}.",
+      "answer": "cheeks",
+      "hint": "鼓起腮帮（puff out one's cheeks）"
+    }
+  ]
+}

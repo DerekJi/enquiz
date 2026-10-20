@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "exhilaration",
+      "trans": "n. 极度兴奋；狂喜；畅快激动",
       "ipa": "ɪɡˌzɪləˈreɪʃn",
       "examples": [
         "He was tight with fear, not laughing in exhilaration as before.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "bow rails",
+      "trans": "船头护栏；船头栏杆",
       "examples": [
         "Tom was leaning over the bow rails of the Teal.",
         "Passengers gripped the bow rails as the ship cut through the rough sea."
@@ -20,6 +22,7 @@
     },
     {
       "word": "white knuckles",
+      "trans": "固定文学习语，复数名词短语。字面指关节发白，引申义高度紧张、提心吊胆",
       "examples": [
         "He grabbed the cold metal of the railings with white knuckles.",
         "She held the armrest with white knuckles during the turbulent landing."
@@ -27,14 +30,16 @@
     },
     {
       "word": "spin the wheel",
+      "trans": "快速大幅度转动舵轮，不是慢慢微调，是一把一把猛打方向",
+      "key": "spin the wheel",
       "examples": [
         "Rufus Clay was on the bridge, spinning the wheel like a madman.",
         "The old sailor began to spin the wheel to turn the boat around."
-      ],
-      "key": "spin the wheel"
+      ]
     },
     {
       "word": "platter",
+      "trans": "n. 大浅盘；大餐盘，常常是椭圆形（尤其装鱼）",
       "ipa": "ˈplætə(r)",
       "examples": [
         "Snakey was presenting the Queen with a huge fish on a platter.",
@@ -43,6 +48,7 @@
     },
     {
       "word": "hoarse",
+      "trans": "adj. 嗓音沙哑的，嘶哑的",
       "ipa": "hɔːs",
       "examples": [
         "His voice was a hoarse whisper that was whipped away by the wind.",
@@ -51,6 +57,7 @@
     },
     {
       "word": "hacksaw",
+      "trans": "n. 钢锯；弓锯（用来锯金属的手锯）",
       "ipa": "ˈhæksɔː",
       "examples": [
         "On another bench there was a couple of hacksaws.",
@@ -59,6 +66,7 @@
     },
     {
       "word": "blowtorch",
+      "trans": "n. 喷灯；焊枪",
       "ipa": "ˈbləʊtɔːtʃ",
       "examples": [
         "On the bench lay a blowtorch and a scattering of syringes.",
@@ -67,6 +75,7 @@
     },
     {
       "word": "syringe",
+      "trans": "n. 注射器；针筒",
       "ipa": "sɪˈrɪndʒ",
       "examples": [
         "There were a couple of hacksaws and a scattering of syringes.",
@@ -75,6 +84,7 @@
     },
     {
       "word": "matt",
+      "trans": "adj. 哑光的，无光泽的，不反光的（英式拼写；美式常写 matte）",
       "ipa": "mæt",
       "examples": [
         "Each drone had been painted a matt grey.",
@@ -83,6 +93,7 @@
     },
     {
       "word": "matt gray",
+      "trans": "哑光灰/磨砂灰",
       "examples": [
         "Each drone had been painted a matt grey to avoid reflection.",
         "The military vehicle was coated in matt gray paint."
@@ -90,6 +101,7 @@
     },
     {
       "word": "nostrils",
+      "trans": "n. 鼻孔（nostril 的复数）",
       "ipa": "ˈnɒstrəlz",
       "examples": [
         "Maggie's nostrils flared at the smell.",
@@ -98,15 +110,17 @@
     },
     {
       "word": "prop",
+      "trans": "v. 用东西顶住、撑住，使保持某个状态",
       "ipa": "prɒp",
+      "key": "prop",
       "examples": [
         "She propped the door open with a fire extinguisher.",
         "He propped his bicycle against the wall."
-      ],
-      "key": "prop"
+      ]
     },
     {
       "word": "slump",
+      "trans": "v. 瘫倒、颓然倒下；无力地歪倒",
       "ipa": "slʌmp",
       "examples": [
         "She pulled a dart out and the bear slumped on its side, as if dead.",
@@ -115,6 +129,7 @@
     },
     {
       "word": "bung",
+      "trans": "n.（容器的）密封塞、橡胶堵头（rubber bung 橡胶塞、橡胶堵头）",
       "ipa": "bʌŋ",
       "examples": [
         "A hollow needle was stuck into a rubber bung.",
@@ -123,14 +138,16 @@
     },
     {
       "word": "run a hand through one's hair",
+      "trans": "手插入发丝，向后捋一遍头发，指尖穿行在头发之间",
+      "key": "run a hand through one's hair",
       "examples": [
         "Tom swung his legs over the sofa and ran a hand through his hair.",
         "He nervously ran a hand through his hair before answering."
-      ],
-      "key": "run a hand through one's hair"
+      ]
     },
     {
       "word": "pros",
+      "trans": "n. 内行，专业老手（pro 的复数形式，口语简写）",
       "ipa": "prɒz",
       "examples": [
         "The people we are dealing with are pros, not schoolboys.",
@@ -139,22 +156,25 @@
     },
     {
       "word": "come quietly",
+      "trans": "乖乖跟人走，不反抗、不挣扎、不大吵大闹",
+      "key": "come quietly",
       "examples": [
         "What if they don't come quietly when we turn up?",
         "The suspect was told to come quietly or be arrested by force."
-      ],
-      "key": "come quietly"
+      ]
     },
     {
       "word": "the nuclear option",
+      "trans": "所有备选方案里最后、最狠、代价最大、破坏性最强的一招；孤注一掷的终极方案",
+      "key": "the nuclear option",
       "examples": [
         "So you think we need a 'nuclear option'?",
         "Firing everyone was seen as the nuclear option of management."
-      ],
-      "key": "the nuclear option"
+      ]
     },
     {
       "word": "sawn-off",
+      "trans": "adj. 锯短的",
       "ipa": "sɔːn ɒf",
       "examples": [
         "A cluster of metal tubes, like sawn-off shotguns, had sprouted from the machine.",
@@ -163,6 +183,7 @@
     },
     {
       "word": "shotgun",
+      "trans": "n. 霰弹枪，猎枪",
       "ipa": "ˈʃɒtɡʌn",
       "examples": [
         "A cluster of metal tubes like sawn-off shotguns.",
@@ -171,14 +192,16 @@
     },
     {
       "word": "sprout overnight",
+      "trans": "一夜之间就冒了出来",
+      "key": "sprout overnight",
       "examples": [
         "Metal tubes had sprouted overnight from the centre of the machine.",
         "New coffee shops seem to sprout overnight in this district."
-      ],
-      "key": "sprout overnight"
+      ]
     },
     {
       "word": "pneumatic",
+      "trans": "adj. 气动的；由压缩空气驱动的",
       "ipa": "njuːˈmætɪk",
       "examples": [
         "There was a pneumatic hiss, like a sharp intake of breath.",
@@ -187,6 +210,7 @@
     },
     {
       "word": "sickeningly",
+      "trans": "adv. 令人恶心地；让人心里发慌、反胃地；叫人不适地",
       "ipa": "ˈsɪkənɪŋli",
       "examples": [
         "The weapon was sickeningly quiet.",
@@ -195,6 +219,7 @@
     },
     {
       "word": "solemnly",
+      "trans": "adv. 严肃地；郑重地；一本正经地",
       "ipa": "ˈsɒləmli",
       "examples": [
         "The others watched him solemnly as he shut the drone down.",
@@ -203,6 +228,7 @@
     },
     {
       "word": "innocently",
+      "trans": "adv. 无辜地；若无其事地；一副毫无危险的样子",
       "ipa": "ˈɪnəsntli",
       "examples": [
         "Two other drones, each parked innocently in front of its monitor.",
@@ -211,6 +237,7 @@
     },
     {
       "word": "We don't have long",
+      "trans": "我们时间不够；留给我们的时间不多了",
       "examples": [
         "Listen carefully, because we don't have long.",
         "Hurry — we don't have long before the shop closes."
@@ -218,6 +245,7 @@
     },
     {
       "word": "coordinate",
+      "trans": "v. 协调；统筹，同步安排",
       "ipa": "kəʊˈɔːdɪneɪt",
       "examples": [
         "We have to coordinate our attack exactly.",
@@ -226,30 +254,34 @@
     },
     {
       "word": "the tricky bit",
+      "trans": "麻烦/棘手的环节。bit 在英式口语里常代替 part，表示事情中的某一部分、某一环节；part 英美通用，用 bit 英式口语味更浓",
+      "key": "the tricky bit",
       "examples": [
         "We have to coordinate our attack exactly, and that's the tricky bit.",
         "Getting it started is easy; keeping it running is the tricky bit."
-      ],
-      "key": "the tricky bit"
+      ]
     },
     {
       "word": "pass across",
+      "trans": "字面掠过、扫过，多用于描写情绪、光影、神色在人脸上一闪而过",
+      "key": "pass across",
       "examples": [
         "A flicker of doubt passed across her face.",
         "A shadow of sadness passed across his eyes."
-      ],
-      "key": "pass across"
+      ]
     },
     {
       "word": "a flicker of doubt",
+      "trans": "一丝疑虑",
+      "key": "a flicker of doubt",
       "examples": [
         "But a flicker of doubt passed across her face.",
         "For a moment a flicker of doubt crossed his mind."
-      ],
-      "key": "a flicker of doubt"
+      ]
     },
     {
       "word": "rounds",
+      "trans": "n. 弹药、发射弹（这里指飞镖弹药，不是“四轮”）",
       "ipa": "raʊndz",
       "examples": [
         "There are four rounds on each drone.",
@@ -258,6 +290,7 @@
     },
     {
       "word": "fast-acting",
+      "trans": "adj. 速效的，起效很快的",
       "ipa": "ˌfɑːst ˈæktɪŋ",
       "examples": [
         "One shot will administer a dose of a fast-acting anaesthetic.",
@@ -266,6 +299,7 @@
     },
     {
       "word": "anaesthetic",
+      "trans": "n. 麻醉剂",
       "ipa": "ˌænəsˈθetɪk",
       "examples": [
         "A dose of a fast-acting anaesthetic.",
@@ -274,22 +308,25 @@
     },
     {
       "word": "put someone out",
+      "trans": "（医药/麻醉固定短语）使某人失去意识、麻醉放倒、弄晕",
+      "key": "put ... out",
       "examples": [
         "The anaesthetic will put the terrorists out for just long enough.",
         "The gas was strong enough to put the whole household out."
-      ],
-      "key": "put ... out"
+      ]
     },
     {
       "word": "sail out of range",
+      "trans": "驶离（危险）射程范围",
+      "key": "sail out of range",
       "examples": [
         "It will put them out long enough for the Teal to sail out of range.",
         "The ship increased speed to sail out of range of the shore guns."
-      ],
-      "key": "sail out of range"
+      ]
     },
     {
       "word": "twenty minutes tops",
+      "trans": "顶天二十分钟/最多二十分钟。tops 放在数量后，口语非正式用法表示上限，暗示实际很可能还用不到这么久，等于 at maximum",
       "examples": [
         "Twenty minutes tops for the hexacopters.",
         "The walk should take ten minutes tops."
@@ -297,14 +334,16 @@
     },
     {
       "word": "be yet to do",
+      "trans": "尚未发生、有待发生、还没有做（sth be yet to do = sth has not happened yet，如 The worst was yet to come.）",
+      "key": "be yet to do",
       "examples": [
         "He knew the worst was yet to come.",
         "The full consequences of the decision are yet to be seen."
-      ],
-      "key": "be yet to do"
+      ]
     },
     {
       "word": "juice",
+      "trans": "n. 口语俚语：电量、能源、动力",
       "ipa": "dʒuːs",
       "examples": [
         "There won't be enough juice to get the drones back home.",
@@ -313,6 +352,7 @@
     },
     {
       "word": "administer",
+      "trans": "v.（医药场景）施用；给药，注入（药剂）。强调规范地、可控地施用、投放药剂",
       "ipa": "ədˈmɪnɪstə(r)",
       "examples": [
         "One shot will administer a dose of anaesthetic.",
@@ -321,6 +361,7 @@
     },
     {
       "word": "propofol",
+      "trans": "n. 丙泊酚（异丙酚），医院手术室用的短效静脉全身麻醉药",
       "ipa": "ˈprəʊpəfɒl",
       "examples": [
         "Propofol would do the job as an emergency anaesthetic.",
@@ -329,14 +370,16 @@
     },
     {
       "word": "hold out one's palms in refusal",
+      "trans": "字面摊开、伸出两只手掌。动作画面：双臂微抬，手掌朝前摊开，是英语文化里摆手拒绝、叫停、别再说了的肢体姿态",
+      "key": "hold out one's palms in refusal",
       "examples": [
         "Maggie held out her palms in refusal.",
         "He held up both hands in refusal and backed away."
-      ],
-      "key": "hold out one's palms in refusal"
+      ]
     },
     {
       "word": "nosedive",
+      "trans": "n. 俯冲；急转直下，暴跌  v. 机头朝下猛冲、急剧下坠；（数值、局势）快速恶化",
       "ipa": "ˈnəʊzdaɪv",
       "examples": [
         "Then we'll nosedive all three drones into the water.",

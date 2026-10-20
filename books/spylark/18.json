@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "spooked",
+      "trans": "adj. 受惊的，被吓慌的",
       "ipa": "spuːkt",
       "examples": [
         "The three of them stood outside the kitchen window, eyes like spooked deer.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "in great detail",
+      "trans": "详尽地、事无巨细地（成熟、高频的固定搭配/惯用词组，但算不上成语习语）",
       "examples": [
         "Maggie relayed everything they knew in great detail.",
         "She described the suspect in great detail to the police."
@@ -20,6 +22,7 @@
     },
     {
       "word": "matter-of-fact",
+      "trans": "adj. 不带感情的；就事论事的；平铺直叙、平淡客观的",
       "examples": [
         "He took everything down with the same matter-of-fact tone as a missing-cat report.",
         "In a matter-of-fact way, she explained what had gone wrong."
@@ -27,14 +30,16 @@
     },
     {
       "word": "put someone on hold",
+      "trans": "保留通话，让对方在线等待（不挂断）（客服、电话高频）",
+      "key": "put ... on hold",
       "examples": [
         "I'm just going to put you on hold for a second.",
         "The operator put me on hold while she checked the records."
-      ],
-      "key": "put ... on hold"
+      ]
     },
     {
       "word": "jargon",
+      "trans": "n.[不可数] 行话；专业术语；圈内黑话（外人听不懂）",
       "ipa": "ˈdʒɑːɡən",
       "examples": [
         "Beneath the air force jargon was a simple and clear message.",
@@ -43,6 +48,7 @@
     },
     {
       "word": "beneath",
+      "trans": "Beneath + 表层外壳（话语/外表/伪装），+ 真实内核：在……的表象外壳之下，是……真相（beneath the jargon 在行话表象之下；beneath his smile 在笑容之下）",
       "examples": [
         "Beneath the jargon was a simple message: mind your own business.",
         "Beneath his tough exterior, he was actually quite shy."
@@ -50,6 +56,7 @@
     },
     {
       "word": "at this point",
+      "trans": "到了这个地步；在这种情形下；此时此刻",
       "examples": [
         "I can't give you a crime number at this point.",
         "At this point in the game, there was nothing more they could do."
@@ -57,6 +64,7 @@
     },
     {
       "word": "Is there anything else I can help you with",
+      "trans": "教科书级标准客服套话，英语客服极高频。还有其他什么我可以帮您的吗？",
       "examples": [
         "Is there anything else I can help you with today?",
         "'Here's your change. Is there anything else I can help you with?'"
@@ -64,14 +72,16 @@
     },
     {
       "word": "help someone with something",
+      "trans": "在某事上帮某人",
+      "key": "help ... with",
       "examples": [
         "Is there anything else I can help you with?",
         "Can I help you with those heavy bags?"
-      ],
-      "key": "help ... with"
+      ]
     },
     {
       "word": "aileron",
+      "trans": "n.（航空）副翼",
       "ipa": "ˈeɪlərɒn",
       "examples": [
         "Skylark had suffered a broken aileron in the crash-landing.",
@@ -80,6 +90,7 @@
     },
     {
       "word": "waterlog",
+      "trans": "v.（使）浸满水；大量进水，吸饱水而变沉重失灵",
       "ipa": "ˈwɔːtəlɒɡ",
       "examples": [
         "Maggot's waterlogged outboard was another matter.",
@@ -88,22 +99,25 @@
     },
     {
       "word": "lay out",
+      "trans": "摆放；摊开；陈列（实物），把东西铺开摆好",
+      "key": "lay out",
       "examples": [
         "Tom laid out his tools and settled down to the task.",
         "She laid out the clothes on the bed before packing."
-      ],
-      "key": "lay out"
+      ]
     },
     {
       "word": "settle down to",
+      "trans": "静下心来专心着手做某事；安下心投入某项工作",
+      "key": "settle down to",
       "examples": [
         "He put his overalls on and settled down to the task.",
         "After the holiday, I need to settle down to some serious study."
-      ],
-      "key": "settle down to"
+      ]
     },
     {
       "word": "siphon",
+      "trans": "n. 虹吸管；导流管。v. ①用虹吸管抽取、虹吸导出液体 ②引申高频义：私自抽走、挪用（钱、资源、信息）（小说新闻极常用）",
       "ipa": "ˈsaɪfn",
       "examples": [
         "He made a start by siphoning the fuel tank.",
@@ -112,6 +126,7 @@
     },
     {
       "word": "topple",
+      "trans": "v.（不稳而）倒下、倾倒；强调摇摇欲坠后翻倒（重心不稳失去平衡翻倒）。自带画面：先摇晃，然后才翻倒，不是一下子摔下去",
       "ipa": "ˈtɒpl",
       "examples": [
         "Unbalanced, he toppled against the engine stand.",
@@ -120,6 +135,7 @@
     },
     {
       "word": "scold",
+      "trans": "v./n. 斥责，数落，训斥（语气重，但一般不吼叫怒骂；多指长辈对晚辈，批评行为）",
       "ipa": "skəʊld",
       "examples": [
         "'Archie, sit down!' Maggie scolded.",
@@ -128,6 +144,7 @@
     },
     {
       "word": "flustered",
+      "trans": "adj. 慌乱的；手足无措的；心烦意乱，被突发状况搞得心神大乱（侧重狼狈、心神被搅乱，不一定生气）",
       "ipa": "ˈflʌstəd",
       "examples": [
         "Flustered, Tom began to pick up the engine parts.",
@@ -136,14 +153,16 @@
     },
     {
       "word": "come flooding back",
+      "trans": "（记忆）潮水般涌回来，往事一下子涌上心头",
+      "key": "come flooding back",
       "examples": [
         "The events of the last twenty-four hours came flooding back to him.",
         "All the childhood memories came flooding back when he heard the song."
-      ],
-      "key": "come flooding back"
+      ]
     },
     {
       "word": "intimidate",
+      "trans": "v. 恐吓；胁迫；威逼，通过威慑让对方害怕、屈服",
       "ipa": "ɪnˈtɪmɪdeɪt",
       "examples": [
         "She had been intimidated by Snakey.",
@@ -152,6 +171,7 @@
     },
     {
       "word": "gruffly",
+      "trans": "adv. 语气生硬、粗声粗气地说话，不是发火，只是语调粗粝简短",
       "ipa": "ˈɡrʌfli",
       "examples": [
         "'The water is heavier so it settles on the bottom,' he explained gruffly.",
@@ -160,6 +180,7 @@
     },
     {
       "word": "spark plug",
+      "trans": "n. 火花塞（内燃机零件）",
       "ipa": "ˈspɑːk plʌɡ",
       "examples": [
         "He began to loosen a spark plug with a spanner.",
@@ -168,6 +189,7 @@
     },
     {
       "word": "cork",
+      "trans": "n. 软木塞（酒瓶、油箱、容器的瓶塞，航海、维修场景高频）",
       "ipa": "kɔːk",
       "examples": [
         "A metal cylinder about the size of two corks put end to end.",
@@ -176,14 +198,16 @@
     },
     {
       "word": "spring into position",
+      "trans": "弹到位，猛地弹开、自动弹到工作位置",
+      "key": "spring into position",
       "examples": [
         "A pair of rotor blades sprung into position with a click.",
         "The seats spring into position when you press the button."
-      ],
-      "key": "spring into position"
+      ]
     },
     {
       "word": "ruffle",
+      "trans": "v.（风、气流）吹乱，拂乱（毛发、头发）",
       "ipa": "ˈrʌfl",
       "examples": [
         "The machine lifted into the air, ruffling her hair with the breeze of the rotors.",
@@ -192,6 +216,7 @@
     },
     {
       "word": "kinetic energy",
+      "trans": "动能，物体运动而具备的能量",
       "examples": [
         "The batteries are charged by kinetic energy.",
         "A moving object stores kinetic energy."
@@ -199,22 +224,25 @@
     },
     {
       "word": "pluck something from something",
+      "trans": "从某处一把抓出来、拽出（小说高频）",
+      "key": "pluck ... from",
       "examples": [
         "Tom said, plucking it from the space between them.",
         "She plucked a grape from the bunch and ate it."
-      ],
-      "key": "pluck ... from"
+      ]
     },
     {
       "word": "slot A into B",
+      "trans": "把A精准卡入、嵌入B的槽位里面",
+      "key": "slot ... into",
       "examples": [
         "He slotted Gnat into the tube again.",
         "Slot the USB drive into the port at the front."
-      ],
-      "key": "slot ... into"
+      ]
     },
     {
       "word": "It does the job",
+      "trans": "能完成任务、够用、能派上用场。可达成目标把活干完，不一定“刚好凑活够”；感情中性，常暗含不一定华丽、不完美，但功能够用",
       "examples": [
         "'It does the job,' said Tom.",
         "The old laptop is slow, but it does the job for writing."
@@ -222,6 +250,7 @@
     },
     {
       "word": "apart from anything else",
+      "trans": "且不说别的；此外",
       "examples": [
         "Apart from anything else, he makes the best cakes you've ever tasted.",
         "Apart from anything else, it's too far to walk in this rain."
@@ -229,11 +258,12 @@
     },
     {
       "word": "pay a visit to",
+      "trans": "拜访某人/造访某地，固定习语",
+      "key": "pay a visit to",
       "examples": [
         "It's time we paid a visit to Jim Rothwell.",
         "We paid a visit to the local museum on Sunday."
-      ],
-      "key": "pay a visit to"
+      ]
     }
   ],
   "quiz": [

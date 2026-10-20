@@ -5,30 +5,35 @@
   "words": [
     {
       "word": "flicker one's eyes",
+      "trans": "眼睛微微一闪、眨动",
       "examples": [
         "He flickered open his eyes for a moment and saw Jim Rothwell looking down at him."
       ]
     },
     {
       "word": "a flicker of",
+      "trans": "一丝、一闪而过的（a flicker of hope）",
       "examples": [
         "The warm sun breaking through the dark rainclouds brought a flicker of hope to the travelers."
       ]
     },
     {
       "word": "twitch",
+      "trans": "（肌肉/毛发）不受控制地轻微快速抽动、颤动、微动（流露情绪）",
       "examples": [
         "Jim Rothwell looked down at him, serious but calm, concern showing in the slightest twitch of his greying moustache."
       ]
     },
     {
       "word": "indignation",
+      "trans": "愤慨、义愤、愤愤不平",
       "examples": [
         "\"It wasn't us, Mr Rothwell. We were just getting our things from the lockers,\" said Podge, his voice squeaky with indignation."
       ]
     },
     {
       "word": "pipe tobacco",
+      "trans": "烟斗丝、烟斗烟草",
       "ipa": "təˈbækəʊ",
       "examples": [
         "The front seat of the ancient Subaru Forester had a familiar smell of pipe tobacco."
@@ -36,6 +41,7 @@
     },
     {
       "word": "debris",
+      "trans": "碎片、杂物、残骸",
       "ipa": "ˈdebriː",
       "examples": [
         "The floor of the car was strewn with the debris of fishing tackle and bits of old rope."
@@ -43,12 +49,14 @@
     },
     {
       "word": "fishing tackle",
+      "trans": "渔具（整套钓鱼用品）",
       "examples": [
         "He kept all his fishing tackle, including rods, lines, and hooks, in the back of his vehicle."
       ]
     },
     {
       "word": "humiliation",
+      "trans": "难堪、屈辱",
       "ipa": "hjuːˌmɪliˈeɪʃn",
       "examples": [
         "Tom stared ahead, humiliation and anger competing with relief and thankfulness for being rescued."
@@ -56,6 +64,7 @@
     },
     {
       "word": "cagoule",
+      "trans": "（英式）带兜帽的薄防雨外套",
       "ipa": "kəˈɡuːl",
       "examples": [
         "They crawled through the main street of the village, where tourists were hurrying to unfold their cagoules."
@@ -63,6 +72,7 @@
     },
     {
       "word": "fusspot",
+      "trans": "爱小题大做、过分操心的人",
       "ipa": "ˈfʌspɒt",
       "examples": [
         "I know she's a bit of a fusspot sometimes, Tom, but she does her best."
@@ -70,102 +80,119 @@
     },
     {
       "word": "strew",
+      "trans": "散落、散布、乱扔（过去分词 strewn）",
       "examples": [
         "The floor was covered with the debris of fishing tackle and bits of old rope strewn around the seats."
       ]
     },
     {
       "word": "deserve a good hiding",
+      "trans": "该好好教训一顿（give sb a hiding 严厉教训某人；get a hiding 挨一顿教训）",
       "examples": [
         "\"And so she should be. Those lads deserve a good hiding.\""
       ]
     },
     {
       "word": "happen to be",
+      "trans": "碰巧是（happen to do 固定框架：碰巧做某事，如 happen to see/know）",
       "examples": [
         "\"Even if that school handyman happens to be your friend?\""
       ]
     },
     {
       "word": "cling to",
+      "trans": "（人/物）紧紧抓住、依附；（道路、藤蔓）紧贴、依傍、顺着延伸（拟人化描写）",
       "examples": [
         "They left the village behind and Tom watched the road as it tracked around the bottom of Brockbarrow, clinging to the curves of the drystone walls."
       ]
     },
     {
       "word": "the last thing someone needs",
+      "trans": "某人最不需要/最不想要的最后一件事",
       "examples": [
         "The last thing he needed now school was finished was a big fuss."
       ]
     },
     {
       "word": "return one's smile",
+      "trans": "回以微笑（return one's greeting/look 回礼、回看）",
       "examples": [
         "Tom let out a breath and managed to return Jim's smile."
       ]
     },
     {
       "word": "turn off the road",
+      "trans": "驶离主干道，转入小路/道口",
       "examples": [
         "Jim braked and turned off the road through a stone gateway with 'Cedar Holme' marked on a piece of slate."
       ]
     },
     {
       "word": "inhale",
+      "trans": "吸气、吸入（空气）；深吸一口气",
       "examples": [
         "Tom inhaled deeply, feeling a shift in the weather, and was desperate to get into the air before it was too late."
       ]
     },
     {
       "word": "a shift in the weather",
+      "trans": "天气（风向）正在发生变化",
       "examples": [
         "Tom inhaled; he could feel a shift in the weather and wanted to fly his drone immediately."
       ]
     },
     {
       "word": "be desperate to do sth",
+      "trans": "迫切、迫不及待想要做某事",
       "examples": [
         "He could feel a shift in the weather and was desperate to get into the air before it was too late."
       ]
     },
     {
       "word": "converted",
+      "trans": "改建的、改造用途的",
       "examples": [
         "He stomped through the damp garden to 'River's Edge', the converted boathouse his aunt rented out to people for holidays."
       ]
     },
     {
       "word": "slump",
+      "trans": "重重坐下、瘫坐",
       "examples": [
         "How was your last day? said Aunt Emily brightly, when he stepped inside and slumped on to a sofa in the big open lounge."
       ]
     },
     {
       "word": "earlobe",
+      "trans": "耳垂（= lobe of the ear）",
       "examples": [
         "He put a hand over the lobe of his ear, where a crust of dried blood was forming."
       ]
     },
     {
       "word": "a crust of dried blood",
+      "trans": "干结成痂的血迹",
       "examples": [
         "He put a hand over the lobe of his ear, where a crust of dried blood was forming."
       ]
     },
     {
       "word": "snap sth shut",
+      "trans": "啪地合上",
       "examples": [
         "\"Perfect.\" His aunt snapped the notebook shut."
       ]
     },
     {
       "word": "blurt out",
+      "trans": "脱口而出（来不及忍住就说了出来）",
       "examples": [
         "\"A whole month!\" Tom blurted out before he could stop himself."
       ]
     },
     {
       "word": "locum",
+      "trans": "临时代班的从业者（医生/兽医等替休假正职顶岗，原词 locum tenens）",
       "ipa": "ˈləʊkəm",
       "examples": [
         "Mr Green is a vet, doing a locum for someone in the village."
@@ -173,48 +200,56 @@
     },
     {
       "word": "at a loose end",
+      "trans": "无事可做、闲得发慌",
       "examples": [
         "So, no doubt the children are going to be at a loose end a lot of the time."
       ]
     },
     {
       "word": "do miracles",
+      "trans": "创造奇迹",
       "examples": [
         "\"No one expects you to do miracles, Thomas. But I would like to see you doing things that are normal.\""
       ]
     },
     {
       "word": "fit in fine",
+      "trans": "相处融洽、融入得很好",
       "examples": [
         "He may not have been at the centre of the popular crowd, but he'd fitted in fine."
       ]
     },
     {
       "word": "mean a lot",
+      "trans": "意义重大、我很受用、非常感激",
       "examples": [
         "I'm sure it would mean a lot to Mr and Mrs Green if they knew the children had someone to look after them."
       ]
     },
     {
       "word": "someone one's own age",
+      "trans": "与某人同龄的人",
       "examples": [
         "I'm sure it would mean a lot if they knew the children had someone their own age to look after them."
       ]
     },
     {
       "word": "tour of duty",
+      "trans": "（军人、外派公职人员）一轮服役/外派任务",
       "examples": [
         "His father had enrolled him in the college during his final tour of duty in the Middle East."
       ]
     },
     {
       "word": "as a dare",
+      "trans": "出于互相激将、打赌挑战，为了赌一把才去做",
       "examples": [
         "They'd taken them on a night climb up Dollywaggon Pike followed by a freezing swim in Grisedale Tarn as a dare."
       ]
     },
     {
       "word": "hypothermia",
+      "trans": "体温过低、失温症",
       "ipa": "ˌhaɪpəˈθɜːmiə",
       "examples": [
         "They'd nearly got hypothermia and had laughed hysterically about it for hours while they thawed out."
@@ -222,6 +257,7 @@
     },
     {
       "word": "hysterically",
+      "trans": "歇斯底里地",
       "ipa": "hɪˈsterɪkli",
       "examples": [
         "They'd nearly got hypothermia and had laughed hysterically about it for hours while they thawed out."
@@ -229,18 +265,21 @@
     },
     {
       "word": "thaw out",
+      "trans": "解冻、融化（thawed out 暖和过来、化开）",
       "examples": [
         "They sat closer to the wood burner to thaw out after swimming in the freezing lake."
       ]
     },
     {
       "word": "utterly",
+      "trans": "完全地、彻底地、全然",
       "examples": [
         "He wanted to soar into empty air until he was utterly alone in the silent sky."
       ]
     },
     {
       "word": "dinghy",
+      "trans": "小型无篷小艇（复数 dinghies）",
       "ipa": "ˈdɪŋi",
       "examples": [
         "Below the living area was the wet dock where Aunt Emily kept an ancient wooden sailing dinghy, Bobalong."
@@ -248,18 +287,21 @@
     },
     {
       "word": "submerged",
+      "trans": "被淹没的、浸在水下的",
       "examples": [
         "It was like a stone barn built over the water, with a pair of half-submerged wooden gates opening on to the river."
       ]
     },
     {
       "word": "open on to",
+      "trans": "（门窗、通道）正对着、通向，一开出去就是…",
       "examples": [
         "The old wooden doors open on to a beautiful wooden balcony overlooking the lake."
       ]
     },
     {
       "word": "rafter",
+      "trans": "屋顶内部支撑屋顶的房梁、椽木（天花板上方那一排木架）",
       "ipa": "ˈrɑːftə",
       "examples": [
         "It was like a stone barn built over the water, with swallows nesting in the rafters."
@@ -267,18 +309,21 @@
     },
     {
       "word": "play of light",
+      "trans": "（固定文学短语）光影跃动、光线变幻",
       "examples": [
         "Tom loved the dainty play of light on water that broke through cracks in the doors."
       ]
     },
     {
       "word": "the rug is kicked away from under someone",
+      "trans": "固定比喻：把某人脚下的毯子一脚抽走→赖以支撑的一切突然消失、安稳生活骤然崩塌",
       "examples": [
         "His old comfortable life had suddenly been kicked away from under him the day his father's plane disappeared."
       ]
     },
     {
       "word": "reconnaissance",
+      "trans": "侦查",
       "ipa": "rɪˈkɒnɪsns",
       "examples": [
         "His father's reconnaissance plane had suddenly disappeared off the radar."
@@ -286,96 +331,112 @@
     },
     {
       "word": "That's settled.",
+      "trans": "这事定了、敲定了、就这么办了（= That's sorted.）",
       "examples": [
         "\"That's settled, then,\" Aunt Emily emerged from the bedroom with a vase of flowers."
       ]
     },
     {
       "word": "wilt",
+      "trans": "（花草）枯萎、发蔫，失去水分垂下来",
       "examples": [
         "Aunt Emily emerged from the bedroom carrying a vase of wilting flowers."
       ]
     },
     {
       "word": "show someone around",
+      "trans": "带某人四处看看、领着参观",
       "examples": [
         "\"You just need to show them round and make them feel welcome. They won't bite.\""
       ]
     },
     {
       "word": "make someone feel welcome",
+      "trans": "让某人感到受欢迎、宾至如归",
       "examples": [
         "\"You just need to show them round and make them feel welcome.\""
       ]
     },
     {
       "word": "manage to do sth",
+      "trans": "设法做成了某事、好不容易做到了（付出一点努力才成功）",
       "examples": [
         "\"Oh, and by the way, Thomas, I somehow managed to lose my engagement ring.\""
       ]
     },
     {
       "word": "somehow manage to do",
+      "trans": "不知怎么居然做到了（somehow 强化：自己都说不清怎么发生的，充满意外、无奈）",
       "examples": [
         "She somehow managed to drop her keys into the deep water while stepping onto the boat."
       ]
     },
     {
       "word": "arrange flowers",
+      "trans": "插花、摆花（arrange a bouquet 扎一束花）",
       "examples": [
         "She began to arrange fresh flowers in the vase after clearing away the old ones."
       ]
     },
     {
       "word": "hang out the washing",
+      "trans": "把洗好的衣服拿出去晾到晾衣绳上",
       "examples": [
         "\"I think it must have been when I was hanging out the washing yesterday morning.\""
       ]
     },
     {
       "word": "keep a lookout for someone",
+      "trans": "帮某人留意、多留心、睁大眼睛找找看",
       "examples": [
         "\"If I did lose it in the garden, it must still be there somewhere. Will you keep a lookout for me?\""
       ]
     },
     {
       "word": "be grateful for sth",
+      "trans": "因某事感到庆幸、感激",
       "examples": [
         "\"I'm sorry,\" said Tom, grateful for the change of topic."
       ]
     },
     {
       "word": "despite oneself",
+      "trans": "不由自主、尽管本来并不想这么做（Despite himself, he smiled back 本不想笑还是回笑）",
       "examples": [
         "Despite himself, he found himself smiling back at Aunt Emily's sudden hopefulness."
       ]
     },
     {
       "word": "downpour",
+      "trans": "倾盆大雨、暴雨",
       "examples": [
         "Tom left River's Edge and stepped into a sudden downpour."
       ]
     },
     {
       "word": "pelt",
+      "trans": "（雨点、石块等）猛烈、持续地拍打、砸击",
       "examples": [
         "He looked up, fat droplets pelting him in the face."
       ]
     },
     {
       "word": "be drained of sth",
+      "trans": "被抽空、耗尽→失去原本具备的特质（色彩、活力、情绪、生命力）",
       "examples": [
         "The sky had been drained of colour as the storm rolled over the village."
       ]
     },
     {
       "word": "work the wind",
+      "trans": "（鸟类）利用气流、调整翅膀，借风力滑翔、盘旋飞行",
       "examples": [
         "A lone bird worked the wind for a while, and then curved into the treetops for refuge."
       ]
     },
     {
       "word": "anemometer",
+      "trans": "风速计、风力仪",
       "ipa": "ˌænɪˈmɒmɪtə(r)",
       "examples": [
         "He pushed the workshop door closed against a gust, and didn't even bother looking at the anemometer."
@@ -383,24 +444,28 @@
     },
     {
       "word": "not bother doing sth",
+      "trans": "不必费心做某事",
       "examples": [
         "It was raining so heavily that he didn't even bother looking outside."
       ]
     },
     {
       "word": "set in",
+      "trans": "（坏天气、坏事）开始并持续下去（the rain set in 雨下个不停）",
       "examples": [
         "It was force five at least, and the rain was set in."
       ]
     },
     {
       "word": "head in one's hands",
+      "trans": "双手抱头（垂头丧气、烦恼的姿势）",
       "examples": [
         "He found the map he'd sketched and stared at it, his head in his hands."
       ]
     },
     {
       "word": "thrust",
+      "trans": "猛推、用力塞、狠狠掷出（动作带爆发力，不是轻轻放）",
       "ipa": "θrʌst",
       "examples": [
         "\"You already have hurt me!\" he shouted, thrusting the exercise book across the room."

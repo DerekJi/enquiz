@@ -1,0 +1,566 @@
+{
+  "id": "26",
+  "title": "Chapter 26",
+  "order": 26,
+  "words": [
+    {
+      "word": "flaking",
+      "trans": "adj. 剥落的，成片脱落的",
+      "ipa": "ˈfleɪkɪŋ",
+      "examples": [
+        "The paint on the old shed was flaking off in the damp."
+      ]
+    },
+    {
+      "word": "hum",
+      "trans": "v. 嗡嗡作响，发出低沉连续的嗡鸣（hum 的过去式与过去分词为 hummed）",
+      "ipa": "hʌm",
+      "examples": [
+        "The old fridge hummed quietly in the corner."
+      ]
+    },
+    {
+      "word": "gurgle",
+      "trans": "v. 汩汩作响，流水发出咕噜声",
+      "ipa": "ˈɡɜːɡl",
+      "examples": [
+        "Water gurgled down the drain."
+      ]
+    },
+    {
+      "word": "muffled",
+      "trans": "adj. 低沉的，被捂住听不清的",
+      "ipa": "ˈmʌfld",
+      "examples": [
+        "We heard a muffled shout from behind the door."
+      ]
+    },
+    {
+      "word": "truss",
+      "trans": "v. 捆绑、捆扎；truss up 捆紧，专门指把人手脚紧紧捆住",
+      "ipa": "trʌs",
+      "key": "truss ... up",
+      "examples": [
+        "They trussed the prisoner's hands up behind his back."
+      ]
+    },
+    {
+      "word": "weighted",
+      "trans": "adj. 加重的，坠了重物的",
+      "ipa": "ˈweɪtɪd",
+      "examples": [
+        "The rope had a weighted end so it would reach the ground."
+      ]
+    },
+    {
+      "word": "baffled",
+      "trans": "adj. 困惑的，茫然不解的",
+      "ipa": "ˈbæfld",
+      "examples": [
+        "He looked completely baffled by the question."
+      ]
+    },
+    {
+      "word": "flash past",
+      "trans": "飞驰掠过，一闪而过",
+      "examples": [
+        "The pickup truck flashed past them on the narrow lane."
+      ]
+    },
+    {
+      "word": "pickup",
+      "trans": "n. 皮卡、皮卡车（pickup truck 的简写）",
+      "ipa": "ˈpɪkʌp",
+      "examples": [
+        "A dusty pickup was parked outside the compound."
+      ]
+    },
+    {
+      "word": "show somebody into",
+      "trans": "领某人进入某处。重点：带路+指引，让对方跟着走进去，常是工作人员/警察/接待人员这类身份",
+      "key": "show ... into",
+      "examples": [
+        "The guard showed them into a cold concrete room."
+      ]
+    },
+    {
+      "word": "stunned",
+      "trans": "adj. 震惊的，惊愕的",
+      "ipa": "stʌnd",
+      "examples": [
+        "She stood there, stunned, unable to move."
+      ]
+    },
+    {
+      "word": "wink",
+      "trans": "n./v. 使眼色，眨一只眼（示意）",
+      "ipa": "wɪŋk",
+      "examples": [
+        "He gave her a quick wink to reassure her."
+      ]
+    },
+    {
+      "word": "speed off",
+      "trans": "迅速离开，疾驰而去",
+      "examples": [
+        "The men speed off in the van before anyone could note the plate."
+      ]
+    },
+    {
+      "word": "might as well have done",
+      "trans": "固定句型，不要拆成“as well=也”。含义：倒不如；简直就跟……一样（做了也没用，现实等于没发生）",
+      "examples": [
+        "He might as well have never come at all."
+      ]
+    },
+    {
+      "word": "twisting",
+      "trans": "adj. 蜿蜒曲折的",
+      "ipa": "ˈtwɪstɪŋ",
+      "examples": [
+        "They followed a twisting track up towards the crags."
+      ]
+    },
+    {
+      "word": "crevice",
+      "trans": "n.（岩石、墙的）窄缝、裂隙、裂口",
+      "ipa": "ˈkrevɪs",
+      "examples": [
+        "A thin stream of water trickled from a crevice in the rock."
+      ]
+    },
+    {
+      "word": "crag",
+      "trans": "n. 悬崖、峭壁（常用复数 crags）",
+      "ipa": "kræɡ",
+      "examples": [
+        "The crags rose grey and bare above the treeline."
+      ]
+    },
+    {
+      "word": "razor wire",
+      "trans": "n. 刀片刺网、带刺铁丝网",
+      "examples": [
+        "Coils of razor wire topped the high perimeter fence."
+      ]
+    },
+    {
+      "word": "sub-machine gun",
+      "trans": "n. 冲锋枪",
+      "examples": [
+        "One of the men carried a sub-machine gun across his chest."
+      ]
+    },
+    {
+      "word": "compound",
+      "trans": "n. 有围墙的大院、围场、封闭据点",
+      "ipa": "ˈkɒmpaʊnd",
+      "examples": [
+        "The walled compound looked more like a prison than a farm."
+      ]
+    },
+    {
+      "word": "assortment",
+      "trans": "n. 各种各样；一批不同种类的东西",
+      "ipa": "əˈsɔːtmənt",
+      "examples": [
+        "An assortment of old vehicles rusted in the yard."
+      ]
+    },
+    {
+      "word": "an assortment of vehicles",
+      "trans": "各式各样的车辆。侧重：实物堆在一起、肉眼可见的一堆各色物件",
+      "examples": [
+        "The barn held an assortment of vehicles — quad bikes, a dumper truck, a pickup."
+      ]
+    },
+    {
+      "word": "quad bike",
+      "trans": "n. 四轮越野摩托车",
+      "ipa": "kwɒd baɪk",
+      "examples": [
+        "A bright red quad bike stood by the door."
+      ]
+    },
+    {
+      "word": "dumper truck",
+      "trans": "n. 自卸小货车、翻斗车",
+      "ipa": "ˈdʌmpə trʌk",
+      "examples": [
+        "The engine of the dumper truck ticked as it cooled."
+      ]
+    },
+    {
+      "word": "virtually",
+      "trans": "adv. 几乎、差不多、实际上",
+      "ipa": "ˈvɜːtʃuəli",
+      "examples": [
+        "The place was virtually empty, with no one in sight."
+      ]
+    },
+    {
+      "word": "thrust",
+      "trans": "v. 猛推、搡、塞（过去式同形）",
+      "ipa": "θrʌst",
+      "examples": [
+        "She thrust the heavy bag into the back of the truck."
+      ]
+    },
+    {
+      "word": "cradle",
+      "trans": "v. 轻轻抱、怀抱着",
+      "ipa": "ˈkreɪdl",
+      "examples": [
+        "She cradled the injured bird gently in her hands."
+      ]
+    },
+    {
+      "word": "niggle",
+      "trans": "v. 不断烦扰、萦绕心头",
+      "ipa": "ˈnɪɡl",
+      "examples": [
+        "A nagging doubt niggled at the back of his mind."
+      ]
+    },
+    {
+      "word": "sickening",
+      "trans": "adj. 令人恶心的，让人心里发慌难受的",
+      "ipa": "ˈsɪkənɪŋ",
+      "examples": [
+        "There was a sickening lurch as the drone dropped."
+      ]
+    },
+    {
+      "word": "inch its way",
+      "trans": "一点点往前挪动",
+      "examples": [
+        "The convoy inched its way along the rutted track."
+      ]
+    },
+    {
+      "word": "keep track of time",
+      "trans": "掌握时间、知晓时间",
+      "examples": [
+        "Underground it was impossible to keep track of time."
+      ]
+    },
+    {
+      "word": "plague his mind",
+      "trans": "萦绕在他脑海，不断折磨他的思绪",
+      "key": "plague one's mind",
+      "examples": [
+        "The same question plagued his mind all through the night."
+      ]
+    },
+    {
+      "word": "behind bars",
+      "trans": "坐牢、身陷囹圄",
+      "examples": [
+        "He had spent most of his life behind bars."
+      ]
+    },
+    {
+      "word": "trussed up like a chicken",
+      "trans": "像鸡一样被捆得严严实实。truss up 专门指把人手脚紧紧捆住，like a chicken 比喻绑得动弹不得，是坏人的威胁用语",
+      "examples": [
+        "They left him trussed up like a chicken in the corner."
+      ]
+    },
+    {
+      "word": "turn something over in one's mind",
+      "trans": "习语：反复思量、仔细回想某件事（turn sth over in one’s mind 在脑子里反复琢磨）",
+      "key": "turn ... over in one's mind",
+      "examples": [
+        "He turned the man's threat over in his mind, looking for a flaw."
+      ]
+    },
+    {
+      "word": "mental age",
+      "trans": "心理年龄",
+      "examples": [
+        "For all his size, his mental age was that of a child."
+      ]
+    },
+    {
+      "word": "central locking",
+      "trans": "（汽车）中控锁。汽车术语，全车一起锁门的装置；The click of the central locking was like a gun being cocked. 中控锁咔哒一响如同枪支上膛",
+      "examples": [
+        "The click of the central locking was like a gun being cocked."
+      ]
+    },
+    {
+      "word": "gun being cocked",
+      "trans": "枪支上膛。cock 作动词指扳起击锤给枪上膛，这里是比喻，烘托紧张危险氛围",
+      "examples": [
+        "The sharp click sounded like a gun being cocked."
+      ]
+    },
+    {
+      "word": "open-fronted brick barn",
+      "trans": "开放式砖造谷仓。open-fronted 为形容词复合词，指正面没有墙、敞开式的建筑",
+      "examples": [
+        "They ducked inside an open-fronted brick barn to hide."
+      ]
+    },
+    {
+      "word": "happy days",
+      "trans": "那就万事大吉、皆大欢喜。口语习语，坏人 Mike 的口头话，带虚伪感——“只要你说了，那就一切好说”",
+      "examples": [
+        "'Tell us, and happy days,' the man sneered."
+      ]
+    },
+    {
+      "word": "get a whiff of",
+      "trans": "get/catch a whiff of sth 猛地嗅到一阵气味，常指不好闻的味道",
+      "key": "get/catch a whiff of",
+      "examples": [
+        "He caught a whiff of diesel and damp earth."
+      ]
+    },
+    {
+      "word": "spill the beans",
+      "trans": "吐露秘密、全盘招供。经典俚语=tell secrets；spilling the beans was not going to get him a ticket out：就算全盘招供也不能换得脱身",
+      "key": "spill the beans",
+      "examples": [
+        "Spilling the beans was not going to get him a ticket out."
+      ]
+    },
+    {
+      "word": "a ticket out",
+      "trans": "a ticket out (of somewhere) 比喻可以逃离险境的机会、出路，让他得以逃出去",
+      "key": "get somebody a ticket out",
+      "examples": [
+        "He talked big, as if this could get him a ticket out."
+      ]
+    },
+    {
+      "word": "troubled teenagers",
+      "trans": "问题少年、有心理困境的青少年。固定搭配，小说/新闻高频，指家庭或心理遇到麻烦的青少年",
+      "examples": [
+        "The old farm was meant for troubled teenagers, the man claimed."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "Old paint was {} off the walls of the shed.",
+      "answer": "flaking",
+      "hint": "成片剥落"
+    },
+    {
+      "prompt": "The engine {} softly as it idled.",
+      "answer": "hummed",
+      "hint": "嗡嗡作响"
+    },
+    {
+      "prompt": "The stream {} over the smooth stones.",
+      "answer": "gurgled",
+      "hint": "汩汩作响"
+    },
+    {
+      "prompt": "His voice came {} through the thick wall.",
+      "answer": "muffled",
+      "hint": "低沉听不清的"
+    },
+    {
+      "prompt": "The kidnappers had {} behind his back.",
+      "answer": "trussed up",
+      "hint": "把…捆得严严实实"
+    },
+    {
+      "prompt": "Each end of the net was pulled down by a {} rope.",
+      "answer": "weighted",
+      "hint": "加重的、坠了重物的"
+    },
+    {
+      "prompt": "The riddle left the whole class completely {}.",
+      "answer": "baffled",
+      "hint": "困惑茫然不解的"
+    },
+    {
+      "prompt": "The headlights {} in the darkness and were gone.",
+      "answer": "flashed past",
+      "hint": "飞驰掠过、一闪而过"
+    },
+    {
+      "prompt": "A mud-splashed {} was waiting at the gate.",
+      "answer": "pickup",
+      "hint": "皮卡车"
+    },
+    {
+      "prompt": "The receptionist {} the interview room.",
+      "answer": "showed me into",
+      "hint": "领…进入某处"
+    },
+    {
+      "prompt": "She was {} when she heard the terrible news.",
+      "answer": "stunned",
+      "hint": "震惊的、惊愕的"
+    },
+    {
+      "prompt": "He {} at his sister to let her know it was a joke.",
+      "answer": "winked",
+      "hint": "使眼色"
+    },
+    {
+      "prompt": "As soon as the light turned green, they {} down the highway.",
+      "answer": "speed off",
+      "hint": "迅速离开、疾驰而去"
+    },
+    {
+      "prompt": "Without a map, walking on {} was no different from standing still.",
+      "answer": "might as well have walked blindfolded",
+      "hint": "倒不如…／简直跟…一样"
+    },
+    {
+      "prompt": "They climbed a narrow {} path between the trees.",
+      "answer": "twisting",
+      "hint": "蜿蜒曲折的"
+    },
+    {
+      "prompt": "A lizard darted into a {} in the wall.",
+      "answer": "crevice",
+      "hint": "（岩石墙的）窄缝裂隙"
+    },
+    {
+      "prompt": "Sheep grazed on the grass below the bare grey {}.",
+      "answer": "crags",
+      "hint": "悬崖峭壁"
+    },
+    {
+      "prompt": "The gate was wrapped in coils of barbed {}.",
+      "answer": "razor wire",
+      "hint": "刀片刺网、带刺铁丝网"
+    },
+    {
+      "prompt": "The guard stood at the door with a {} slung over his shoulder.",
+      "answer": "sub-machine gun",
+      "hint": "冲锋枪"
+    },
+    {
+      "prompt": "High walls enclosed the guarded {}.",
+      "answer": "compound",
+      "hint": "有围墙的大院、封闭据点"
+    },
+    {
+      "prompt": "The table held an {} of tools and spare parts.",
+      "answer": "assortment",
+      "hint": "各种各样、一批不同种类"
+    },
+    {
+      "prompt": "In the yard sat {}, quad bikes and old lorries.",
+      "answer": "an assortment of vehicles",
+      "hint": "各式各样的车辆"
+    },
+    {
+      "prompt": "The kids rode a noisy {} across the field.",
+      "answer": "quad bike",
+      "hint": "四轮越野摩托车"
+    },
+    {
+      "prompt": "A yellow {} rumbled past, dumping its load of soil.",
+      "answer": "dumper truck",
+      "hint": "自卸小货车、翻斗车"
+    },
+    {
+      "prompt": "The old mill is now {} unchanged since 1950.",
+      "answer": "virtually",
+      "hint": "几乎、实际上"
+    },
+    {
+      "prompt": "He {} the envelope onto the desk without a word.",
+      "answer": "thrust",
+      "hint": "猛推、塞"
+    },
+    {
+      "prompt": "The mother {} her sleeping baby close to her chest.",
+      "answer": "cradled",
+      "hint": "轻轻抱、怀抱"
+    },
+    {
+      "prompt": "A small suspicion {} at the back of her mind all day.",
+      "answer": "niggled",
+      "hint": "不断烦扰、萦绕心头"
+    },
+    {
+      "prompt": "There was a {} smell of gas in the room.",
+      "answer": "sickening",
+      "hint": "令人恶心的、发慌难受的"
+    },
+    {
+      "prompt": "The queue {} along the motorway for hours.",
+      "answer": "inched its way",
+      "hint": "一点点往前挪动"
+    },
+    {
+      "prompt": "Working down the mine, he lost all ability to {}.",
+      "answer": "keep track of time",
+      "hint": "掌握、知晓时间"
+    },
+    {
+      "prompt": "The same worry {} long after the danger had passed.",
+      "answer": "plagued his mind",
+      "hint": "萦绕脑海、折磨思绪"
+    },
+    {
+      "prompt": "The thief expects to spend the rest of his life {}.",
+      "answer": "behind bars",
+      "hint": "坐牢、身陷囹圄"
+    },
+    {
+      "prompt": "They found the poor dog {} with tape and string.",
+      "answer": "trussed up like a chicken",
+      "hint": "像鸡一样被捆得严严实实"
+    },
+    {
+      "prompt": "He lay awake, {} again and again.",
+      "answer": "turning the threat over in his mind",
+      "hint": "在脑子里反复琢磨这个威胁"
+    },
+    {
+      "prompt": "Tests suggested his {} was far below his actual age.",
+      "answer": "mental age",
+      "hint": "心理年龄"
+    },
+    {
+      "prompt": "The doors closed with the sharp click of the {}.",
+      "answer": "central locking",
+      "hint": "（汽车）中控锁"
+    },
+    {
+      "prompt": "The click was as sudden and final as a {}.",
+      "answer": "gun being cocked",
+      "hint": "枪支上膛"
+    },
+    {
+      "prompt": "They sheltered from the rain in an {} stacked with hay.",
+      "answer": "open-fronted brick barn",
+      "hint": "开放式砖造谷仓"
+    },
+    {
+      "prompt": "'Pay me and {},' he grinned.",
+      "answer": "happy days",
+      "hint": "那就万事大吉、皆大欢喜"
+    },
+    {
+      "prompt": "As he leaned close, she {} of stale tobacco.",
+      "answer": "got a whiff",
+      "hint": "猛地嗅到一阵气味"
+    },
+    {
+      "prompt": "He swore he would never {} and betray his friends.",
+      "answer": "spill the beans",
+      "hint": "吐露秘密、全盘招供"
+    },
+    {
+      "prompt": "He hoped a confession would be {} of trouble.",
+      "answer": "his ticket out",
+      "hint": "逃离险境的机会、出路"
+    },
+    {
+      "prompt": "The centre was set up to help {} from broken homes.",
+      "answer": "troubled teenagers",
+      "hint": "问题少年"
+    }
+  ]
+}

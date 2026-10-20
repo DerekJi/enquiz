@@ -1,0 +1,1046 @@
+{
+  "id": "30",
+  "title": "Chapter 30",
+  "order": 30,
+  "words": [
+    {
+      "word": "motive",
+      "trans": "n. 动机、缘由、作案动机；adj. 发动的",
+      "ipa": "ˈməʊtɪv",
+      "examples": [
+        "The police could find no motive for the crime."
+      ]
+    },
+    {
+      "word": "go on about something",
+      "trans": "（口语）絮絮叨叨老是讲某事，反复念叨、没完没了地谈论",
+      "key": "go on about",
+      "examples": [
+        "He kept going on about the money he was owed."
+      ]
+    },
+    {
+      "word": "It wouldn't do any harm",
+      "trans": "那样做也不会有什么坏处",
+      "examples": [
+        "It wouldn't do any harm to check the map again."
+      ]
+    },
+    {
+      "word": "tack",
+      "trans": "n. 思路、方针、行事策略，谈话的转向（换一个口吻、换一套说法）",
+      "ipa": "tæk",
+      "examples": [
+        "He changed his tack and began to flatter them."
+      ]
+    },
+    {
+      "word": "change one's tack",
+      "trans": "改换谈话的路子、换一种策略、换口吻说话；change of tack 本是航海术语（船抢风调向改变航向），引申为人调转思路、换一套说辞",
+      "key": "change one's tack",
+      "examples": [
+        "Realising he was losing, she changed her tack completely."
+      ]
+    },
+    {
+      "word": "common-or-garden",
+      "trans": "英式口语习语，普通的、平平常常的、没啥特别的、老一套典型俗套的",
+      "ipa": "ˌkɒmən ɔː ˈɡɑːdn",
+      "examples": [
+        "It was no common-or-garden thief they were dealing with."
+      ]
+    },
+    {
+      "word": "have an axe to grind",
+      "trans": "字面有一把斧子要磨；实际怀有私怨、心里有自己的算盘私心、有个人恩怨要发泄、为一己私利争辩。have an axe to grind with/against sb 对某人有私怨、有过节；否定用法 I have no axe to grind 我没有私心",
+      "key": "have an axe to grind",
+      "examples": [
+        "He insists he's neutral, but he has an axe to grind."
+      ]
+    },
+    {
+      "word": "wretched",
+      "trans": "adj. ①悲惨的、可怜的；②糟糕透顶的、可恶的、卑劣的（带很强嫌弃语气）",
+      "ipa": "ˈretʃɪd",
+      "examples": [
+        "They lived in a wretched little room with no heat."
+      ]
+    },
+    {
+      "word": "win someone round",
+      "trans": "说服某人转而接受（你的立场、事业、主张），争取过来把人拉到你这边（win sb round to your view）",
+      "key": "win ... round",
+      "examples": [
+        "It took an hour to win him round to our plan."
+      ]
+    },
+    {
+      "word": "mercenary",
+      "trans": "n. 雇佣兵、唯利是图的人；adj. 贪图钱财的、唯利是图的",
+      "ipa": "ˈmɜːsənəri",
+      "examples": [
+        "The general hired mercenaries to guard the compound."
+      ]
+    },
+    {
+      "word": "pejorative",
+      "trans": "adj. 带有贬义的、贬损的；n. 贬义词",
+      "ipa": "pɪˈdʒɒrətɪv",
+      "examples": [
+        "The word is often used as a pejorative term."
+      ]
+    },
+    {
+      "word": "dabble in something",
+      "trans": "固定短语，浅尝、涉足、副业式地做点某事，并非全身心投入",
+      "key": "dabble in",
+      "examples": [
+        "He dabbled in politics but never took it seriously."
+      ]
+    },
+    {
+      "word": "unfulfilling",
+      "trans": "adj. 没有成就感的、不能让人获得满足感的",
+      "ipa": "ˌʌnfʊlˈfɪlɪŋ",
+      "examples": [
+        "She found the well-paid job dull and unfulfilling."
+      ]
+    },
+    {
+      "word": "humble",
+      "trans": "adj. ①谦逊的、谦虚的；②不起眼的、地位卑微的、普通的",
+      "ipa": "ˈhʌmbl",
+      "examples": [
+        "He came from a humble background in the north."
+      ]
+    },
+    {
+      "word": "take it all in",
+      "trans": "把全部信息听进去、领会、理解，消化听到的话",
+      "key": "take it all in",
+      "examples": [
+        "She sat quietly, trying to take it all in."
+      ]
+    },
+    {
+      "word": "sordid",
+      "trans": "adj. ①龌龊的、肮脏的、见不得人的、卑劣的、利欲熏心的；②（环境）破败污秽的",
+      "ipa": "ˈsɔːdɪd",
+      "examples": [
+        "The story revealed a sordid tale of greed and lies."
+      ]
+    },
+    {
+      "word": "top-end hardware",
+      "trans": "top-end 高端的、顶配的；hardware 这里不是家用五金，指军用硬件、军事装备",
+      "examples": [
+        "The base was packed with top-end military hardware."
+      ]
+    },
+    {
+      "word": "stealth",
+      "trans": "n. 隐秘行动；军事上指隐身（技术）",
+      "ipa": "stelθ",
+      "examples": [
+        "The aircraft was designed for low-level stealth."
+      ]
+    },
+    {
+      "word": "graphite bombs",
+      "trans": "石墨炸弹：投放导电石墨纤维，专门用来短路、摧毁敌方电力电网",
+      "ipa": "ˈɡræfaɪt bɒmz",
+      "examples": [
+        "Graphite bombs were used to knock out the power grid."
+      ]
+    },
+    {
+      "word": "adversary",
+      "trans": "n.（复数 adversaries）对手、敌手、敌方（正式书面用词）；单数 adversary",
+      "ipa": "ˈædvəsəri",
+      "examples": [
+        "He treated every colleague as a potential adversary."
+      ]
+    },
+    {
+      "word": "have an edge over",
+      "trans": "比某人略占上风、较之对手拥有优势",
+      "key": "have an edge over",
+      "examples": [
+        "Our night training gives us an edge over them."
+      ]
+    },
+    {
+      "word": "minutely",
+      "trans": "极其精细地、精准入微地；minutely targeted 可进行极精细、毫厘不差的定位瞄准（外科式精准打击）",
+      "ipa": "maɪˈnjuːtli",
+      "examples": [
+        "Every detail had been minutely planned in advance."
+      ]
+    },
+    {
+      "word": "virtually",
+      "trans": "adv. 差不多、几乎、简直",
+      "ipa": "ˈvɜːtʃuəli",
+      "examples": [
+        "The old factory was virtually unchanged since the war."
+      ]
+    },
+    {
+      "word": "get into one's stride",
+      "trans": "英式习语，渐入佳境、进入状态、越讲越起劲，发挥越来越好",
+      "key": "get into one's stride",
+      "examples": [
+        "By mid-lecture he had got into his stride."
+      ]
+    },
+    {
+      "word": "sales pitch",
+      "trans": "推销话术、产品推介（卖货的一套说辞）",
+      "examples": [
+        "He launched into his usual sales pitch about saving money."
+      ]
+    },
+    {
+      "word": "antipersonnel",
+      "trans": "adj. 杀伤人员的（军事术语）",
+      "ipa": "ˌæntiˌpɜːsəˈnel",
+      "examples": [
+        "Antipersonnel mines littered the abandoned field."
+      ]
+    },
+    {
+      "word": "collateral",
+      "trans": "adj. 附带的；collateral damage 固定军事名词：附带损伤、误伤、殃及无辜平民的损害",
+      "ipa": "kəˈlætərəl",
+      "examples": [
+        "The general dismissed them as collateral damage."
+      ]
+    },
+    {
+      "word": "a fraction of the price",
+      "trans": "仅仅一小部分的价钱、远便宜得多",
+      "examples": [
+        "He bought the drone for a fraction of the price."
+      ]
+    },
+    {
+      "word": "pucker",
+      "trans": "v. 噘起（嘴唇）",
+      "ipa": "ˈpʌkə",
+      "examples": [
+        "Her mouth puckered at the sour taste."
+      ]
+    },
+    {
+      "word": "nasty",
+      "trans": "adj. 令人讨厌的、恶劣的、糟糕的、凶险的、棘手的",
+      "ipa": "ˈnɑːsti",
+      "examples": [
+        "He was a nasty piece of work, dangerous and cruel."
+      ]
+    },
+    {
+      "word": "swarm",
+      "trans": "n. 一大群（昆虫、小型飞行器）",
+      "ipa": "swɔːm",
+      "examples": [
+        "A swarm of small drones lifted into the sky."
+      ]
+    },
+    {
+      "word": "warhead",
+      "trans": "n. 弹头、战斗部；miniature warheads 微型弹头",
+      "ipa": "ˈwɔːhed",
+      "examples": [
+        "Each missile carried a tiny miniature warhead."
+      ]
+    },
+    {
+      "word": "take your pick",
+      "trans": "口语，随你挑选、任君选择",
+      "examples": [
+        "Dozens of targets on the screen — take your pick!"
+      ]
+    },
+    {
+      "word": "sparrow",
+      "trans": "n. 麻雀",
+      "ipa": "ˈspærəʊ",
+      "examples": [
+        "A sparrow hopped along the cracked pavement."
+      ]
+    },
+    {
+      "word": "wreak havoc",
+      "trans": "wreak v. 造成（破坏、灾祸）；wreak havoc 大肆制造浩劫、严重破坏",
+      "key": "wreak havoc",
+      "examples": [
+        "The storm wreaked havoc along the entire coast."
+      ]
+    },
+    {
+      "word": "pinpoint",
+      "trans": "adj. 极其精准的、针尖一样的；pinpoint accuracy 针尖般的精确度、高精度分毫不差",
+      "ipa": "ˈpɪnpɔɪnt",
+      "examples": [
+        "The weapon can strike with pinpoint accuracy."
+      ]
+    },
+    {
+      "word": "break off in a chuckle",
+      "trans": "He broke off in a chuckle. 他话说到一半，低声笑了起来",
+      "key": "break off",
+      "examples": [
+        "He broke off in a chuckle at his own joke."
+      ]
+    },
+    {
+      "word": "bung",
+      "trans": "（英式口语动词）随便扔、胡乱放上",
+      "ipa": "bʌŋ",
+      "examples": [
+        "He bunged the keys across the table to her."
+      ]
+    },
+    {
+      "word": "shop window",
+      "trans": "字面商店橱窗；引申展示窗口、对外的展示机会（打广告、秀产品实力）",
+      "examples": [
+        "The airshow was a shop window for their new missile."
+      ]
+    },
+    {
+      "word": "incredulously",
+      "trans": "adv. 难以置信地、惊疑地",
+      "ipa": "ɪnˈkredjələsli",
+      "examples": [
+        "'You're serious?' he asked incredulously."
+      ]
+    },
+    {
+      "word": "conspiratorial",
+      "trans": "adj. 密谋的、压低声音窃窃私语的",
+      "ipa": "kənˌspɪrəˈtɔːriəl",
+      "examples": [
+        "They exchanged a quick conspiratorial glance."
+      ]
+    },
+    {
+      "word": "rag-tag collection",
+      "trans": "ragtag 乌合之众的、混杂参差不齐的；a ragtag collection of 一帮鱼龙混杂的乌合之众",
+      "examples": [
+        "The team was a rag-tag collection of misfits."
+      ]
+    },
+    {
+      "word": "crackpot",
+      "trans": "n. 疯子、异想天开的狂热分子、危险的怪人",
+      "ipa": "ˈkrækpɒt",
+      "examples": [
+        "Everyone dismissed him as a harmless crackpot."
+      ]
+    },
+    {
+      "word": "rendezvous",
+      "trans": "n.（法语外来词）会面地点、秘密碰头点；mutual adversaries 互为敌手的各方",
+      "ipa": "ˈrɒndɪvuː",
+      "examples": [
+        "The old barn was their secret rendezvous."
+      ]
+    },
+    {
+      "word": "slit someone's throat",
+      "trans": "slit v. 切开、割开、划开；slit each other’s throats 字面互割喉咙，引申互相残杀、拼个你死我活",
+      "key": "slit ... throat",
+      "examples": [
+        "The warlords slit each other's throats over the border."
+      ]
+    },
+    {
+      "word": "appalled",
+      "trans": "adj. 大为震惊、惊骇的",
+      "ipa": "əˈpɔːld",
+      "examples": [
+        "She was appalled at how little they cared."
+      ]
+    },
+    {
+      "word": "high-profile",
+      "trans": "adj. 知名度很高的、公众瞩目的",
+      "examples": [
+        "The launch was a high-profile media event."
+      ]
+    },
+    {
+      "word": "USP",
+      "trans": "Unique Selling Proposition，独特卖点（商业营销术语）",
+      "examples": [
+        "Cheapness is the product's main USP."
+      ]
+    },
+    {
+      "word": "good earth",
+      "trans": "文学措辞，人世间、这片大地（人类生存的世界）；roam this good earth 人类行走、生息于这世上",
+      "examples": [
+        "Millions roam this good earth, none the wiser."
+      ]
+    },
+    {
+      "word": "give it one's best shot",
+      "trans": "尽最大努力去试一试、拼尽全力尝试",
+      "key": "give it one's best shot",
+      "examples": [
+        "We can't guarantee success, but we'll give it our best shot."
+      ]
+    },
+    {
+      "word": "coup",
+      "trans": "n. 惊人成功、漂亮的一击、轰动性的成就",
+      "ipa": "kuː",
+      "examples": [
+        "Freeing the hostages would be a propaganda coup."
+      ]
+    },
+    {
+      "word": "demented",
+      "trans": "adj. 精神错乱的、疯狂的、丧失理智的",
+      "ipa": "dɪˈmentɪd",
+      "examples": [
+        "The demented dictator laughed at the thought of peace."
+      ]
+    },
+    {
+      "word": "wacky",
+      "trans": "adj.（口语）乖张古怪的、行事荒唐离谱的、想法怪异的",
+      "ipa": "ˈwæki",
+      "examples": [
+        "He had a wacky plan to end the war with a drone show."
+      ]
+    },
+    {
+      "word": "warlord",
+      "trans": "n. 军阀、武装割据首领、地方军事豪强",
+      "ipa": "ˈwɔːlɔːd",
+      "examples": [
+        "Each local warlord ruled his own patch of land."
+      ]
+    },
+    {
+      "word": "reservoirs of fury",
+      "trans": "his eyes were reservoirs of fury 他的眼睛里蓄积着滔天怒火",
+      "examples": [
+        "His eyes were reservoirs of fury."
+      ]
+    },
+    {
+      "word": "despite",
+      "trans": "Despite the calmness of his tone = Although his tone was calm；despite + 名词短语 = although + 完整句子",
+      "examples": [
+        "Despite the calmness of his tone, she sensed real rage."
+      ]
+    },
+    {
+      "word": "flinch",
+      "trans": "v.（因恐惧、惊吓、害怕）下意识畏缩，猛地往后一躲，身体不由自主地哆嗦退缩",
+      "ipa": "flɪntʃ",
+      "examples": [
+        "He didn't flinch when they threatened him."
+      ]
+    },
+    {
+      "word": "pathetic",
+      "trans": "adj. 可怜的、无助的",
+      "ipa": "pəˈθetɪk",
+      "examples": [
+        "The boy looked so small and pathetic in the chair."
+      ]
+    },
+    {
+      "word": "squeak",
+      "trans": "n. 吱吱的细尖嗓音",
+      "ipa": "skwiːk",
+      "examples": [
+        "'Let me go,' he squeaked, terrified."
+      ]
+    },
+    {
+      "word": "a fair bit",
+      "trans": "相当多、不少",
+      "examples": [
+        "It'll cost us a fair bit, but it's doable."
+      ]
+    },
+    {
+      "word": "amount to something",
+      "trans": "固定短语 amount to sth 等同于、结果就是、实际上意味着；amounts to the same thing 结果都一样、都没什么区别",
+      "key": "amount to",
+      "examples": [
+        "In the end, all those promises amounted to nothing."
+      ]
+    },
+    {
+      "word": "let's face it",
+      "trans": "口语，实话实说、咱们得承认这一点",
+      "examples": [
+        "Let's face it — we can't keep this secret forever."
+      ]
+    },
+    {
+      "word": "margin of error",
+      "trans": "（飞行上的）误差范围、容错余量",
+      "examples": [
+        "The system allows very little margin of error."
+      ]
+    },
+    {
+      "word": "hence",
+      "trans": "副词“因此”，后面直接接名词短语，省略了 there is（小说、正式书面常见简略写法）；如 Hence the need for multiple launch sites.",
+      "examples": [
+        "There was heavy fog, hence the delay in the launch."
+      ]
+    },
+    {
+      "word": "self-propelled",
+      "trans": "自带动力推进的、自推进的",
+      "examples": [
+        "The self-propelled drone crossed the valley under its own power."
+      ]
+    },
+    {
+      "word": "tactical system",
+      "trans": "战术（武器）系统",
+      "examples": [
+        "Engineers were testing a new tactical system."
+      ]
+    },
+    {
+      "word": "fast jets",
+      "trans": "高速喷气式战机",
+      "examples": [
+        "The base was defended by a squadron of fast jets."
+      ]
+    },
+    {
+      "word": "scale model",
+      "trans": "按照固定缩小比例制作出来的模型，不是随便做的玩具",
+      "examples": [
+        "He brought a scale model of the aircraft to the meeting."
+      ]
+    },
+    {
+      "word": "rightly so",
+      "trans": "口语短语，理应如此、说得对、这是理所当然的",
+      "examples": [
+        "'They'll want proof.' 'Rightly so.'"
+      ]
+    },
+    {
+      "word": "augment",
+      "trans": "v. 增加、扩充、锦上添花",
+      "ipa": "ɔːɡˈment",
+      "examples": [
+        "They augmented the crew with two extra pilots."
+      ]
+    },
+    {
+      "word": "hurl",
+      "trans": "v. 猛扔、使劲掷出去；glance off the wall 擦过墙壁",
+      "ipa": "hɜːl",
+      "examples": [
+        "The machine hurled a rock across the field."
+      ]
+    },
+    {
+      "word": "dull thud",
+      "trans": "沉闷的砰的一声",
+      "examples": [
+        "The sack hit the floor with a dull thud."
+      ]
+    },
+    {
+      "word": "symmetry",
+      "trans": "n. 对称、匀称、整齐的平衡感",
+      "ipa": "ˈsɪmətri",
+      "examples": [
+        "The perfect symmetry of the design pleased him."
+      ]
+    },
+    {
+      "word": "sympathetic",
+      "trans": "adj. 同情的、抱有怜悯之心的",
+      "ipa": "ˌsɪmpəˈθetɪk",
+      "examples": [
+        "The officer sounded almost sympathetic."
+      ]
+    },
+    {
+      "word": "right ho",
+      "trans": "感叹词（英式老式口语），好吧、行、那好，表示“好了，接下来我要做某事了”；不一定是同意别人，常是说话人转换话题、准备开始下一步行动的口头过渡词",
+      "ipa": "ˌraɪt ˈhəʊ",
+      "examples": [
+        "'Right ho,' he said, reaching for his coat."
+      ]
+    },
+    {
+      "word": "go in for something",
+      "trans": "英式口语，热衷于、喜欢做、搞（某种做法、事情）、从事",
+      "key": "go in for",
+      "examples": [
+        "He doesn't go in for dramatic speeches."
+      ]
+    },
+    {
+      "word": "primed",
+      "trans": "已经上好启动、设置完毕，无人机已经待命就绪",
+      "examples": [
+        "The drones sat primed, ready for launch."
+      ]
+    },
+    {
+      "word": "escort",
+      "trans": "v. 护送、押送",
+      "ipa": "ɪˈskɔːt",
+      "examples": [
+        "Two jets flew out to escort the damaged plane home."
+      ]
+    },
+    {
+      "word": "deftly",
+      "trans": "adv. 灵巧地、麻利地",
+      "ipa": "ˈdeftli",
+      "examples": [
+        "She deftly switched off the alarm in seconds."
+      ]
+    },
+    {
+      "word": "cabinet",
+      "trans": "n.（高大的）柜子、立柜、储藏柜",
+      "ipa": "ˈkæbɪnət",
+      "examples": [
+        "He locked the files inside a steel cabinet."
+      ]
+    },
+    {
+      "word": "torpedo",
+      "trans": "n. 鱼雷",
+      "ipa": "tɔːˈpiːdəʊ",
+      "examples": [
+        "A small torpedo was fitted beneath the hull."
+      ]
+    },
+    {
+      "word": "enclosed propeller",
+      "trans": "封闭式螺旋桨：转动的桨叶整套安置在一个固定的环形圆筒（涵道/导管）里面",
+      "examples": [
+        "The enclosed propeller spins inside a ducted ring."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "Investigators struggled to find a {} for the robbery.",
+      "answer": "motive",
+      "hint": "动机、作案动机"
+    },
+    {
+      "prompt": "He {} the same grievance all evening.",
+      "answer": "went on about",
+      "hint": "絮絮叨叨老是讲（某事）"
+    },
+    {
+      "prompt": "A quick look around {}; it might help.",
+      "answer": "wouldn't do any harm",
+      "hint": "也不会有什么坏处"
+    },
+    {
+      "prompt": "After failing to threaten them, he {} and started to charm.",
+      "answer": "changed his tack",
+      "hint": "改换策略、换口吻"
+    },
+    {
+      "prompt": "This was no {} criminal; he was far cleverer.",
+      "answer": "common-or-garden",
+      "hint": "平平常常的、老一套的"
+    },
+    {
+      "prompt": "He claims to be impartial, but he clearly {} against the boss.",
+      "answer": "has an axe to grind",
+      "hint": "对某人怀有私怨、存私心"
+    },
+    {
+      "prompt": "The refugees lived in {} huts with no windows.",
+      "answer": "wretched",
+      "hint": "悲惨的、糟糕透顶的"
+    },
+    {
+      "prompt": "It took days to {} to our side.",
+      "answer": "win him round",
+      "hint": "说服某人转而接受、争取过来"
+    },
+    {
+      "prompt": "The rebels paid foreign {} to do their fighting.",
+      "answer": "mercenaries",
+      "hint": "雇佣兵"
+    },
+    {
+      "prompt": "The term is often used as a {} insult.",
+      "answer": "pejorative",
+      "hint": "带有贬义的、贬损的"
+    },
+    {
+      "prompt": "She only {} painting, never selling a picture.",
+      "answer": "dabbled in",
+      "hint": "浅尝、涉足、副业式地做"
+    },
+    {
+      "prompt": "The routine office work felt empty and {}.",
+      "answer": "unfulfilling",
+      "hint": "没有成就感的"
+    },
+    {
+      "prompt": "For all his wealth he remained {} and quiet.",
+      "answer": "humble",
+      "hint": "谦逊的、不起眼的"
+    },
+    {
+      "prompt": "He said nothing, just trying to {}.",
+      "answer": "take it all in",
+      "hint": "把全部信息听进去、领会"
+    },
+    {
+      "prompt": "The scandal exposed a {} web of bribery.",
+      "answer": "sordid",
+      "hint": "龌龊的、见不得人的"
+    },
+    {
+      "prompt": "The base stored the army's newest {} — tanks and drones.",
+      "answer": "top-end hardware",
+      "hint": "高端军事装备"
+    },
+    {
+      "prompt": "The jet relied on {} to slip past radar undetected.",
+      "answer": "stealth",
+      "hint": "隐身（技术）、隐秘行动"
+    },
+    {
+      "prompt": "{} blacked out the entire power grid below.",
+      "answer": "Graphite bombs",
+      "hint": "石墨炸弹（毁电网）"
+    },
+    {
+      "prompt": "In business, your slowest rival is still your {}.",
+      "answer": "adversary",
+      "hint": "对手、敌手"
+    },
+    {
+      "prompt": "Their superior range {} the other side.",
+      "answer": "gives them an edge over",
+      "hint": "比…占上风、拥有优势"
+    },
+    {
+      "prompt": "Every second of the raid was {} planned.",
+      "answer": "minutely",
+      "hint": "极其精细地、精准入微地"
+    },
+    {
+      "prompt": "The building is {} exactly as it was in 1920.",
+      "answer": "virtually",
+      "hint": "几乎、简直、差不多"
+    },
+    {
+      "prompt": "Nervous at first, the speaker soon {} and warmed up.",
+      "answer": "got into his stride",
+      "hint": "渐入佳境、进入状态"
+    },
+    {
+      "prompt": "He switched on and gave his slick {} to the buyers.",
+      "answer": "sales pitch",
+      "hint": "推销话术"
+    },
+    {
+      "prompt": "The cleared field was still dangerous from {} mines.",
+      "answer": "antipersonnel",
+      "hint": "杀伤人员的（军事术语）"
+    },
+    {
+      "prompt": "He called the deaths mere {} of a necessary strike.",
+      "answer": "collateral damage",
+      "hint": "附带损伤、误伤无辜"
+    },
+    {
+      "prompt": "The imitation costs only {} of the real thing.",
+      "answer": "a fraction of the price",
+      "hint": "仅一小部分价钱、便宜得多"
+    },
+    {
+      "prompt": "She {} at the smell of the medicine.",
+      "answer": "puckered",
+      "hint": "（嘴唇）噘起、皱起"
+    },
+    {
+      "prompt": "Don't trust him — he's a cold, {} man.",
+      "answer": "nasty",
+      "hint": "恶劣的、凶险的"
+    },
+    {
+      "prompt": "A {} of little drones buzzed above the crowd.",
+      "answer": "swarm",
+      "hint": "一大群（昆虫/小型飞行器）"
+    },
+    {
+      "prompt": "Each drone was barely bigger than a bird, carrying a {}.",
+      "answer": "miniature warhead",
+      "hint": "微型弹头"
+    },
+    {
+      "prompt": "Pick whichever target you want — {}!",
+      "answer": "take your pick",
+      "hint": "随你挑选"
+    },
+    {
+      "prompt": "An ordinary {}, no bigger than his fist, hovered in the tree.",
+      "answer": "sparrow",
+      "hint": "麻雀（实为伪装无人机）"
+    },
+    {
+      "prompt": "The virus {} across the whole network overnight.",
+      "answer": "wreaked havoc",
+      "hint": "大肆制造浩劫、严重破坏"
+    },
+    {
+      "prompt": "The weapon strikes with {} accuracy.",
+      "answer": "pinpoint",
+      "hint": "极其精准的、针尖般的"
+    },
+    {
+      "prompt": "'The plan is completely mad, actually—' he {}.",
+      "answer": "broke off in a chuckle",
+      "hint": "话说到一半笑起来"
+    },
+    {
+      "prompt": "He {} me the keys without looking up.",
+      "answer": "bunged",
+      "hint": "（英口语）随便扔、胡乱递"
+    },
+    {
+      "prompt": "The parade was a {}, meant to impress the world.",
+      "answer": "shop window",
+      "hint": "展示窗口、对外展示实力"
+    },
+    {
+      "prompt": "'You want me to do WHAT?' she repeated {}.",
+      "answer": "incredulously",
+      "hint": "难以置信地、惊疑地"
+    },
+    {
+      "prompt": "They leaned in with {} whispers.",
+      "answer": "conspiratorial",
+      "hint": "密谋的、压低声音窃窃私语的"
+    },
+    {
+      "prompt": "His team was a {} of retired soldiers and students.",
+      "answer": "rag-tag collection",
+      "hint": "乌合之众、鱼龙混杂的一群"
+    },
+    {
+      "prompt": "They laughed at the {} who claimed tiny flying machines would win.",
+      "answer": "crackpot",
+      "hint": "疯子、异想天开的怪人"
+    },
+    {
+      "prompt": "The farmhouse served as a secret {} for the group.",
+      "answer": "rendezvous",
+      "hint": "会面地点、秘密碰头点"
+    },
+    {
+      "prompt": "The rival gangs would {}, leaving the town in ruins.",
+      "answer": "slit each other's throats",
+      "hint": "互相残杀、拼个你死我活"
+    },
+    {
+      "prompt": "We were {} at the casual cruelty of it all.",
+      "answer": "appalled",
+      "hint": "大为震惊、惊骇的"
+    },
+    {
+      "prompt": "The unveiling was a {} event, televised worldwide.",
+      "answer": "high-profile",
+      "hint": "知名度高的、公众瞩目的"
+    },
+    {
+      "prompt": "Their only real {} was price, nothing else.",
+      "answer": "USP",
+      "hint": "独特卖点（Unique Selling Point）"
+    },
+    {
+      "prompt": "Billions live and die upon this {} unknowing.",
+      "answer": "good earth",
+      "hint": "（文学）人世间、这片大地"
+    },
+    {
+      "prompt": "We may fail, but we'll {} and see.",
+      "answer": "give it our best shot",
+      "hint": "尽最大努力试一试"
+    },
+    {
+      "prompt": "Winning back the town would be a huge propaganda {}.",
+      "answer": "coup",
+      "hint": "惊人成功、漂亮的一击"
+    },
+    {
+      "prompt": "A {} with no conscience might really do it.",
+      "answer": "demented",
+      "hint": "精神错乱的、疯狂的"
+    },
+    {
+      "prompt": "It sounded like a {} scheme straight out of the movies.",
+      "answer": "wacky",
+      "hint": "乖张古怪的、荒唐离谱的"
+    },
+    {
+      "prompt": "Every {} carved up a little piece of the country.",
+      "answer": "warlord",
+      "hint": "军阀、武装割据首领"
+    },
+    {
+      "prompt": "Behind his still face, his eyes were {}.",
+      "answer": "reservoirs of fury",
+      "hint": "蓄积着滔天怒火"
+    },
+    {
+      "prompt": "{} his soft voice, she heard the threat clearly.",
+      "answer": "Despite the calmness of",
+      "hint": "尽管（语气平静）"
+    },
+    {
+      "prompt": "She {} at the sudden crash of thunder.",
+      "answer": "flinched",
+      "hint": "（因惊恐）下意识畏缩退缩"
+    },
+    {
+      "prompt": "The old dog looked thin and {} by the fire.",
+      "answer": "pathetic",
+      "hint": "可怜的、无助的"
+    },
+    {
+      "prompt": "'Please,' the boy {} out, too scared to shout.",
+      "answer": "squeaked",
+      "hint": "（用细尖的嗓音）吱吱说"
+    },
+    {
+      "prompt": "Getting there will cost {}, but it's worth it.",
+      "answer": "a fair bit",
+      "hint": "相当多（不少）"
+    },
+    {
+      "prompt": "Years of grand talk finally {} a real plan.",
+      "answer": "amounted to",
+      "hint": "等同于、结果就是"
+    },
+    {
+      "prompt": "{}, we're going to need more money.",
+      "answer": "Let's face it",
+      "hint": "实话实说、咱们得承认"
+    },
+    {
+      "prompt": "With drones that small, there's almost no {}.",
+      "answer": "margin of error",
+      "hint": "误差范围、容错余量"
+    },
+    {
+      "prompt": "It was pitch dark, {} the need for lights.",
+      "answer": "hence",
+      "hint": "因此（后接名词短语，省去 there is）"
+    },
+    {
+      "prompt": "The {} glider needed no engine to cross the valley.",
+      "answer": "self-propelled",
+      "hint": "自带动力推进的"
+    },
+    {
+      "prompt": "Generals were shown a brand-new {} on the screen.",
+      "answer": "tactical system",
+      "hint": "战术（武器）系统"
+    },
+    {
+      "prompt": "The airspace was patrolled by a pair of supersonic {}.",
+      "answer": "fast jets",
+      "hint": "高速喷气式战机"
+    },
+    {
+      "prompt": "He set a {} of the drone on the table to explain it.",
+      "answer": "scale model",
+      "hint": "按比例缩小的模型"
+    },
+    {
+      "prompt": "'They must check the numbers.' ' {}, they must.'",
+      "answer": "Rightly so",
+      "hint": "理应如此、说得对"
+    },
+    {
+      "prompt": "They {} the small force with a few extra pilots.",
+      "answer": "augmented",
+      "hint": "增加、扩充"
+    },
+    {
+      "prompt": "He {} the stone as far as he could across the field.",
+      "answer": "hurled",
+      "hint": "猛扔、使劲掷出"
+    },
+    {
+      "prompt": "The sandbag struck the wall with a {}.",
+      "answer": "dull thud",
+      "hint": "沉闷的砰的一声"
+    },
+    {
+      "prompt": "The perfect {} of the two towers was striking.",
+      "answer": "symmetry",
+      "hint": "对称、匀称"
+    },
+    {
+      "prompt": "The guard spoke in a surprisingly {} tone of pity.",
+      "answer": "sympathetic",
+      "hint": "同情的、抱有怜悯的"
+    },
+    {
+      "prompt": "'{}, then — let's get moving,' he announced.",
+      "answer": "Right ho",
+      "hint": "（英老式口语）好吧、那好"
+    },
+    {
+      "prompt": "He doesn't {} long, formal introductions.",
+      "answer": "go in for",
+      "hint": "热衷于、喜欢搞、从事"
+    },
+    {
+      "prompt": "The missiles stood {}, waiting only for the order.",
+      "answer": "primed",
+      "hint": "上好启动、待命就绪"
+    },
+    {
+      "prompt": "Two fighters flew up to {} the stricken bomber.",
+      "answer": "escort",
+      "hint": "护送、押送"
+    },
+    {
+      "prompt": "She {} disconnected the wire before it sparked.",
+      "answer": "deftly",
+      "hint": "灵巧地、麻利地"
+    },
+    {
+      "prompt": "The classified files were locked in a tall steel {}.",
+      "answer": "cabinet",
+      "hint": "（高大的）柜子、立柜"
+    },
+    {
+      "prompt": "Under the hull hung a small {}, aimed at ships.",
+      "answer": "torpedo",
+      "hint": "鱼雷"
+    },
+    {
+      "prompt": "The safety design uses an {}, so fingers can't touch the blades.",
+      "answer": "enclosed propeller",
+      "hint": "封闭式螺旋桨"
+    }
+  ]
+}

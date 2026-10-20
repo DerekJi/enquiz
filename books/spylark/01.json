@@ -5,18 +5,21 @@
   "words": [
     {
       "word": "return leg",
+      "trans": "（行程、比赛、航班的）返程段；第二回合",
       "examples": [
         "Tom Hopkins was beginning the return leg of his morning flight."
       ]
     },
     {
       "word": "drystone",
+      "trans": "干砌的（石墙，不用砂浆堆砌）",
       "examples": [
         "He turned north and followed the drystone wall up the side of Raven Howe."
       ]
     },
     {
       "word": "russet",
+      "trans": "赤褐色的、黄褐色的、棕红色的；亦指赤褐色（russet potato 黄皮土豆）",
       "ipa": "ˈrʌsɪt",
       "examples": [
         "A few Herdwicks, their russet flanks catching the morning sunshine, watched his shadow warily."
@@ -24,6 +27,7 @@
     },
     {
       "word": "flank",
+      "trans": "n. 侧面、侧翼、（动物/人的）腰侧肋腹；v. 位于…侧面、掩护侧翼",
       "ipa": "flæŋk",
       "examples": [
         "A few Herdwicks, their russet flanks catching the morning sunshine, watched his shadow warily."
@@ -31,24 +35,28 @@
     },
     {
       "word": "wary / warily",
+      "trans": "警惕的、提防的 / 警惕地、小心翼翼地",
       "examples": [
         "A few Herdwicks, their russet flanks catching the morning sunshine, watched his shadow warily as he passed overhead."
       ]
     },
     {
       "word": "draw level with",
+      "trans": "与…并驾齐驱、与…平齐",
       "examples": [
         "He drew level with the top of the hill, the sheep now brown dots on a cloth of green."
       ]
     },
     {
       "word": "binoculars",
+      "trans": "双筒望远镜（习惯用复数）",
       "examples": [
         "He noticed a man looking straight towards him through a pair of binoculars."
       ]
     },
     {
       "word": "oblivion",
+      "trans": "遗忘、忘却；湮没；无意识、失去知觉的状态（fade into oblivion 渐渐被遗忘）",
       "ipa": "əˈblɪviən",
       "examples": [
         "He backed away and tried to make himself disappear into the oblivion of sunshine.",
@@ -57,6 +65,7 @@
     },
     {
       "word": "oblivious",
+      "trans": "浑然不知的、毫无察觉的（oblivious to/of sth 对…毫无察觉）",
       "ipa": "əˈblɪviəs",
       "examples": [
         "She wandered on, oblivious of the approaching storm.",
@@ -65,6 +74,7 @@
     },
     {
       "word": "thumping",
+      "trans": "巨大的、沉重的、砰砰作响的；英式口语中作\"极其、非常\"",
       "ipa": "ˈθʌmpɪŋ",
       "examples": [
         "He backed away and tried to make himself disappear, his heart thumping as he set the controls."
@@ -72,48 +82,56 @@
     },
     {
       "word": "smart jacket",
+      "trans": "时髦挺括的外套、帅气夹克",
       "examples": [
         "The man was tall, with a smart jacket and a shock of white hair showing beneath a straw hat."
       ]
     },
     {
       "word": "a shock of",
+      "trans": "一头蓬乱的、茂密的（头发）（a shock of white hair 一头蓬乱白发）",
       "examples": [
         "The man was tall, with a smart jacket and a shock of white hair showing beneath a straw hat."
       ]
     },
     {
       "word": "straw hat",
+      "trans": "草帽",
       "examples": [
         "The man was tall, with a smart jacket and a shock of white hair showing beneath a straw hat."
       ]
     },
     {
       "word": "fell top",
+      "trans": "山顶、丘陵顶部（fell 指英国北部荒山丘陵）",
       "examples": [
         "It was not the usual hiker or dog walker Tom would expect to see this early on the fell tops."
       ]
     },
     {
       "word": "follow someone's gaze",
+      "trans": "顺着某人的目光看去",
       "examples": [
         "Tom blindly stuffed in a mouthful of toast and followed his gaze down the slope."
       ]
     },
     {
       "word": "hazy outline",
+      "trans": "朦胧的轮廓、模糊的外形",
       "examples": [
         "He followed his gaze down the slope to where a hazy outline of fells was mirrored in the water."
       ]
     },
     {
       "word": "make one's way",
+      "trans": "向前行进、设法走过去",
       "examples": [
         "Making its way up from the group of wooded islands, the passenger steamer Teal broke the calm."
       ]
     },
     {
       "word": "pillar",
+      "trans": "柱子、支柱；（抽象）栋梁、核心支柱",
       "ipa": "ˈpɪlə(r)",
       "examples": [
         "The man was now typing into a laptop that was resting on top of the concrete pillar of the trig point."
@@ -121,18 +139,21 @@
     },
     {
       "word": "trig point",
+      "trans": "（英式）三角点、测量标石",
       "examples": [
         "The man was now typing into a laptop that was resting on top of the concrete pillar of the trig point."
       ]
     },
     {
       "word": "in the way",
+      "trans": "挡路、碍事、妨碍",
       "examples": [
         "He zoomed in to try and see what was on the screen, but the man's back was in the way."
       ]
     },
     {
       "word": "headland",
+      "trans": "海岬、岬角；（耕地的）地头、畦头",
       "ipa": "ˈhedlənd",
       "examples": [
         "Tom followed his gaze and saw two boats emerging from behind a headland and moving towards a narrow inlet."
@@ -140,18 +161,21 @@
     },
     {
       "word": "inlet",
+      "trans": "水湾、小港湾、（水体的）入口",
       "examples": [
         "Tom followed his gaze and saw two boats emerging from behind a headland and moving towards a narrow inlet."
       ]
     },
     {
       "word": "canopy",
+      "trans": "树冠层；顶篷、华盖状遮盖物",
       "examples": [
         "Tom shut down his motors and glided low over the canopy of the beech wood."
       ]
     },
     {
       "word": "beech",
+      "trans": "山毛榉；山毛榉木",
       "ipa": "biːtʃ",
       "examples": [
         "Tom shut down his motors and glided low over the canopy of the beech wood."
@@ -159,18 +183,21 @@
     },
     {
       "word": "get clear of",
+      "trans": "避开、摆脱、离开",
       "examples": [
         "He glided low over the canopy of the wood to get clear of the man with the laptop."
       ]
     },
     {
       "word": "on board",
+      "trans": "在船上/飞机上、登机（船）",
       "examples": [
         "There was a man and a woman on board, and they seemed to be waiting for something."
       ]
     },
     {
       "word": "camouflage",
+      "trans": "n. 伪装、迷彩、掩饰；v. 伪装、掩藏",
       "ipa": "ˈkæməflɑːʒ",
       "examples": [
         "The woman had red hair and wore a camouflage jacket."
@@ -178,12 +205,14 @@
     },
     {
       "word": "hunch over",
+      "trans": "弯腰驼背于…、蜷缩伏在…上（hunched over his watch 弓身伏在表上）",
       "examples": [
         "The man had his hair in a tight ponytail. He sat hunched over his watch."
       ]
     },
     {
       "word": "linger",
+      "trans": "逗留、徘徊、迟迟不离去；（感觉）久久留存、磨蹭",
       "ipa": "ˈlɪŋɡə(r)",
       "examples": [
         "If he lingered much longer he'd have to face a busload of stares as he stumbled up the steps."
@@ -191,48 +220,56 @@
     },
     {
       "word": "let them stare",
+      "trans": "随他们看吧、让他们盯着看去吧",
       "examples": [
         "Something strange was going on. Let them stare, he thought. Let them stare."
       ]
     },
     {
       "word": "play out",
+      "trans": "（事态、剧情）展开、呈现结果",
       "examples": [
         "He had to see this play out before he could head back home."
       ]
     },
     {
       "word": "swivel",
+      "trans": "（使）旋转、转动",
       "examples": [
         "Tom swivelled back to Raven Howe to check on the tall man."
       ]
     },
     {
       "word": "at this signal",
+      "trans": "一听到这个信号、在这个信号下（同 at this word / at a knock）",
       "examples": [
         "At this signal the couple in the speedboat sprang into action."
       ]
     },
     {
       "word": "spring into action",
+      "trans": "迅速行动起来",
       "examples": [
         "At this signal the couple in the speedboat sprang into action and cast off the rope."
       ]
     },
     {
       "word": "cast off",
+      "trans": "【航海】解缆开船、松开绳索",
       "examples": [
         "They cast off the tow rope, throttled away from the cruiser, and curved back."
       ]
     },
     {
       "word": "throttle away",
+      "trans": "加大油门开走",
       "examples": [
         "They cast off the tow rope, throttled away from the cruiser for a hundred yards, and then curved back."
       ]
     },
     {
       "word": "bewilderment",
+      "trans": "迷惑、困惑、茫然不知所措",
       "ipa": "bɪˈwɪldəmənt",
       "examples": [
         "He did not look up, but could picture the bewilderment on her face."
@@ -240,12 +277,14 @@
     },
     {
       "word": "take someone in",
+      "trans": "收留（某人）、把…带回家照顾",
       "examples": [
         "Since his great-aunt had taken him in, he'd had a nagging feeling that he baffled her."
       ]
     },
     {
       "word": "nagging",
+      "trans": "挥之不去的、恼人的（反复念叨催促、带烦扰感，不一定是大吼大叫）",
       "ipa": "ˈnæɡɪŋ",
       "examples": [
         "Since his great-aunt had taken him in, he'd had a nagging feeling, despite her endless kindness."
@@ -253,6 +292,7 @@
     },
     {
       "word": "baffle",
+      "trans": "使困惑、使难以理解、难倒",
       "ipa": "ˈbæfl",
       "examples": [
         "Since his great-aunt had taken him in, he'd had a nagging feeling that he baffled her."
@@ -260,24 +300,28 @@
     },
     {
       "word": "overhear",
+      "trans": "（无意中）听到、偷听到",
       "examples": [
         "'He's just at that age,' he had overheard her say to the physio once."
       ]
     },
     {
       "word": "butt in",
+      "trans": "插嘴、插手、多管闲事（非正式，带贬义）",
       "examples": [
         "Why did she have to choose this moment to butt in and interrupt his observation?"
       ]
     },
     {
       "word": "through gritted teeth",
+      "trans": "咬牙切齿地、强忍着怒火/痛苦硬撑着说话（grit one's teeth 咬紧牙关）",
       "examples": [
         "'Don't worry, Aunt Emily,' he said through gritted teeth. 'I'll be right there.'"
       ]
     },
     {
       "word": "whip",
+      "trans": "鞭打、抽打；猛地移动；搅打（奶油、蛋）；迅速带走",
       "ipa": "wɪp",
       "examples": [
         "He whipped his head around to face the monitor after his aunt left."
@@ -285,6 +329,7 @@
     },
     {
       "word": "engulf",
+      "trans": "吞没、吞噬、席卷、完全笼罩（be engulfed in 被…吞没）",
       "ipa": "ɪnˈɡʌlf",
       "examples": [
         "When he looked back, the Clementine was engulfed in flames."
@@ -292,6 +337,7 @@
     },
     {
       "word": "swell",
+      "trans": "膨胀、肿胀；（海水）涌起；（数量）激增",
       "ipa": "swel",
       "examples": [
         "Black smoke was swelling into the air like a bruise over the water."
@@ -299,12 +345,14 @@
     },
     {
       "word": "jet of fire",
+      "trans": "（火、烟、水的）喷射柱、一股喷出的火焰",
       "examples": [
         "There were jets of fire spurting from the hatches of the burning old motor cruiser."
       ]
     },
     {
       "word": "spurt",
+      "trans": "喷射、涌出；突然加速、冲刺",
       "ipa": "spɜːt",
       "examples": [
         "There were jets of fire spurting from the hatches as the ship went down."
@@ -312,12 +360,14 @@
     },
     {
       "word": "churn",
+      "trans": "搅动；（胃）翻腾、翻江倒海（make one's stomach churn 令人作呕）",
       "examples": [
         "Then the bow tilted into an angle that made Tom's stomach churn and the boat sank quickly."
       ]
     },
     {
       "word": "simmer",
+      "trans": "文火慢炖；（情绪）酝酿、压抑怒火（simmering water/anger）",
       "ipa": "ˈsɪmə(r)",
       "examples": [
         "By the time he started filming, there was nothing but a circle of simmering water."
@@ -325,6 +375,7 @@
     },
     {
       "word": "slump",
+      "trans": "颓然倒下、瘫坐；（价格、数量）暴跌、骤降",
       "ipa": "slʌmp",
       "examples": [
         "Three minutes later Tom slumped into a seat on the bus and realized he was shaking."
@@ -332,6 +383,7 @@
     },
     {
       "word": "chequer",
+      "trans": "n. 方格、棋盘格图案；v. 使呈方格花纹（美式拼写 checker）",
       "ipa": "ˈtʃekə(r)",
       "examples": [
         "He stared at the chequered headrest in front of him and tried to replay the scene."
@@ -339,12 +391,14 @@
     },
     {
       "word": "headrest",
+      "trans": "头枕",
       "examples": [
         "He stared at the chequered headrest in front of him and tried to replay the scene."
       ]
     },
     {
       "word": "blaze",
+      "trans": "熊熊燃烧、燃起烈焰；闪耀、迸发、大肆宣扬",
       "ipa": "bleɪz",
       "examples": [
         "He saw the man and woman looking on while the old cruiser blazed and sparked."
@@ -352,18 +406,21 @@
     },
     {
       "word": "war zone",
+      "trans": "交战区、战区",
       "examples": [
         "The boat went down in flames like something in a war zone."
       ]
     },
     {
       "word": "look on",
+      "trans": "旁观、冷眼观看（不插手、不介入）",
       "examples": [
         "They were looking on while the old cruiser blazed and sparked."
       ]
     },
     {
       "word": "onlooker",
+      "trans": "旁观者、围观者",
       "ipa": "ˈɒnlʊkə(r)",
       "examples": [
         "The quiet onlookers watched from a distance as the boat sank into the depths."

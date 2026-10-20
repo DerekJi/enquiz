@@ -1,0 +1,429 @@
+{
+  "id": "acknowledgements",
+  "title": "Acknowledgements",
+  "order": 99,
+  "words": [
+    {
+      "word": "airborne",
+      "trans": "1.（飞机）升空的、起飞在空中的；2.（引申）项目/作品成功启动、正式面世",
+      "examples": [
+        "Getting Spylark airborne has been a thrilling adventure."
+      ],
+      "ipa": "ˈeəbɔːn",
+      "key": "airborne"
+    },
+    {
+      "word": "ground crew",
+      "trans": "（航空）地勤人员、地面工作人员；文中比喻幕后默默支持、让作品得以问世的一群人",
+      "examples": [
+        "...the amazing 'ground crew' who have made it possible."
+      ],
+      "ipa": "ɡraʊnd kruː",
+      "key": "ground crew"
+    },
+    {
+      "word": "manuscript",
+      "trans": "n. 手稿、原稿（书籍正式出版之前的手写/打字初稿）",
+      "examples": [
+        "I am very grateful to a number of friends who have read the manuscript."
+      ],
+      "ipa": "ˈmænjuskrɪpt"
+    },
+    {
+      "word": "along the way",
+      "trans": "adv. 一路上、在这个过程当中、其间（侧重在做某事整个过程里中途发生的事，不是从头到尾持续不断）",
+      "examples": [
+        "...or provided encouragement, or just decent coffee, along the way."
+      ],
+      "ipa": "əˈlɒŋ ðə weɪ",
+      "key": "along the way"
+    },
+    {
+      "word": "test pilot",
+      "trans": "n. 试飞员（文中幽默地指帮忙试读手稿的朋友）",
+      "examples": [
+        "Thanks especially to Zachary Walkingshaw and Daniel Goody for being willing test pilots and enjoying the flight."
+      ],
+      "ipa": "test ˈpaɪlət",
+      "key": "test pilot"
+    },
+    {
+      "word": "afar",
+      "trans": "adv. 在远处、从远处（from afar 从远方）",
+      "examples": [
+        "...and the Fortescue family for cheering from afar."
+      ],
+      "ipa": "əˈfɑː(r)"
+    },
+    {
+      "word": "privileged to do sth",
+      "trans": "adj. 有幸得以做某事（书面、文学用语；be privileged to do）",
+      "examples": [
+        "...the lakes and mountains we were privileged to call our home."
+      ],
+      "key": "privileged to do sth"
+    },
+    {
+      "word": "solitary",
+      "trans": "adj. 独自的、单独的、孤立的",
+      "examples": [
+        "...writing a novel is not a solitary task."
+      ],
+      "ipa": "ˈsɒlətri"
+    },
+    {
+      "word": "indeed",
+      "trans": "adv. 的确、实在、真的。特点：放在句末用来加强前面 very 的语气，偏书面/正式文雅，致谢、书信里很常用",
+      "examples": [
+        "I am very thankful indeed to my editor Claire McKenna."
+      ],
+      "ipa": "ɪnˈdiːd"
+    },
+    {
+      "word": "expertise",
+      "trans": "n. 专业知识、专长、专业技能",
+      "examples": [
+        "...all of whose expertise and wisdom I have hugely appreciated and learnt from."
+      ],
+      "ipa": "ˌekspɜːˈtiːz"
+    },
+    {
+      "word": "take flight",
+      "trans": "v. 起飞、展翅腾飞；（想法、故事）成型、顺利开展",
+      "examples": [
+        "I want to thank Barry Cunningham for believing that the story could take flight in the first place."
+      ],
+      "ipa": "teɪk flaɪt",
+      "key": "take flight"
+    },
+    {
+      "word": "in the first place",
+      "trans": "adv. 起初、一开始、从最开始的时候、压根儿（常用于回溯最初那一步）",
+      "examples": [
+        "...believing that the story could take flight in the first place."
+      ],
+      "key": "in the first place"
+    },
+    {
+      "word": "on tap",
+      "trans": "adj. 随时可用的、唾手可得的、随取随用（原指酒桶龙头一开即来，引申'召之即有'）",
+      "examples": [
+        "Having Barry's creative genius and enthusiasm on tap is a first-time author's dream."
+      ],
+      "ipa": "ɒn tæp",
+      "key": "on tap"
+    },
+    {
+      "word": "genius",
+      "trans": "n. 天赋、天才、创造力",
+      "examples": [
+        "Having Barry's creative genius and enthusiasm on tap is a first-time author's dream."
+      ],
+      "ipa": "ˈdʒiːniəs"
+    },
+    {
+      "word": "first-time author",
+      "trans": "n. 初次出书的作者——之前没有正式出版过书籍，这是他第一本出版的书；哪怕私下写过很多文稿，只要从没出过书就叫 first-time author。类比：first-time buyer 首次购房者 / first-time visitor 第一次到访的游客 / first-time parent 新手爸妈",
+      "examples": [
+        "Having Barry's creative genius and enthusiasm on tap is a first-time author's dream."
+      ],
+      "key": "first-time author"
+    },
+    {
+      "word": "sandcastle",
+      "trans": "n. 沙堡",
+      "examples": [
+        "Huge thanks are due to my family, for all the times I didn't make sandcastles, watch Bake Off or play Catan."
+      ],
+      "ipa": "ˈsændkɑːsl"
+    },
+    {
+      "word": "due",
+      "trans": "adj. 由于、应归于、应给予的。Thanks are due to sb. 是固定书面致谢句式 = 感谢归于某人、向某人致以深深谢意",
+      "examples": [
+        "Huge thanks are due to my family."
+      ],
+      "ipa": "djuː",
+      "key": "due"
+    },
+    {
+      "word": "generously",
+      "trans": "adv. 慷慨地、大方地",
+      "examples": [
+        "As well as generously allowing me time to write they have enthusiastically shared in the journey."
+      ],
+      "ipa": "ˈdʒenərəsli"
+    },
+    {
+      "word": "during the course of",
+      "trans": "短语：在……的期间、在……过程中（= during，但更书面、强调整个历程）",
+      "examples": [
+        "...during the course of several years' worth of summer holidays and days off."
+      ],
+      "key": "during the course of"
+    },
+    {
+      "word": "worth of",
+      "trans": "固定表达：...worth of... = 长达……这么多的、总量相当于 X 的（several years' worth of summer holidays = 好几个暑假那么长的时间量）",
+      "examples": [
+        "...during the course of several years' worth of summer holidays and days off."
+      ],
+      "key": "worth of"
+    },
+    {
+      "word": "unwavering",
+      "trans": "adj. 坚定不移的、始终如一的（un-否定 + wavering 摇摆 = 毫不摇摆）",
+      "examples": [
+        "Thanks to Lachlan for unwavering interest and support."
+      ],
+      "ipa": "ʌnˈweɪvərɪŋ"
+    },
+    {
+      "word": "forthright",
+      "trans": "adj. 坦率直言的、直截了当的（毫不拐弯抹角）",
+      "examples": [
+        "Enormous thanks are due to Chloe, my first and most forthright editor."
+      ],
+      "ipa": "ˈfɔːθraɪt"
+    },
+    {
+      "word": "acute",
+      "trans": "adj. 敏锐的、灵敏的（acute sense of story 敏锐的故事感/判断力）",
+      "examples": [
+        "...whose acute sense of story saved early drafts from a number of nosedives."
+      ],
+      "ipa": "əˈkjuːt"
+    },
+    {
+      "word": "nosedive",
+      "trans": "n.（飞机）俯冲；暴跌、急转直下；文中比喻稿件走向失败（save... from a number of nosedives 让早期草稿免于一次次搞砸）",
+      "examples": [
+        "...saved early drafts from a number of nosedives."
+      ],
+      "ipa": "ˈnəʊzdaɪv"
+    },
+    {
+      "word": "unfailing",
+      "trans": "adj. 永不枯竭的、始终可靠的、一贯的",
+      "examples": [
+        "Her beautiful, unfailing belief has been rocket fuel for late-night writing shifts."
+      ],
+      "ipa": "ʌnˈfeɪlɪŋ"
+    },
+    {
+      "word": "revel",
+      "trans": "v. 陶醉、沉浸、尽情享受。revel in sth = 沉醉于某事",
+      "examples": [
+        "...who have patiently walked and talked their way around Spylark's three peaks with me, revelling in the setting."
+      ],
+      "ipa": "ˈrevəl",
+      "key": "revel in sth"
+    },
+    {
+      "word": "plot point",
+      "trans": "n. 情节点、故事关键情节（推进剧情走向的关键设定/转折）",
+      "examples": [
+        "...as we discussed the latest plot point."
+      ],
+      "ipa": "plɒt pɔɪnt",
+      "key": "plot point"
+    },
+    {
+      "word": "credit",
+      "trans": "n. 功劳、赞誉、认可（most of the credit should go to... 最大的功劳应归于……）",
+      "examples": [
+        "...most of the credit should really go to Emma, my wife."
+      ],
+      "ipa": "ˈkredɪt"
+    },
+    {
+      "word": "keep one's feet on the ground",
+      "trans": "习语：脚踏实地、保持务实清醒（不飘、不脱离现实）",
+      "examples": [
+        "...my wife, who keeps my feet on the ground, while also pointing my eyes upwards."
+      ],
+      "key": "keep one's feet on the ground"
+    },
+    {
+      "word": "point one's eyes upwards",
+      "trans": "字面：抬眼向上看。不止是'面向未来'，更丰富一层：仰望、心怀憧憬、看见更高远的可能性、拥有梦想和冒险精神。可译为'面向远方'",
+      "examples": [
+        "...who keeps my feet on the ground, while also pointing my eyes upwards."
+      ],
+      "key": "point one's eyes upwards"
+    },
+    {
+      "word": "setting",
+      "trans": "n.（小说的）故事背景、场景（故事发生的时空环境）",
+      "examples": [
+        "Finally, a word about the setting."
+      ],
+      "ipa": "ˈsetɪŋ"
+    },
+    {
+      "word": "find its wings",
+      "trans": "习语：长出翅膀；比喻作品成熟、得以面世（the novel found its wings 小说终于展翅问世）",
+      "examples": [
+        "...without whose wisdom the novel may never have found its wings."
+      ],
+      "ipa": "faɪnd ɪts wɪŋz",
+      "key": "find its wings"
+    },
+    {
+      "word": "rocket fuel",
+      "trans": "n. 火箭燃料；文中比喻强大的精神动力（unfailing belief has been rocket fuel 她一贯的信任是我深夜写作的助推动力）",
+      "examples": [
+        "Her beautiful, unfailing belief has been rocket fuel for late-night writing shifts."
+      ],
+      "ipa": "ˈrɒkɪt fjuːəl",
+      "key": "rocket fuel"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "Getting Spylark {} has been a thrilling adventure.",
+      "answer": "airborne",
+      "hint": "升空的；引申'项目/作品成功启动、正式面世'"
+    },
+    {
+      "prompt": "...by the kindness and support of the amazing '{} who have made it possible.",
+      "answer": "ground crew",
+      "hint": "地勤人员；引申幕后支持团队"
+    },
+    {
+      "prompt": "...friends who have read the {}, or provided encouragement.",
+      "answer": "manuscript",
+      "hint": "手稿、原稿"
+    },
+    {
+      "prompt": "...or provided encouragement, or just decent coffee, {}.",
+      "answer": "along the way",
+      "hint": "一路上、在这个过程中"
+    },
+    {
+      "prompt": "Thanks especially to Zachary and Daniel for being willing {} and enjoying the flight.",
+      "answer": "test pilots",
+      "hint": "试飞员（幽默指试读朋友）"
+    },
+    {
+      "prompt": "...and the Fortescue family for cheering from {}.",
+      "answer": "afar",
+      "hint": "从远处（from afar）"
+    },
+    {
+      "prompt": "...the lakes and mountains we were {} to call our home.",
+      "answer": "privileged",
+      "hint": "be privileged to do 有幸得以做某事"
+    },
+    {
+      "prompt": "...writing a novel is not a {} task.",
+      "answer": "solitary",
+      "hint": "独自的、单独的"
+    },
+    {
+      "prompt": "I am very thankful {} to my editor Claire McKenna.",
+      "answer": "indeed",
+      "hint": "的确、实在（句末加强 very，书面致谢常用）"
+    },
+    {
+      "prompt": "...all of whose {} and wisdom I have hugely appreciated.",
+      "answer": "expertise",
+      "hint": "专业知识、专长"
+    },
+    {
+      "prompt": "I want to thank Barry Cunningham for believing that the story could {} in the first place.",
+      "answer": "take flight",
+      "hint": "（想法、故事）成型、起飞"
+    },
+    {
+      "prompt": "Having Barry's creative genius and enthusiasm {} is a first-time author's dream.",
+      "answer": "on tap",
+      "hint": "随时可用、唾手可得"
+    },
+    {
+      "prompt": "Having Barry's creative {} and enthusiasm on tap is a first-time author's dream.",
+      "answer": "genius",
+      "hint": "天赋、创造力"
+    },
+    {
+      "prompt": "Having Barry's creative genius and enthusiasm on tap is a {}'s dream.",
+      "answer": "first-time author",
+      "hint": "初次出书的作者（类比 first-time buyer 首次购房者）"
+    },
+    {
+      "prompt": "Huge thanks are {} to my family.",
+      "answer": "due",
+      "hint": "应给予……；Thanks are due to sb 感谢归于某人"
+    },
+    {
+      "prompt": "...watch Bake Off or play Catan {} several years' worth of summer holidays and days off.",
+      "answer": "during the course of",
+      "hint": "在……期间"
+    },
+    {
+      "prompt": "...during the course of several years' {} summer holidays and days off.",
+      "answer": "worth of",
+      "hint": "...worth of 长达……这么多、总量相当于……的"
+    },
+    {
+      "prompt": "Thanks to Lachlan for {} interest and support.",
+      "answer": "unwavering",
+      "hint": "坚定不移的、始终如一的"
+    },
+    {
+      "prompt": "Enormous thanks are due to Chloe, my first and most {} editor.",
+      "answer": "forthright",
+      "hint": "坦率直言的、直截了当的"
+    },
+    {
+      "prompt": "...whose {} sense of story saved early drafts from a number of nosedives.",
+      "answer": "acute",
+      "hint": "敏锐的（acute sense 敏锐的判断力）"
+    },
+    {
+      "prompt": "...saved early drafts from a number of {}.",
+      "answer": "nosedives",
+      "hint": "（飞机）俯冲、暴跌；比喻稿件搞砸失败"
+    },
+    {
+      "prompt": "...without whose wisdom the novel may never have {}.",
+      "answer": "found its wings",
+      "hint": "长出翅膀、作品成熟得以面世"
+    },
+    {
+      "prompt": "Her beautiful, {} belief has been rocket fuel for late-night writing shifts.",
+      "answer": "unfailing",
+      "hint": "永不枯竭的、始终可靠的"
+    },
+    {
+      "prompt": "Her beautiful, unfailing belief has been {} for late-night writing shifts.",
+      "answer": "rocket fuel",
+      "hint": "火箭燃料；比喻强大精神动力"
+    },
+    {
+      "prompt": "...walked and talked their way around Spylark's three peaks with me, {} in the setting.",
+      "answer": "revelling",
+      "hint": "revel in 沉醉于、尽情享受"
+    },
+    {
+      "prompt": "...most of the {} should really go to Emma, my wife.",
+      "answer": "credit",
+      "hint": "功劳、赞誉、认可"
+    },
+    {
+      "prompt": "...my wife, who keeps my {} on the ground, while also pointing my eyes upwards.",
+      "answer": "feet",
+      "hint": "keep one's feet on the ground 脚踏实地、保持务实清醒"
+    },
+    {
+      "prompt": "...who keeps my feet on the ground, while also pointing my {} upwards.",
+      "answer": "eyes",
+      "hint": "point one's eyes upwards 抬眼向上看、仰望远方心怀憧憬"
+    },
+    {
+      "prompt": "Finally, a word about the {}.",
+      "answer": "setting",
+      "hint": "（小说的）故事背景、场景"
+    }
+  ]
+}

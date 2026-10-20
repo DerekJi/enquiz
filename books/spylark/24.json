@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "fume",
+      "trans": "v. 大怒，愤愤不平；发火，生闷气  n. 烟气，烟雾。心里憋着怒火，闷闷生气（小说高频，不一定爆发出来）",
       "ipa": "fjuːm",
       "examples": [
         "She was still fuming about the injustice.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "pensively",
+      "trans": "adv. 心事重重地；若有所思地；带着忧思地",
       "ipa": "ˈpensɪvli",
       "examples": [
         "She looked at the sky pensively.",
@@ -21,6 +23,7 @@
     },
     {
       "word": "turn for",
+      "trans": "固定搭配：调转方向奔赴某处（turn for + 地点）",
       "examples": [
         "She was about to turn for home.",
         "The ship turned for port."
@@ -28,6 +31,7 @@
     },
     {
       "word": "shavings",
+      "trans": "n. 刨花；薄片、细屑（shaving 复数，本义刨木头削下来的薄薄碎屑）",
       "ipa": "ˈʃeɪvɪŋz",
       "examples": [
         "The oars scooped up shavings of light.",
@@ -36,6 +40,7 @@
     },
     {
       "word": "aromatic",
+      "trans": "adj. 芬芳的，有特殊浓郁气味的（不一定是香，指辨识度很强的气味，这里是烟斗烟味）",
       "ipa": "ˌærəˈmætɪk",
       "examples": [
         "She caught the aromatic trail of smoke.",
@@ -44,6 +49,7 @@
     },
     {
       "word": "trail of smoke",
+      "trans": "一缕飘过来的烟（气味轨迹）",
       "examples": [
         "She caught the aromatic trail of smoke.",
         "A trail of smoke rose from the chimney."
@@ -51,6 +57,7 @@
     },
     {
       "word": "cloves",
+      "trans": "n. 丁香（香料，clove 复数）",
       "ipa": "kləʊvz",
       "examples": [
         "A mix of fresh straw, cloves, burnt toast.",
@@ -59,6 +66,7 @@
     },
     {
       "word": "a clove of garlic",
+      "trans": "一瓣大蒜（a clove of garlic）",
       "examples": [
         "Crush a clove of garlic.",
         "Stir in a clove of garlic."
@@ -66,6 +74,7 @@
     },
     {
       "word": "grown-up",
+      "trans": "adj. 成年人特有的；成熟的；属于大人的（grown-up scent 成年人的气息）",
       "ipa": "ˌɡrəʊn ˈʌp",
       "examples": [
         "The grown-up scent reached out to her.",
@@ -74,6 +83,7 @@
     },
     {
       "word": "if it weren't for",
+      "trans": "= but for（虚拟，要不是因为…）（If it weren’t for sb/sth）",
       "examples": [
         "If it weren't for Tom, the Queen would be dead.",
         "If it weren't for you, we'd be lost."
@@ -81,6 +91,7 @@
     },
     {
       "word": "be praised from the rooftops",
+      "trans": "被大肆公开颂扬、被捧到人人皆知，到处夸（shout sth from the rooftops 站在屋顶大声喊→大肆宣扬、公开吹捧，所有人都听见）",
       "examples": [
         "But who gets praised from the rooftops?",
         "Their bravery should be praised from the rooftops."
@@ -88,6 +99,7 @@
     },
     {
       "word": "start by doing",
+      "trans": "不管口语书面都常见，不限于 thankful。To solve this, start by checking the battery. 要解决这个问题，可以先从检查电池入手；I’ll start by introducing myself. 我先做个自我介绍",
       "examples": [
         "We could start by being thankful.",
         "Let's start by introducing ourselves."
@@ -95,6 +107,7 @@
     },
     {
       "word": "set out to do sth",
+      "trans": "怀揣某个目标出发、立志要达成（强调出发时抱有的意图与目标）（set out to do sth）",
       "examples": [
         "You achieved what you set out to do.",
         "She set out to break the record."
@@ -102,6 +115,7 @@
     },
     {
       "word": "tranquil",
+      "trans": "adj. 平静的；宁静的；安稳的",
       "ipa": "ˈtræŋkwɪl",
       "examples": [
         "The Teal sails these tranquil waters.",
@@ -110,6 +124,7 @@
     },
     {
       "word": "presume",
+      "trans": "v. 推测；假定；认为；姑且认定",
       "ipa": "prɪˈzjuːm",
       "examples": [
         "I presume you didn't do it to be praised.",
@@ -118,6 +133,7 @@
     },
     {
       "word": "come at a price",
+      "trans": "是要付出代价的；并非毫无牺牲（come at a price）",
       "examples": [
         "Saving people usually comes at a price.",
         "Victory came at a price."
@@ -125,6 +141,7 @@
     },
     {
       "word": "daft",
+      "trans": "adj. 傻乎乎的，鲁莽的，有点蠢（英式口语，语气不算很重，偏“行事冒失”，不是恶毒骂人）",
       "ipa": "dɑːft",
       "examples": [
         "Tom may have made himself look a bit daft.",
@@ -133,6 +150,7 @@
     },
     {
       "word": "out",
+      "trans": "v.【古】显露、暴露、浮出水面（这里是动词，不是副词！现代英语日常已不这么用）。The truth will out (in the end) 真相终会大白——经典老式英语谚语，英式文学小说常见",
       "ipa": "aʊt",
       "examples": [
         "The truth will out in the end.",
@@ -141,6 +159,7 @@
     },
     {
       "word": "see for myself",
+      "trans": "亲自去看一看，自己亲眼核实，亲自求证。for myself 为我自己求得亲身见闻→亲自求证；by myself 靠我自己、单独一个人→独自干活、出行",
       "examples": [
         "I intend to see for myself.",
         "Let me see for myself."
@@ -148,6 +167,7 @@
     },
     {
       "word": "vouch for",
+      "trans": "v. 为（人品）做担保、作证（vouch for）",
       "examples": [
         "I'm going to vouch for Tom's character.",
         "I can vouch for him."
@@ -155,6 +175,7 @@
     },
     {
       "word": "first thing",
+      "trans": "非常地道高频口语（英美式都用）。first thing 本身副词性质短语，意思第一件事、一……就（优先立刻办）（I’ll ring you first thing tomorrow 我明天一早就给你打电话）。❌ the first thing tomorrow（啰嗦）❌ at first thing tomorrow（错误，不要加 at）",
       "examples": [
         "I have an appointment first thing in the morning.",
         "Call me first thing tomorrow."
@@ -162,6 +183,7 @@
     },
     {
       "word": "be mixed up in",
+      "trans": "卷入、牵涉进坏事；深陷其中（be mixed up in）",
       "examples": [
         "If the authorities are mixed up in this.",
         "He didn't want to be mixed up in a crime."
@@ -169,6 +191,7 @@
     },
     {
       "word": "be on to sb",
+      "trans": "固定地道短语（口语常用）。察觉到某人的秘密/阴谋；盯上某人，发现对方的勾当（be on to sb）",
       "examples": [
         "We're on to them.",
         "The police are on to the gang."
@@ -176,6 +199,7 @@
     },
     {
       "word": "bewilder",
+      "trans": "v. 使困惑；使茫然；让人摸不着头脑",
       "ipa": "bɪˈwɪldə(r)",
       "examples": [
         "Maggie shook her head, bewildered.",
@@ -184,6 +208,7 @@
     },
     {
       "word": "have sth in common",
+      "trans": "固定高频短语。有共同点；有相似之处（have sth in common）",
       "examples": [
         "Tom and Ryan have more in common than you think.",
         "We have nothing in common."
@@ -191,6 +216,7 @@
     },
     {
       "word": "on the brink",
+      "trans": "brink n.（悬崖的）边缘；临界点。on the brink (of sth) 处在…的边缘；濒临（某种重大状态，通常是危险、崩溃的临界点）。on the brink of 濒临重大转折、文学感强，可毁灭也可重大改变；on the verge of 几乎就要，与之近义，日常更常用",
       "examples": [
         "On the brink, trying to work out who he was.",
         "on the brink of collapse."
@@ -198,6 +224,7 @@
     },
     {
       "word": "escapade",
+      "trans": "n. 冒险举动；出格的恶作剧；一场惊险的经历",
       "ipa": "ˌeskəˈpeɪd",
       "examples": [
         "This little escapade was the jolt he needed.",
@@ -206,6 +233,7 @@
     },
     {
       "word": "jolt",
+      "trans": "n. 猛然的冲击；一记警醒",
       "ipa": "dʒəʊlt",
       "examples": [
         "This escapade was the jolt he needed.",
@@ -214,6 +242,7 @@
     },
     {
       "word": "brood on",
+      "trans": "v. 沉湎、耿耿于怀（反复琢磨自己的烦心事，郁郁不乐）。brood on sth 盯着这件事反复琢磨，放不下",
       "examples": [
         "To stop brooding on his own problems.",
         "Don't brood on past mistakes."
@@ -221,6 +250,7 @@
     },
     {
       "word": "spectacularly",
+      "trans": "adv. 极其；惊人地；轰动地；场面盛大可观地",
       "ipa": "spekˈtækjələli",
       "examples": [
         "He saved others, spectacularly.",
@@ -229,6 +259,7 @@
     },
     {
       "word": "lunatic",
+      "trans": "n. 疯子；举止癫狂的人  adj. 疯狂的",
       "ipa": "ˈluːnətɪk",
       "examples": [
         "He would still have looked like a lunatic.",
@@ -237,6 +268,7 @@
     },
     {
       "word": "count the cost",
+      "trans": "习语。字面像“算一算成本”，实际：预先考量、掂量一件事背后要承担的风险、损失与负面后果。重点：行动之前心里清楚这么干会付出多大代价，但依然选择去做",
       "examples": [
         "He'd counted the cost.",
         "They acted without counting the cost."
@@ -244,6 +276,7 @@
     },
     {
       "word": "gossamer",
+      "trans": "adj. 薄如蝉翼的；轻盈纤细的  n. 薄纱；蛛丝",
       "ipa": "ˈɡɒsəmə(r)",
       "examples": [
         "A micro-light, gossamer wings backlit.",
@@ -252,6 +285,7 @@
     },
     {
       "word": "backlit",
+      "trans": "adj. 逆光的；从背后照亮的",
       "ipa": "ˌbækˈlɪt",
       "examples": [
         "Its gossamer wings backlit in the last rays.",
@@ -260,6 +294,7 @@
     },
     {
       "word": "the last rays",
+      "trans": "= the last rays of the sun（省略 of the sun，小说常见简写），落日余晖、夕阳最后的光芒",
       "examples": [
         "Gossamer wings backlit in the last rays.",
         "The sun cast its last rays."
@@ -267,6 +302,7 @@
     },
     {
       "word": "fringe",
+      "trans": "n.【英式英语】刘海（额头前的那一小撮头发）。push the fringe out of her eyes 把垂下来的刘海拨开，不让它挡住眼睛",
       "ipa": "frɪndʒ",
       "examples": [
         "Maggie pushed the fringe out of her eyes.",
@@ -275,6 +311,7 @@
     },
     {
       "word": "a bit of digging",
+      "trans": "digging 比喻义：调查、打探（不是拿铲子挖土）。a bit of digging 做一番深挖调查，去搜集线索，追查证据",
       "examples": [
         "A bit of digging, before the trail goes cold.",
         "A bit of digging turned up the truth."
@@ -282,6 +319,7 @@
     },
     {
       "word": "the trail goes cold",
+      "trans": "线索冷却；追查断线；找不到痕迹了（the trail goes cold）",
       "examples": [
         "Before the trail goes cold.",
         "The trail had gone cold."
@@ -289,6 +327,7 @@
     },
     {
       "word": "aqueduct",
+      "trans": "n. 输水渠、高架引水管道（大型人工输水工程）",
       "ipa": "ˈækwɪdʌkt",
       "examples": [
         "The Thirlmere Aqueduct passes under the fell.",
@@ -297,6 +336,7 @@
     },
     {
       "word": "reservoir",
+      "trans": "n. 水库，蓄水池",
       "ipa": "ˈrezəvwɑː(r)",
       "examples": [
         "An enormous man-made reservoir up the valley.",
@@ -305,6 +345,7 @@
     },
     {
       "word": "lion's den",
+      "trans": "n. 狮子窝；龙潭虎穴，极度危险的地方（lion’s den）",
       "examples": [
         "Don't go walking into the lion's den!",
         "He walked back into the lion's den."
@@ -312,6 +353,7 @@
     },
     {
       "word": "Victorians",
+      "trans": "n. 维多利亚时代的人（Victorians）",
       "ipa": "vɪkˈtɔːriənz",
       "examples": [
         "The Victorians built it.",
@@ -320,6 +362,7 @@
     },
     {
       "word": "and yet",
+      "trans": "= and + yet。and 承接上文、认可前面；yet 转折“可是仍然”。语感：先让步，再转折；比普通 but 更强调内心纠结矛盾，适合人物心理活动。可用 and yet 或只用 yet；不要写成 but yet（重复冗余）",
       "examples": [
         "And yet, if no one ever went near the den.",
         "He was tired, and yet he kept going."
@@ -327,6 +370,7 @@
     },
     {
       "word": "get away with sth",
+      "trans": "侥幸逃脱，做坏事而不受惩罚（get away with sth。get away with everything 什么坏事都可以逍遥法外、全部脱罪）",
       "examples": [
         "Those people would get away with everything.",
         "He got away with a fine."
@@ -334,6 +378,7 @@
     },
     {
       "word": "goosander",
+      "trans": "n. 普通秋沙鸭（一种河上野鸭，母鸭头部有标志性橙红色羽冠）",
       "ipa": "ɡuːˈsændə(r)",
       "examples": [
         "A female goosander with some newly hatched chicks.",
@@ -342,6 +387,7 @@
     },
     {
       "word": "labour",
+      "trans": "v. 费力前行，吃力地干（英式拼写；labor 美式）。labour doing sth 费力做某事",
       "ipa": "ˈleɪbə(r)",
       "examples": [
         "A female goosander was labouring upstream.",
@@ -350,6 +396,7 @@
     },
     {
       "word": "tuft",
+      "trans": "n. 一丛；一簇羽毛/毛发",
       "ipa": "tʌft",
       "examples": [
         "Orange tufts glistening with jewels of water.",
@@ -358,6 +405,7 @@
     },
     {
       "word": "glisten",
+      "trans": "v.（湿润表面）闪闪发亮",
       "ipa": "ˈɡlɪsn",
       "examples": [
         "Orange tufts glistening with jewels of water.",
@@ -366,6 +414,7 @@
     },
     {
       "word": "jewels of water",
+      "trans": "文学比喻，把水珠比作宝石（jewels of water）",
       "examples": [
         "Orange tufts glistening with jewels of water.",
         "The grass glittered with jewels of water."
@@ -373,6 +422,7 @@
     },
     {
       "word": "shrink back",
+      "trans": "向后退缩、往后缩（因为害怕）（shrink back）",
       "examples": [
         "She shrank back from the barking dog.",
         "The child shrank back into the corner."
@@ -380,6 +430,7 @@
     },
     {
       "word": "overhanging",
+      "trans": "adj. 向外悬垂、挑出的（overhanging roof 向外挑出来的屋檐/顶棚）",
       "ipa": "ˌəʊvəˈhæŋɪŋ",
       "examples": [
         "An overhanging roof.",
@@ -388,6 +439,7 @@
     },
     {
       "word": "drape",
+      "trans": "v. 随意搭、披挂在……上面",
       "ipa": "dreɪp",
       "examples": [
         "She draped a scarf over her shoulders.",
@@ -396,6 +448,7 @@
     },
     {
       "word": "slender",
+      "trans": "adj. 细长的；苗条纤细的；窄窄的",
       "ipa": "ˈslendə(r)",
       "examples": [
         "Her slender fingers.",
@@ -404,6 +457,7 @@
     },
     {
       "word": "be studded with sth",
+      "trans": "短语：镶嵌、布满，上面密密麻麻装着很多东西（be studded with sth）",
       "examples": [
         "The shore was studded with rocks.",
         "a sky studded with stars."
@@ -411,6 +465,7 @@
     },
     {
       "word": "strap",
+      "trans": "n.[复数 straps] 绑带、系带、捆扎带（尼龙/织带这种扁平结实带子）",
       "ipa": "stræp",
       "examples": [
         "She tightened the straps on her pack.",
@@ -419,6 +474,7 @@
     },
     {
       "word": "rhythmic",
+      "trans": "adj. 有节奏的",
       "ipa": "ˈrɪðmɪk",
       "examples": [
         "The rhythmic sound of the oars.",
@@ -427,6 +483,7 @@
     },
     {
       "word": "goosebumps",
+      "trans": "n. 鸡皮疙瘩（复数）",
       "ipa": "ˈɡuːsbʌmps",
       "examples": [
         "The cold gave her goosebumps.",
@@ -435,6 +492,7 @@
     },
     {
       "word": "eddy",
+      "trans": "n. 漩涡，回水涡流",
       "ipa": "ˈedi",
       "examples": [
         "A leaf spun in the eddy.",
@@ -443,6 +501,7 @@
     },
     {
       "word": "heal over",
+      "trans": "短语：（伤口）愈合、长好（heal over）",
       "examples": [
         "The wound healed over.",
         "Time heals over old grief."
@@ -450,6 +509,7 @@
     },
     {
       "word": "find the guts",
+      "trans": "find the guts to do sth 鼓起勇气；拿出胆量去做某事",
       "examples": [
         "She finally found the guts to speak up.",
         "He found the guts to tell the truth."

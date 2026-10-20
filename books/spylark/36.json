@@ -1,0 +1,851 @@
+{
+  "id": "36",
+  "title": "Chapter 36",
+  "order": 36,
+  "words": [
+    {
+      "word": "one minute ..., the next ...",
+      "trans": "句式：刚才还在A，转眼就B；一会儿A一会儿B，突出变化突然、出乎意料、快速切换。小说叙事和口语对话都很高频",
+      "examples": [
+        "They scrambled blindly down a gully, scraping their shins on bracken one minute, sinking their feet into waterlogged layers of moss the next."
+      ],
+      "key": "one minute ..., the next ..."
+    },
+    {
+      "word": "larch",
+      "trans": "n. 落叶松；落叶松木",
+      "examples": [
+        "They were heading for a clump of larch trees that fringed the farm track."
+      ],
+      "ipa": "lɑːtʃ"
+    },
+    {
+      "word": "figure",
+      "trans": "v.（非正式）认为、估计、料想（= think，口语高频）",
+      "examples": [
+        "They figured that if they could get that far without being spotted, they would be able to take stock."
+      ],
+      "ipa": "ˈfɪɡə(r)"
+    },
+    {
+      "word": "take stock",
+      "trans": "短语：盘点存货；评估形势、看清状况再作打算（take stock of the situation）",
+      "examples": [
+        "They would be able to take stock and have a closer look at what was going on."
+      ],
+      "key": "take stock"
+    },
+    {
+      "word": "agonizing",
+      "trans": "adj. 令人痛苦难熬的、折磨人的（时间/处境难熬）",
+      "examples": [
+        "Close up it presented an agonizing series of obstacles."
+      ],
+      "ipa": "ˈæɡənaɪzɪŋ"
+    },
+    {
+      "word": "obstacle",
+      "trans": "n. 障碍、阻碍、障碍物",
+      "examples": [
+        "Close up it presented an agonizing series of obstacles."
+      ],
+      "ipa": "ˈɒbstəkl"
+    },
+    {
+      "word": "a clatter of ...",
+      "trans": "量词短语：一阵哗啦声（clatter 指金属/石头撞击的连续脆响）；a clatter of stones 石块滚落的哗啦声",
+      "examples": [
+        "They had to hoist themselves over it with a clatter of stones."
+      ],
+      "key": "a clatter of ..."
+    },
+    {
+      "word": "grouse",
+      "trans": "n. 松鸡（英国山林常见猎禽）；v.【非正式】发牢骚、抱怨（grouse about sth）",
+      "examples": [
+        "A grouse blasted out of some bracken, making Maggie cry aloud with shock."
+      ],
+      "ipa": "ɡraʊs"
+    },
+    {
+      "word": "squelch",
+      "trans": "v.（踩进湿泥）咕唧作响、扑哧陷进去；n. 咕唧的湿泥声",
+      "examples": [
+        "Maggie squelched, knee-deep, into a bog."
+      ],
+      "ipa": "skweltʃ"
+    },
+    {
+      "word": "bog",
+      "trans": "n. 沼泽、泥炭沼泽（boggy 泥泞的）",
+      "examples": [
+        "Maggie squelched, knee-deep, into a bog."
+      ],
+      "ipa": "bɒɡ"
+    },
+    {
+      "word": "bottom out",
+      "trans": "短语：（地形/经济/病情）下降到最低点、到谷底",
+      "examples": [
+        "As the valley bottomed out, Maggie squelched, knee-deep, into a bog."
+      ],
+      "key": "bottom out"
+    },
+    {
+      "word": "sodden",
+      "trans": "adj. 湿透的、浸饱水的（sodden mosses 吸饱水的苔藓）",
+      "examples": [
+        "She landed with a splash in a mire of sodden mosses."
+      ],
+      "ipa": "ˈsɒdn"
+    },
+    {
+      "word": "mire",
+      "trans": "n. 泥潭、泥沼（比 bog 更黏稠的烂泥）",
+      "examples": [
+        "She landed with a splash in a mire of sodden mosses."
+      ],
+      "ipa": "ˈmaɪə(r)"
+    },
+    {
+      "word": "grope",
+      "trans": "v. 摸索着走、伸手乱摸；grope one's way out 摸索着从……里爬出来",
+      "examples": [
+        "She groped her way out, now soaked to the skin."
+      ],
+      "ipa": "ɡrəʊp"
+    },
+    {
+      "word": "soaked to the skin",
+      "trans": "固定短语：浑身湿透、湿到皮肉（= wet through）",
+      "examples": [
+        "She groped her way out, now soaked to the skin."
+      ],
+      "key": "soaked to the skin"
+    },
+    {
+      "word": "sedge",
+      "trans": "n. 莎草（水边丛生的草）",
+      "examples": [
+        "Joel and Archie had somehow bounded across on tufts of sedge."
+      ],
+      "ipa": "sedʒ"
+    },
+    {
+      "word": "musical statues",
+      "trans": "n.【英式儿童游戏】木头人游戏（音乐停就定住不动；本书用来让无人机误以为是石头）",
+      "examples": [
+        "If a drone heads this way, we need to play musical statues."
+      ],
+      "ipa": "ˈmjuːzɪkl ˈstætʃuːz",
+      "key": "musical statues"
+    },
+    {
+      "word": "fierceness",
+      "trans": "n. 猛烈、凶狠、强烈、气势",
+      "examples": [
+        "Maggie had never heard such fierceness in her brother's voice."
+      ],
+      "ipa": "ˈfɪəsnəs"
+    },
+    {
+      "word": "patter",
+      "trans": "n. 淅沥/噼啪的连续细小拍打声；v. 发出哒哒、淅沥的轻响（patter of water 水声淅沥）",
+      "examples": [
+        "The scream of the drone cut through the patter of water on stone."
+      ],
+      "ipa": "ˈpætə(r)"
+    },
+    {
+      "word": "piercing",
+      "trans": "adj. 刺耳的、穿透性强的；锐利的（piercing scream 刺耳尖啸）",
+      "examples": [
+        "The scream of the drone cut through the patter of water on stone, piercing and urgent."
+      ],
+      "ipa": "ˈpɪəsɪŋ"
+    },
+    {
+      "word": "vole",
+      "trans": "n. 田鼠（体型短粗、短尾，草地路边活动；不是 rat 老鼠、mouse 家鼠）",
+      "examples": [
+        "It was hovering over them like a hawk spying a vole by the roadside."
+      ],
+      "ipa": "vəʊl"
+    },
+    {
+      "word": "pitiless",
+      "trans": "adj. 无情的、毫无怜悯的、冷酷的",
+      "examples": [
+        "As the beam of light began its pitiless journey across the stream..."
+      ],
+      "ipa": "ˈpɪtɪləs"
+    },
+    {
+      "word": "sway",
+      "trans": "v. 摇晃、摆动（随水流/风摇摆）",
+      "examples": [
+        "Maggie saw the black water illuminated green with weeds swaying in the current."
+      ],
+      "ipa": "sweɪ"
+    },
+    {
+      "word": "velvet",
+      "trans": "n. 丝绒、天鹅绒；adj. 丝绒般的、柔软黑暗的（the velvet darkness 天鹅绒般的黑暗）",
+      "examples": [
+        "She could have kissed the velvet darkness as the drone passed on at last."
+      ],
+      "ipa": "ˈvelvɪt"
+    },
+    {
+      "word": "pass on",
+      "trans": "短语：继续前行、一路经过然后离开",
+      "examples": [
+        "She could have kissed the velvet darkness as the drone passed on at last."
+      ],
+      "key": "pass on"
+    },
+    {
+      "word": "scrum",
+      "trans": "n. 挤作一团的人群；（橄榄球）争球（in a scrum 挤抱成一团）",
+      "examples": [
+        "They regrouped on the bank, holding on to each other's shoulders in a scrum."
+      ],
+      "ipa": "skrʌm"
+    },
+    {
+      "word": "divert",
+      "trans": "v. 转移（注意力/目标）、引开、调开（divert sb from sth）",
+      "examples": [
+        "We can divert them from hunting him and he might just get away."
+      ],
+      "ipa": "daɪˈvɜːt"
+    },
+    {
+      "word": "murderous",
+      "trans": "adj. 凶残的、杀人成性的",
+      "examples": [
+        "An absolutely sure way to get caught by murderous criminals ourselves!"
+      ],
+      "ipa": "ˈmɜːdərəs"
+    },
+    {
+      "word": "live with something",
+      "trans": "短语：接受不愉快的事实、忍受后果、认下它带来的心理负担",
+      "examples": [
+        "We'll always live with the fact that we could have done more."
+      ],
+      "key": "live with something"
+    },
+    {
+      "word": "crop",
+      "trans": "v.（动物）啃食、咬掉（植物顶端）；修剪（sheep-cropped grass 被羊啃短的草）",
+      "examples": [
+        "They made quick progress over the sheep-cropped grass."
+      ],
+      "ipa": "krɒp"
+    },
+    {
+      "word": "rutted",
+      "trans": "adj. 有车辙的（rut n. 车轮压出的凹槽；rutted road 布满车辙的路）",
+      "examples": [
+        "Its headlights dancing on the rutted road."
+      ],
+      "ipa": "ˈrʌtɪd"
+    },
+    {
+      "word": "dale",
+      "trans": "n.（英式，尤英格兰北部）山谷、溪谷（比 valley 更乡土，开阔草木茂盛）；dale head 谷头（山谷上端、溪流源头那一头）",
+      "examples": [
+        "Two of the search drones were visible now: one to their left combing the dale head."
+      ],
+      "ipa": "deɪl"
+    },
+    {
+      "word": "dale head",
+      "trans": "短语：山谷的上端/谷头（山谷开始、靠近山坡顶端、溪流发源那一头）",
+      "examples": [
+        "One drone to their left was combing the dale head."
+      ],
+      "key": "dale head"
+    },
+    {
+      "word": "at a slant",
+      "trans": "固定短语：斜着、歪着（不水平摆正、不正对路沿）",
+      "examples": [
+        "The yellow dump truck was now parked at a slant on the edge of the track."
+      ],
+      "key": "at a slant"
+    },
+    {
+      "word": "some way",
+      "trans": "短语：有一段距离、老远、不算近；some way from 离某地还有一段距离",
+      "examples": [
+        "The truck was parked on the edge of the track some way from the farm."
+      ],
+      "key": "some way"
+    },
+    {
+      "word": "stop dead",
+      "trans": "短语：猛地停住、戛然停下（= stop abruptly）",
+      "examples": [
+        "When they came level with it, Maggie stopped dead."
+      ],
+      "key": "stop dead"
+    },
+    {
+      "word": "beat",
+      "trans": "v.（口语）比……更好、胜过、强过（Sitting by the fire beats standing out in the rain. 坐火边比淋雨强多了）",
+      "examples": [
+        "It has the ignition key in it. This will beat running."
+      ],
+      "ipa": "biːt"
+    },
+    {
+      "word": "anticipate",
+      "trans": "v. 预料、预先料到（事情/争论会发生）",
+      "examples": [
+        "Joel held his palms out, anticipating the argument."
+      ],
+      "ipa": "ænˈtɪsɪpeɪt"
+    },
+    {
+      "word": "dodgem",
+      "trans": "n. 碰碰车（英式 dodgem car；美式 bumper car）",
+      "examples": [
+        "The only thing you've driven is the dodgems at Blackpool Pleasure Beach."
+      ],
+      "ipa": "ˈdɒdʒəm"
+    },
+    {
+      "word": "clamber",
+      "trans": "v. 手脚并用地费劲攀爬（爬高处，如卡车驾驶室）",
+      "examples": [
+        "Come on, said Maggie, clambering up to the driver's seat."
+      ],
+      "ipa": "ˈklæmbə(r)"
+    },
+    {
+      "word": "weave",
+      "trans": "v. 迂回穿行、绕来绕去（在树/障碍间躲闪前进）",
+      "examples": [
+        "Joel then headed off towards the farm weaving through the larches."
+      ],
+      "ipa": "wiːv"
+    },
+    {
+      "word": "impersonation",
+      "trans": "n. 模仿、假扮、扮演（刻意模仿他人样子/声音/走姿，让别人误认你就是那人）",
+      "examples": [
+        "His impersonation of Tom's lopsided gait was unmistakable."
+      ],
+      "ipa": "ɪmˌpɜːsəˈneɪʃn"
+    },
+    {
+      "word": "lopsided",
+      "trans": "adj. 歪向一边的、不平衡的（lopsided gait 歪身子的跛行姿势）",
+      "examples": [
+        "His impersonation of Tom's lopsided gait was unmistakable."
+      ],
+      "ipa": "ˌlɒpˈsaɪdɪd"
+    },
+    {
+      "word": "go up to",
+      "trans": "短语：径直走到……跟前、走近（up 不一定是地势高，而是朝目标一直走到它面前）",
+      "examples": [
+        "He went up to the gate where there was now only one man on guard."
+      ],
+      "key": "go up to"
+    },
+    {
+      "word": "brazenly",
+      "trans": "adv. 厚着脸皮地、明目张胆地、肆无忌惮地",
+      "examples": [
+        "Maggie watched him brazenly as the first rays of sun broke across the fell tops behind him."
+      ],
+      "ipa": "ˈbreɪznli"
+    },
+    {
+      "word": "lumber",
+      "trans": "v. 笨重缓慢地移动、蹒跚前行（lumbering weight 笨重的分量）",
+      "examples": [
+        "Despite the lumbering weight of the thing, she was surprised how light the steering was."
+      ],
+      "ipa": "ˈlʌmbə(r)"
+    },
+    {
+      "word": "edge out",
+      "trans": "短语：慢慢挪出去、小心翼翼地驶出（edge 侧身一点点移动）",
+      "examples": [
+        "She edged out into the track, facing away from the farm."
+      ],
+      "key": "edge out"
+    },
+    {
+      "word": "running board",
+      "trans": "n.（卡车/老式车）侧脚踏板，装在车门下方、车架外侧，底盘高的车踩着才能上驾驶室",
+      "examples": [
+        "The gates opened as Joel pulled himself on to the running board."
+      ],
+      "ipa": "ˈrʌnɪŋ bɔːd",
+      "key": "running board"
+    },
+    {
+      "word": "get your foot down",
+      "trans": "（英式口语）踩下油门、猛踩加速",
+      "examples": [
+        "Fly, Maggie! Get your foot down."
+      ],
+      "key": "get your foot down"
+    },
+    {
+      "word": "outrun",
+      "trans": "v. 跑得比……更快、甩掉、逃脱（追捕者）",
+      "examples": [
+        "We won't be able to outrun them in this thing, but let's keep going."
+      ],
+      "ipa": "ˌaʊtˈrʌn"
+    },
+    {
+      "word": "whine",
+      "trans": "v.（机器）发出尖锐持续的呜呜啸叫；（人）哭啼抱怨；（小狗）哀鸣",
+      "examples": [
+        "It gathered speed and the engine began to whine."
+      ],
+      "ipa": "waɪn"
+    },
+    {
+      "word": "clutch",
+      "trans": "n.（汽车手动挡）离合器",
+      "examples": [
+        "The clutch pedal was so stiff Maggie had to stand up to kick it down."
+      ],
+      "ipa": "klʌtʃ"
+    },
+    {
+      "word": "coast",
+      "trans": "v. 滑行（踩下离合、断开动力后靠惯性向前滑）",
+      "examples": [
+        "The truck coasted for a few terrifying seconds while she wrenched the gear lever across."
+      ],
+      "ipa": "kəʊst"
+    },
+    {
+      "word": "bolt",
+      "trans": "v. 猛地狂奔、一下子冲出去（多指动物受惊撒腿狂奔，此处拟人写卡车，像赛马般窜出）",
+      "examples": [
+        "The machine bolted away like a racehorse."
+      ],
+      "ipa": "bəʊlt"
+    },
+    {
+      "word": "grove",
+      "trans": "n. 小片树林、树丛（不大，同类的树；不是广袤 forest）；a grove of trees",
+      "examples": [
+        "Then they were into a grove of trees."
+      ],
+      "ipa": "ɡrəʊv"
+    },
+    {
+      "word": "overhanging",
+      "trans": "adj. 悬垂的、向外伸出吊在头顶上方的（overhanging branches 横伸的枝桠）",
+      "examples": [
+        "In the muffled darkness of the overhanging branches came more shots."
+      ],
+      "ipa": "ˌəʊvəˈhæŋɪŋ"
+    },
+    {
+      "word": "on one's tail",
+      "trans": "短语：紧跟在后、紧追不舍",
+      "examples": [
+        "The Land Rover was on their tail, the gun pointing at one of the wheels."
+      ],
+      "key": "on one's tail"
+    },
+    {
+      "word": "idiotically",
+      "trans": "adv. 愚蠢地、傻乎乎地；莽撞、不计后果地",
+      "examples": [
+        "He stood up, idiotically exposed, his teeth clenched."
+      ],
+      "ipa": "ˌɪdiˈɒtɪkli"
+    },
+    {
+      "word": "screech",
+      "trans": "n. 尖锐刺耳的嘶鸣、尖啸声（此处指急刹车的吱声）",
+      "examples": [
+        "She heard a screech of brakes and something popping behind."
+      ],
+      "ipa": "skriːtʃ"
+    },
+    {
+      "word": "veer",
+      "trans": "v.（车辆）突然转向、猛地拐开、偏离原路线；veer off 突然冲离路面",
+      "examples": [
+        "The Land Rover was veering off the road, careening down a bank."
+      ],
+      "ipa": "vɪə(r)"
+    },
+    {
+      "word": "careen",
+      "trans": "v. 失控地歪着滑行、摇晃横冲直撞（车轮抱死、打滑侧滑前冲）",
+      "examples": [
+        "The Land Rover was veering off the road, careening down a bank."
+      ],
+      "ipa": "kəˈriːn"
+    },
+    {
+      "word": "ride the bumps / lumps",
+      "trans": "短语：碾过路面的颠簸凸起（ride the bumps 更常见；本书用 lumps，强调一块块鼓起的硬疙瘩）",
+      "examples": [
+        "The ice cream van was right behind, swaying as it rode the lumps of the road."
+      ],
+      "key": "ride the bumps"
+    },
+    {
+      "word": "ricochet",
+      "trans": "v.（子弹）跳弹、碰硬物后反弹出去",
+      "examples": [
+        "A shot ricocheted off the steering column."
+      ],
+      "ipa": "ˈrɪkəʃeɪ"
+    },
+    {
+      "word": "steering column",
+      "trans": "名词短语：方向盘底下那根金属立柱",
+      "examples": [
+        "A shot ricocheted off the steering column."
+      ],
+      "key": "steering column"
+    },
+    {
+      "word": "lurch",
+      "trans": "v. 猛地一晃、突然侧倾",
+      "examples": [
+        "Another hit a tyre, and she felt the machine lurch to one side."
+      ],
+      "ipa": "lɜːtʃ"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "They scrambled down the gully, scraping their shins on bracken one minute and sinking into moss the next, showing a sudden {} of terrain.",
+      "answer": "change",
+      "hint": "骤变/切换（one minute...the next）"
+    },
+    {
+      "prompt": "A clump of {} trees fringed the farm track.",
+      "answer": "larch",
+      "hint": "落叶松"
+    },
+    {
+      "prompt": "They {} they could take cover behind the trees.",
+      "answer": "figured",
+      "hint": "认为、料想"
+    },
+    {
+      "prompt": "They stopped to {} and see what was happening.",
+      "answer": "take stock",
+      "hint": "评估形势"
+    },
+    {
+      "prompt": "The climb up close was an {} series of obstacles.",
+      "answer": "agonizing",
+      "hint": "痛苦难熬的"
+    },
+    {
+      "prompt": "A drystone wall was the first {} they had to climb.",
+      "answer": "obstacle",
+      "hint": "障碍"
+    },
+    {
+      "prompt": "They hoisted themselves over the wall with a {} of stones.",
+      "answer": "clatter",
+      "hint": "一阵哗啦声"
+    },
+    {
+      "prompt": "A {} blasted out of some bracken.",
+      "answer": "grouse",
+      "hint": "松鸡"
+    },
+    {
+      "prompt": "Maggie {} knee-deep into a bog.",
+      "answer": "squelched",
+      "hint": "咕唧陷进湿泥"
+    },
+    {
+      "prompt": "The valley floor was a soft {}.",
+      "answer": "bog",
+      "hint": "沼泽"
+    },
+    {
+      "prompt": "As the valley {} , Maggie fell into a bog.",
+      "answer": "bottomed out",
+      "hint": "降到谷底"
+    },
+    {
+      "prompt": "She landed in a mire of {} mosses.",
+      "answer": "sodden",
+      "hint": "湿透的"
+    },
+    {
+      "prompt": "She landed with a splash in a {} of sodden mosses.",
+      "answer": "mire",
+      "hint": "泥潭"
+    },
+    {
+      "prompt": "She {} her way out of the bog.",
+      "answer": "groped",
+      "hint": "摸索着爬"
+    },
+    {
+      "prompt": "She was now {} to the skin.",
+      "answer": "soaked",
+      "hint": "湿透"
+    },
+    {
+      "prompt": "Joel and Archie bounded across on tufts of {}.",
+      "answer": "sedge",
+      "hint": "莎草"
+    },
+    {
+      "prompt": "When a drone came, they had to play {}.",
+      "answer": "musical statues",
+      "hint": "木头人游戏"
+    },
+    {
+      "prompt": "Maggie had never heard such {} in Joel's voice.",
+      "answer": "fierceness",
+      "hint": "凶狠、猛烈"
+    },
+    {
+      "prompt": "The drone's scream cut through the {} of water on stone.",
+      "answer": "patter",
+      "hint": "淅沥声"
+    },
+    {
+      "prompt": "The scream was {} and urgent.",
+      "answer": "piercing",
+      "hint": "刺耳穿透的"
+    },
+    {
+      "prompt": "It hovered like a hawk spying a {} by the roadside.",
+      "answer": "vole",
+      "hint": "田鼠"
+    },
+    {
+      "prompt": "The light beam began its {} journey across the stream.",
+      "answer": "pitiless",
+      "hint": "无情的"
+    },
+    {
+      "prompt": "Weeds were {} in the current.",
+      "answer": "swaying",
+      "hint": "摇摆"
+    },
+    {
+      "prompt": "She could have kissed the {} darkness as the drone left.",
+      "answer": "velvet",
+      "hint": "丝绒般的"
+    },
+    {
+      "prompt": "They waited until the drone finally {}.",
+      "answer": "passed on",
+      "hint": "继续前行离开"
+    },
+    {
+      "prompt": "They clung together in a {} on the bank.",
+      "answer": "scrum",
+      "hint": "挤作一团"
+    },
+    {
+      "prompt": "They hoped to {} the pursuers away from Tom.",
+      "answer": "divert",
+      "hint": "引开、转移"
+    },
+    {
+      "prompt": "They risked being caught by {} criminals.",
+      "answer": "murderous",
+      "hint": "凶残的"
+    },
+    {
+      "prompt": "They would have to {} the fact that they could have done more.",
+      "answer": "live with",
+      "hint": "忍受、接受"
+    },
+    {
+      "prompt": "The grass had been short {} by sheep.",
+      "answer": "cropped",
+      "hint": "啃食、修剪"
+    },
+    {
+      "prompt": "Headlights danced on the {} road.",
+      "answer": "rutted",
+      "hint": "有车辙的"
+    },
+    {
+      "prompt": "One drone was combing the {} head.",
+      "answer": "dale",
+      "hint": "山谷"
+    },
+    {
+      "prompt": "The truck was parked at a {} on the edge of the track.",
+      "answer": "slant",
+      "hint": "斜着"
+    },
+    {
+      "prompt": "The truck stood some {} from the farm.",
+      "answer": "way",
+      "hint": "一段距离"
+    },
+    {
+      "prompt": "When she saw the key, Maggie {} dead.",
+      "answer": "stopped",
+      "hint": "猛地停住"
+    },
+    {
+      "prompt": "Driving the truck would {} running, she thought.",
+      "answer": "beat",
+      "hint": "胜过"
+    },
+    {
+      "prompt": "Joel held up his hands, {}ing the argument.",
+      "answer": "anticipat",
+      "hint": "预料"
+    },
+    {
+      "prompt": "The only thing she had driven was the {} at the fair.",
+      "answer": "dodgems",
+      "hint": "碰碰车"
+    },
+    {
+      "prompt": "Maggie {}ed up to the driver's seat.",
+      "answer": "clamber",
+      "hint": "手脚并用地爬"
+    },
+    {
+      "prompt": "Joel headed off, {}ing through the larches.",
+      "answer": "weav",
+      "hint": "迂回穿行"
+    },
+    {
+      "prompt": "His {} of Tom's limp was unmistakable.",
+      "answer": "impersonation",
+      "hint": "模仿、假扮"
+    },
+    {
+      "prompt": "Tom walked with a {} gait.",
+      "answer": "lopsided",
+      "hint": "歪向一边的"
+    },
+    {
+      "prompt": "He {} to the gate where a guard stood.",
+      "answer": "went up",
+      "hint": "径直走到跟前"
+    },
+    {
+      "prompt": "Maggie watched him {} as the sun rose.",
+      "answer": "brazenly",
+      "hint": "明目张胆地"
+    },
+    {
+      "prompt": "Despite the {}ing weight of the truck, steering was light.",
+      "answer": "lumber",
+      "hint": "笨重移动"
+    },
+    {
+      "prompt": "She {} out into the track, facing away from the farm.",
+      "answer": "edged",
+      "hint": "慢慢挪出"
+    },
+    {
+      "prompt": "Joel pulled himself on to the {}.",
+      "answer": "running board",
+      "hint": "车侧踏板"
+    },
+    {
+      "prompt": "\"Fly, Maggie! Get your foot {}!\" shouted Joel.",
+      "answer": "down",
+      "hint": "踩下油门（get your foot down）"
+    },
+    {
+      "prompt": "They knew they could not {} the Land Rovers.",
+      "answer": "outrun",
+      "hint": "跑赢、甩掉"
+    },
+    {
+      "prompt": "The engine began to {} as speed built up.",
+      "answer": "whine",
+      "hint": "呜呜啸叫"
+    },
+    {
+      "prompt": "The {} pedal was so stiff she had to kick it down.",
+      "answer": "clutch",
+      "hint": "离合器"
+    },
+    {
+      "prompt": "The truck {} for seconds while she changed gear.",
+      "answer": "coasted",
+      "hint": "滑行"
+    },
+    {
+      "prompt": "The machine {}ed away like a racehorse.",
+      "answer": "bolt",
+      "hint": "猛地窜出"
+    },
+    {
+      "prompt": "They drove into a small {} of trees.",
+      "answer": "grove",
+      "hint": "小片树林"
+    },
+    {
+      "prompt": "Shots rang out among the {} branches.",
+      "answer": "overhanging",
+      "hint": "悬垂的"
+    },
+    {
+      "prompt": "The Land Rover was on their {} again.",
+      "answer": "tail",
+      "hint": "紧跟在后（on one's tail）"
+    },
+    {
+      "prompt": "Joel stood up, {} exposed, throwing bricks.",
+      "answer": "idiotically",
+      "hint": "愚蠢地"
+    },
+    {
+      "prompt": "She heard a {} of brakes behind them.",
+      "answer": "screech",
+      "hint": "尖啸/急刹声"
+    },
+    {
+      "prompt": "The Land Rover was {} off the road.",
+      "answer": "veering",
+      "hint": "突然转向"
+    },
+    {
+      "prompt": "It came down the bank, {} out of control.",
+      "answer": "careening",
+      "hint": "失控歪斜滑行"
+    },
+    {
+      "prompt": "The van swayed as it rode the {} of the road.",
+      "answer": "lumps",
+      "hint": "颠簸凸起"
+    },
+    {
+      "prompt": "A shot {}ed off the steering column.",
+      "answer": "ricochet",
+      "hint": "跳弹反弹"
+    },
+    {
+      "prompt": "A shot struck the metal {} under the wheel.",
+      "answer": "steering column",
+      "hint": "方向盘立柱"
+    },
+    {
+      "prompt": "She felt the truck {} to one side after a tyre burst.",
+      "answer": "lurch",
+      "hint": "猛地一晃侧倾"
+    }
+  ]
+}

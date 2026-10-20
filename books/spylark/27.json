@@ -1,0 +1,826 @@
+{
+  "id": "27",
+  "title": "Chapter 27",
+  "order": 27,
+  "words": [
+    {
+      "word": "throng",
+      "trans": "n. 一大群人、人群；joined the throng of pedestrians 汇入行人的人群",
+      "ipa": "θrɒŋ",
+      "examples": [
+        "They joined the throng of pedestrians on the high street."
+      ]
+    },
+    {
+      "word": "scrutinise",
+      "trans": "v. 仔细查看、审视",
+      "ipa": "ˈskruːtənaɪz",
+      "examples": [
+        "She scrutinised the map, frowning."
+      ]
+    },
+    {
+      "word": "trudge",
+      "trans": "v. 步履沉重地走、费力跋涉",
+      "ipa": "trʌdʒ",
+      "examples": [
+        "They trudged up the hill, legs heavy as lead."
+      ]
+    },
+    {
+      "word": "sluggishly",
+      "trans": "adv. 慢吞吞地、行动迟缓地",
+      "ipa": "ˈslʌɡɪʃli",
+      "examples": [
+        "The traffic crawled sluggishly through the village."
+      ]
+    },
+    {
+      "word": "pram",
+      "trans": "n.（英式）婴儿手推车",
+      "ipa": "præm",
+      "examples": [
+        "A woman pushed a pram full of shopping bags."
+      ]
+    },
+    {
+      "word": "festooned",
+      "trans": "adj. 挂满装饰物的；balloon-festooned pram 挂满气球的婴儿车",
+      "ipa": "feˈstuːnd",
+      "examples": [
+        "A balloon-festooned pram bobbed along behind its owner."
+      ]
+    },
+    {
+      "word": "hoarsely",
+      "trans": "adv. 嗓音沙哑地、嘶哑地",
+      "ipa": "ˈhɔːsli",
+      "examples": [
+        "'Come back,' he called hoarsely after them."
+      ]
+    },
+    {
+      "word": "slunk",
+      "trans": "v.（slink 过去式）偷偷摸摸走、潜行、畏缩蹲下；slunk down on his haunches 蹲伏下来",
+      "ipa": "slʌŋk",
+      "examples": [
+        "The dog slunk down on his haunches under the table."
+      ]
+    },
+    {
+      "word": "haunches",
+      "trans": "n.（动物的）腰腿、臀部；on one’s haunches 蹲坐",
+      "ipa": "ˈhɔːntʃɪz",
+      "examples": [
+        "The wolf crouched on its haunches, ready to spring."
+      ]
+    },
+    {
+      "word": "a blur of tourists",
+      "trans": "一片熙攘模糊的游客人影",
+      "examples": [
+        "Beyond the window was a blur of tourists and flashing cameras."
+      ]
+    },
+    {
+      "word": "mill around",
+      "trans": "（人群）漫无目的地四处转悠、闲逛走动",
+      "key": "mill around",
+      "examples": [
+        "Crowds milled around outside the station, unsure where to go."
+      ]
+    },
+    {
+      "word": "with their heads in maps and leaflets",
+      "trans": "脑袋埋下去，低头看地图/宣传单",
+      "examples": [
+        "The visitors shuffled past with their heads in maps and leaflets."
+      ]
+    },
+    {
+      "word": "unctuous",
+      "trans": "adj. 油腻的、油滑谄媚的；unctuous body spray 味道浓烈刺鼻的香体喷雾",
+      "ipa": "ˈʌŋktjuəs",
+      "examples": [
+        "He smelt of an unctuous body spray that made her cough."
+      ]
+    },
+    {
+      "word": "smugness",
+      "trans": "n. 沾沾自喜、得意洋洋",
+      "ipa": "ˈsmʌɡnəs",
+      "examples": [
+        "A smile of pure smugness spread across his face."
+      ]
+    },
+    {
+      "word": "plant",
+      "trans": "v. 牢牢安放、重重搁置（动词引申义，非“种植”）；plant one’s feet 双脚稳稳扎在地上、立定站好，带刻意、坚决的姿态",
+      "ipa": "plɑːnt",
+      "examples": [
+        "She planted her feet and refused to move another step."
+      ]
+    },
+    {
+      "word": "blankly",
+      "trans": "adv. 茫然地、面无表情地、眼神空洞地",
+      "ipa": "ˈblæŋkli",
+      "examples": [
+        "He stared blankly at the screen, not understanding a word."
+      ]
+    },
+    {
+      "word": "I could slaughter a burger",
+      "trans": "我超级想吃个汉堡。习语，字面“屠杀”，实际口语表示非常想吃",
+      "examples": [
+        "'I could slaughter a burger,' he groaned, starving."
+      ]
+    },
+    {
+      "word": "tramp",
+      "trans": "v. 重步踩踏、步履沉重地行走；侧重脚步很重、咚咚踩地，不一定累，强调脚步声沉重",
+      "ipa": "træmp",
+      "examples": [
+        "Boots tramped noisily across the wooden floor above them."
+      ]
+    },
+    {
+      "word": "set the pace",
+      "trans": "走在前面把控队伍的快慢，其他人跟着他的脚步",
+      "key": "set the pace",
+      "examples": [
+        "The tall guide set the pace, and the rest struggled to keep up."
+      ]
+    },
+    {
+      "word": "saunter",
+      "trans": "v. 悠闲漫步、闲逛",
+      "ipa": "ˈsɔːntə(r)",
+      "examples": [
+        "He sauntered along the front as if he had nowhere to be."
+      ]
+    },
+    {
+      "word": "clowns",
+      "trans": "n. 小丑；口语指蠢货、笨蛋；those clowns 这帮蠢货",
+      "ipa": "klaʊnz",
+      "examples": [
+        "Those clowns never bother to lock the gate."
+      ]
+    },
+    {
+      "word": "guts",
+      "trans": "n.（复数口语）胆量、勇气；haven’t got the guts 没有胆量",
+      "ipa": "ɡʌts",
+      "examples": [
+        "She hadn't got the guts to tell her parents the truth."
+      ]
+    },
+    {
+      "word": "jackdaw",
+      "trans": "n. 寒鸦",
+      "ipa": "ˈdʒækdɔː",
+      "examples": [
+        "A jackdaw landed on the wall, cocking its grey head."
+      ]
+    },
+    {
+      "word": "mutter",
+      "trans": "v. 低声嘟囔、喃喃自语",
+      "ipa": "ˈmʌtə(r)",
+      "examples": [
+        "He muttered something under his breath about fools."
+      ]
+    },
+    {
+      "word": "the truth will out",
+      "trans": "真相终将大白。固定谚语，out 此处是动词含义“显露出来”，不要按字面“真相会出去”理解",
+      "examples": [
+        "You can lie for now, but the truth will out in the end."
+      ]
+    },
+    {
+      "word": "deciduous",
+      "trans": "adj.（树木）落叶的",
+      "ipa": "dɪˈsɪdʒuəs",
+      "examples": [
+        "In autumn the deciduous trees shed every leaf."
+      ]
+    },
+    {
+      "word": "lichen",
+      "trans": "n. 地衣",
+      "ipa": "ˈlaɪkən",
+      "examples": [
+        "Grey-green lichen spread across the old gravestone."
+      ]
+    },
+    {
+      "word": "beard",
+      "trans": "n. 胡须；（植物）穗状须毛；lichen-bearded branches 垂挂着地衣的树枝",
+      "ipa": "bɪəd",
+      "examples": [
+        "The lichen-bearded branches hung low over the path."
+      ]
+    },
+    {
+      "word": "wizened",
+      "trans": "adj.（人、树木）干枯皱缩的、苍老干瘪的",
+      "ipa": "ˈwɪznd",
+      "examples": [
+        "A wizened old face looked out from under the hood."
+      ]
+    },
+    {
+      "word": "mountain ashes",
+      "trans": "n. 花楸树（别名 rowan）；欧洲山林常见落叶乔木，不是“山上的灰烬”",
+      "ipa": "ˌmaʊntən ˈæʃɪz",
+      "examples": [
+        "The bright berries of the mountain ashes blazed red."
+      ]
+    },
+    {
+      "word": "outcrops",
+      "trans": "n.（复数）（岩石）露出地面的岩层、露头",
+      "ipa": "ˈaʊtkrɒps",
+      "examples": [
+        "Pale outcrops of limestone broke through the heather."
+      ]
+    },
+    {
+      "word": "limestone",
+      "trans": "n. 石灰岩、石灰石",
+      "ipa": "ˈlaɪmstəʊn",
+      "examples": [
+        "The stream ran white with dissolved limestone."
+      ]
+    },
+    {
+      "word": "bark-chip path",
+      "trans": "铺着树皮碎块的林间小径",
+      "examples": [
+        "Their boots made no sound on the soft bark-chip path."
+      ]
+    },
+    {
+      "word": "larches",
+      "trans": "n. 落叶松（复数）",
+      "ipa": "ˈlɑːtʃɪz",
+      "examples": [
+        "Golden larches glowed against the dark pines."
+      ]
+    },
+    {
+      "word": "Scots pines",
+      "trans": "欧洲赤松、苏格兰松",
+      "examples": [
+        "The old Scots pines twisted into strange shapes in the wind."
+      ]
+    },
+    {
+      "word": "resin",
+      "trans": "n. 树脂；resin-scented 散发树脂香气的",
+      "ipa": "ˈrezɪn",
+      "examples": [
+        "The air was thick and resin-scented, warm from the sun."
+      ]
+    },
+    {
+      "word": "eerie",
+      "trans": "adj. 怪异诡异的、令人毛骨悚然的",
+      "ipa": "ˈɪəri",
+      "examples": [
+        "An eerie silence fell over the whole forest."
+      ]
+    },
+    {
+      "word": "bird's-eye view",
+      "trans": "鸟瞰、俯瞰、全局视角。习语，字面“鸟儿眼睛的视角”，实际指居高临下的观察视角",
+      "examples": [
+        "From the cliff top we got a bird's-eye view of the valley."
+      ]
+    },
+    {
+      "word": "stock up on supplies",
+      "trans": "储备物资、采购补给；We need to stock up on food before hiking. 徒步前我们要储备食物",
+      "key": "stock up on",
+      "examples": [
+        "We need to stock up on supplies before the snow closes the pass."
+      ]
+    },
+    {
+      "word": "hover by",
+      "trans": "在……旁边徘徊、逗留",
+      "key": "hover by",
+      "examples": [
+        "A hawk hovered by the treetops, searching for prey."
+      ]
+    },
+    {
+      "word": "growl deep in one's throat",
+      "trans": "（动物）从喉咙深处发出低吼",
+      "examples": [
+        "The dog growled deep in his throat at the stranger."
+      ]
+    },
+    {
+      "word": "bang one's hand on one's forehead",
+      "trans": "用手猛拍额头（夸张假装恍然大悟/懊恼的动作）",
+      "examples": [
+        "He banged his hand on his forehead at his own stupidity."
+      ]
+    },
+    {
+      "word": "keep the tremor out of one's voice",
+      "trans": "不让自己声音发抖，努力稳住声调",
+      "examples": [
+        "She asked the question calmly, keeping the tremor out of her voice."
+      ]
+    },
+    {
+      "word": "spell it out",
+      "trans": "把话说白、明明白白讲出来；Do I have to spell it out for you? 非要我跟你说得明明白白吗",
+      "key": "spell out",
+      "examples": [
+        "Do I have to spell it out for you? The answer is no."
+      ]
+    },
+    {
+      "word": "give away",
+      "trans": "泄露（秘密）、暴露；give away how important it was 暴露它有多重要",
+      "key": "give away",
+      "examples": [
+        "His trembling hands gave away how nervous he was."
+      ]
+    },
+    {
+      "word": "something inside her was about to snap",
+      "trans": "她内心快要绷不住了、快要爆发。snap 这里不是“咔嚓剪断实物”，指情绪、精神绷断失控",
+      "examples": [
+        "The pressure built until something inside her was about to snap."
+      ]
+    },
+    {
+      "word": "pistol fingers",
+      "trans": "比出手枪手势（手指模仿手枪指着别人）",
+      "examples": [
+        "He made pistol fingers and pointed them jokingly at his friend."
+      ]
+    },
+    {
+      "word": "take one's threat seriously",
+      "trans": "认真看待某人的威胁",
+      "examples": [
+        "Nobody seemed to take his threat seriously."
+      ]
+    },
+    {
+      "word": "bound ahead",
+      "trans": "蹦蹦跳跳跑到前面",
+      "key": "bound ahead",
+      "examples": [
+        "The excited children bounded ahead down the trail."
+      ]
+    },
+    {
+      "word": "foaming white cauldrons",
+      "trans": "翻腾白沫如同大锅一般（形容湍急翻涌的水流，cauldron 本义大锅）",
+      "ipa": "ˈkɔːldrənz",
+      "examples": [
+        "The river boiled and churned into foaming white cauldrons."
+      ]
+    },
+    {
+      "word": "trek",
+      "trans": "v. 长途艰难跋涉、徒步远行",
+      "ipa": "trek",
+      "examples": [
+        "They trekked for hours across the open moor."
+      ]
+    },
+    {
+      "word": "coast",
+      "trans": "v.（物体）滑行、滑翔，不靠动力顺势飘行",
+      "ipa": "kəʊst",
+      "examples": [
+        "The cyclist coasted downhill, legs still, no pedalling."
+      ]
+    },
+    {
+      "word": "stride",
+      "trans": "v. 大步流星地走、阔步前行",
+      "ipa": "straɪd",
+      "examples": [
+        "He strode into the room like he owned the place."
+      ]
+    },
+    {
+      "word": "flannel",
+      "trans": "n. 法兰绒、法兰绒布料",
+      "ipa": "ˈflænl",
+      "examples": [
+        "She wore an old checked flannel shirt to keep warm."
+      ]
+    },
+    {
+      "word": "surrender to",
+      "trans": "被……取代、让位给；the ancient deciduous trees surrendered to larches 古老落叶乔木渐渐被落叶松取代",
+      "key": "surrender to",
+      "examples": [
+        "The old deciduous woods gradually surrendered to young larches."
+      ]
+    },
+    {
+      "word": "drifts of dry needles",
+      "trans": "成堆堆积的干枯松针",
+      "examples": [
+        "Their boots sank into deep drifts of dry needles."
+      ]
+    },
+    {
+      "word": "stretch up to",
+      "trans": "一直向上长直到抵达……；树木枝干不断向上伸展",
+      "key": "stretch up to",
+      "examples": [
+        "Tall trunks stretch up to a distant green canopy."
+      ]
+    },
+    {
+      "word": "shut out light and sound",
+      "trans": "挡住、隔绝在外，把光和声阻隔住",
+      "key": "shut out",
+      "examples": [
+        "The thick branches seemed to shut out light and sound."
+      ]
+    },
+    {
+      "word": "trap",
+      "trans": "v. 困住、截留，流体/空气无法向外逃逸；不一定是抓活物，可用于气体、空气",
+      "ipa": "træp",
+      "examples": [
+        "The valley walls trapped the cold air all night."
+      ]
+    },
+    {
+      "word": "drifts of",
+      "trans": "一堆堆、一片片，随风堆积而成的一团团。核心：经风飘落堆积的东西，最经典原义 drifts of snow 一堆积雪，可引申用于落叶、花瓣、松针等轻质物料",
+      "examples": [
+        "Drifts of fallen leaves lined the edges of the road."
+      ]
+    },
+    {
+      "word": "compass",
+      "trans": "n. 指南针、罗盘、圆规",
+      "ipa": "ˈkʌmpəs",
+      "examples": [
+        "She checked the compass to make sure they headed north."
+      ]
+    },
+    {
+      "word": "scramble",
+      "trans": "v.（手脚并用）攀爬、匍匐翻越，跌跌撞撞地艰难行进",
+      "ipa": "ˈskræmbl",
+      "examples": [
+        "They scrambled up the loose rocks on all fours."
+      ]
+    },
+    {
+      "word": "spill out into the open",
+      "trans": "突然冲到开阔地带；spilt（spill 过去式）本意泼洒，这里描写人一下子从树林冲出来",
+      "key": "spill out into",
+      "examples": [
+        "The path suddenly spilled out into the open fell."
+      ]
+    },
+    {
+      "word": "shiver in the breeze",
+      "trans": "在微风中瑟瑟晃动（描写树梢，不是人发抖）",
+      "key": "shiver in the breeze",
+      "examples": [
+        "The slender saplings shivered in the cold breeze."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "We pushed our way through a {} of shoppers.",
+      "answer": "throng",
+      "hint": "一大群人"
+    },
+    {
+      "prompt": "The jeweller {} the diamond for a long time.",
+      "answer": "scrutinised",
+      "hint": "仔细查看、审视"
+    },
+    {
+      "prompt": "After the long march they {} wearily back to camp.",
+      "answer": "trudged",
+      "hint": "步履沉重地走、跋涉"
+    },
+    {
+      "prompt": "The old truck moved {} up the hill.",
+      "answer": "sluggishly",
+      "hint": "慢吞吞地、迟缓地"
+    },
+    {
+      "prompt": "She folded the empty {} and put it in the boot.",
+      "answer": "pram",
+      "hint": "婴儿手推车"
+    },
+    {
+      "prompt": "The stall was {} with lights and coloured ribbons.",
+      "answer": "festooned",
+      "hint": "挂满装饰物的"
+    },
+    {
+      "prompt": "'Leave me alone,' he whispered {}.",
+      "answer": "hoarsely",
+      "hint": "嗓音沙哑地"
+    },
+    {
+      "prompt": "Ashamed, the boy {} out of the room.",
+      "answer": "slunk",
+      "hint": "偷偷走、潜行(slink过去式)"
+    },
+    {
+      "prompt": "The tiger lowered itself onto its {}.",
+      "answer": "haunches",
+      "hint": "（动物）腰腿臀、蹲坐"
+    },
+    {
+      "prompt": "The square was just a {} of umbrellas and raincoats.",
+      "answer": "blur of tourists",
+      "hint": "一片模糊的游客人影"
+    },
+    {
+      "prompt": "Confused delegates {} in the corridor.",
+      "answer": "milled around",
+      "hint": "（人群）漫无目的四处转悠"
+    },
+    {
+      "prompt": "The tourists shuffled along {} instead of looking at the view.",
+      "answer": "with their heads in maps and leaflets",
+      "hint": "低头看地图传单"
+    },
+    {
+      "prompt": "His {} manner made her distrust him at once.",
+      "answer": "unctuous",
+      "hint": "油滑谄媚的"
+    },
+    {
+      "prompt": "He nodded to himself, full of {}.",
+      "answer": "smugness",
+      "hint": "沾沾自喜、得意"
+    },
+    {
+      "prompt": "She {} her feet and faced the crowd.",
+      "answer": "planted",
+      "hint": "（脚）牢牢安放、稳稳扎地"
+    },
+    {
+      "prompt": "The tired student stared {} at the page.",
+      "answer": "blankly",
+      "hint": "茫然、面无表情地"
+    },
+    {
+      "prompt": "'After twelve hours without food, I could {},' he said.",
+      "answer": "slaughter a burger",
+      "hint": "（习语）非常想吃"
+    },
+    {
+      "prompt": "Soldiers {} across the yard in heavy boots.",
+      "answer": "tramped",
+      "hint": "重步踩踏"
+    },
+    {
+      "prompt": "The fastest runner {} and everyone tried to follow.",
+      "answer": "set the pace",
+      "hint": "走在前面把控快慢"
+    },
+    {
+      "prompt": "He {} past the shop windows with his hands in his pockets.",
+      "answer": "sauntered",
+      "hint": "悠闲漫步、闲逛"
+    },
+    {
+      "prompt": "Don't listen to those {} — they know nothing.",
+      "answer": "clowns",
+      "hint": "（口语）蠢货"
+    },
+    {
+      "prompt": "Nobody had the {} to stand up to the bully.",
+      "answer": "guts",
+      "hint": "（口语）胆量、勇气"
+    },
+    {
+      "prompt": "A black-and-grey {} stole a shiny button from the sill.",
+      "answer": "jackdaw",
+      "hint": "寒鸦"
+    },
+    {
+      "prompt": "He {} an apology so quietly no one heard.",
+      "answer": "muttered",
+      "hint": "低声嘟囔"
+    },
+    {
+      "prompt": "You may hide it, but eventually {}.",
+      "answer": "the truth will out",
+      "hint": "真相终将大白"
+    },
+    {
+      "prompt": "Maples are {} and turn brilliant red in October.",
+      "answer": "deciduous",
+      "hint": "（树木）落叶的"
+    },
+    {
+      "prompt": "A crust of pale {} covered the boulder.",
+      "answer": "lichen",
+      "hint": "地衣"
+    },
+    {
+      "prompt": "The old tree's {} branches trailed down to the ground.",
+      "answer": "lichen-bearded",
+      "hint": "垂挂着地衣（须毛）的"
+    },
+    {
+      "prompt": "The {} face of the hermit peered out.",
+      "answer": "wizened",
+      "hint": "干枯皱缩、苍老的"
+    },
+    {
+      "prompt": "In autumn the bright berries of the {} stand out in the hills.",
+      "answer": "mountain ashes",
+      "hint": "花楸树（rowan）"
+    },
+    {
+      "prompt": "Sheep sheltered in the lee of the rocky {}.",
+      "answer": "outcrops",
+      "hint": "（岩石）露头"
+    },
+    {
+      "prompt": "The quarries cut blocks of pale {} from the hill.",
+      "answer": "limestone",
+      "hint": "石灰岩"
+    },
+    {
+      "prompt": "Their footsteps died away on the soft {}.",
+      "answer": "bark-chip path",
+      "hint": "铺树皮碎块的林间小径"
+    },
+    {
+      "prompt": "The sunlight made the {} shine gold in autumn.",
+      "answer": "larches",
+      "hint": "落叶松"
+    },
+    {
+      "prompt": "A stand of ancient {} marked the old estate boundary.",
+      "answer": "Scots pines",
+      "hint": "欧洲赤松、苏格兰松"
+    },
+    {
+      "prompt": "The woods smelled warm and {}.",
+      "answer": "resin-scented",
+      "hint": "散发树脂香气的"
+    },
+    {
+      "prompt": "A {} quiet hung over the empty hall.",
+      "answer": "eerie",
+      "hint": "怪异诡异、毛骨悚然的"
+    },
+    {
+      "prompt": "The drone gave a {} of the whole estate.",
+      "answer": "bird's-eye view",
+      "hint": "鸟瞰、俯瞰视角"
+    },
+    {
+      "prompt": "Before the storm we managed to {} on food and fuel.",
+      "answer": "stock up",
+      "hint": "储备物资补给"
+    },
+    {
+      "prompt": "A dark shape seemed to {} the door for a moment.",
+      "answer": "hover by",
+      "hint": "在旁边徘徊逗留"
+    },
+    {
+      "prompt": "The guard dog {} at the intruder.",
+      "answer": "growled deep in his throat",
+      "hint": "从喉咙深处低吼"
+    },
+    {
+      "prompt": "'I left it there!' he cried, and {} the table.",
+      "answer": "banged his hand on",
+      "hint": "用手猛拍（额头/桌子）"
+    },
+    {
+      "prompt": "She managed to keep the tremor out of her {}.",
+      "answer": "voice",
+      "hint": "不让声音发抖"
+    },
+    {
+      "prompt": "No more hints — let me just {} to you.",
+      "answer": "spell it out",
+      "hint": "把话说白、明明白白讲"
+    },
+    {
+      "prompt": "His blush {} the secret.",
+      "answer": "gave away",
+      "hint": "泄露、暴露"
+    },
+    {
+      "prompt": "Held for hours, she felt {}.",
+      "answer": "something inside her was about to snap",
+      "hint": "内心快要绷不住了"
+    },
+    {
+      "prompt": "He {} at her as a joke.",
+      "answer": "made pistol fingers",
+      "hint": "比出手枪手势"
+    },
+    {
+      "prompt": "The captain chose to {} from now on.",
+      "answer": "take the threat seriously",
+      "hint": "认真对待威胁"
+    },
+    {
+      "prompt": "The puppy {} toward the open gate.",
+      "answer": "bounded ahead",
+      "hint": "蹦蹦跳跳跑到前面"
+    },
+    {
+      "prompt": "The rapids boiled into {} below the weir.",
+      "answer": "foaming white cauldrons",
+      "hint": "翻腾白沫如大锅"
+    },
+    {
+      "prompt": "They {} across the fells for most of the day.",
+      "answer": "trekked",
+      "hint": "长途艰难跋涉"
+    },
+    {
+      "prompt": "The sled {} down the slope and came to rest.",
+      "answer": "coasted",
+      "hint": "滑行、不靠动力飘行"
+    },
+    {
+      "prompt": "She {} out of the car, coat flying.",
+      "answer": "strode",
+      "hint": "大步流星地走"
+    },
+    {
+      "prompt": "He wiped his face with a rough cotton {}.",
+      "answer": "flannel",
+      "hint": "法兰绒（布）"
+    },
+    {
+      "prompt": "Slowly, the native woods {} dense new pine plantations.",
+      "answer": "surrendered to",
+      "hint": "被…取代、让位给"
+    },
+    {
+      "prompt": "The smell of {} rose around them.",
+      "answer": "drifts of dry needles",
+      "hint": "成堆的干枯松针"
+    },
+    {
+      "prompt": "The vines {} the roof of the cottage.",
+      "answer": "stretched up to",
+      "hint": "一直向上伸展抵达"
+    },
+    {
+      "prompt": "Heavy curtains {} the bright afternoon.",
+      "answer": "shut out",
+      "hint": "挡住、隔绝在外"
+    },
+    {
+      "prompt": "The hollow {} warm air in winter.",
+      "answer": "trapped",
+      "hint": "困住、截留"
+    },
+    {
+      "prompt": "The road was lined with {} of cherry blossom.",
+      "answer": "drifts of",
+      "hint": "一堆堆、一片片"
+    },
+    {
+      "prompt": "In the fog they relied on a {} to keep direction.",
+      "answer": "compass",
+      "hint": "指南针、罗盘"
+    },
+    {
+      "prompt": "We {} up the scree to reach the ridge.",
+      "answer": "scrambled",
+      "hint": "手脚并用攀爬翻越"
+    },
+    {
+      "prompt": "The narrow track {} the wide open moor.",
+      "answer": "spilled out into",
+      "hint": "突然冲到开阔地带"
+    },
+    {
+      "prompt": "The tall grasses {} in the evening air.",
+      "answer": "shivered in the breeze",
+      "hint": "在微风中瑟瑟晃动"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "id": "41",
+  "title": "Chapter 41",
+  "order": 41,
+  "words": [
+    {
+      "word": "have enough of",
+      "trans": "短语：对……感到厌烦；受够了（haven't you had enough of...? = 你还没折腾够吗）",
+      "examples": [
+        "What on earth are you doing now? Haven't you had enough of all that?"
+      ],
+      "key": "have enough of"
+    },
+    {
+      "word": "needlessly",
+      "trans": "adv. 不必要地，多此一举地",
+      "examples": [
+        "Maggie gestured needlessly towards the open door."
+      ],
+      "ipa": "ˈniːdləsli"
+    },
+    {
+      "word": "gesture needlessly",
+      "trans": "短语：做了个多余的手势（手势其实没必要做——门本来就开着）",
+      "examples": [
+        "Maggie gestured needlessly towards the open door from where there was a sudden squawking from the magpies across the lawn."
+      ],
+      "key": "gesture needlessly"
+    },
+    {
+      "word": "clenched teeth",
+      "trans": "固定表达：咬紧牙关（clench = 咬紧/攥紧）",
+      "examples": [
+        "'Gotcha!' he said at last, through clenched teeth."
+      ],
+      "ipa": "klentʃt tiːθ",
+      "key": "clenched teeth"
+    },
+    {
+      "word": "through clenched teeth",
+      "trans": "固定表达：咬紧牙关地（说话），形容人紧张、恼火或强忍情绪时挤话出口",
+      "examples": [
+        "'Gotcha!' he said at last, through clenched teeth."
+      ],
+      "key": "through clenched teeth"
+    },
+    {
+      "word": "aft deck",
+      "trans": "n. 船尾甲板（aft = 在船尾）",
+      "examples": [
+        "Twenty minutes later they were all gathered on the aft deck of Matilda."
+      ],
+      "ipa": "ɑːft dek",
+      "key": "aft deck"
+    },
+    {
+      "word": "tongs",
+      "trans": "n. 夹子、钳子（烧烤夹）；英语中常用复数形式 tongs（像 scissors/trousers 一样成对存在）",
+      "examples": [
+        "Jim pointed with a pair of tongs to a basket on the roof of the cabin."
+      ],
+      "ipa": "tɒŋz"
+    },
+    {
+      "word": "roll",
+      "trans": "n. 小圆面包、餐包（不是动词'滚动'！复数 rolls 指一篮子汉堡用的面包）",
+      "examples": [
+        "Here, Maggie, if you bring me those rolls, you can help me put them in."
+      ],
+      "ipa": "rəʊl"
+    },
+    {
+      "word": "if (提议式 if)",
+      "trans": "句式：if you bring me those rolls, you can help me... 这里的 if 不是真实的'条件/因果'（不是：你不拿来就绝对不许帮忙），而是英语口语里常见的提议式 if，不是逻辑条件，是分工邀约——'（要是）你负责把餐包拿过来，那接下来咱们就能一起把它们装进篮子'。本质是把同一件活儿拆成两步：①把 rolls 取来 + ②把 rolls 放进篮子",
+      "examples": [
+        "Here, Maggie, if you bring me those rolls, you can help me put them in."
+      ],
+      "key": "if (提议式 if)"
+    },
+    {
+      "word": "galley",
+      "trans": "n.（船、游艇上的）厨房",
+      "examples": [
+        "Tom scrambled down to the galley to fetch some glasses."
+      ],
+      "ipa": "ˈɡæli"
+    },
+    {
+      "word": "hazel",
+      "trans": "n. 榛木；榛树（hazel 木质地轻韧，适合做手杖）",
+      "examples": [
+        "He'd cut a length of hazel from a tree at the edge of the garden to replace his stick which had been lost in the aqueduct."
+      ],
+      "ipa": "ˈheɪzl"
+    },
+    {
+      "word": "make a fuss of",
+      "trans": "短语：对……小题大做；大肆吹捧/大肆夸赞（make a fuss of sb 把某人当成英雄一样大张旗鼓地夸）",
+      "examples": [
+        "He hoped Jim was not going to make a fuss of him."
+      ],
+      "key": "make a fuss of"
+    },
+    {
+      "word": "normality",
+      "trans": "n. 正常状态（return to normality 回归正常生活）",
+      "examples": [
+        "So far he had been thankful that the return to normality had been exactly that."
+      ],
+      "ipa": "nɔːˈmæləti"
+    },
+    {
+      "word": "wink",
+      "trans": "v. 眨一只眼；使眼色（wink at sb 冲某人挤眼暗示）",
+      "examples": [
+        "When he came back on deck Jim looked at him and winked."
+      ],
+      "ipa": "wɪŋk"
+    },
+    {
+      "word": "from the comfort of + 地点",
+      "trans": "这是英语里很常用的固定句式，不是单纯名词 comfort。from the comfort of (some place) = 不用跑到外面去折腾，舒舒服服待在这个地方就能做成某事（带一点调侃：足不出户却干成了大事）",
+      "examples": [
+        "'All from the comfort of his workshop,' said Maggie, smiling at Tom."
+      ],
+      "key": "from the comfort of + 地点"
+    },
+    {
+      "word": "out on the lake",
+      "trans": "短语：到湖里去了，远离湖岸，在开阔水域那边（out 强调'远离岸边、到了开阔处'）",
+      "examples": [
+        "Out on the lake the Teal was curving through a junior boat race."
+      ],
+      "key": "out on the lake"
+    },
+    {
+      "word": "spinnaker",
+      "trans": "n.（帆船的）大三角帆、球形帆（顺风时张开鼓满风的那面大帆）",
+      "examples": [
+        "...spinnakers ballooning as a dozen mirror dinghies rounded a buoy."
+      ],
+      "ipa": "ˈspɪnəkə(r)"
+    },
+    {
+      "word": "balloon",
+      "trans": "v. 膨胀、鼓起来（此处动词，指船帆张开鼓满风；不是名词'气球'）",
+      "examples": [
+        "...spinnakers ballooning as a dozen mirror dinghies rounded a buoy."
+      ],
+      "ipa": "bəˈluːn"
+    },
+    {
+      "word": "mirror dinghy",
+      "trans": "n. Mirror 型小艇（Mirror 是船型名字，不是'镜子小艇'！背景：Mirror 是英国经典的青少年比赛用小帆船，当年由《Daily Mirror 每日镜报》赞助推出，故名 Mirror，英式湖区少年帆船赛里特别常见，正匹配文中 junior boat race）",
+      "examples": [
+        "...spinnakers ballooning as a dozen mirror dinghies rounded a buoy and started tacking downwind."
+      ],
+      "ipa": "ˈmɪrə ˈdɪŋi",
+      "key": "mirror dinghy"
+    },
+    {
+      "word": "round a buoy",
+      "trans": "短语：绕过浮标（帆船比赛术语'绕标'，round 此处作动词'绕过'）——比赛赛道用浮标当拐点，船要沿规定方向贴着浮标绕过去才算完成这一程。不是'放浮标'，浮标早固定在水里了",
+      "examples": [
+        "...a dozen mirror dinghies rounded a buoy and started tacking downwind."
+      ],
+      "key": "round a buoy"
+    },
+    {
+      "word": "tacking downwind",
+      "trans": "短语：下风侧连续换舷（downwind 顺风方向；tacking downwind 是顺风时来回换舷抢航，不是普通逆风抢风）",
+      "examples": [
+        "...a dozen mirror dinghies rounded a buoy and started tacking downwind."
+      ],
+      "key": "tacking downwind"
+    },
+    {
+      "word": "buoy",
+      "trans": "n. 浮标、航标",
+      "examples": [
+        "...a dozen mirror dinghies rounded a buoy and started tacking downwind."
+      ],
+      "ipa": "bɔɪ"
+    },
+    {
+      "word": "tack",
+      "trans": "v.（帆船）抢风航行、调转风向行驶（船不能直直顺风走，需走'之'字形不断转向）",
+      "examples": [
+        "...and started tacking downwind."
+      ],
+      "ipa": "tæk"
+    },
+    {
+      "word": "by now",
+      "trans": "短语：到这会儿为止、如今（强调时间推移的结果——到当下这个时间点，事情已发生、信息已传到他们耳朵里）。日常口语里 by now 常带一层'我预期/推断'的味道：按时间推算按理说到现在应该已经发生了，我不一定亲眼确认",
+      "examples": [
+        "They all knew by now about his traumatic escape."
+      ],
+      "key": "by now"
+    },
+    {
+      "word": "traumatic",
+      "trans": "adj. 造成精神创伤的、痛苦难忘的",
+      "examples": [
+        "They all knew by now about his traumatic escape through the tunnel of his own worst nightmares."
+      ],
+      "ipa": "trɔːˈmætɪk"
+    },
+    {
+      "word": "smile at sth",
+      "trans": "smile at = 对着……微笑、为某事露出微笑（常常是对某件事/某种局面心生感慨、莞尔一笑）",
+      "examples": [
+        "...he found himself smiling at the way things had worked out."
+      ],
+      "key": "smile at sth"
+    },
+    {
+      "word": "verb + at + the way ...",
+      "trans": "句式：smile / marvel / be shocked + at + the way... 其中 the way 是名词宾语，at 是动词的介词，意思是对【这样一种情形/样子】产生情绪反应（惊叹、微笑、生气等），the way 后接定语从句把情形说清楚。例：He was angry at the way she ignored him. 这个结构在小说里超高频：smile at the way... / marvel at the way... / be shocked at the way...",
+      "examples": [
+        "And with some surprise, he found himself smiling at the way things had worked out."
+      ],
+      "key": "verb + at + the way ..."
+    },
+    {
+      "word": "find oneself doing something",
+      "trans": "短语：不知不觉就……；发现自己正在（做某事）——强调没刻意计划却已然如此",
+      "examples": [
+        "...he found himself smiling at the way things had worked out."
+      ],
+      "key": "find oneself doing something"
+    },
+    {
+      "word": "think what it liked",
+      "trans": "= think whatever it liked：让世人想什么都行、世人爱怎么想就怎么想（liked 是过去式表虚拟，'爱怎么…就怎么'）",
+      "examples": [
+        "Let the world think what it liked about him and Snakey."
+      ],
+      "key": "think what it liked"
+    },
+    {
+      "word": "think (what...) about somebody",
+      "trans": "短语：对某人持有某种看法（think what... about sb = 关于某人心里的想法是……）",
+      "examples": [
+        "Let the world think what it liked about him and Snakey."
+      ],
+      "key": "think (what...) about somebody"
+    },
+    {
+      "word": "minion",
+      "trans": "n. 走狗、爪牙、小跟班（多带贬义，指替坏人办事的手下）",
+      "examples": [
+        "Snakey only ever had minions, and he'd lost those too now."
+      ],
+      "ipa": "ˈmɪniən"
+    },
+    {
+      "word": "not properly",
+      "trans": "短语：算不上真正意义上的、不完全、没做到位",
+      "examples": [
+        "'We haven't caught them, though,' stated Joel. 'Not properly.'"
+      ],
+      "key": "not properly"
+    },
+    {
+      "word": "get away with it",
+      "trans": "习语：做坏事而逃脱惩罚、逍遥法外（get away with sth 侥幸逃脱）",
+      "examples": [
+        "It sounds like they'll get away with it after all!"
+      ],
+      "key": "get away with it"
+    },
+    {
+      "word": "bring ... to justice",
+      "trans": "固定习语：将……绳之以法、使某人受到法律制裁（bring sb to justice）",
+      "examples": [
+        "Containing enough photographic evidence to bring the whole gang to justice."
+      ],
+      "key": "bring ... to justice"
+    },
+    {
+      "word": "though (插入式)",
+      "trans": "用法：'It wasn't, though, was it?' 这里 though 放在逗号之间（..., though, ...），是口语/小说对话常见的插入式写法 = 不过、可是、话说回来。它不是句首 though 也不是句末 though，插在句子中间带来轻微转折，用来缓和语气、引入相反视角。把 though 塞在主谓语之间，是副词 though（和句末那个是同一个词），打断句子带出停顿：'话说回来、可其实'，转折力度不强，不是强对立，只是换个角度看这事",
+      "examples": [
+        "'It wasn't, though, was it?' said Maggie."
+      ],
+      "key": "though (插入式)"
+    },
+    {
+      "word": "track down",
+      "trans": "短语：追查出来、追踪找到；（经过一番搜寻、调查之后）终于找到",
+      "examples": [
+        "If they hadn't tracked us down at the tarn, we would have slept peacefully through the night."
+      ],
+      "key": "track down"
+    },
+    {
+      "word": "scheme of things",
+      "trans": "习语：事物的总体格局、大千世界的整体事态（the big scheme of things 宏大的整体安排）",
+      "examples": [
+        "Even old Snakey had a purpose in the big scheme of things."
+      ],
+      "key": "scheme of things"
+    },
+    {
+      "word": "get to one's feet",
+      "trans": "短语：站起身来（= stand up，但更强调'起身'这个动作过程）",
+      "examples": [
+        "Tom got to his feet now and coughed as if he were about to perform a magic trick."
+      ],
+      "key": "get to one's feet"
+    },
+    {
+      "word": "pincer",
+      "trans": "n. 钳子、夹子（文中 robotic pincers = 机器夹爪，像螃蟹钳一样的抓取装置，常用复数 pincers）",
+      "examples": [
+        "I made some simple robotic pincers and sent Skylark up."
+      ],
+      "ipa": "ˈpɪnsə(r)"
+    },
+    {
+      "word": "cedar",
+      "trans": "n. 雪松、西洋杉",
+      "examples": [
+        "You get so used to them squawking in the cedars, you forget they are there at all."
+      ],
+      "ipa": "ˈsiːdə(r)"
+    },
+    {
+      "word": "after which",
+      "trans": "语法：after which 引导非限定定语从句，which 指代前面整件事（这里指 laughter and applause 笑声和掌声这件事）——'在这之后，Jim 又端上第二轮汉堡'",
+      "examples": [
+        "This was followed by laughter and applause, after which Jim served a second round of burgers and Tom topped up everyone's drinks."
+      ],
+      "key": "after which"
+    },
+    {
+      "word": "serrated",
+      "trans": "adj. 锯齿状的（serrated edges of the high fells = 山脊线如锯齿般参差起伏）",
+      "examples": [
+        "...looked out to where the sky met the serrated edges of the high fells."
+      ],
+      "ipa": "səˈreɪtɪd"
+    },
+    {
+      "word": "ensign",
+      "trans": "n. 舰旗、船旗；军旗。这里指船上悬挂的旗帜。red ensign：红底旗帜，是英国民用船只的船旗",
+      "examples": [
+        "...the red ensign on the stern of Matilda snapped in the clean bright air."
+      ],
+      "ipa": "ˈensən"
+    },
+    {
+      "word": "ricochet",
+      "trans": "v. 反弹、回响；弹射开来（引擎轰鸣声在山壁间来回反弹、回荡）",
+      "examples": [
+        "...the surge of their engines ricocheting from the mountain walls and filling the air."
+      ],
+      "ipa": "ˈrɪkəʃeɪ"
+    },
+    {
+      "word": "diamond",
+      "trans": "n. 菱形编队（飞行表演术语，九架飞机排成菱形队形）",
+      "examples": [
+        "...the planes tilted on to their sides and formed a perfect diamond."
+      ],
+      "ipa": "ˈdaɪəmənd"
+    },
+    {
+      "word": "horseshoe",
+      "trans": "n. 马蹄形；U 形物（horseshoe of fells = 环抱如马蹄形的山峦）",
+      "examples": [
+        "...disappeared over the horseshoe of fells to the north for a moment."
+      ],
+      "ipa": "ˈhɔːʃʃuː"
+    },
+    {
+      "word": "corkscrew",
+      "trans": "v. 螺旋式盘旋飞行（像开瓶钻一样螺旋前进、边转边移动）",
+      "examples": [
+        "...roaring over their heads, corkscrewing south, red, white and blue smoke trails drifting over the water."
+      ],
+      "ipa": "ˈkɔːkskruː"
+    },
+    {
+      "word": "diminish",
+      "trans": "v. 逐渐变小、减弱；降低；（贬低某人）贬低（diminishing dots = 越飞越远越来越小的飞机光点）",
+      "examples": [
+        "...all eyes followed the diminishing dots as they passed over the islands."
+      ],
+      "ipa": "dɪˈmɪnɪʃ"
+    },
+    {
+      "word": "unison",
+      "trans": "n. 一致、齐声。in unison（最常用固定搭配）= 一齐、同步、异口同声（字面'同一个音调'，引申大家一起做同一件事）",
+      "examples": [
+        "Heads moved in unison with the jets as they formed a new shape."
+      ],
+      "ipa": "ˈjuːnɪsn",
+      "key": "in unison"
+    },
+    {
+      "word": "loop",
+      "trans": "n.（飞行）筋斗、翻圈动作（飞机在垂直面内画一个完整圆圈）",
+      "examples": [
+        "'Blackbird loop,' said Tom."
+      ],
+      "ipa": "luːp"
+    },
+    {
+      "word": "carousel",
+      "trans": "n. 旋转木马；这里是特技动作名字'木马对冲'——两架飞机看似相距仅几英尺迎面交错掠过",
+      "examples": [
+        "'Carousel,' said Tom, as two planes passed each other at what looked like a few feet apart."
+      ],
+      "ipa": "ˌkærəˈsel"
+    },
+    {
+      "word": "champagne split",
+      "trans": "短语：香槟开花（特技名字，虚构命名）。解释：飞机垂直向上冲顶，然后向四面八方散开，像开香槟时泡沫四散炸开",
+      "examples": [
+        "'Champagne split,' he explained as the jets hammered up to vertical, then down and split in all directions."
+      ],
+      "key": "champagne split"
+    },
+    {
+      "word": "inverted barrel roll",
+      "trans": "n. 倒飞桶滚（inverted 倒扣着飞 + barrel roll 桶滚：机身沿轴翻滚）飞行特技",
+      "examples": [
+        "Two of them fly an inverted barrel roll with three others in formation."
+      ],
+      "ipa": "ɪnˈvɜːtɪd ˈbærəl rəʊl",
+      "key": "inverted barrel roll"
+    },
+    {
+      "word": "minus-G",
+      "trans": "n. 负重力、负 G 力（航空术语，失重类过载——飞行员会感到身体被往上'抛'出座椅，非常难受）",
+      "examples": [
+        "The minus G will be terrible in there."
+      ],
+      "ipa": "ˈmaɪnəs dʒiː"
+    },
+    {
+      "word": "prime position",
+      "trans": "短语：绝佳位置、黄金位置（prime = 最好的、首要的）",
+      "examples": [
+        "The houseboat was in prime position for the display."
+      ],
+      "key": "prime position"
+    },
+    {
+      "word": "bob",
+      "trans": "v.（物体）上下快速轻轻晃动、起伏颠簸。解释：一般指浮在水面上的东西随水波一上一下",
+      "examples": [
+        "Out on the lake, yachts bobbed about, their sails flapping as every eye looked skyward."
+      ],
+      "ipa": "bɒb"
+    },
+    {
+      "word": "heart and spear",
+      "trans": "短语：心与矛（特技拉烟造型名称，红箭飞行表演经典动作）。解释：两架飞机拉烟画出一个爱心 heart；第三架拖着烟高速穿过爱心，像一支长矛 spear 刺穿它，故名 heart and spear",
+      "examples": [
+        "They're getting ready for the heart and spear."
+      ],
+      "key": "heart and spear"
+    },
+    {
+      "word": "half-loop",
+      "trans": "n. 半筋斗、半圈翻转（半个 loop，飞机翻转半圈改变航向）",
+      "examples": [
+        "Two of them will do a half-loop with smoke to form a heart."
+      ],
+      "ipa": "hɑːf luːp"
+    },
+    {
+      "word": "shade one's eyes",
+      "trans": "固定短语：用手遮挡眼睛（挡阳光）（shade 作动词，用掌心在额前搭凉棚）",
+      "examples": [
+        "Everyone on the deck of Matilda had their hands on their foreheads to shade their eyes from the sun."
+      ],
+      "key": "shade one's eyes"
+    },
+    {
+      "word": "dispersed",
+      "trans": "adj. 散开的、分散的（disperse 分散、四散）",
+      "examples": [
+        "Eight of the Red Arrows had dispersed over the mountains."
+      ],
+      "ipa": "dɪˈspɜːst"
+    },
+    {
+      "word": "soak up",
+      "trans": "短语：吸收、吸纳（像海绵吸水一样；文中天空像海绵一样吸走最后几缕烟）",
+      "examples": [
+        "Tom caught Maggie's eye and they watched the sky soak up the last wisps of smoke like a sponge."
+      ],
+      "key": "soak up"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "What on earth are you doing now? Haven't you {} of all that?",
+      "answer": "had enough",
+      "hint": "受够了——have enough of 对……感到厌烦"
+    },
+    {
+      "prompt": "Maggie {} towards the open door from where there was a sudden squawking from the magpies.",
+      "answer": "gestured needlessly",
+      "hint": "做了个多余的手势——needlessly 多此一举地"
+    },
+    {
+      "prompt": "'Gotcha!' he said at last, {}.",
+      "answer": "through clenched teeth",
+      "hint": "咬紧牙关地（clench one's teeth 咬紧牙关）"
+    },
+    {
+      "prompt": "Twenty minutes later they were all gathered on the {} of Matilda.",
+      "answer": "aft deck",
+      "hint": "船尾甲板"
+    },
+    {
+      "prompt": "Jim pointed with a pair of {} to a basket on the roof of the cabin.",
+      "answer": "tongs",
+      "hint": "夹子、钳子（烧烤夹，常用复数）"
+    },
+    {
+      "prompt": "Here, Maggie, if you bring me those {}, you can help me put them in.",
+      "answer": "rolls",
+      "hint": "餐包、小圆面包（roll 此处名词，非动词'滚动'）"
+    },
+    {
+      "prompt": "Tom scrambled down to the {} to fetch some glasses.",
+      "answer": "galley",
+      "hint": "（船上的）厨房"
+    },
+    {
+      "prompt": "He'd cut a length of {} from a tree at the edge of the garden to replace his stick.",
+      "answer": "hazel",
+      "hint": "榛木、榛树"
+    },
+    {
+      "prompt": "He hoped Jim was not going to {} him.",
+      "answer": "make a fuss of",
+      "hint": "对……小题大做、大肆夸赞"
+    },
+    {
+      "prompt": "So far he had been thankful that the return to {} had been exactly that.",
+      "answer": "normality",
+      "hint": "正常状态（回归正常生活）"
+    },
+    {
+      "prompt": "When he came back on deck Jim looked at him and {}.",
+      "answer": "winked",
+      "hint": "眨一只眼、使眼色"
+    },
+    {
+      "prompt": "'All from the {} his workshop,' said Maggie, smiling at Tom.",
+      "answer": "comfort of",
+      "hint": "from the comfort of 舒舒服服待在……就能（做成某事）"
+    },
+    {
+      "prompt": "Out on the lake the Teal was curving through a junior boat race, {} as a dozen mirror dinghies rounded a buoy.",
+      "answer": "spinnakers ballooning",
+      "hint": "大三角帆鼓胀起来（balloon 此处动词'膨胀鼓起'）"
+    },
+    {
+      "prompt": "...a dozen {} rounded a buoy and started tacking downwind.",
+      "answer": "mirror dinghies",
+      "hint": "Mirror 型小艇（Mirror 是船型名，非'镜子'）"
+    },
+    {
+      "prompt": "...a dozen mirror dinghies {} a buoy and started tacking downwind.",
+      "answer": "rounded",
+      "hint": "round a buoy 绕过浮标（round 动词'绕过'）"
+    },
+    {
+      "prompt": "They all knew {} about his traumatic escape through the tunnel of his own worst nightmares.",
+      "answer": "by now",
+      "hint": "到这会儿为止——按时间推算'到现在应该已经'"
+    },
+    {
+      "prompt": "They all knew by now about his {} escape through the tunnel of his own worst nightmares.",
+      "answer": "traumatic",
+      "hint": "造成精神创伤的、痛苦难忘的"
+    },
+    {
+      "prompt": "And with some surprise, he {} smiling at the way things had worked out.",
+      "answer": "found himself",
+      "hint": "find oneself doing 不知不觉就……、发现自己正……"
+    },
+    {
+      "prompt": "Let the world {} about him and Snakey.",
+      "answer": "think what it liked",
+      "hint": "=think whatever it liked 世人爱怎么想就怎么想"
+    },
+    {
+      "prompt": "Snakey only ever had {}, and he'd lost those too now.",
+      "answer": "minions",
+      "hint": "走狗、爪牙、小跟班"
+    },
+    {
+      "prompt": "'We haven't caught them, though,' stated Joel. 'Not {}.'",
+      "answer": "properly",
+      "hint": "not properly 算不上真正意义上的、不完全"
+    },
+    {
+      "prompt": "It sounds like they'll {} after all!",
+      "answer": "get away with it",
+      "hint": "逃脱惩罚、逍遥法外"
+    },
+    {
+      "prompt": "Containing enough photographic evidence to bring the whole gang {}.",
+      "answer": "to justice",
+      "hint": "bring ... to justice 将……绳之以法"
+    },
+    {
+      "prompt": "'It wasn't, {}, was it?' said Maggie.",
+      "answer": "though",
+      "hint": "插入式 though：不过、话说回来（主谓间轻转折）"
+    },
+    {
+      "prompt": "If they hadn't {} us down at the tarn, we would have slept peacefully through the night.",
+      "answer": "tracked",
+      "hint": "track down 追查出来、追踪找到"
+    },
+    {
+      "prompt": "Even old Snakey had a purpose in the big {} , said Jim.",
+      "answer": "scheme of things",
+      "hint": "事物的总体格局、大千世界（the big scheme of things）"
+    },
+    {
+      "prompt": "Tom {} now and coughed as if he were about to perform a magic trick.",
+      "answer": "got to his feet",
+      "hint": "get to one's feet 站起身来"
+    },
+    {
+      "prompt": "I made some simple robotic {} and sent Skylark up.",
+      "answer": "pincers",
+      "hint": "钳子、机器夹爪（pincer）"
+    },
+    {
+      "prompt": "You get so used to them squawking in the {}, you forget they are there at all.",
+      "answer": "cedars",
+      "hint": "雪松、西洋杉（cedar）"
+    },
+    {
+      "prompt": "This was followed by laughter and applause, {} Jim served a second round of burgers.",
+      "answer": "after which",
+      "hint": "after which 引导非限定定语从句，which 指代前面整件事"
+    },
+    {
+      "prompt": "...looked out to where the sky met the {} edges of the high fells.",
+      "answer": "serrated",
+      "hint": "锯齿状的（山脊如锯齿般参差）"
+    },
+    {
+      "prompt": "...the red {} on the stern of Matilda snapped in the clean bright air.",
+      "answer": "ensign",
+      "hint": "船旗（red ensign 英国民用船的红船旗）"
+    },
+    {
+      "prompt": "...the surge of their engines {} from the mountain walls and filling the air.",
+      "answer": "ricocheting",
+      "hint": "ricochet 反弹、回响（轰鸣在山壁间反弹回荡）"
+    },
+    {
+      "prompt": "...the planes tilted on to their sides and formed a perfect {}, which tracked the length of the northern end of the lake.",
+      "answer": "diamond",
+      "hint": "菱形编队（diamond 飞行术语）"
+    },
+    {
+      "prompt": "...disappeared over the {} of fells to the north for a moment.",
+      "answer": "horseshoe",
+      "hint": "马蹄形、U 形（horseshoe of fells 环抱如马蹄的山峦）"
+    },
+    {
+      "prompt": "...roaring over their heads, {} south, red, white and blue smoke trails drifting over the water.",
+      "answer": "corkscrewing",
+      "hint": "螺旋式盘旋飞行（corkscrew 像开瓶钻般螺旋前进）"
+    },
+    {
+      "prompt": "...all eyes followed the {} dots as they passed over the islands at Birthwaite Bay.",
+      "answer": "diminishing",
+      "hint": "逐渐变小的（diminish 减小、减弱）"
+    },
+    {
+      "prompt": "Heads moved in {} with the jets as they formed a new shape and began to climb.",
+      "answer": "unison",
+      "hint": "in unison 一齐、同步、异口同声"
+    },
+    {
+      "prompt": "'Blackbird {},' said Tom. 'Watch, they're coming back.'",
+      "answer": "loop",
+      "hint": "（飞行）筋斗、翻圈（loop）"
+    },
+    {
+      "prompt": "'{},' said Tom, as two planes passed each other at what looked like a few feet apart.",
+      "answer": "Carousel",
+      "hint": "旋转木马；此处特技名'木马对冲'（carousel）"
+    },
+    {
+      "prompt": "'{},' he explained as the jets hammered up to vertical, then down and split in all directions.",
+      "answer": "Champagne split",
+      "hint": "香槟开花（垂直冲顶后向四面八方散开如开香槟）"
+    },
+    {
+      "prompt": "Two of them fly an {} with three others in formation.",
+      "answer": "inverted barrel roll",
+      "hint": "倒飞桶滚（inverted barrel roll 飞行特技）"
+    },
+    {
+      "prompt": "The {} will be terrible in there.",
+      "answer": "minus G",
+      "hint": "负重力、负 G 力（minus-G 航空术语）"
+    },
+    {
+      "prompt": "The houseboat was in {} for the display.",
+      "answer": "prime position",
+      "hint": "绝佳位置、黄金位置（prime position）"
+    },
+    {
+      "prompt": "Out on the lake, yachts {} about, their sails flapping as every eye looked skyward.",
+      "answer": "bobbed",
+      "hint": "bob（物体）上下轻轻晃动、起伏颠簸"
+    },
+    {
+      "prompt": "Two of them will do a {} with smoke to form a heart.",
+      "answer": "half-loop",
+      "hint": "半筋斗（half-loop 半圈翻转）"
+    },
+    {
+      "prompt": "Everyone on the deck had their hands on their foreheads to {} from the sun.",
+      "answer": "shade their eyes",
+      "hint": "shade one's eyes 用手遮挡眼睛挡阳光"
+    },
+    {
+      "prompt": "Eight of the Red Arrows had {} over the mountains.",
+      "answer": "dispersed",
+      "hint": "散开的、分散的（disperse）"
+    },
+    {
+      "prompt": "They watched the sky {} the last wisps of smoke like a sponge.",
+      "answer": "soak up",
+      "hint": "soak up 吸收、吸纳（像海绵吸水）"
+    }
+  ]
+}

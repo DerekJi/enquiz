@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "shot-putter",
+      "trans": "n. 铅球运动员",
       "ipa": "ˈʃɒt pʊtə(r)",
       "examples": [
         "He let out a roar like a shot-putter.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "gulping",
+      "trans": "adj. 大口吞咽的；咕嘟吞咽的",
       "ipa": "ˈɡʌlpɪŋ",
       "examples": [
         "The water just made a gulping sound.",
@@ -21,6 +23,7 @@
     },
     {
       "word": "heave",
+      "trans": "v.（用全身力气）猛扔、猛甩；用力举起重物抛出",
       "ipa": "hiːv",
       "examples": [
         "He heaved the rock as far as he could.",
@@ -29,6 +32,7 @@
     },
     {
       "word": "jittery",
+      "trans": "adj. 紧张不安的；心神不宁的；神经紧绷的",
       "ipa": "ˈdʒɪtəri",
       "examples": [
         "His muscles ached from working tense and jittery.",
@@ -37,6 +41,7 @@
     },
     {
       "word": "have something to show for it",
+      "trans": "忙活之后拿得出手的成果、收获。潜台词：付出了大量辛苦，期待更好回报，但现实结果却糟糕、很不值",
       "examples": [
         "All he had to show for it was the power to prick someone.",
         "I worked all summer but had nothing to show for it."
@@ -44,6 +49,7 @@
     },
     {
       "word": "get hold of",
+      "trans": "1.弄到、设法搞到（物品、材料）——不是随手能拿到，需想办法费周折  2.抓住、逮住某人；握住",
       "examples": [
         "Unless he could get hold of some anaesthetic.",
         "Can you get hold of a spare key?"
@@ -51,6 +57,7 @@
     },
     {
       "word": "raft",
+      "trans": "v. 随水流漂浮、顺流漂行；乘筏漂流  n. 木筏，筏子",
       "ipa": "rɑːft",
       "examples": [
         "Weightless insects rafted across the current.",
@@ -59,6 +66,7 @@
     },
     {
       "word": "mind-boggling",
+      "trans": "adj. 令人难以置信的；烧脑的；大到/怪到让人脑子转不过来的",
       "ipa": "ˈmaɪnd bɒɡlɪŋ",
       "examples": [
         "The mind-boggling power of the river.",
@@ -67,6 +75,7 @@
     },
     {
       "word": "one's mind boggles",
+      "trans": "脑子都懵了，简直匪夷所思。核心：外界事物太离奇、太复杂、超出常规，让我感到震惊、无法理解，主语心智被外来信息冲击，不是自己累、分心",
       "examples": [
         "My mind boggles at the money they spent.",
         "It makes your mind boggle how anyone could believe that."
@@ -74,6 +83,7 @@
     },
     {
       "word": "engrave",
+      "trans": "v. 雕刻；刻凿；深深留下印记",
       "ipa": "ɪnˈɡreɪv",
       "examples": [
         "The river had engraved its course in the valley.",
@@ -82,6 +92,7 @@
     },
     {
       "word": "course",
+      "trans": "n.（水流的）路径、走向；河道；进程",
       "ipa": "kɔːs",
       "examples": [
         "The water that had engraved its course.",
@@ -90,6 +101,7 @@
     },
     {
       "word": "engrave its course",
+      "trans": "（水流长年冲刷）刻凿出它的河道，冲刷雕琢出水流行进的路径",
       "examples": [
         "The stream slowly engraved its course.",
         "Over time the river engraves its course."
@@ -97,6 +109,7 @@
     },
     {
       "word": "immense",
+      "trans": "adj. 巨大的；无比强烈的；浩瀚的",
       "ipa": "ɪˈmens",
       "examples": [
         "This moment seemed so immense right now.",
@@ -105,6 +118,7 @@
     },
     {
       "word": "snuffle",
+      "trans": "持续地、反复用鼻子嗅，发出呼哧的声响（持续动作，常用来写狗）",
       "examples": [
         "He felt Archie snuffling around his feet.",
         "The dog snuffled at the door."
@@ -112,6 +126,7 @@
     },
     {
       "word": "dangle",
+      "trans": "v. 悬垂，晃来晃去地吊着；垂在那里来回摇摆",
       "ipa": "ˈdæŋɡl",
       "examples": [
         "She was dangling her feet in the water.",
@@ -120,6 +135,7 @@
     },
     {
       "word": "hard",
+      "trans": "adj.（人的面部、神情）冷峻的，面无表情、神色强硬",
       "ipa": "hɑːd",
       "examples": [
         "She glanced over, and her face was hard.",
@@ -128,6 +144,7 @@
     },
     {
       "word": "swig",
+      "trans": "n. 一大口（饮品）  v. 大口猛喝",
       "ipa": "swɪɡ",
       "examples": [
         "He was about to take a swig of coffee.",
@@ -136,6 +153,7 @@
     },
     {
       "word": "odd",
+      "trans": "adj. 零散的，临时的，非固定的",
       "ipa": "ɒd",
       "examples": [
         "He works as a handyman, doing odd jobs.",
@@ -144,6 +162,7 @@
     },
     {
       "word": "odd jobs",
+      "trans": "固定复数短语：零活、杂活、临时零碎差事（描述手工、维修、体力零碎活）",
       "examples": [
         "He was doing odd jobs, fixing things.",
         "She does odd jobs to earn cash."
@@ -151,6 +170,7 @@
     },
     {
       "word": "shipshape",
+      "trans": "adj. 井然有序的；收拾妥当、状态完好（不只是整洁，还包含设备完好、一切正常可用，随时待命）",
       "ipa": "ˈʃɪpʃeɪp",
       "examples": [
         "Keeping things shipshape is what he calls it.",
@@ -159,6 +179,7 @@
     },
     {
       "word": "shipshape and Bristol fashion",
+      "trans": "万事妥当（shipshape and Bristol fashion，布里斯托尔是英国老牌大港）",
       "examples": [
         "He left the boat shipshape and Bristol fashion.",
         "By midnight the kitchen was shipshape and Bristol fashion."
@@ -166,6 +187,7 @@
     },
     {
       "word": "rumour got round",
+      "trans": "流言传开、消息四处流传",
       "examples": [
         "Somehow a rumour got round about me.",
         "Word soon got round that the factory was closing."
@@ -173,6 +195,7 @@
     },
     {
       "word": "a clump of",
+      "trans": "一丛",
       "examples": [
         "He was watching a clump of dried grasses.",
         "A clump of trees marked the bend."
@@ -180,6 +203,7 @@
     },
     {
       "word": "one lunchtime",
+      "trans": "有一天午饭的时候。英式小说、口语里非常地道，名词短语直接作时间状语，不需要介词（in/on）",
       "examples": [
         "Jim came in one lunchtime and found me.",
         "One lunchtime she walked out and never came back."
@@ -187,6 +211,7 @@
     },
     {
       "word": "bandit",
+      "trans": "n. 土匪，强盗，歹徒（多指结伙、在偏远地区劫掠的人）",
       "ipa": "ˈbændɪt",
       "examples": [
         "Some bandits broke into their house.",
@@ -195,6 +220,7 @@
     },
     {
       "word": "ransack",
+      "trans": "v. 洗劫；翻箱倒柜大肆搜寻",
       "ipa": "ˈrænsæk",
       "examples": [
         "They ransacked the place.",
@@ -203,6 +229,7 @@
     },
     {
       "word": "round somebody up",
+      "trans": "1.（警方）搜捕、围捕、捉拿（嫌疑人、匪徒）  2.普通场景把人/动物聚拢、召集到一块儿",
       "examples": [
         "The police rounded some of them up.",
         "He rounded up all the children."
@@ -210,6 +237,7 @@
     },
     {
       "word": "dull",
+      "trans": "adj.（景色）单调乏味的，灰暗没有生机；暗淡",
       "ipa": "dʌl",
       "examples": [
         "The landscape below was dull and flat.",
@@ -218,6 +246,7 @@
     },
     {
       "word": "flat",
+      "trans": "adj. 地势平坦，没有起伏",
       "ipa": "flæt",
       "examples": [
         "The landscape was dull and flat.",
@@ -226,6 +255,7 @@
     },
     {
       "word": "get hooked on",
+      "trans": "固定习语：对……着迷、上头、上瘾",
       "examples": [
         "I could get hooked on this!",
         "He got hooked on collecting stamps."
@@ -233,6 +263,7 @@
     },
     {
       "word": "trickle",
+      "trans": "v. 细细地流淌；一滴滴缓缓往下流",
       "ipa": "ˈtrɪkl",
       "examples": [
         "Sweat trickled down his neck.",
@@ -241,6 +272,7 @@
     },
     {
       "word": "agonized",
+      "trans": "adj. 痛苦的；煎熬的；万分紧张焦灼的",
       "ipa": "ˈæɡənaɪzd",
       "examples": [
         "They held the drones, agonized looks on their faces.",

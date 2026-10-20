@@ -5,15 +5,17 @@
   "words": [
     {
       "word": "puff out",
+      "trans": "鼓起（脸颊、胸膛），把…吹得鼓起来（puff out one’s cheeks 鼓起腮帮子；puff out one’s chest 挺起胸膛、昂首挺胸，表示骄傲）",
       "ipa": "pʌf aʊt",
+      "key": "puff out",
       "examples": [
         "Joel puffed out his cheeks.",
         "He puffed out his chest proudly after winning the race."
-      ],
-      "key": "puff out"
+      ]
     },
     {
       "word": "TV presenter",
+      "trans": "电视主持人；电视节目主播",
       "examples": [
         "Not TV presenters and football players.",
         "She works as a TV presenter on the evening news."
@@ -21,22 +23,25 @@
     },
     {
       "word": "reach for",
+      "trans": "伸手去拿；伸手够到",
+      "key": "reach for",
       "examples": [
         "Joel reached for the laptop.",
         "She reached for the book on the top shelf."
-      ],
-      "key": "reach for"
+      ]
     },
     {
       "word": "tap away at",
+      "trans": "不停地敲击（键盘）",
+      "key": "tap away at",
       "examples": [
         "Joel tapped away at the computer.",
         "He sat tapping away at his keyboard long after everyone had gone."
-      ],
-      "key": "tap away at"
+      ]
     },
     {
       "word": "It's a pity (that)",
+      "trans": "……真是可惜",
       "examples": [
         "Ah, pity, there's no local address.",
         "It's a pity that you missed the concert last night."
@@ -44,6 +49,7 @@
     },
     {
       "word": "good call",
+      "trans": "名词短语（口语，澳/美非常常用）好主意；说得对；这判断很不错",
       "examples": [
         "'Good call,' said Joel. 'Let's try good old Google.'",
         "Choosing the quieter road was a good call — we avoided the jam."
@@ -51,6 +57,7 @@
     },
     {
       "word": "good old",
+      "trans": "固定口语短语（英式、澳式常用）。good old + 名词：指大家熟悉、信得过、靠谱的老熟人/老工具，带亲切感、怀旧感，不是“又好又老”的字面意思",
       "examples": [
         "Let's try good old Google.",
         "Nothing beats a good old cup of tea on a cold day."
@@ -58,6 +65,7 @@
     },
     {
       "word": "here we go",
+      "trans": "1. 找到想要的东西/得到结果（Here we go! I found it. 找到了！）；2. 要开始做一件事（来吧，我们开始）；3. 事情发生了，略带无奈（哦又来了，他又开始吵架了）",
       "examples": [
         "Here we go. Not just an ice cream van, but an ice cream company.",
         "Here we go, the lesson starts now."
@@ -65,14 +73,16 @@
     },
     {
       "word": "bring up",
+      "trans": "调出；显示出（页面、图片、文件）。电脑、浏览器、搜索引擎把内容加载、展示出来",
+      "key": "bring up",
       "examples": [
         "A few moments later he brought up the face of ponytail man.",
         "I'll bring up the report on the screen so everyone can see."
-      ],
-      "key": "bring up"
+      ]
     },
     {
       "word": "khaki",
+      "trans": "adj. 卡其色的；土黄色的  n. 卡其布；卡其色",
       "ipa": "ˈkɑːki",
       "examples": [
         "The man was wearing full khaki combat gear.",
@@ -81,6 +91,7 @@
     },
     {
       "word": "combat gear",
+      "trans": "固定搭配：作战装备、战斗服",
       "examples": [
         "Ponytail man was wearing full khaki combat gear.",
         "The soldiers were inspected in full combat gear before the mission."
@@ -88,6 +99,7 @@
     },
     {
       "word": "middle of nowhere",
+      "trans": "固定习语，偏僻荒凉、前不着村后不着店的地方",
       "examples": [
         "It's north of here. Middle of nowhere, really.",
         "The old farmhouse is out in the middle of nowhere, miles from any shop."
@@ -95,6 +107,7 @@
     },
     {
       "word": "hotchpotch",
+      "trans": "n. 大杂烩；五花八门混杂在一起的一堆东西",
       "ipa": "ˈhɒtʃpɒtʃ",
       "examples": [
         "They hunched together to look at the hotchpotch of faces and pictures.",
@@ -103,6 +116,7 @@
     },
     {
       "word": "banjo",
+      "trans": "n. 班卓琴（一种弦乐器，圆形琴身、长琴颈，乡村/民谣常用）",
       "ipa": "ˈbændʒəʊ",
       "examples": [
         "An old man with a long beard sat playing a banjo surrounded by hay bales.",
@@ -111,6 +125,7 @@
     },
     {
       "word": "hay bale",
+      "trans": "n. 干草捆（把干草压紧捆成一大捆，农场用来喂牲畜）",
       "ipa": "heɪ beɪl",
       "examples": [
         "An old man played a banjo surrounded by hay bales.",
@@ -119,14 +134,16 @@
     },
     {
       "word": "be greeted by",
+      "trans": "（打开页面、走进某地）眼前看到、撞见、映入眼帘",
+      "key": "be greeted by",
       "examples": [
         "Joel clicked to a second page, to be greeted by banjo man again.",
         "Opening the door, she was greeted by a cloud of warm air."
-      ],
-      "key": "be greeted by"
+      ]
     },
     {
       "word": "grainy",
+      "trans": "adj.（照片、视频）颗粒感重的；有噪点的；模糊粗糙的。词根 grain 颗粒→grainy 布满颗粒的",
       "ipa": "ˈɡreɪni",
       "examples": [
         "He leant close to look at the grainy face staring back at him.",
@@ -135,6 +152,7 @@
     },
     {
       "word": "suntan",
+      "trans": "n. 晒黑的肤色；晒出来的古铜色皮肤",
       "ipa": "ˈsʌntæn",
       "examples": [
         "Look at their suntans, the dust at their feet – not grass.",
@@ -143,6 +161,7 @@
     },
     {
       "word": "here we are",
+      "trans": "1. 找到了；就是这儿  2. 我们到了",
       "examples": [
         "Yes, here we are . . . it's the emblem of the Royal Signals.",
         "Here we are at last — the station is just ahead."
@@ -150,6 +169,7 @@
     },
     {
       "word": "emblem",
+      "trans": "n. 徽章；标志；纹章；象征",
       "ipa": "ˈembləm",
       "examples": [
         "It's the emblem of the Royal Signals.",
@@ -158,6 +178,7 @@
     },
     {
       "word": "triumph",
+      "trans": "n. 胜利；大获成功；凯旋  v. 战胜；取得辉煌胜利",
       "ipa": "ˈtraɪʌmf",
       "examples": [
         "He said with a note of triumph, 'Our Mr Clay is an expert in electronic warfare.'",
@@ -166,6 +187,7 @@
     },
     {
       "word": "electronic warfare",
+      "trans": "名词短语：电子战",
       "ipa": "ɪˌlekˈtrɒnɪk ˈwɔːfeə(r)",
       "examples": [
         "Our Mr Clay is an expert in electronic warfare.",
@@ -174,6 +196,7 @@
     },
     {
       "word": "windowsill",
+      "trans": "n. 窗台；窗沿",
       "ipa": "ˈwɪndəʊsɪl",
       "examples": [
         "I've put it on the kitchen windowsill to dry in the sun.",
@@ -182,6 +205,7 @@
     },
     {
       "word": "squawk",
+      "trans": "v.（鸟）嘎嘎尖叫；尖声大叫  n. 刺耳的嘎嘎叫声",
       "ipa": "skwɔːk",
       "examples": [
         "A loud crash was followed by the squawk and fluttering of a startled bird.",
@@ -190,6 +214,7 @@
     },
     {
       "word": "jagged",
+      "trans": "adj. 锯齿状的；边缘参差不齐、有尖刺的",
       "ipa": "ˈdʒæɡɪd",
       "examples": [
         "Joel brought back a jagged piece of slate.",
@@ -198,6 +223,7 @@
     },
     {
       "word": "slate",
+      "trans": "n. 板岩；石板（深灰色岩石，常做屋顶瓦片，易裂成薄片）",
       "ipa": "sleɪt",
       "examples": [
         "Joel brought back a jagged piece of slate with a skull scratched on it.",
@@ -206,6 +232,7 @@
     },
     {
       "word": "skull and crossbones",
+      "trans": "骷髅头+交叉骨头，经典海盗符号；也用来表示危险、死亡警告",
       "examples": [
         "A jagged piece of slate with a crude skull and crossbones scratched on one side.",
         "The bottle carried a skull and crossbones to warn it was poisonous."
@@ -213,6 +240,7 @@
     },
     {
       "word": "lot",
+      "trans": "n. 一伙人；一帮人（口语，英式/澳式）（Snakey’s lot 斯内基那一伙人/手下）",
       "ipa": "lɒt",
       "examples": [
         "It's what Snakey's lot call themselves.",
@@ -221,6 +249,7 @@
     },
     {
       "word": "for one thing",
+      "trans": "（说完一个理由，暗示）还有别的原因",
       "examples": [
         "He wouldn't have the guts, for one thing.",
         "I won't go — for one thing, it's too expensive."
@@ -228,14 +257,16 @@
     },
     {
       "word": "tip someone off",
+      "trans": "给某人通风报信、偷偷报告",
+      "key": "tip ... off",
       "examples": [
         "By tipping them off about what he had discovered, Tom would be putting everyone in danger.",
         "Someone must have tipped the thieves off about the alarm."
-      ],
-      "key": "tip ... off"
+      ]
     },
     {
       "word": "whirr",
+      "trans": "v.（机器、马达）发出嗡嗡的旋转声  n. 嗡嗡旋转声",
       "ipa": "wɜː(r)",
       "examples": [
         "He could hear the whirr of the lawnmower somewhere.",
@@ -244,14 +275,16 @@
     },
     {
       "word": "lie on its side",
+      "trans": "侧翻，侧面贴地（飞机机身歪倒，机翼朝下）",
+      "key": "lie on its side",
       "examples": [
         "The plant was lying on its side, soil scattered over the worktop.",
         "The spilled bottle was lying on its side, leaking across the shelf."
-      ],
-      "key": "lie on its side"
+      ]
     },
     {
       "word": "worktop",
+      "trans": "n.（厨房）操作台；台面（英式英语）",
       "ipa": "ˈwɜːktɒp",
       "examples": [
         "A handful of soil was scattered over the worktop.",
@@ -260,14 +293,16 @@
     },
     {
       "word": "one's throat tightening",
+      "trans": "喉咙发紧。英文小说高频心理描写，用来写人紧张、害怕、哽咽、心里堵得慌，不是生理生病",
+      "key": "one's throat tightening",
       "examples": [
         "His throat tightening, he went to find Aunt Emily.",
         "With her throat tightening, she could barely speak."
-      ],
-      "key": "one's throat tightening"
+      ]
     },
     {
       "word": "a prickle of alarm",
+      "trans": "一阵隐隐的警觉；心头一紧，警觉感袭来",
       "examples": [
         "He understood, with a prickle of alarm, that its prevention solely rested on him.",
         "A prickle of alarm ran down her spine when she heard the noise."
@@ -275,6 +310,7 @@
     },
     {
       "word": "solely",
+      "trans": "adv. 仅仅；唯独；只",
       "ipa": "ˈsəʊlli",
       "examples": [
         "Its prevention solely rested on him and his friends.",
@@ -283,14 +319,16 @@
     },
     {
       "word": "rest on",
+      "trans": "短语动词：取决于；依靠；寄托在……身上（solely rested on him 全部都寄托在他身上，唯独要靠他们来完成）",
+      "key": "rest on",
       "examples": [
         "Its prevention solely rested on him and his friends.",
         "The whole decision rests on her shoulders."
-      ],
-      "key": "rest on"
+      ]
     },
     {
       "word": "It's nothing really",
+      "trans": "非常地道的口语固定表达。没什么大事；真的没事；其实不算什么。用来轻描淡写、掩饰实情，不想把事情说严重、不想引起对方担心",
       "examples": [
         "'Oh, no, it's nothing really.'",
         "'Are you upset?' — 'It's nothing really, don't worry about it.'"

@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "syringe",
+      "trans": "n. 注射器；针管  v. 用注射器注射/抽吸",
       "ipa": "səˈrɪndʒ",
       "examples": [
         "Tom got to work with a syringe, carefully dosing each dart.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "kamikaze",
+      "trans": "n.（二战日本）神风特攻队员；自杀式攻击  adj. 自杀式的，孤注一掷的",
       "ipa": "ˌkæmɪˈkɑːzi",
       "examples": [
         "Then the kamikaze-style ending, when they would dive the machines into the lake.",
@@ -21,6 +23,7 @@
     },
     {
       "word": "stumble into",
+      "trans": "固定短语：无意间闯入、偶然撞见，不一定真的“绊倒”，侧重意外、不经意进入某个地方",
       "examples": [
         "Anyone stumbling into the workshop would have seen the tension.",
         "He stumbled into the room without knocking."
@@ -28,6 +31,7 @@
     },
     {
       "word": "ferociously",
+      "trans": "adv. 极其；猛烈地；凶猛地，拼命地",
       "ipa": "fəˈrəʊʃəsli",
       "examples": [
         "Faces ferociously concentrating.",
@@ -36,6 +40,7 @@
     },
     {
       "word": "clench",
+      "trans": "v. 攥紧；咬紧；紧握  n. 紧握，攥紧",
       "ipa": "klentʃ",
       "examples": [
         "Fingers clenched on controls.",
@@ -44,6 +49,7 @@
     },
     {
       "word": "direct the mission",
+      "trans": "指挥一次任务/行动（军事、行动场景）",
       "examples": [
         "Tom directed the mission from a wheeled office chair.",
         "The general directed the mission from a bunker."
@@ -51,6 +57,7 @@
     },
     {
       "word": "inexplicably",
+      "trans": "adv. 令人费解地；莫名其妙地；无法解释地",
       "ipa": "ˌɪnɪkˈsplɪkəbli",
       "examples": [
         "He caught himself inexplicably smiling.",
@@ -59,6 +66,7 @@
     },
     {
       "word": "bend",
+      "trans": "v. 转弯，转向；弯曲。当主语是路线、小路、河流、飞行轨迹时，bend + 方向 = 轨迹转向、拐向那个方向（The river bends north. 河流向北拐）",
       "ipa": "bend",
       "examples": [
         "Before bending east towards Rigg Knott.",
@@ -67,6 +75,7 @@
     },
     {
       "word": "horseshoe",
+      "trans": "n. 马蹄铁；马蹄形的东西",
       "ipa": "ˈhɔːʃuː",
       "examples": [
         "A long climb to avoid the horseshoe of hills.",
@@ -75,6 +84,7 @@
     },
     {
       "word": "whine",
+      "trans": "v./n.（机器、引擎）发出高频尖细的嗡鸣、啸叫声；（人）哭诉，抱怨",
       "ipa": "waɪn",
       "examples": [
         "The whine of the drones faded.",
@@ -83,6 +93,7 @@
     },
     {
       "word": "be clear of",
+      "trans": "固定搭配：脱离…；远离…；已经越过，不在该区域里。强调不再处于某物范围之内，中间隔开一段距离，没有接触",
       "examples": [
         "Maggie was soon clear of the village.",
         "We are clear of the traffic now."
@@ -90,6 +101,7 @@
     },
     {
       "word": "wind one's way",
+      "trans": "固定文学短语，主语常是河流、小路、溪流：蜿蜒迂回，曲曲折折地延伸",
       "examples": [
         "Following the line of Perch Beck, winding its way down the valley.",
         "The river winds its way through the forest."
@@ -97,6 +109,7 @@
     },
     {
       "word": "give way",
+      "trans": "短语：被……取代；让位给",
       "examples": [
         "The farms and woods had given way to black rock.",
         "Joy gave way to despair."
@@ -104,6 +117,7 @@
     },
     {
       "word": "scree",
+      "trans": "n. 碎石坡；山麓岩屑堆（山地斜坡上大量松散的碎石、石块）",
       "ipa": "skriː",
       "examples": [
         "Black rock and screes.",
@@ -112,6 +126,7 @@
     },
     {
       "word": "change course",
+      "trans": "短语：改变航向；变更行进路线（set a course 设定航向；on course 沿既定路线飞行）",
       "examples": [
         "Shall I change course and keep the van in sight?",
         "The pilot changed course to avoid the storm."
@@ -119,6 +134,7 @@
     },
     {
       "word": "cordon",
+      "trans": "n. 警戒线；封锁线  v. 封锁，设警戒线",
       "ipa": "ˈkɔːdn",
       "examples": [
         "A line of patrol boats marked the security cordon.",
@@ -128,6 +144,7 @@
     },
     {
       "word": "jostle",
+      "trans": "v. 推挤；争相挤过去；互相冲撞  n. 推搡，拥挤",
       "ipa": "ˈdʒɒsl",
       "examples": [
         "A hundred boats jostling for a view.",
@@ -136,6 +153,7 @@
     },
     {
       "word": "jostle for a view",
+      "trans": "固定短语：争相挤到前面，抢着要看（某个景象）",
       "examples": [
         "At least a hundred boats jostling for a view.",
         "Fans jostled for a view of the stage."
@@ -143,6 +161,7 @@
     },
     {
       "word": "wake",
+      "trans": "n. 航海专用词义：船的尾浪、航迹",
       "ipa": "weɪk",
       "examples": [
         "Their churning wakes spreading outwards.",
@@ -151,6 +170,7 @@
     },
     {
       "word": "stationary",
+      "trans": "adj. 静止的；停住不动的；不移动的",
       "ipa": "ˈsteɪʃənri",
       "examples": [
         "An orange speedboat, stationary behind the froth.",
@@ -159,6 +179,7 @@
     },
     {
       "word": "stationery",
+      "trans": "n. 文具（-ery 结尾，记：e-equipment 文具装备；勿与 stationary 混淆）",
       "ipa": "ˈsteɪʃənri",
       "examples": [
         "She bought paper and other stationery.",
@@ -167,6 +188,7 @@
     },
     {
       "word": "froth",
+      "trans": "n. 泡沫，浪花",
       "ipa": "frɒθ",
       "examples": [
         "An orange boat behind the white froth of the flotilla.",
@@ -175,6 +197,7 @@
     },
     {
       "word": "flotilla",
+      "trans": "n. 小型船队，一队船只",
       "ipa": "fləˈtɪlə",
       "examples": [
         "Behind the barrier was a band of at least a hundred boats.",
@@ -183,6 +206,7 @@
     },
     {
       "word": "awning",
+      "trans": "n.（货车、店铺外面的）遮阳篷，雨篷",
       "ipa": "ˈɔːnɪŋ",
       "examples": [
         "It had its awning up.",
@@ -191,6 +215,7 @@
     },
     {
       "word": "alibi",
+      "trans": "n. 不在场证明；托词，借口",
       "ipa": "ˈælɪbaɪ",
       "examples": [
         "An ice cream van is the perfect alibi.",
@@ -199,6 +224,7 @@
     },
     {
       "word": "ever so slightly",
+      "trans": "极其轻微地（ever so = very）",
       "examples": [
         "As he moved, ever so slightly, Tom saw a laptop.",
         "She tilted her head ever so slightly."
@@ -206,6 +232,7 @@
     },
     {
       "word": "resurface",
+      "trans": "v. 重新浮出水面；（记忆、情绪）再次涌现、重新浮现",
       "ipa": "ˌriːˈsɜːfɪs",
       "examples": [
         "The shock of the memory resurfacing was like icy water.",
@@ -214,6 +241,7 @@
     },
     {
       "word": "ditch",
+      "trans": "v.（飞行器）紧急迫降于水面；丢弃，抛弃；甩下  n. 沟渠",
       "ipa": "dɪtʃ",
       "examples": [
         "We need to get these multi-rotors ditched in the lake.",
@@ -222,6 +250,7 @@
     },
     {
       "word": "feed",
+      "trans": "n.（电子设备）实时数据流、画面输出、信号馈送",
       "ipa": "fiːd",
       "examples": [
         "Take some video from Skylark's feed.",
@@ -230,6 +259,7 @@
     },
     {
       "word": "disguised as",
+      "trans": "伪装成",
       "examples": [
         "The weapons were disguised as seagulls.",
         "The spy was disguised as a tourist."
@@ -237,6 +267,7 @@
     },
     {
       "word": "stealth",
+      "trans": "n. 秘密行动；隐身，隐蔽  adj. 隐身的（复合词里）",
       "ipa": "stelθ",
       "examples": [
         "The drones approached in stealth mode.",
@@ -245,6 +276,7 @@
     },
     {
       "word": "get away",
+      "trans": "逃走、脱身、逃之夭夭",
       "examples": [
         "How will they get away without being seen?",
         "The thief got away in a waiting car."
@@ -252,6 +284,7 @@
     },
     {
       "word": "gait",
+      "trans": "n. 步态；走路的姿势（专业词，指人行走时整体的步伐姿态）（limping gait 一瘸一拐的走路姿态）",
       "ipa": "ɡeɪt",
       "examples": [
         "The man had a limping gait.",
@@ -260,6 +293,7 @@
     },
     {
       "word": "sole",
+      "trans": "n. 脚掌；脚底；（鞋子的）鞋底",
       "ipa": "səʊl",
       "examples": [
         "He pressed his bare sole to the cold floor.",
@@ -268,6 +302,7 @@
     },
     {
       "word": "resolve",
+      "trans": "n. 决心，坚定的意志（名词）（He felt his resolve tighten. 他感到自己的决心愈发坚定）",
       "ipa": "rɪˈzɒlv",
       "examples": [
         "He felt his resolve tighten.",
@@ -277,6 +312,7 @@
     },
     {
       "word": "a clutter of",
+      "trans": "乱糟糟的一堆……",
       "examples": [
         "A clutter of boxes blocked the door.",
         "A clutter of papers covered the desk."
@@ -284,6 +320,7 @@
     },
     {
       "word": "edge one's way through",
+      "trans": "慢慢挤着穿过……",
       "examples": [
         "She edged her way through the crowd.",
         "He edged his way to the front."
@@ -291,6 +328,7 @@
     },
     {
       "word": "wheel",
+      "trans": "v.（鸟类、飞行器）盘旋，兜大圈飞行；不是“被人操控轮子”那种意思",
       "ipa": "wiːl",
       "examples": [
         "The hawk wheeled high above the field.",
@@ -299,6 +337,7 @@
     },
     {
       "word": "swerve",
+      "trans": "v. 突然急转弯；猛地转向避让；急转偏离原来路线",
       "ipa": "swɜːv",
       "examples": [
         "The car swerved to avoid a dog.",
@@ -307,6 +346,7 @@
     },
     {
       "word": "wail",
+      "trans": "v. 尖声呼啸；哀号；哭嚎  n. 刺耳的呼啸声；凄厉的哀鸣",
       "ipa": "weɪl",
       "examples": [
         "The wail of a siren.",
@@ -315,6 +355,7 @@
     },
     {
       "word": "the wail of a siren",
+      "trans": "警笛尖啸（the wail of a siren）",
       "examples": [
         "The wail of a siren cut through the air.",
         "We heard the wail of a siren approaching.",
@@ -323,6 +364,7 @@
     },
     {
       "word": "gun",
+      "trans": "v.（动词）猛踩油门；把发动机开到最大马力",
       "ipa": "ɡʌn",
       "examples": [
         "He gunned the engine and sped off.",
@@ -331,6 +373,7 @@
     },
     {
       "word": "corkscrewing down",
+      "trans": "螺旋盘旋向下俯冲（corkscrewing down）",
       "examples": [
         "The hawk was corkscrewing down toward its prey.",
         "The plane corkscrewed down through the clouds."
@@ -338,6 +381,7 @@
     },
     {
       "word": "prey",
+      "trans": "n. 猎物；捕猎的目标（down on their prey 向着它们的猎物俯冲过去）",
       "ipa": "preɪ",
       "examples": [
         "Down on their prey.",
@@ -347,6 +391,7 @@
     },
     {
       "word": "funnel",
+      "trans": "船的烟囱（老式大轮船常用 funnel，不用 chimney；chimney 一般指房屋、壁炉的烟囱）",
       "examples": [
         "Black smoke poured from the funnel.",
         "The old ship's funnel towered above the deck."
@@ -354,6 +399,7 @@
     },
     {
       "word": "astern",
+      "trans": "adv.【航海】在船尾；向船尾；船后方",
       "ipa": "əˈstɜːn",
       "examples": [
         "Ram engines astern.",
@@ -362,6 +408,7 @@
     },
     {
       "word": "ram",
+      "trans": "v. 猛撞、撞击",
       "ipa": "ræm",
       "examples": [
         "He tried to ram his boat into the steamer.",
@@ -370,6 +417,7 @@
     },
     {
       "word": "ram engines astern",
+      "trans": "航海口语：将引擎猛地切到倒车（全速倒挡）（ram engines astern）",
       "examples": [
         "The captain ordered ram engines astern.",
         "He slammed ram engines astern to stop the collision."
@@ -377,6 +425,7 @@
     },
     {
       "word": "cut across his bow",
+      "trans": "抢船头；从他的船头前方横向横穿过去（cut across his bow）",
       "examples": [
         "A small boat cut across his bow.",
         "Never cut across a large ship's bow.",
@@ -385,6 +434,7 @@
     },
     {
       "word": "take it in",
+      "trans": "看在眼里，领会、看清眼前发生的一切（could hardly take it in 几乎难以看清/反应过来，场面太乱、信息太多，大脑一下子接收不过来）",
       "examples": [
         "He could hardly take it in.",
         "She stood there, trying to take it all in."
@@ -392,6 +442,7 @@
     },
     {
       "word": "defiance",
+      "trans": "n. 违抗；蔑视；拒不服从，公然对抗",
       "ipa": "dɪˈfaɪəns",
       "examples": [
         "Jaw locked in defiance.",
@@ -401,6 +452,7 @@
     },
     {
       "word": "jaw locked in defiance",
+      "trans": "牙关紧咬，满脸桀骜对抗、拒不认输的神情（jaw locked in defiance）",
       "examples": [
         "The boy stood with his jaw locked in defiance.",
         "She met their stares, jaw locked in defiance."
@@ -408,6 +460,7 @@
     },
     {
       "word": "a scrum of people",
+      "trans": "拥挤扭作一团的一群人（a scrum of people）",
       "examples": [
         "A scrum of people surrounded the celebrity.",
         "A scrum of fans blocked the exit."
@@ -415,6 +468,7 @@
     },
     {
       "word": "port bow",
+      "trans": "左舷船头（左船艏）（port bow）",
       "examples": [
         "The birds hit the water off the port bow.",
         "A light appeared dead ahead on the port bow.",
@@ -423,6 +477,7 @@
     },
     {
       "word": "break into",
+      "trans": "固定搭配，描述突然爆发出来的情绪/动作：break into a smile 突然笑起来；break into laughter 轰然大笑；break into tears 突然大哭；break into a run 猛地跑起来",
       "examples": [
         "She broke into a smile.",
         "He broke into a run.",

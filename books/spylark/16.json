@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "pelt",
+      "trans": "v. 飞奔，疾跑；（雨）猛烈下；投掷  n. 动物毛皮",
       "ipa": "pelt",
       "examples": [
         "Maggie was pelting along the wooden boards, Archie at her heels.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "at one's heels",
+      "trans": "紧跟在某人身后，紧随其后",
       "examples": [
         "Maggie was pelting along the wooden boards, Archie at her heels.",
         "The little dog followed at his master's heels everywhere he went."
@@ -20,6 +22,7 @@
     },
     {
       "word": "charge",
+      "trans": "v. 猛冲，全速冲过去；冲锋；收费；充电  n. 收费；指控；冲锋",
       "ipa": "tʃɑːdʒ",
       "examples": [
         "She charged along the jetty and, without a single twitch, sprang off the end.",
@@ -28,6 +31,7 @@
     },
     {
       "word": "without a single twitch",
+      "trans": "身体没有一丝一抖、一丝哆嗦",
       "examples": [
         "She charged along the jetty and, without a single twitch, sprang off the end like an Olympic diver.",
         "He stared at the accident scene without a single twitch of emotion."
@@ -35,6 +39,7 @@
     },
     {
       "word": "spring off",
+      "trans": "纵身从……跳出去",
       "examples": [
         "She sprang off the end of the jetty like an Olympic diver.",
         "The cat sprang off the sofa and vanished under the bed."
@@ -42,14 +47,16 @@
     },
     {
       "word": "heave oneself into",
+      "trans": "费力把自己挪进/爬上某物",
+      "key": "heave oneself into",
       "examples": [
         "Maggie heaved herself into the boat and lay on the bottom, panting.",
         "The old sailor heaved himself into the chair with a groan."
-      ],
-      "key": "heave oneself into"
+      ]
     },
     {
       "word": "arc through the air",
+      "trans": "在空中划出一道弧线",
       "examples": [
         "She arced through the air and hit the surface in front of the boat.",
         "The stone arced through the air and splashed into the pond."
@@ -57,6 +64,7 @@
     },
     {
       "word": "skid",
+      "trans": "v. 打滑，滑行；踉跄着滑出去  n. 打滑，侧滑。辨析：slip 指脚滑→身体歪倒摔倒（He slipped and went down.）；skid 指脚/轮子打滑、身体仍维持直立，只是贴着地面滑行、刹不住速度",
       "ipa": "skɪd",
       "examples": [
         "Archie skidded along the jetty, and then plunged in after her.",
@@ -65,6 +73,7 @@
     },
     {
       "word": "splutter",
+      "trans": "v. 噗噗吐水；（被水呛到）急促喘气；气急败坏地急促说话  n. 噗噗的声响",
       "ipa": "ˈsplʌtə(r)",
       "examples": [
         "When Maggie reappeared, spluttering but alert, she had swum under the boat.",
@@ -73,6 +82,7 @@
     },
     {
       "word": "alert",
+      "trans": "adj. 头脑清醒的，警惕戒备的，注意力高度集中的",
       "ipa": "əˈlɜːt",
       "examples": [
         "When Maggie reappeared, spluttering but alert, she had swum under the boat.",
@@ -81,6 +91,7 @@
     },
     {
       "word": "pull on the oars",
+      "trans": "使劲拉桨；奋力划桨",
       "examples": [
         "Tom pulled hard on the oars for a few strokes.",
         "The rowers pulled hard on their oars to win the race."
@@ -88,6 +99,7 @@
     },
     {
       "word": "scowl",
+      "trans": "v. 怒视；皱眉沉脸（面露愠怒，多半沉默瞪着人）  n. 怒容，阴沉的脸色",
       "ipa": "skaʊl",
       "examples": [
         "Joel interrupted, scowling at the screen.",
@@ -96,6 +108,7 @@
     },
     {
       "word": "stall",
+      "trans": "v.（飞机、直升机）失速；（发动机）熄火  n. 摊位；（飞行器）失速状态",
       "ipa": "stɔːl",
       "examples": [
         "He watched it slow almost to a stall as Joel tried to bring it down.",
@@ -104,12 +117,14 @@
     },
     {
       "word": "slow almost to a stall",
+      "trans": "减速，几乎达到失速状态",
       "examples": [
         "He watched it slow almost to a stall as Joel tried to bring it down to the beach."
       ]
     },
     {
       "word": "squall",
+      "trans": "n. 突如其来的一阵狂风；短时暴风（多发生在湖面、海上）",
       "ipa": "skwɔːl",
       "examples": [
         "A sudden squall of wind flipped it on to its back and it plummeted down.",
@@ -118,6 +133,7 @@
     },
     {
       "word": "squall of wind",
+      "trans": "一阵突如其来的狂风",
       "examples": [
         "A sudden squall of wind flipped the drone on to its back.",
         "A squall of wind blew his hat right off his head."
@@ -125,6 +141,7 @@
     },
     {
       "word": "flip",
+      "trans": "v. 快速翻转，猛地翻过来  n. 快速翻转",
       "ipa": "flɪp",
       "examples": [
         "A sudden squall of wind flipped it on to its back.",
@@ -133,6 +150,7 @@
     },
     {
       "word": "plummet",
+      "trans": "v. 骤然垂直坠落，急速下坠",
       "ipa": "ˈplʌmɪt",
       "examples": [
         "A sudden squall of wind flipped it on to its back and it plummeted down.",
@@ -141,12 +159,14 @@
     },
     {
       "word": "flip it onto its back",
+      "trans": "（狂风）把它掀得机身翻过来；飞机肚皮朝天翻过去",
       "examples": [
         "A sudden squall of wind flipped it on to its back and it plummeted down."
       ]
     },
     {
       "word": "cormorant",
+      "trans": "n. 鸬鹚，鱼鹰（擅长扎入水中捕鱼的水鸟）",
       "ipa": "ˈkɔːmərənt",
       "examples": [
         "It was almost graceful, like the silken splash of a cormorant when it dives.",
@@ -155,6 +175,7 @@
     },
     {
       "word": "silken",
+      "trans": "adj. 丝一般顺滑的，轻柔流畅的",
       "ipa": "ˈsɪlkən",
       "examples": [
         "It was almost graceful, like the silken splash of a cormorant when it dives.",
@@ -163,6 +184,7 @@
     },
     {
       "word": "tack",
+      "trans": "n.（帆船）抢风调向，之字形逆风航行",
       "ipa": "tæk",
       "examples": [
         "The steady breeze pushed them homewards in a few long tacks.",
@@ -171,6 +193,7 @@
     },
     {
       "word": "it couldn't be helped",
+      "trans": "事已至此，无可奈何；这也是没有办法的事",
       "examples": [
         "'I don't know yet,' said Tom. 'It couldn't be helped.'",
         "The plan had failed, but it couldn't be helped, so they moved on."
@@ -178,6 +201,7 @@
     },
     {
       "word": "homewards",
+      "trans": "adv. 朝家的方向，向着归途",
       "ipa": "ˈhəʊmwədz",
       "examples": [
         "The steady breeze pushed them homewards in a few long tacks.",
@@ -186,28 +210,32 @@
     },
     {
       "word": "catch one's breath",
+      "trans": "喘过气来，呼吸平复下来",
+      "key": "catch one's breath",
       "examples": [
         "Maggie said, when she had caught her breath.",
         "He paused at the top of the stairs to catch his breath."
-      ],
-      "key": "catch one's breath"
+      ]
     },
     {
       "word": "be up to something",
+      "trans": "在谋划什么（可疑的事情）；what sb be up to 多带暗示：在干秘密的、可疑的、不太好的勾当（I don’t know what they’re up to. 我不知道他们在搞什么名堂。）",
+      "key": "be up to something",
       "examples": [
         "I don't know what they're up to, but it's bad.",
         "The children were very quiet — they must be up to something."
-      ],
-      "key": "be up to something"
+      ]
     },
     {
       "word": "the water creaming under the bow",
+      "trans": "船头下方的湖水泛起乳白的泡沫",
       "examples": [
         "While Tom steered them home, the water creaming under the bow, she told them what she had seen."
       ]
     },
     {
       "word": "muse",
+      "trans": "v. 沉思，若有所思地自言自语；琢磨，暗自思索",
       "ipa": "mjuːz",
       "examples": [
         "'Watch the show from Astrum Seven'? Joel mused.",
@@ -216,6 +244,7 @@
     },
     {
       "word": "tiller",
+      "trans": "n.（帆船的）舵柄",
       "ipa": "ˈtɪlə(r)",
       "examples": [
         "Tom started, jerking the tiller, so Bobalong lost the wind.",
@@ -224,6 +253,7 @@
     },
     {
       "word": "lose the wind",
+      "trans": "固定航海短语：（帆）失风，帆兜不住风了",
       "examples": [
         "Bobalong lost the wind and quivered and flapped for a few alarming moments.",
         "The sails went slack as the boat lost the wind."
@@ -231,6 +261,7 @@
     },
     {
       "word": "alarming moments",
+      "trans": "令人揪心的片刻",
       "examples": [
         "Bobalong lost the wind and quivered for a few alarming moments.",
         "There were a few alarming moments when the plane dropped suddenly."
@@ -238,6 +269,7 @@
     },
     {
       "word": "dismissively",
+      "trans": "adv. 不以为然地；不屑一顾地；轻描淡写地",
       "ipa": "dɪsˈmɪsɪvli",
       "examples": [
         "She flicked her hair dismissively.",
@@ -246,12 +278,14 @@
     },
     {
       "word": "pea and ham soup",
+      "trans": "豌豆火腿汤（英国经典家常汤）",
       "examples": [
         "Aunt Emily brought in a huge pan of pea and ham soup."
       ]
     },
     {
       "word": "set the table",
+      "trans": "摆餐桌（固定习语，不能说 place the table / put the table）。set 此处指把一整套、一堆盘碗食物成批安置摆上桌",
       "examples": [
         "As she set them on the table, she gave Tom an encouraging smile.",
         "She set the table for dinner and called everyone to eat."
@@ -259,22 +293,25 @@
     },
     {
       "word": "set into",
+      "trans": "固定口语习语：劲头十足地投入做某事；吃饭场景指扑向食物、狼吞虎咽、开怀大吃（set into the food）",
+      "key": "set into",
       "examples": [
         "Tom watched the two siblings as they set into the food gratefully.",
         "He sat down and set into his meal with real appetite."
-      ],
-      "key": "set into"
+      ]
     },
     {
       "word": "be wired",
+      "trans": "人的性格、思维天生就是这个样子（wire 比喻大脑/性格天生如此，如同线路预先接好）。the way they were wired：他们被“预设”成的那种样子，天生的秉性",
+      "key": "be wired",
       "examples": [
         "Was it just the way they were wired, or did they find the whole thing amusing?",
         "Some people are just wired to stay calm in a crisis."
-      ],
-      "key": "be wired"
+      ]
     },
     {
       "word": "amusing",
+      "trans": "adj. 引人发笑的，觉得好玩的，饶有乐趣的",
       "ipa": "əˈmjuːzɪŋ",
       "examples": [
         "Did they find the whole thing amusing and exciting, like a great adventure?",
@@ -283,22 +320,25 @@
     },
     {
       "word": "lay on",
+      "trans": "专门安排、筹备、特地提供（娱乐、活动），多用于被动 be laid on（主动 They laid on a party for the kids.；被动 A party was laid on.）",
+      "key": "lay on",
       "examples": [
         "Was it like some great adventure laid on for their holidays?",
         "The school laid on a bus for the trip to the museum."
-      ],
-      "key": "lay on"
+      ]
     },
     {
       "word": "take somebody into one's confidence",
+      "trans": "向某人吐露内心秘密，把心腹之事告诉某人，信任某人、让对方参与知晓机密",
+      "key": "take ... into one's confidence",
       "examples": [
         "He began to wonder whether he was right to take them into his confidence.",
         "I took her into my confidence and told her the whole secret."
-      ],
-      "key": "take ... into one's confidence"
+      ]
     },
     {
       "word": "after all",
+      "trans": "两个核心义：1. 毕竟（用来解释理由）；2. 说到底、终究（用于内心反思、权衡、自我反问，回顾整件事权衡利弊）",
       "examples": [
         "He wondered whether he was right to take them into his confidence, after all.",
         "It wasn't such a difficult task after all."
@@ -306,6 +346,7 @@
     },
     {
       "word": "spot",
+      "trans": "v.（刻意搜寻的人）发现、瞥见、逮着踪迹，主语通常是搜寻者/追捕者，强调在环境中把目标找出来、识别出来。辨析：see 单纯“眼睛看到”，中性普通动词；find 找到、最终寻获，侧重完整结果；look for 寻找（只有动作，尚未找到）",
       "ipa": "spɒt",
       "examples": [
         "If they'd spotted me then, they would have caught me for sure.",
@@ -314,6 +355,7 @@
     },
     {
       "word": "on end",
+      "trans": "连续不断地，一连……（时间）（weeks on end 一连数周；days on end 一连好多天；hours on end 连续好几个小时）",
       "examples": [
         "They would have tortured you for weeks on end.",
         "She could sit reading for hours on end without getting bored."
@@ -321,6 +363,7 @@
     },
     {
       "word": "ransom",
+      "trans": "n. 赎金；用来换回人质的筹码",
       "ipa": "ˈrænsəm",
       "examples": [
         "I would have offered them my brave little brother as a ransom.",
@@ -329,6 +372,7 @@
     },
     {
       "word": "irritable",
+      "trans": "adj. 易怒的，烦躁的，容易发火的。辨析：prickly 指性格敏感刺头，别人稍有冒犯就发火；irritable 常因身体不适而心情烦躁、容易被小事激怒",
       "ipa": "ˈɪrɪtəbl",
       "examples": [
         "He wondered what she really thought of him: limping, irritable, electronic gadgets instead of friends.",
@@ -337,6 +381,7 @@
     },
     {
       "word": "commemorative",
+      "trans": "adj. 纪念性的，用作纪念的",
       "ipa": "kəˈmemərətɪv",
       "examples": [
         "He stared at the commemorative Diamond Jubilee tin that had originally held shortbread.",
@@ -345,6 +390,7 @@
     },
     {
       "word": "Diamond Jubilee",
+      "trans": "钻石禧年，君主在位60周年",
       "examples": [
         "He stared at the commemorative Diamond Jubilee tin.",
         "The nation celebrated the Diamond Jubilee of the monarch's sixty years on the throne."
@@ -352,6 +398,7 @@
     },
     {
       "word": "jubilee",
+      "trans": "n.（君主）周年大庆；禧年",
       "ipa": "ˈdʒuːbɪliː",
       "examples": [
         "He stared at the commemorative Diamond Jubilee tin.",
@@ -360,22 +407,25 @@
     },
     {
       "word": "look out for",
+      "trans": "警惕、提防、留心戒备；密切留意（危险/人）",
+      "key": "look out for",
       "examples": [
         "She had asked him to look out for danger from Skylark.",
         "Look out for the low branches as you drive through the forest."
-      ],
-      "key": "look out for"
+      ]
     },
     {
       "word": "fill somebody in on something",
+      "trans": "把消息、内情讲给某人听，帮对方补齐不知道的信息。fill sb in 中 sb 是需要被告知的人（间接宾语），on + 事情（介词 on 引出所要讲的那件事）",
+      "key": "fill ... in on",
       "examples": [
         "He filled them in on everything he had seen.",
         "Let me fill you in on what happened while you were away."
-      ],
-      "key": "fill ... in on"
+      ]
     },
     {
       "word": "duke",
+      "trans": "n. 公爵，欧洲贵族爵位",
       "ipa": "djuːk",
       "examples": [
         "It's just some guy called the Duke of Lancaster.",
@@ -384,14 +434,16 @@
     },
     {
       "word": "be crawling with",
+      "trans": "（某地）密密麻麻挤满，到处都是，乌泱泱遍布（+ 人/虫子）",
+      "key": "be crawling with",
       "examples": [
         "The place will be crawling with people protecting the Teal.",
         "The beach was crawling with tourists in the height of summer."
-      ],
-      "key": "be crawling with"
+      ]
     },
     {
       "word": "by any chance",
+      "trans": "（问句中）会不会、或许、碰巧。只用于疑问句，委婉试探询问，语气客气，中文≈“请问会不会……？”，不是讲“靠任何机会”，字面不要直译",
       "ipa": "baɪ ˈeni tʃɑːns",
       "examples": [
         "I don't suppose you've heard of the Duke of Lancaster, by any chance?",
@@ -400,11 +452,12 @@
     },
     {
       "word": "one and the same",
+      "trans": "习语：完全同一个人/同一个事物",
+      "key": "one and the same",
       "examples": [
         "The Duke of Lancaster is Her Majesty the Queen! They are one and the same.",
         "It turned out the two strangers were one and the same person."
-      ],
-      "key": "one and the same"
+      ]
     }
   ],
   "quiz": [

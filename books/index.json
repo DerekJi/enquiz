@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:42:39.142Z",
+  "generatedAt": "2026-10-20T22:56:58.531Z",
   "books": [
     {
       "id": "spylark",
@@ -205,6 +205,142 @@
           "file": "books/spylark/25.json",
           "words": 50,
           "quiz": 50
+        },
+        {
+          "id": "26",
+          "title": "Chapter 26",
+          "order": 26,
+          "file": "books/spylark/26.json",
+          "words": 44,
+          "quiz": 44
+        },
+        {
+          "id": "27",
+          "title": "Chapter 27",
+          "order": 27,
+          "file": "books/spylark/27.json",
+          "words": 64,
+          "quiz": 64
+        },
+        {
+          "id": "28",
+          "title": "Chapter 28",
+          "order": 28,
+          "file": "books/spylark/28.json",
+          "words": 73,
+          "quiz": 73
+        },
+        {
+          "id": "29",
+          "title": "Chapter 29",
+          "order": 29,
+          "file": "books/spylark/29.json",
+          "words": 57,
+          "quiz": 56
+        },
+        {
+          "id": "30",
+          "title": "Chapter 30",
+          "order": 30,
+          "file": "books/spylark/30.json",
+          "words": 82,
+          "quiz": 81
+        },
+        {
+          "id": "31",
+          "title": "Chapter 31",
+          "order": 31,
+          "file": "books/spylark/31.json",
+          "words": 23,
+          "quiz": 23
+        },
+        {
+          "id": "32",
+          "title": "Chapter 32",
+          "order": 32,
+          "file": "books/spylark/32.json",
+          "words": 80,
+          "quiz": 76
+        },
+        {
+          "id": "33",
+          "title": "Chapter 33",
+          "order": 33,
+          "file": "books/spylark/33.json",
+          "words": 60,
+          "quiz": 56
+        },
+        {
+          "id": "34",
+          "title": "Chapter 34",
+          "order": 34,
+          "file": "books/spylark/34.json",
+          "words": 10,
+          "quiz": 12
+        },
+        {
+          "id": "35",
+          "title": "Chapter 35",
+          "order": 35,
+          "file": "books/spylark/35.json",
+          "words": 82,
+          "quiz": 83
+        },
+        {
+          "id": "36",
+          "title": "Chapter 36",
+          "order": 36,
+          "file": "books/spylark/36.json",
+          "words": 65,
+          "quiz": 64
+        },
+        {
+          "id": "37",
+          "title": "Chapter 37",
+          "order": 37,
+          "file": "books/spylark/37.json",
+          "words": 63,
+          "quiz": 54
+        },
+        {
+          "id": "38",
+          "title": "Chapter 38",
+          "order": 38,
+          "file": "books/spylark/38.json",
+          "words": 51,
+          "quiz": 48
+        },
+        {
+          "id": "39",
+          "title": "Chapter 39",
+          "order": 39,
+          "file": "books/spylark/39.json",
+          "words": 51,
+          "quiz": 49
+        },
+        {
+          "id": "40",
+          "title": "Chapter 40",
+          "order": 40,
+          "file": "books/spylark/40.json",
+          "words": 58,
+          "quiz": 58
+        },
+        {
+          "id": "41",
+          "title": "Chapter 41",
+          "order": 41,
+          "file": "books/spylark/41.json",
+          "words": 61,
+          "quiz": 49
+        },
+        {
+          "id": "acknowledgements",
+          "title": "Acknowledgements",
+          "order": 99,
+          "file": "books/spylark/acknowledgements.json",
+          "words": 33,
+          "quiz": 29
         }
       ]
     }

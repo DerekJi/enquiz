@@ -1,0 +1,769 @@
+{
+  "id": "33",
+  "title": "Chapter 33",
+  "order": 33,
+  "words": [
+    {
+      "word": "baggy",
+      "trans": "adj. 宽松下垂的、肥大的（衣服太大不贴身）",
+      "examples": [
+        "He threaded his stick down inside one of the baggy legs."
+      ],
+      "ipa": "ˈbæɡi"
+    },
+    {
+      "word": "baggy legs",
+      "trans": "宽大肥阔的裤腿；legs 此处指连体防寒服的裤腿",
+      "examples": [
+        "He pulled the quilted suit on, threading his walking stick down one baggy leg."
+      ],
+      "key": "baggy legs"
+    },
+    {
+      "word": "pot plants",
+      "trans": "n. 盆栽植物（英式常用；美式更多说 houseplants）",
+      "examples": [
+        "The hallway had pot plants and pictures on the walls."
+      ],
+      "ipa": "pɒt plɑːnts"
+    },
+    {
+      "word": "tinkling",
+      "trans": "adj./n. 叮当声、叮叮作响的（玻璃、金属等轻而清脆的连续响声）",
+      "examples": [
+        "There was a tinkling of glasses down the passage."
+      ],
+      "ipa": "ˈtɪŋklɪŋ"
+    },
+    {
+      "word": "compare A to B",
+      "trans": "把 A 和 B 做对比、拿 A 与 B 相较",
+      "examples": [
+        "Compare that, for example, to a second-hand Rapier."
+      ],
+      "key": "compare A to B"
+    },
+    {
+      "word": "get hold of",
+      "trans": "弄到、获取、搞到手；抓住。核心是“拿到、弄到”，隐含一层：不是随手就能拿到，需要费点劲才能够获得",
+      "examples": [
+        "If you can get hold of one, you'll agree it makes sense."
+      ],
+      "key": "get hold of"
+    },
+    {
+      "word": "landing",
+      "trans": "n.（楼梯的）平台、楼梯休息平台（两段台阶之间的平地）",
+      "examples": [
+        "Tom came to a landing halfway down the stairs."
+      ],
+      "ipa": "ˈlændɪŋ"
+    },
+    {
+      "word": "flight of steps",
+      "trans": "一整段连续的台阶（a flight of stairs/steps 一段楼梯）",
+      "examples": [
+        "He came to another arrow pointing down a further flight of steps."
+      ],
+      "key": "flight of steps"
+    },
+    {
+      "word": "far from",
+      "trans": "远非、完全不；离……很远。强调“事实和预想完全相反”，非但没有……反而……，带惊讶感",
+      "examples": [
+        "Far from leading to an exit, the arrows took him below ground."
+      ],
+      "key": "far from"
+    },
+    {
+      "word": "crumple",
+      "trans": "v.（本章义）身体瘫软、垮下来；（纸张）揉皱；（面部）皱起",
+      "examples": [
+        "He almost crumpled in despair when he saw a tiny square chamber."
+      ],
+      "ipa": "ˈkrʌmpl"
+    },
+    {
+      "word": "chamber",
+      "trans": "n. 房间、密室、小室（文学/正式用词；心脏的“腔”也用此词）",
+      "examples": [
+        "He flicked on a light and saw a tiny square chamber."
+      ],
+      "ipa": "ˈtʃeɪmbə(r)"
+    },
+    {
+      "word": "dead end",
+      "trans": "n. 死胡同、绝境、走不通的路（没有出口的路或境地）",
+      "examples": [
+        "It was doorless and windowless - a hopeless dead end."
+      ],
+      "key": "dead end"
+    },
+    {
+      "word": "lengthways",
+      "trans": "adv. 纵向地、沿着长边方向（长边朝前/朝下摆放）。也拼 lengthwise",
+      "examples": [
+        "A metal chest about the size of a fridge, laid lengthways."
+      ],
+      "ipa": "ˈleŋθweɪz"
+    },
+    {
+      "word": "retribution",
+      "trans": "n. 惩罚、报应（偏书面、正式，多指恶有恶报，带正义惩戒意味）。swift retribution 迅速的报应",
+      "examples": [
+        "He would tell Rufus Clay everything, and swift retribution would follow."
+      ],
+      "ipa": "ˌretrɪˈbjuːʃn"
+    },
+    {
+      "word": "potter about",
+      "trans": "（英式，美式多用 putter around）慢悠悠地闲逛、不紧不慢地忙活琐事，轻松随意做点零碎杂事，没有紧迫目的",
+      "examples": [
+        "Aunt Emily pottering about with a duster in her hand."
+      ],
+      "key": "potter about"
+    },
+    {
+      "word": "duster",
+      "trans": "n. 除尘掸、抹布、擦灰布",
+      "examples": [
+        "Aunt Emily pottering about with a duster in her hand."
+      ],
+      "ipa": "ˈdʌstə(r)"
+    },
+    {
+      "word": "stretching ahead",
+      "trans": "（空间/时间）在前方绵延铺开；（时间）还很长、徐徐展现在眼前",
+      "examples": [
+        "Saturday afternoon stretching ahead."
+      ],
+      "key": "stretching ahead"
+    },
+    {
+      "word": "waft",
+      "trans": "v.（气味、烟雾、风）缓缓飘送、飘荡。waft 专描轻的东西缓慢流动（香气、薄雾、微风轻柔地飘），不是猛地冲过来。wafting up 向上飘来",
+      "examples": [
+        "The herby scent of lake water wafting up through the floorboards."
+      ],
+      "ipa": "wɒft"
+    },
+    {
+      "word": "play out",
+      "trans": "（事件、局面）发生、展开、一步步发展、上演",
+      "examples": [
+        "He could see how everything was going to play out."
+      ],
+      "key": "play out"
+    },
+    {
+      "word": "pronounce",
+      "trans": "v. 宣布、宣告（官方作出判定、得出结论）。pronounce somebody + 状态：pronounce him missing/dead 官方经认定后判定失踪/宣告死亡。重点：有“认定、下结论”的过程；announce 只是对外发布消息，不一定核实或做了法律层面的判定",
+      "examples": [
+        "He would probably be pronounced missing rather than dead."
+      ],
+      "ipa": "prəˈnaʊns"
+    },
+    {
+      "word": "a scrap of",
+      "trans": "一点点、零星的一小段（声音、文字、信息）",
+      "examples": [
+        "He was surprised to hear a scrap of cheerful conversation."
+      ],
+      "key": "a scrap of"
+    },
+    {
+      "word": "cheerful",
+      "trans": "adj. 欢快的、兴高采烈的；轻松愉快的。形容情绪、语气愉快，不一定是大声欢呼",
+      "examples": [
+        "He heard a scrap of cheerful conversation."
+      ],
+      "ipa": "ˈtʃɪəfl"
+    },
+    {
+      "word": "shut it",
+      "trans": "（口语）住嘴、别讲了。比 shut up 稍柔和一点，但仍不客气，不是礼貌用语",
+      "examples": [
+        "Shut it! It is a long way down here."
+      ],
+      "key": "shut it"
+    },
+    {
+      "word": "talk somebody through",
+      "trans": "一步步给某人讲解、带着某人过完整个流程；引导某人做完一件事。talk sb through sth",
+      "examples": [
+        "I will talk you through the escape plan."
+      ],
+      "key": "talk somebody through"
+    },
+    {
+      "word": "get your breath back",
+      "trans": "缓过气来、恢复呼吸（剧烈跑动/劳累之后）",
+      "examples": [
+        "When you have got your breath back, I will talk you through it."
+      ],
+      "key": "get your breath back"
+    },
+    {
+      "word": "go on",
+      "trans": "继续说、往下讲（催促对方继续往下说）",
+      "examples": [
+        "Go on, soldier, I am all ears."
+      ],
+      "key": "go on"
+    },
+    {
+      "word": "be all ears",
+      "trans": "固定习语：洗耳恭听、我认真听着呢，不只是简单“我在听”。语感：很感兴趣、专心等着听你往下说，带着期待",
+      "examples": [
+        "Go on, soldier, I am all ears."
+      ],
+      "key": "be all ears"
+    },
+    {
+      "word": "back of one's head",
+      "trans": "后脑勺（head 后面的部位）",
+      "examples": [
+        "The door pushed back into Tom's nose, back of his head squashed against the wall."
+      ],
+      "key": "back of one's head"
+    },
+    {
+      "word": "squash",
+      "trans": "v. 压扁、挤压；被紧紧抵住、塞紧（squashed against the wall 被紧紧抵在墙上）",
+      "examples": [
+        "The back of his head was squashed against the wall."
+      ],
+      "ipa": "skwɒʃ"
+    },
+    {
+      "word": "poke around",
+      "trans": "四处翻找、到处搜查（随便翻来翻去查看）",
+      "examples": [
+        "When they poke around, it will look like a factory fire."
+      ],
+      "key": "poke around"
+    },
+    {
+      "word": "build-up",
+      "trans": "名词：（慢慢）累积起来的量、积聚；build up 的名词形式。build-up of gas 气体积聚、瓦斯蓄积",
+      "examples": [
+        "It looked like a fire caused by a build-up of gas."
+      ],
+      "key": "build-up"
+    },
+    {
+      "word": "hang about",
+      "trans": "（英式口语）逗留、徘徊、待着不走",
+      "examples": [
+        "If you hang about upstairs you'll be toast."
+      ],
+      "key": "hang about"
+    },
+    {
+      "word": "be toast",
+      "trans": "习语：完蛋了、要遭殃、必死无疑（烤成吐司→被“烤熟”、死定了）",
+      "examples": [
+        "If you hang about upstairs you'll be toast."
+      ],
+      "key": "be toast"
+    },
+    {
+      "word": "last-resort stuff",
+      "trans": "最后的应急手段、万不得已才动用的办法；last resort = 最后一招、不得已的手段，stuff 泛指这类东西/方案",
+      "examples": [
+        "This is last-resort stuff, mate. It won't happen."
+      ],
+      "key": "last-resort stuff"
+    },
+    {
+      "word": "hang on sth",
+      "trans": "这里 hang on 不是“等一下”，而是 hinge on / hang on sth：取决于、系于这件事、成败都押在它上面",
+      "examples": [
+        "There must be twenty million hanging on it."
+      ],
+      "key": "hang on sth"
+    },
+    {
+      "word": "that lot",
+      "trans": "那一群人、那帮人（英式口语，中性略带随意感；the lot of them 他们一帮人）",
+      "examples": [
+        "Looking at that lot of customers upstairs."
+      ],
+      "key": "that lot"
+    },
+    {
+      "word": "tortuously",
+      "trans": "adv. 曲折地、迂回地、缓慢又别扭地（像蛇行一样弯弯曲曲、极慢地）",
+      "examples": [
+        "Tortuously slowly the bead of sweat began to roll over his skin."
+      ],
+      "ipa": "ˈtɔːtʃuəsli"
+    },
+    {
+      "word": "scuba",
+      "trans": "n. 水肺（水下呼吸装置；self-contained underwater breathing apparatus 的缩略）",
+      "examples": [
+        "He checked the scuba carefully."
+      ],
+      "ipa": "ˈskuːbə"
+    },
+    {
+      "word": "scuba gear",
+      "trans": "水肺装备、潜水全套装备（氧气瓶、呼吸嘴、面罩等整套潜水器材）",
+      "examples": [
+        "We get the scuba gear out of the chest and put it on."
+      ],
+      "key": "scuba gear"
+    },
+    {
+      "word": "headroom",
+      "trans": "n. 净空高度、上方空余空间（工程术语；头顶以上可供通过的空间）",
+      "examples": [
+        "Sometimes there's headroom, but sometimes the tunnel's full."
+      ]
+    },
+    {
+      "word": "pitch darkness",
+      "trans": "漆黑一片、伸手不见五指（固定短语）。pitch 本义沥青、沥青纯黑，pitch darkness = pitch-black darkness",
+      "examples": [
+        "We'll be swimming underwater in pitch darkness."
+      ],
+      "key": "pitch darkness"
+    },
+    {
+      "word": "not move a muscle",
+      "trans": "习语：一动不动、一点都不敢动（连一块肌肉都不敢动）",
+      "examples": [
+        "He was desperate to wipe it away but he could not move a muscle."
+      ],
+      "key": "not move a muscle"
+    },
+    {
+      "word": "globule",
+      "trans": "n. 小球、液滴、小圆珠（文学用词，圆滚滚的一小滴）",
+      "examples": [
+        "That dangling globule of sweat was all Tom could think about."
+      ],
+      "ipa": "ˈɡlɒbjuːl"
+    },
+    {
+      "word": "irrational",
+      "trans": "adj. 非理性的、没有理性的、毫无来由的（irrational fear 无缘无故的恐惧）",
+      "examples": [
+        "In the irrational, paralysing fear of the moment, he imagined it falling."
+      ],
+      "ipa": "ɪˈræʃənl"
+    },
+    {
+      "word": "griddle",
+      "trans": "n. 平煎盘、铁板烤盘（厚平底铁板，烙薄饼、煎东西用）",
+      "examples": [
+        "Like a drop of water on a hot griddle, steaming and hissing."
+      ],
+      "ipa": "ˈɡrɪdl"
+    },
+    {
+      "word": "aqueduct",
+      "trans": "n. 渡槽、输水渠、大型引水管道。专指输送干净水的大型输水廊道（古罗马著名的即 aqueduct 高架渡槽；现代也指大型地下输水隧道）。区分：sewer 是污水下水道、排脏水的",
+      "examples": [
+        "The farm sat above the route of the Thirlmere Aqueduct."
+      ],
+      "ipa": "ˈækwɪdʌkt"
+    },
+    {
+      "word": "overflow pipe",
+      "trans": "溢流管。overflow 溢出 + pipe 管道：水位太高时水从此管流出防溢水；不是一直通水，是水位超限时才走水",
+      "examples": [
+        "The escape route is an overflow pipe."
+      ],
+      "key": "overflow pipe"
+    },
+    {
+      "word": "culvert",
+      "trans": "n. 涵洞（埋在路或堤坝下、让水穿过的通道，短的地下过水构筑物）。与 aqueduct 区分：aqueduct 长距离输水渠；culvert 一般较短、横穿道路的过水洞",
+      "examples": [
+        "An overflow pipe that comes out through a culvert into the river."
+      ],
+      "ipa": "ˈkʌlvət"
+    },
+    {
+      "word": "submerge",
+      "trans": "v. 淹没、浸没、沉入水中（be submerged 被淹没在水下）",
+      "examples": [
+        "The outflow comes out through a metal gate, which is completely submerged."
+      ],
+      "ipa": "səbˈmɜːdʒ"
+    },
+    {
+      "word": "unlatch",
+      "trans": "v. 拉开插销、解开门闩（latch 门闩，un- 反义）",
+      "examples": [
+        "Whoever's first at the bottom of the culvert needs to unlatch it."
+      ],
+      "ipa": "ʌnˈlætʃ"
+    },
+    {
+      "word": "drain into",
+      "trans": "（河流、水道）汇入、流入（更大的水体）",
+      "examples": [
+        "The river that drains into the north end of the lake."
+      ],
+      "key": "drain into"
+    },
+    {
+      "word": "angle grinder",
+      "trans": "n. 角磨机（手持电动砂轮切割机）",
+      "examples": [
+        "Long time since I've used an underwater angle grinder."
+      ],
+      "key": "angle grinder"
+    },
+    {
+      "word": "scuba down",
+      "trans": "带上水肺装备下潜、用水肺潜水往下走",
+      "examples": [
+        "Then we scuba down to the river mouth."
+      ],
+      "key": "scuba down"
+    },
+    {
+      "word": "au revoir",
+      "trans": "法语短语：再见（带“后会有期、咱们回头见”的感觉），不是简单的 bye",
+      "examples": [
+        "Then it's au revoir England for a while!"
+      ],
+      "ipa": "ˌəʊ rəˈvwɑː(r)",
+      "key": "au revoir"
+    },
+    {
+      "word": "awe",
+      "trans": "n. 敬畏、惊叹（可褒义赞叹，也可又惊又怕的震撼）。a sense of awe 一种敬畏感",
+      "examples": [
+        "He could not help feel a sense of awe at the terrible genius of Rufus Clay."
+      ],
+      "ipa": "ɔː"
+    },
+    {
+      "word": "waffle on",
+      "trans": "英式口语短语：絮絮叨叨、没完没了地啰嗦、东拉西扯说一堆没营养的话",
+      "examples": [
+        "It was another chance to waffle on about those ingenious Victorians."
+      ],
+      "key": "waffle on"
+    },
+    {
+      "word": "ingenious",
+      "trans": "adj. 构思巧妙的、有独创性的（形容人、方案、工程精巧）",
+      "examples": [
+        "Those ingenious Victorians, hewing rock with nothing but pickaxes."
+      ],
+      "ipa": "ɪnˈdʒiːniəs"
+    },
+    {
+      "word": "hew",
+      "trans": "v.（hewed/hewn，用斧头、镐子）砍、凿、劈、开凿岩石",
+      "examples": [
+        "Hewing rock with nothing but pickaxes."
+      ],
+      "ipa": "hjuː"
+    },
+    {
+      "word": "pickaxe",
+      "trans": "n. 镐、十字镐（一头尖一头扁的那种开山镐）",
+      "examples": [
+        "Hewing rock with nothing but pickaxes."
+      ],
+      "ipa": "ˈpɪkæks"
+    },
+    {
+      "word": "artery",
+      "trans": "n. 主干道、动脉（比喻交通/水流的“大动脉”）",
+      "examples": [
+        "This artery of silent black water under his feet was the stuff of nightmares."
+      ],
+      "ipa": "ˈɑːtəri"
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "He wore {} trousers two sizes too big.",
+      "answer": "baggy",
+      "hint": "宽松的、肥大的"
+    },
+    {
+      "prompt": "The hallway was decorated with {}.",
+      "answer": "pot plants",
+      "hint": "盆栽植物"
+    },
+    {
+      "prompt": "She heard a {} of bells in the distance.",
+      "answer": "tinkling",
+      "hint": "叮当声"
+    },
+    {
+      "prompt": "Can you {} your results to mine?",
+      "answer": "compare",
+      "hint": "把……与……对比"
+    },
+    {
+      "prompt": "I couldn't {} a ticket anywhere.",
+      "answer": "get hold of",
+      "hint": "弄到、搞到"
+    },
+    {
+      "prompt": "He stopped on the {} and looked down.",
+      "answer": "landing",
+      "hint": "（楼梯）平台"
+    },
+    {
+      "prompt": "We climbed a long {} of stairs.",
+      "answer": "flight",
+      "hint": "一整段台阶"
+    },
+    {
+      "prompt": "The job was {} from easy - it was brutal.",
+      "answer": "far",
+      "hint": "远非、完全不"
+    },
+    {
+      "prompt": "He {} under the weight and fell.",
+      "answer": "crumpled",
+      "hint": "（身体）瘫软垮下"
+    },
+    {
+      "prompt": "The king retired to a private {}.",
+      "answer": "chamber",
+      "hint": "房间、密室"
+    },
+    {
+      "prompt": "Their plan had reached a {}.",
+      "answer": "dead end",
+      "hint": "死胡同、绝境"
+    },
+    {
+      "prompt": "The plank was laid {} along the wall.",
+      "answer": "lengthways",
+      "hint": "纵向地"
+    },
+    {
+      "prompt": "They feared {} for their crimes.",
+      "answer": "retribution",
+      "hint": "惩罚、报应"
+    },
+    {
+      "prompt": "On Sundays he likes to {} in the garden.",
+      "answer": "potter about",
+      "hint": "慢悠悠地忙活琐事"
+    },
+    {
+      "prompt": "She cleaned the shelf with a {}.",
+      "answer": "duster",
+      "hint": "除尘掸、抹布"
+    },
+    {
+      "prompt": "With the whole holiday {} ahead, she relaxed.",
+      "answer": "stretching",
+      "hint": "在前方绵延铺开"
+    },
+    {
+      "prompt": "The smell of coffee {} through the house.",
+      "answer": "wafted",
+      "hint": "（气味）缓缓飘送"
+    },
+    {
+      "prompt": "He watched events {} without intervening.",
+      "answer": "play out",
+      "hint": "展开、发展、上演"
+    },
+    {
+      "prompt": "The doctors had to {} him dead.",
+      "answer": "pronounce",
+      "hint": "（官方）宣告、判定"
+    },
+    {
+      "prompt": "She couldn't hear more than a {} of their conversation.",
+      "answer": "scrap",
+      "hint": "一点点、一小段"
+    },
+    {
+      "prompt": "She gave a {} smile and waved.",
+      "answer": "cheerful",
+      "hint": "欢快的、愉快的"
+    },
+    {
+      "prompt": "Stop whining. Shut {}!",
+      "answer": "it",
+      "hint": "（口语）住嘴"
+    },
+    {
+      "prompt": "The guide {} us the whole procedure.",
+      "answer": "talked through",
+      "hint": "一步步讲解、带着过完流程"
+    },
+    {
+      "prompt": "After running, he paused to get his {} back.",
+      "answer": "breath",
+      "hint": "缓过气来"
+    },
+    {
+      "prompt": "Tell me more. Go on, I am all {}.",
+      "answer": "ears",
+      "hint": "（be all ears 洗耳恭听）"
+    },
+    {
+      "prompt": "He was hit on the {} of the head.",
+      "answer": "back",
+      "hint": "后（脑勺）"
+    },
+    {
+      "prompt": "He {} the orange flat with his shoe.",
+      "answer": "squashed",
+      "hint": "压扁、挤压"
+    },
+    {
+      "prompt": "He {} in the attic for the old photos.",
+      "answer": "poked around",
+      "hint": "四处翻找"
+    },
+    {
+      "prompt": "The room flooded from a {} of water.",
+      "answer": "build-up",
+      "hint": "积聚、累积量"
+    },
+    {
+      "prompt": "Don't {} here - the police are coming.",
+      "answer": "hang about",
+      "hint": "逗留、徘徊"
+    },
+    {
+      "prompt": "If they catch us, we're {}.",
+      "answer": "toast",
+      "hint": "完蛋了、死定了"
+    },
+    {
+      "prompt": "It's a {} plan, only used when nothing else works.",
+      "answer": "last-resort",
+      "hint": "万不得已的"
+    },
+    {
+      "prompt": "Everything {} whether we get the loan.",
+      "answer": "hangs on",
+      "hint": "取决于、系于"
+    },
+    {
+      "prompt": "Who are {} standing by the gate?",
+      "answer": "that lot",
+      "hint": "那一群人、那帮人"
+    },
+    {
+      "prompt": "The road climbed {} up the mountain.",
+      "answer": "tortuously",
+      "hint": "曲折迂回地"
+    },
+    {
+      "prompt": "The divers checked their {} before jumping in.",
+      "answer": "scuba gear",
+      "hint": "水肺潜水装备"
+    },
+    {
+      "prompt": "The low bridge had little {} for the truck.",
+      "answer": "headroom",
+      "hint": "净空高度"
+    },
+    {
+      "prompt": "We groped through the {} to find the door.",
+      "answer": "pitch darkness",
+      "hint": "漆黑一片"
+    },
+    {
+      "prompt": "So scared he dared not {} a muscle.",
+      "answer": "move",
+      "hint": "（not move a muscle 一动不动）"
+    },
+    {
+      "prompt": "A {} of blood welled on her finger.",
+      "answer": "globule",
+      "hint": "小球、液滴"
+    },
+    {
+      "prompt": "He had an {} fear of the dark.",
+      "answer": "irrational",
+      "hint": "非理性的、毫无来由的"
+    },
+    {
+      "prompt": "She cooked the eggs on a hot {}.",
+      "answer": "griddle",
+      "hint": "平煎盘、铁板"
+    },
+    {
+      "prompt": "The Romans built an {} to carry water into the city.",
+      "answer": "aqueduct",
+      "hint": "渡槽、输水渠"
+    },
+    {
+      "prompt": "Excess water escapes through the {}.",
+      "answer": "overflow pipe",
+      "hint": "溢流管"
+    },
+    {
+      "prompt": "A small stream runs under the road in a {}.",
+      "answer": "culvert",
+      "hint": "涵洞"
+    },
+    {
+      "prompt": "The village was {} by the flood.",
+      "answer": "submerged",
+      "hint": "淹没、浸没"
+    },
+    {
+      "prompt": "She {} the gate and stepped into the garden.",
+      "answer": "unlatched",
+      "hint": "拉开插销、解开门闩"
+    },
+    {
+      "prompt": "The ditch {} a larger canal.",
+      "answer": "drains into",
+      "hint": "汇入、流入"
+    },
+    {
+      "prompt": "He used an {} to cut the metal bar.",
+      "answer": "angle grinder",
+      "hint": "角磨机"
+    },
+    {
+      "prompt": "After the show, he said his {} and left.",
+      "answer": "au revoir",
+      "hint": "（法语）再见、后会有期"
+    },
+    {
+      "prompt": "The vast canyon filled us with {}.",
+      "answer": "awe",
+      "hint": "敬畏、惊叹"
+    },
+    {
+      "prompt": "He {} for an hour without saying anything useful.",
+      "answer": "waffled on",
+      "hint": "絮絮叨叨、没营养地啰嗦"
+    },
+    {
+      "prompt": "It was an {} device that solved the problem elegantly.",
+      "answer": "ingenious",
+      "hint": "构思巧妙的"
+    },
+    {
+      "prompt": "Workers {} the stone out of the cliff with hammers.",
+      "answer": "hewed",
+      "hint": "（用工具）砍、凿、劈"
+    },
+    {
+      "prompt": "They broke the frozen ground with a {}.",
+      "answer": "pickaxe",
+      "hint": "镐、十字镐"
+    },
+    {
+      "prompt": "The main {} of the city was jammed with traffic.",
+      "answer": "artery",
+      "hint": "主干道、大动脉"
+    }
+  ]
+}

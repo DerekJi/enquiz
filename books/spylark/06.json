@@ -6,30 +6,35 @@
     {
       "word": "clamber",
       "ipa": "/ˈklæmbə/",
+      "trans": "（费力地）攀爬；手脚并用地爬。强调动作笨拙、吃力，需要手脚并用。",
       "examples": [
         "He had to clamber through trees for half an hour to get to the edge of the water."
       ]
     },
     {
       "word": "edge of the water",
+      "trans": "水边；岸边。指水与陆地交界的地方。",
       "examples": [
         "He pushed through the trees to get to the edge of the water without being seen."
       ]
     },
     {
       "word": "film set",
+      "trans": "电影拍摄现场；片场。",
       "examples": [
         "The bay was as busy as a film set."
       ]
     },
     {
       "word": "coincide with",
+      "trans": "与……同时发生；与……一致/相符。",
       "examples": [
         "The study centre was being opened to coincide with the start of the Lakes Summer Festival."
       ]
     },
     {
       "word": "a jolt of",
+      "trans": "一阵突如其来的（恐慌/震惊/惊讶/恐惧）。jolt 本意是\"震动、颠簸\"，这里比喻情绪上的猛然冲击。",
       "examples": [
         "He felt a jolt of panic as the helicopter came into view."
       ]
@@ -37,12 +42,14 @@
     {
       "word": "creep",
       "ipa": "/kriːp/",
+      "trans": "v. 悄悄地移动；爬行；（植物）蔓延。过去式 crept。",
       "examples": [
         "He crept through the trees in a wide arc."
       ]
     },
     {
       "word": "force one's way through",
+      "trans": "强行穿过；挤过。强调用力量推开障碍或人群。",
       "examples": [
         "The bushes were bare enough inside for him to force his way through."
       ]
@@ -50,6 +57,7 @@
     {
       "word": "a rustle of leaves",
       "ipa": "/ˈrʌsl/",
+      "trans": "树叶的沙沙声。",
       "examples": [
         "The machine came down with a rustle of leaves."
       ]
@@ -57,18 +65,21 @@
     {
       "word": "rustle",
       "ipa": "/ˈrʌsl/",
+      "trans": "n./v.（使）发出沙沙声，常用于树叶、纸张、丝绸等。",
       "examples": [
         "The machine came down with a rustle of leaves."
       ]
     },
     {
       "word": "block the way out",
+      "trans": "挡住出口；堵住出路。",
       "examples": [
         "A man was standing in front of him, blocking the way out."
       ]
     },
     {
       "word": "turn up",
+      "trans": "出现；到场（姗姗来迟）。≈ show up，但 show up 更口语常用；turn up 略带\"总算姗姗来迟、终于冒出来\"的语感，潜台词：我等你好久了，你总算来了。",
       "examples": [
         "I was wondering when you were going to turn up.",
         "Don't worry, he'll turn up sooner or later."
@@ -77,18 +88,21 @@
     {
       "word": "grim",
       "ipa": "/ɡrɪm/",
+      "trans": "adj. 严峻的；冷酷的；令人沮丧的；也可形容人表情严肃坚定。",
       "examples": [
         "The pilot took in Tom's expression with a grim satisfaction."
       ]
     },
     {
       "word": "a good",
+      "trans": "（口语）足足、整整，强调数量足够多。a good six inches taller 足足高了六英寸。",
       "examples": [
         "He was a good six inches taller than Tom."
       ]
     },
     {
       "word": "seconds away from doing",
+      "trans": "离做某事只差几秒；马上就要做某事，强调迫在眉睫。",
       "examples": [
         "I was seconds away from calling a full-scale terror alert."
       ]
@@ -96,6 +110,7 @@
     {
       "word": "exasperation",
       "ipa": "/ˌeɡzɑːˈspeɪʃn/",
+      "trans": "n. 恼怒；烦躁；无奈。比 anger 更强调因反复受挫而产生的烦躁感。",
       "examples": [
         "The pilot scratched his neck, exasperation in his voice."
       ]
@@ -103,6 +118,7 @@
     {
       "word": "reproach",
       "ipa": "/rɪˈprəʊtʃ/",
+      "trans": "n./v. 责备、谴责，语气比 blame 更文雅。",
       "examples": [
         "The word was full of reproach."
       ]
@@ -110,78 +126,91 @@
     {
       "word": "full of reproach",
       "ipa": "/rɪˈprəʊtʃ/",
+      "trans": "充满责备的；满是责怪的目光/语气。",
       "examples": [
         "'Oh,' the word was full of reproach."
       ]
     },
     {
       "word": "keep a lookout for",
+      "trans": "留意观察；提防；警惕搜寻。",
       "examples": [
         "What were you looking at, instead of keeping a lookout for other aircraft?"
       ]
     },
     {
       "word": "at arm's length",
+      "trans": "字面\"一臂之遥\"，引申\"保持距离、不让某人靠太近（情感或物理上）\"。常用 keep sb at arm's length / hold sth at arm's length。",
       "examples": [
         "He held the drone at arm's length, feeling its weight."
       ]
     },
     {
       "word": "from scratch",
+      "trans": "从零开始；从头做起。指没有借助任何现成的东西。",
       "examples": [
         "You made this? From scratch?"
       ]
     },
     {
       "word": "sculpt",
+      "trans": "雕刻；塑造。既指用石头黏土做雕塑，也比喻精心打造外形。",
       "examples": [
         "Flawless aerodynamic sculpting, perfectly balanced delta wing."
       ]
     },
     {
       "word": "aerodynamic sculpting",
+      "trans": "气动外形塑造。为让物体更符合空气动力学而设计、打磨外形。",
       "examples": [
         "Flawless aerodynamic sculpting, perfectly balanced delta wing."
       ]
     },
     {
       "word": "delta wing",
+      "trans": "三角翼。平面形状像希腊字母 Δ 的三角形机翼，常见于高速飞机。",
       "examples": [
         "A perfectly balanced delta wing, no less."
       ]
     },
     {
       "word": "triple prop configuration",
+      "trans": "三螺旋桨布局。飞机采用三个螺旋桨的动力布置方式。",
       "examples": [
         "Triple prop configuration: two forwards and a pusher at the back."
       ]
     },
     {
       "word": "pusher",
+      "trans": "航空里指\"推进式螺旋桨/推进式布局\"，即螺旋桨装在机身后部，把飞机向前\"推\"。",
       "examples": [
         "Two props forwards and a pusher at the back."
       ]
     },
     {
       "word": "lift off vertically",
+      "trans": "垂直起飞。",
       "examples": [
         "All able to swivel up, so you can lift off vertically like a helicopter."
       ]
     },
     {
       "word": "fixed-wing aeroplane",
+      "trans": "固定翼飞机。靠机翼产生升力，区别于直升机。",
       "examples": [
         "You can fly horizontally with the speed of a fixed-wing aeroplane."
       ]
     },
     {
       "word": "a nice bit of kit",
+      "trans": "英式口语表达。kit 这里指装备/工具/东西；a nice bit of 表示\"相当不错的、真够厉害的\"。Nice bit of kit! 相当不错的装备！",
       "examples": [
         "Perfectly balanced delta wing. Nice bit of kit!"
       ]
     },
     {
       "word": "flick",
+      "trans": "用手指快速轻弹。flick a piece of dirt 弹掉一小块灰尘。",
       "examples": [
         "He flicked a piece of dirt from the fuselage."
       ]
@@ -189,6 +218,7 @@
     {
       "word": "full-on",
       "ipa": "/ˌfʊl ˈɒn/",
+      "trans": "adj/adv 口语。完全的；全力以赴的；毫不保留的；强度很大的。",
       "examples": [
         "It would take a full-on aeronautical genius to make a tricopter like this."
       ]
@@ -196,6 +226,7 @@
     {
       "word": "aeronautical",
       "ipa": "/ˌeərəˈnɔːtɪkl/",
+      "trans": "adj. 航空（学）的。",
       "examples": [
         "It would take a full-on aeronautical genius to make a tricopter like this."
       ]
@@ -203,6 +234,7 @@
     {
       "word": "startle",
       "ipa": "/ˈstɑːtl/",
+      "trans": "vt. 使惊吓；使吃惊。强调突然的、短暂的惊吓。",
       "examples": [
         "The question startled him."
       ]
@@ -210,12 +242,14 @@
     {
       "word": "fuselage",
       "ipa": "/ˈfjuːzɪlɑːʒ/",
+      "trans": "n.（飞机的）机身。飞机主体结构，不含机翼和尾翼。",
       "examples": [
         "He flicked a piece of dirt from the fuselage."
       ]
     },
     {
       "word": "flesh-and-blood",
+      "trans": "adj. 有血有肉的；活生生的。强调真实的人而非虚构或机器。",
       "examples": [
         "Here was a flesh-and-blood helicopter pilot quizzing him."
       ]
@@ -223,6 +257,7 @@
     {
       "word": "drape",
       "ipa": "/dreɪp/",
+      "trans": "v.（随意地）披；覆盖；悬挂。n. 垂褶；窗帘。",
       "examples": [
         "The life vest draped around the pilot's shoulders obscured his name badge."
       ]
@@ -230,6 +265,7 @@
     {
       "word": "obscure",
       "ipa": "/əbˈskjʊə(r)/",
+      "trans": "adj. 模糊的；晦涩的；不出名的（an obscure village 偏僻的小村庄）；v. 遮蔽；使模糊（Clouds obscured the moon）。",
       "examples": [
         "The life vest obscured the pilot's name badge."
       ]
@@ -237,6 +273,7 @@
     {
       "word": "obscurity",
       "ipa": "/əbˈskjʊərəti/",
+      "trans": "n. 模糊；默默无闻；晦涩。fall into obscurity 渐渐无人问津。",
       "examples": [
         "The old book fell into obscurity after its author died."
       ]
@@ -244,84 +281,98 @@
     {
       "word": "braid",
       "ipa": "/breɪd/",
+      "trans": "n./v. 辫子；编织；（军装装饰用的）穗带。",
       "examples": [
         "Tom recognized his shoulder braid as that of a squadron leader."
       ]
     },
     {
       "word": "squadron leader",
+      "trans": "（英国皇家空军的）中队长，军衔名，缩写 Sqn Ldr。",
       "examples": [
         "Tom recognized the shoulder braid as that of a squadron leader."
       ]
     },
     {
       "word": "wind tunnel",
+      "trans": "风洞。用于测试空气动力学性能的实验设备。",
       "examples": [
         "I made a wind tunnel in my workshop."
       ]
     },
     {
       "word": "jam one's kit",
+      "trans": "把（某人的）装备卡住/弄坏/干扰信号。",
       "examples": [
         "I wouldn't have jammed your kit if you were just a hobby flyer."
       ]
     },
     {
       "word": "nose around",
+      "trans": "四处打探；窥探。带有好奇或可疑的意味。",
       "examples": [
         "You just happened to be nosing around a sector under surveillance."
       ]
     },
     {
       "word": "under surveillance",
+      "trans": "在监视之下；被监控。",
       "examples": [
         "You were nosing around a sector under surveillance."
       ]
     },
     {
       "word": "clock",
+      "trans": "英式口语动词。注意到；看到；瞥见；认出。",
       "examples": [
         "You took evasive action when we clocked you."
       ]
     },
     {
       "word": "take evasive action",
+      "trans": "采取规避动作/回避措施。常用于军事、航空或驾驶场景。",
       "examples": [
         "You took evasive action when we clocked you."
       ]
     },
     {
       "word": "be up against",
+      "trans": "面临（困难、对手等）；与……对抗。近义 come up against / be up against it。",
       "examples": [
         "I need to know who I'm up against here when I'm talking to you."
       ]
     },
     {
       "word": "a fraction of a second",
+      "trans": "一刹那、一瞬间。",
       "examples": [
         "For a fraction of a second some part of him wondered whether this was real."
       ]
     },
     {
       "word": "swoop through valleys",
+      "trans": "在山谷间俯冲穿梭。",
       "examples": [
         "When he flew he was always alone, swooping through the valleys."
       ]
     },
     {
       "word": "skim craggy tops",
+      "trans": "掠过嶙峋崎岖的山顶。",
       "examples": [
         "He flew alone, skimming the craggy tops."
       ]
     },
     {
       "word": "left behind like a shell",
+      "trans": "被撂在原地像具空壳。形容人沉浸在飞行里，躯体像空壳一样。",
       "examples": [
         "His body sat in the workshop, left behind like a shell."
       ]
     },
     {
       "word": "one's bladder is bursting",
+      "trans": "字面\"膀胱要炸了\"，即\"憋尿憋得受不了\"，口语常用，带夸张和幽默感。",
       "examples": [
         "Sometimes he'd land and realize his bladder was bursting."
       ]
@@ -329,6 +380,7 @@
     {
       "word": "hem",
       "ipa": "/hem/",
+      "trans": "n.（衣服下摆、袖口等的）折边、贴边；v. 给……折边、缝贴边。",
       "examples": [
         "Between his flying glove and the hem of his sleeve he saw a tiny tattoo."
       ]
@@ -336,6 +388,7 @@
     {
       "word": "depict",
       "ipa": "/dɪˈpɪkt/",
+      "trans": "v. 描绘；刻画。比 describe 更正式，常指用文字或画面呈现。",
       "examples": [
         "A tiny tattoo depicting a running man with wings."
       ]
@@ -343,12 +396,14 @@
     {
       "word": "immersion",
       "ipa": "/ɪˈmɜːʃn/",
+      "trans": "沉浸；浸没。可指物理浸入，也可指全身心投入某事。",
       "examples": [
         "The part still catching up from the immersion of his flight earlier."
       ]
     },
     {
       "word": "some part of someone",
+      "trans": "某人内心的某个部分；在某种程度上。表达隐约的、不愿完全承认的感受。≈ deep down。",
       "examples": [
         "For a second some part of him wondered whether this conversation was real."
       ]
@@ -356,30 +411,35 @@
     {
       "word": "bemused",
       "ipa": "/bɪˈmjuːzd/",
+      "trans": "adj. 困惑的；茫然的；发呆的。注意与 amused（被逗乐的）形近但意思完全不同，常被混淆。",
       "examples": [
         "His aunt stood there looking bemused."
       ]
     },
     {
       "word": "into focus",
+      "trans": "变得清晰；聚焦；明确。可指镜头对焦，也比喻事情逐渐明朗。bring sth into focus / come into focus。",
       "examples": [
         "He forced himself to bring the two worlds of his existence into focus."
       ]
     },
     {
       "word": "gather oneself together",
+      "trans": "振作精神、稳住心神、整理情绪。",
       "examples": [
         "He gathered himself together and held his hand out for the drone."
       ]
     },
     {
       "word": "the tiniest hint of a smile",
+      "trans": "一丝极淡的笑意。hint 指细微的迹象、一点点；tiniest 是 tiny 最高级，强调最微弱。",
       "examples": [
         "The tiniest hint of a smile flickered on the pilot's face."
       ]
     },
     {
       "word": "flicker on one's face",
+      "trans": "（表情、情绪）在某人脸上一闪而过。flicker 本意闪烁、摇曳（如火焰忽明忽暗），形容表情强调短暂、转瞬即逝。",
       "examples": [
         "The tiniest hint of a smile flickered on his face, then was gone."
       ]
@@ -387,24 +447,28 @@
     {
       "word": "bob around",
       "ipa": "/bɒb/",
+      "trans": "（在水中或空气中）上下浮动、飘忽游荡。强调没有固定方向地轻轻上下晃动。",
       "examples": [
         "Tom could see divers bobbing around the hull of the Teal."
       ]
     },
     {
       "word": "I'll be watching you",
+      "trans": "我会盯着你的。常带威胁、警告意味，也可开玩笑地说。",
       "examples": [
         "But I'll be watching you, Tom Hopkins."
       ]
     },
     {
       "word": "cross someone's path",
+      "trans": "与某人相遇；碰到某人。常指偶然相遇，有时带\"挡路、招惹\"意味。",
       "examples": [
         "If that drone crosses my path again, I'll blast it into the middle of next week."
       ]
     },
     {
       "word": "blast someone into next week",
+      "trans": "夸张的口语表达。字面\"把某人/某物炸到下星期去\"，实为狠狠打击、猛击、彻底击溃。同类 blast it to kingdom come（彻底炸毁、炸上天）。",
       "examples": [
         "If that drone crosses my path again, I'll blast it into the middle of next week."
       ]

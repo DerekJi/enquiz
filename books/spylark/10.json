@@ -5,12 +5,14 @@
   "words": [
     {
       "word": "creak and tug at one's mooring",
+      "trans": "在系泊处嘎吱作响并来回拉扯（船体受水流挤压晃动，发出老旧木头摩擦声）。",
       "examples": [
         "In the evening he drove to the tree-fringed bay where Jim Rothwell's houseboat creaked and tugged at her mooring."
       ]
     },
     {
       "word": "mooring",
+      "trans": "系泊处、停泊具、系泊缆绳（常用复数 moorings）。",
       "examples": [
         "Jim Rothwell's houseboat creaked and tugged at her mooring in the bay."
       ]
@@ -18,6 +20,7 @@
     {
       "word": "clamber aboard",
       "ipa": "/ˈklæmbə/",
+      "trans": "费力地爬上去、手脚并用地登上（船/车）。clamber 强调动作笨拙费劲。",
       "examples": [
         "A few minutes later Tom had anchored Maggot and clambered aboard."
       ]
@@ -25,30 +28,35 @@
     {
       "word": "clock",
       "ipa": "/klɒkt/",
+      "trans": "（英式口语重点）瞥见、一眼看到、留意到（= spot / notice，非正式小说高频）。",
       "examples": [
         "Tom thought back to the moment when he'd clocked Jim holding a decent-sized fish."
       ]
     },
     {
       "word": "decent-sized",
+      "trans": "相当大的、尺寸可观的、像样的。",
       "examples": [
         "He'd clocked Jim holding a decent-sized fish."
       ]
     },
     {
       "word": "give someone a fight",
+      "trans": "（鱼上钩或对手）拼命挣扎、使劲搏斗、让人好一阵折腾。give sb quite a fight。",
       "examples": [
         "Six pounds of char. Gave me quite a fight on the way up."
       ]
     },
     {
       "word": "plunge into",
+      "trans": "纵身投入、猛地扎进、急降入。",
       "examples": [
         "A double line plunging into the depths hung from each pole."
       ]
     },
     {
       "word": "drift",
+      "trans": "漂流、缓缓飘动、随波逐流。",
       "examples": [
         "They drifted for a while, the silence broken eventually by a pair of swans."
       ]
@@ -56,36 +64,42 @@
     {
       "word": "ritual",
       "ipa": "/ˈrɪtʃuəl/",
+      "trans": "仪式；一套习惯性动作、例行程序。",
       "examples": [
         "Jim pulled out his pipe and a box of matches and began the mysterious ritual of lighting up."
       ]
     },
     {
       "word": "strike a match",
+      "trans": "划火柴（固定搭配）。",
       "examples": [
         "He struck a match and cupped his hand over the bowl."
       ]
     },
     {
       "word": "cup one's hand over",
+      "trans": "把手弯成杯状拢住（挡风），如 cupped his hand over the bowl 用手掌罩住烟斗锅挡风。",
       "examples": [
         "He struck a match and cupped his hand over the bowl."
       ]
     },
     {
       "word": "bonfire",
+      "trans": "篝火、营火（autumn bonfires 秋天的篝火）。",
       "examples": [
         "A scent like fresh-cut hay mixed with autumn bonfires filled the air."
       ]
     },
     {
       "word": "a hint of",
+      "trans": "一丝、一点点。",
       "examples": [
         "A scent like fresh-cut hay mixed with autumn bonfires and a hint of fresh toast filled the air."
       ]
     },
     {
       "word": "be up to no good",
+      "trans": "不干好事、在搞鬼、闯祸（高频习语）。",
       "examples": [
         "That Snaith boy been up to no good again?"
       ]
@@ -93,6 +107,7 @@
     {
       "word": "sheen",
       "ipa": "/ˈʃiːn/",
+      "trans": "闪闪发光、泛着光泽（mercury-smooth water 水银般平滑的水面反光）。",
       "examples": [
         "The sun was sheening on the mercury-smooth water, forcing them to squint."
       ]
@@ -100,6 +115,7 @@
     {
       "word": "squint",
       "ipa": "/skwɪnt/",
+      "trans": "眯起眼睛（因阳光刺眼或看不清）。",
       "examples": [
         "The sun was sheening on the water, forcing them to squint."
       ]
@@ -107,6 +123,7 @@
     {
       "word": "commit an atrocity",
       "ipa": "/əˈtrɒsəti/",
+      "trans": "犯下暴行、施行暴行（atrocity 暴行、恶性犯罪事件）。",
       "examples": [
         "Were there really criminal minds plotting to commit some atrocity in the Lake District?"
       ]
@@ -114,114 +131,133 @@
     {
       "word": "tranquillity",
       "ipa": "/træŋˈkwɪləti/",
+      "trans": "宁静、静谧（英式拼写；美式 tranquility）。",
       "examples": [
         "Criminal minds plotting to commit an atrocity in the tranquillity of the English Lake District?"
       ]
     },
     {
       "word": "look on",
+      "trans": "旁观、袖手旁观地看。",
       "examples": [
         "He hadn't imagined the cruiser, sunk deliberately, with the speedboat looking on."
       ]
     },
     {
       "word": "squeeze into",
+      "trans": "挤进、塞进（狭小空间）。",
       "examples": [
         "The Teal squeezed into the tiny bay, the meeting in the quarry like a spy movie."
       ]
     },
     {
       "word": "go to the authorities",
+      "trans": "去找当局/官方（报案、报告）。",
       "examples": [
         "Can you go to the authorities and tell them what you have seen?"
       ]
     },
     {
       "word": "disbelief",
+      "trans": "难以置信、不相信。",
       "examples": [
         "His disbelief at the helicopter pilot's threat still lingered."
       ]
     },
     {
       "word": "join the dots",
+      "trans": "把零散线索串联起来、理清来龙去脉（英式 join a few dots；美式 connect the dots；来自连点成画游戏）。",
       "examples": [
         "You'll need to join a few dots, then."
       ]
     },
     {
       "word": "take something seriously",
+      "trans": "认真对待某事、把某事当回事。",
       "examples": [
         "Only Jim had taken the idea seriously."
       ]
     },
     {
       "word": "redden",
+      "trans": "（脸）变红、脸红。",
       "examples": [
         "Tom felt himself reddening at the mention of the new guests."
       ]
     },
     {
       "word": "company",
+      "trans": "陪伴、同伴（good / bad / useless company 好/差/没意思的陪伴对象）。",
       "examples": [
         "He knew he would end up disappointing everyone, because he was such useless company."
       ]
     },
     {
       "word": "extra eyes and ears",
+      "trans": "额外的眼线、帮手（能帮忙看、帮忙听情况的人）。",
       "examples": [
         "You'll need some extra eyes and ears, people who can see what you've seen."
       ]
     },
     {
       "word": "let out a bark of laughter",
+      "trans": "发出一阵（短促响亮的）大笑。bark of laughter 一阵大笑。",
       "examples": [
         "Jim let out a bark of laughter. I speak from experience."
       ]
     },
     {
       "word": "speak from experience",
+      "trans": "凭亲身经验来说、我这是经验之谈。",
       "examples": [
         "Jim let out a bark of laughter. I speak from experience."
       ]
     },
     {
       "word": "reel in",
+      "trans": "卷回收（钓线/网）、把……收上来。",
       "examples": [
         "He clenched his teeth around his pipe and began to reel in the lines."
       ]
     },
     {
       "word": "be after something",
+      "trans": "追求、寻找、追捕、惦记着某物。",
       "examples": [
         "Brian Wilkins said he was after a big char for someone very special."
       ]
     },
     {
       "word": "top secret",
+      "trans": "绝密的、最高机密的。",
       "examples": [
         "It's top secret, Jim said, pointing his pipe at Tom's chest."
       ]
     },
     {
       "word": "go to great lengths",
+      "trans": "竭尽全力、不惜大费周章、想尽一切办法（去做某事）。",
       "examples": [
         "They go to great lengths these days with the threat of terrorism so high."
       ]
     },
     {
       "word": "cordon",
+      "trans": "警戒线、封锁线（security cordon 安全警戒线）。",
       "examples": [
         "There will be a massive security cordon. No one will get near her."
       ]
     },
     {
       "word": "whopper",
+      "trans": "极大的东西、特大的东西（硕大的鱼）；也可指弥天大谎。",
       "examples": [
         "If I manage to catch another whopper, it will be the starter."
       ]
     },
     {
       "word": "mind racing",
+      "trans": "脑子飞速运转、思绪纷乱、思潮翻滚。",
       "examples": [
         "Back in the workshop, his mind racing, Tom pulled out his sketch map."
       ]
@@ -229,36 +265,42 @@
     {
       "word": "berth",
       "ipa": "/ˈbɜːθ/",
+      "trans": "v.（使船只）停泊、靠泊；n. 停泊位。",
       "examples": [
         "Berthing the Teal in Dowthwaite Bay had obviously been some kind of dry run."
       ]
     },
     {
       "word": "dry run",
+      "trans": "彩排、预演、实战演练（没有真实目标，模拟一遍流程）。",
       "examples": [
         "Berthing the Teal in Dowthwaite Bay had obviously been some kind of dry run."
       ]
     },
     {
       "word": "with an intensity",
+      "trans": "强烈地、无比强烈地（with an intensity like an electric shock 强烈得如同触电）。",
       "examples": [
         "He suddenly wished, with an intensity that was like an electric shock, that he could ask his father."
       ]
     },
     {
       "word": "wreckage",
+      "trans": "（失事飞机/船只的）残骸。",
       "examples": [
         "The image of the burning wreckage of his plane flashed into his mind."
       ]
     },
     {
       "word": "twisted metal",
+      "trans": "扭曲变形的金属。",
       "examples": [
         "He saw the twisted metal, black smoke, the open cockpit in the silent desert."
       ]
     },
     {
       "word": "moored",
+      "trans": "停泊的、系住的（moor 的过去分词）。",
       "examples": [
         "He drew a vessel moored at Dowthwaite Bay, and labelled it Teal."
       ]
@@ -266,36 +308,42 @@
     {
       "word": "doomed",
       "ipa": "/duːmd/",
+      "trans": "在劫难逃的、注定要失败/毁灭的、厄运难逃的。",
       "examples": [
         "He looked at the position of the doomed cruiser, which he had marked with a cross."
       ]
     },
     {
       "word": "break into a shudder",
+      "trans": "浑身猛地一阵战栗、猛然打了个寒颤。break into + 身体反应（break into tears 突然哭起来 / break into laughter 突然大笑 / break into a shudder）为文学用法，表突然迸发某种身体反应。",
       "examples": [
         "Tom felt his whole body break into a shudder as he looked at the map."
       ]
     },
     {
       "word": "sitting target",
+      "trans": "活靶子、极易遭受攻击的目标。",
       "examples": [
         "The cruiser had been a dummy for the Teal: a sitting target."
       ]
     },
     {
       "word": "put one's head in one's hands",
+      "trans": "双手抱头（表沮丧、绝望）。",
       "examples": [
         "He put his pencil on the desk and put his head in his hands."
       ]
     },
     {
       "word": "intersection",
+      "trans": "交叉点、交汇处。",
       "examples": [
         "The neat intersection of the Teal, cruiser and trig points was a sketch of a plot."
       ]
     },
     {
       "word": "assassination plot",
+      "trans": "暗杀阴谋、行刺密谋。",
       "examples": [
         "What he had drawn was a sketch of an assassination plot."
       ]
@@ -303,6 +351,7 @@
     {
       "word": "tree-fringed",
       "ipa": "/ˌtriː ˈfrɪndʒd/",
+      "trans": "树木环绕的、边缘长满树木的。",
       "examples": [
         "He drove to the tree-fringed bay where the houseboat creaked."
       ]
@@ -310,6 +359,7 @@
     {
       "word": "creak",
       "ipa": "/kriːk/",
+      "trans": "（木头、船体受水流挤压晃动）嘎吱作响，发出老旧木头摩擦的声响。",
       "examples": [
         "The houseboat creaked and tugged at her mooring."
       ]
@@ -317,6 +367,7 @@
     {
       "word": "tug",
       "ipa": "/tʌɡ/",
+      "trans": "拉扯、拽动；tug at sth 固定搭配，不断拉扯某物。",
       "examples": [
         "The houseboat creaked and tugged at her mooring."
       ]
@@ -324,6 +375,7 @@
     {
       "word": "spherical",
       "ipa": "/ˈsferɪkl/",
+      "trans": "球形的。",
       "examples": [
         "Each pole had a spherical bell at the tip."
       ]
@@ -331,6 +383,7 @@
     {
       "word": "deliberately",
       "ipa": "/dɪˈlɪbərətli/",
+      "trans": "蓄意地、故意地（sunk deliberately 被人蓄意凿沉）。",
       "examples": [
         "He hadn't imagined the cruiser, sunk deliberately."
       ]
@@ -338,6 +391,7 @@
     {
       "word": "insurgent",
       "ipa": "/ɪnˈsɜːdʒənt/",
+      "trans": "叛乱分子、暴动者、武装反叛人员（复数 insurgents）；adj. 叛乱的。",
       "examples": [
         "The area was controlled by local insurgents."
       ]
@@ -345,6 +399,7 @@
     {
       "word": "rhythmic",
       "ipa": "/ˈrɪðmɪk/",
+      "trans": "有节奏的、韵律分明的、节律性的。",
       "examples": [
         "The only sound was the rhythmic splash of the blades."
       ]
@@ -352,6 +407,7 @@
     {
       "word": "puff",
       "ipa": "/pʌf/",
+      "trans": "（烟斗、香烟）吸一口；一缕烟。take a puff of his pipe 吸了一口烟斗。",
       "examples": [
         "Jim took a puff of his pipe and blew out a jet of smoke."
       ]
@@ -359,6 +415,7 @@
     {
       "word": "fragrant",
       "ipa": "/ˈfreɪɡrənt/",
+      "trans": "芬芳的、香气怡人的、散发好闻气味的。",
       "examples": [
         "He let the fragrant air cool his face."
       ]
@@ -366,6 +423,7 @@
     {
       "word": "topmost",
       "ipa": "/ˈtɒpməʊst/",
+      "trans": "最顶端的、最高处的。",
       "examples": [
         "Its topmost point was Brockbarrow behind his own peak."
       ]
@@ -373,6 +431,7 @@
     {
       "word": "dummy",
       "ipa": "/ˈdʌmi/",
+      "trans": "诱饵、幌子、假目标。",
       "examples": [
         "The cruiser had been a dummy, marking the Teal's position."
       ]
@@ -380,6 +439,7 @@
     {
       "word": "orderly",
       "ipa": "/ˈɔːdəli/",
+      "trans": "整齐有序的、条理分明的。",
       "examples": [
         "The orderly lines he had drawn were a sketch of a plot."
       ]

@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "pick up (wind)",
+      "trans": "（the northerly breeze picked up）北风渐渐大了起来、北风渐起渐强。pick up 指风力增强。",
       "examples": [
         "On the trip back, the northerly breeze picked up, tilting yachts."
       ]
@@ -12,6 +13,7 @@
     {
       "word": "yacht",
       "ipa": "/jɒt/",
+      "trans": "游艇；帆船。",
       "examples": [
         "The breeze picked up, tilting yachts and sending gulls scything the air."
       ]
@@ -19,48 +21,56 @@
     {
       "word": "scythe",
       "ipa": "/saɪð/",
+      "trans": "n. 长柄大镰刀；v. 用镰刀割。引申 scythe through 像镰刀扫过般迅速掠过，或（疾病等）肆虐横扫。",
       "examples": [
         "The breeze sent gulls scything the air."
       ]
     },
     {
       "word": "as if",
+      "trans": "好像；仿佛。用来引出一种假设或看似如此的情况。",
       "examples": [
         "Maggot ploughed through the waves, as if eager to be home."
       ]
     },
     {
       "word": "dread",
+      "trans": "畏惧、惧怕（尚未发生的事）。dread 的对象一定是还没发生的事，核心情绪是焦虑；你不会 dread 眼前正追你的老虎（那是 fear），但会 dread 明天要交的报告。",
       "examples": [
         "Maggot ploughed through the waves, but Tom was dreading it."
       ]
     },
     {
       "word": "Sure enough",
+      "trans": "果然；不出所料；果真如此。",
       "examples": [
         "Sure enough, Aunt Emily was waiting for him at the stone harbour."
       ]
     },
     {
       "word": "listen for",
+      "trans": "留意听，等着听到某个动静。如等快递时 listen for the doorbell（留意听门铃响），区别于 listen to。",
       "examples": [
         "She must have been listening for him coming up the river."
       ]
     },
     {
       "word": "turn in",
+      "trans": "（车辆/船）驶入（某处/岔路）。",
       "examples": [
         "As he turned in and cut the engine, there she was."
       ]
     },
     {
       "word": "leave (a quality)",
+      "trans": "结构\"某物 + leave + 某处/某人\"，表示（某种特质）从……消失/离去。The color had left her face 她脸上血色褪去；the sharpness had left her voice 声音里的尖锐消失了。",
       "examples": [
         "Her hands were on her hips, but the sharpness had left her voice."
       ]
     },
     {
       "word": "storm off",
+      "trans": "气冲冲地走开；怒气冲冲地拂袖而去。",
       "examples": [
         "You missed your lunch, storming off like that."
       ]
@@ -68,162 +78,189 @@
     {
       "word": "bollard",
       "ipa": "/ˈbɒlɑːd/",
+      "trans": "系船柱；（道路上的）短柱、隔离桩。码头用来系缆绳，马路用来阻车或划分区域。",
       "examples": [
         "He tied a figure of eight on the bollard and made his way up the steps."
       ]
     },
     {
       "word": "look cross",
+      "trans": "看起来生气/不高兴。cross 此处为形容词\"生气的、恼火的\"，英式口语常用，语气比 angry 轻一点，带点\"闹别扭\"的感觉。",
       "examples": [
         "He could see that she didn't look cross, just tired and sad."
       ]
     },
     {
       "word": "telling-off",
+      "trans": "责骂；训斥；数落，口语常用。动词形式是 tell sb off。",
       "examples": [
         "He'd braced himself for a telling-off, but this would be worse."
       ]
     },
     {
       "word": "I've got to / I gotta",
+      "trans": "不得不、必须。I gotta go 是 I've got to go 的缩读形式，非常常用。",
       "examples": [
         "I'm fine. I've got to go to the workshop."
       ]
     },
     {
       "word": "edge away",
+      "trans": "慢慢挪开；悄悄退开。小心翼翼、一点一点地远离某人或某物，通常为避免被注意到。",
       "examples": [
         "He tried to edge away, but his aunt halted him with a raised palm."
       ]
     },
     {
       "word": "halt someone with a raised palm",
+      "trans": "举起手掌示意某人停下；抬手拦住某人。halt sb with + 方式（with a look / with a raised finger）。",
       "examples": [
         "He tried to edge away, but his aunt halted him with a raised palm."
       ]
     },
     {
       "word": "You're going to",
+      "trans": "表示\"不容拒绝的安排\"，你得……/你要……。日常英语常见（You're going to bed / see a doctor）。",
       "examples": [
         "You're not fine, and you're going to come inside the house."
       ]
     },
     {
       "word": "timidly",
+      "trans": "胆怯地；羞怯地；怯生生地。来自形容词 timid（胆小的、羞怯的）。",
       "examples": [
         "He followed her timidly over the lawn and into the kitchen."
       ]
     },
     {
       "word": "holidaymaker",
+      "trans": "度假者；游客，英式英语常用（美式常说 vacationers）。",
       "examples": [
         "It's hard to pretend to be the friendly local boy for the holidaymakers."
       ]
     },
     {
       "word": "be out of order with",
+      "trans": "与某人关系不和；惹某人生气；对某人不礼貌、没大没小。",
       "examples": [
         "He had been out of order with Maggie and Joel, he could see that."
       ]
     },
     {
       "word": "mind one's own business",
+      "trans": "管好自己的事；别多管闲事。",
       "examples": [
         "The pilot had warned him to mind his own business."
       ]
     },
     {
       "word": "pour oneself a cup of tea",
+      "trans": "给自己倒了杯茶。",
       "examples": [
         "She poured herself a cup of tea and sat down."
       ]
     },
     {
       "word": "in the sticks",
+      "trans": "在乡下；在偏僻的地方。",
       "examples": [
         "To live with your old aunt up here in the sticks."
       ]
     },
     {
       "word": "have it easy",
+      "trans": "过得轻松；日子好过。",
       "examples": [
         "No one thinks you have it easy, Tom."
       ]
     },
     {
       "word": "withdrawn and miserable",
+      "trans": "变得孤僻消沉、闷闷不乐。withdrawn 指内向、孤僻、不爱与人交流；miserable 指痛苦、非常不快乐。",
       "examples": [
         "None of that gives you an excuse for being withdrawn and miserable."
       ]
     },
     {
       "word": "be mortified at",
+      "trans": "对……感到极度羞愧/尴尬/难堪。mortified 语气非常重，比 embarrassed 强烈得多，接近\"羞愧得无地自容\"。",
       "examples": [
         "Mr and Mrs Green were mortified at the way you went off like that."
       ]
     },
     {
       "word": "get up to",
+      "trans": "（尤指）做（坏事、淘气的事）；干（某种勾当），常带贬义或调侃语气。What did you get up to? 你昨晚干嘛了（潜台词：是不是做了什么好玩/不该做的事）。",
       "examples": [
         "She trusted him and never questioned what he got up to with them."
       ]
     },
     {
       "word": "ask something of someone",
+      "trans": "向某人要求某事（更书面正式，语气更郑重）。That's a lot to ask of him 这对他的要求太高了。",
       "examples": [
         "The very small thing she asked of him was to make her guests feel welcome."
       ]
     },
     {
       "word": "too big a deal",
+      "trans": "太当回事；过于重要；小题大做。通常用于否定句或疑问句，表示某事没那么严重。",
       "examples": [
         "Making her guests feel welcome was too big a deal for him."
       ]
     },
     {
       "word": "no biggie",
+      "trans": "没什么大不了的；小事一桩。是 no big deal 的更轻松、更随意的说法，带点俏皮感。",
       "examples": [
         "'Sorry I forgot to call!' - 'No biggie.'"
       ]
     },
     {
       "word": "not come here to do",
+      "trans": "not ... to do 否定的是后面那件事（目的）。They haven't come here to go to the cinema 他们来这儿不是为了看电影（但确实来了）。",
       "examples": [
         "You know very well they haven't come here to go to the cinema."
       ]
     },
     {
       "word": "go in circles",
+      "trans": "原地打转；兜圈子；（讨论、争论等）没有进展。既可指物理转圈，也常比喻反复绕圈子、毫无结果。",
       "examples": [
         "No matter how hard he tried, he went in circles."
       ]
     },
     {
       "word": "the one + noun",
+      "trans": "那唯一的……如 the one person 那唯一一个人、the one time 那唯一一次、the one reason 那唯一的原因。",
       "examples": [
         "He remembered the one time he had gone swimming after the accident."
       ]
     },
     {
       "word": "row alongside",
+      "trans": "划船与……并排；划到……旁边。",
       "examples": [
         "You can row alongside them and be the lifeguard."
       ]
     },
     {
       "word": "there is no way out",
+      "trans": "无路可走；没有出路；进退两难。可指物理上没有出口，也比喻处境绝望、没有解决办法。",
       "examples": [
         "Tom could see there was no way out."
       ]
     },
     {
       "word": "kill two birds with one stone",
+      "trans": "一石二鸟；一举两得。正式场合可用 achieve two goals with one action / serve two purposes at once 替代（部分动物保护人士不喜此说法）。",
       "examples": [
         "Perhaps he could kill two birds with one stone and take them somewhere useful."
       ]
     },
     {
       "word": "the hardest bit of all",
+      "trans": "最困难的部分；最难的一关。bit 作\"部分\"讲非常口语化，英式尤常用（the best bit 最精彩部分 / the tricky bit 棘手之处）。",
       "examples": [
         "Finally, Thomas, the hardest bit of all - say that difficult word!"
       ]

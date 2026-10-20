@@ -5,12 +5,14 @@
   "words": [
     {
       "word": "head to",
+      "trans": "前往；朝……去。（head to 与 head for 都表\"朝某处去\"，head for 更强调朝着某个方向/目标前进。）",
       "examples": [
         "Tom collected Skylark from Maggot, and headed to the workshop."
       ]
     },
     {
       "word": "itching to",
+      "trans": "（itching to do sth）极想做某事；手痒想做；迫不及待想做。",
       "examples": [
         "He headed to the workshop, itching to get back into the sky."
       ]
@@ -18,6 +20,7 @@
     {
       "word": "plaster",
       "ipa": "/ˈplɑːstə(r)/",
+      "trans": "灰泥；熟石膏；（固定骨折的）石膏。",
       "examples": [
         "Most of his right side was in plaster after the accident."
       ]
@@ -25,30 +28,35 @@
     {
       "word": "cannibalize",
       "ipa": "/ˈkænɪb(ə)lˌaɪz/",
+      "trans": "吃（人/同类）；用拆下的零件修配（另一台机器等），拆东补西。",
       "examples": [
         "He welded together components cannibalized from half-dead machines."
       ]
     },
     {
       "word": "recklessness",
+      "trans": "鲁莽；不顾后果；轻率。",
       "examples": [
         "He welded components together with a Frankenstein-like recklessness."
       ]
     },
     {
       "word": "stripped-down",
+      "trans": "简化的、精简的、去繁就简的（拆掉多余部件）。",
       "examples": [
         "The lawnmower was based on a stripped-down Flymo."
       ]
     },
     {
       "word": "demon-possessed",
+      "trans": "字面\"被恶魔附身的、着魔的\"；日常英语中常作夸张比喻，形容一个人像着了魔一样疯狂、不知疲倦、停不下来。",
       "examples": [
         "'It's like a demon-possessed hovercraft,' his aunt had laughed."
       ]
     },
     {
       "word": "go out of one's way",
+      "trans": "特意、费心、不怕麻烦地去做某事。字面\"偏离自己原本的路\"，引申为不惜绕路、额外花精力去帮忙或完成某事。",
       "examples": [
         "She went out of her way to make her guests feel welcome.",
         "She really went out of her way to help us."
@@ -56,6 +64,7 @@
     },
     {
       "word": "go out of one's mind",
+      "trans": "发疯、失去理智；极度焦虑/担忧。drive sb out of his mind 把某人逼疯。",
       "examples": [
         "The wait nearly drove him out of his mind.",
         "He was going out of his mind with worry."
@@ -64,6 +73,7 @@
     {
       "word": "hovercraft",
       "ipa": "/ˈhɒvəkrɑːft/",
+      "trans": "气垫船。",
       "examples": [
         "It's like a demon-possessed hovercraft."
       ]
@@ -71,6 +81,7 @@
     {
       "word": "obsolete",
       "ipa": "/ˈɒbsəliːt/",
+      "trans": "过时的、被淘汰的、废弃的。",
       "examples": [
         "He added an obsolete mobile phone that served as a GPS receiver."
       ]
@@ -78,6 +89,7 @@
     {
       "word": "autonomous",
       "ipa": "/ɔːˈtɒnəməs/",
+      "trans": "自主的、自治的、自动化的（自动运行）。",
       "examples": [
         "This was the first fully autonomous lawnmower."
       ]
@@ -85,12 +97,14 @@
     {
       "word": "patent",
       "ipa": "/ˈpætnt/",
+      "trans": "n. 专利、专利权；adj. 明显的、显而易见的；v. 给……申请专利。",
       "examples": [
         "You could patent that, Tom, make a packet."
       ]
     },
     {
       "word": "make a packet",
+      "trans": "（英式口语）赚一大笔钱。",
       "examples": [
         "You could patent that, Tom, make a packet."
       ]
@@ -98,6 +112,7 @@
     {
       "word": "blustery",
       "ipa": "/ˈblʌstəri/",
+      "trans": "大风的、狂风大作的；狂暴的、吵闹的。",
       "examples": [
         "It was during a blustery night that Jim's boat came adrift."
       ]
@@ -105,6 +120,7 @@
     {
       "word": "come adrift",
       "ipa": "/əˈdrɪft/",
+      "trans": "（船）缆绳松脱漂走、失控漂移。（adrift 漂浮的、随波逐流的；引申计划等失控、出问题。）",
       "examples": [
         "Jim's vintage char boat had come adrift."
       ]
@@ -112,36 +128,42 @@
     {
       "word": "gunwale",
       "ipa": "/ˈɡʌn(ə)lz/",
+      "trans": "船舷上缘（常用复数 gunwales）。",
       "examples": [
         "The waves crashed against the gunwales, sending spray into their faces."
       ]
     },
     {
       "word": "in the warm",
+      "trans": "在温暖的地方；引申处于安全、受保护或知情的状态。",
       "examples": [
         "If only we had an eye in the sky, we'd be back in the warm in no time!"
       ]
     },
     {
       "word": "in no time",
+      "trans": "立刻、马上、很快（字面：用不了多少时间）。",
       "examples": [
         "We'd be back in the warm in no time!"
       ]
     },
     {
       "word": "on patrol",
+      "trans": "在巡逻、在执勤。",
       "examples": [
         "It sounded like the security services were on patrol."
       ]
     },
     {
       "word": "stretch out",
+      "trans": "伸展、舒展；延伸、展开。",
       "examples": [
         "He climbed until the southern half of the lake stretched out beyond the islands."
       ]
     },
     {
       "word": "smudge",
+      "trans": "n. 污迹、污点、模糊的痕迹。in moist charcoal smudges 呈潮湿木炭涂抹状（in + 形态名词，中文常处理成\"化作、呈……模样\"，如 Her hair fell in waves 头发呈波浪状垂落）。",
       "examples": [
         "The rain clouds hung in moist charcoal smudges over Morecambe Bay."
       ]
@@ -149,6 +171,7 @@
     {
       "word": "saturated",
       "ipa": "/ˈsætʃəˌreɪtɪd/",
+      "trans": "饱和的、浸透的；（颜色）浓艳饱和的。",
       "examples": [
         "The air was crisp and the lake and hills saturated with colour."
       ]
@@ -156,6 +179,7 @@
     {
       "word": "solitary",
       "ipa": "/ˈsɑləˌteri/",
+      "trans": "独自的、单独的；孤独的；唯一的、仅有的。",
       "examples": [
         "A solitary yacht, its sails white in the sun, meandered downwind."
       ]
@@ -163,12 +187,14 @@
     {
       "word": "meander",
       "ipa": "/miˈændər/",
+      "trans": "v. 漫步、闲逛；（河流、道路等）蜿蜒曲折而行。n. 漫步；曲流、弯道。",
       "examples": [
         "A solitary yacht meandered downwind."
       ]
     },
     {
       "word": "lose oneself in",
+      "trans": "沉浸于、陶醉于；迷失在……中。",
       "examples": [
         "Normally Tom would have lost himself in the flight."
       ]
@@ -176,48 +202,56 @@
     {
       "word": "a quick foray",
       "ipa": "/ˈfɒreɪ/",
+      "trans": "一次短暂的涉足/探路；一次快速的突袭（或探索）。",
       "examples": [
         "A quick foray north took him to Brockbarrow."
       ]
     },
     {
       "word": "a handful of",
+      "trans": "少数、几个、少量。字面\"一把\"。",
       "examples": [
         "The only sign of life was a handful of Swaledales dotted among the bracken."
       ]
     },
     {
       "word": "leg stretches",
+      "trans": "腿部拉伸；腿部伸展动作。",
       "examples": [
         "On Rigg Knott there was a lone runner doing some leg stretches."
       ]
     },
     {
       "word": "apart from that",
+      "trans": "除此之外；除了那一点之外。",
       "examples": [
         "Apart from that the hilltop was empty."
       ]
     },
     {
       "word": "shingle beach",
+      "trans": "卵石滩；砾石海滩（被水磨圆的扁卵石滩）。",
       "examples": [
         "The dinghy was pulled up on the shingle beach."
       ]
     },
     {
       "word": "hang out with",
+      "trans": "和某人待在一起；和某人一起玩、闲逛。",
       "examples": [
         "They wouldn't expect him to spend the summer holidays hanging out with them."
       ]
     },
     {
       "word": "do one's bit",
+      "trans": "尽自己的一份力；尽本分。",
       "examples": [
         "He would do his bit to keep Aunt Emily happy."
       ]
     },
     {
       "word": "least known",
+      "trans": "最不为人知的；知名度最低的。",
       "examples": [
         "Benson Isle was the largest island but also the least known."
       ]
@@ -225,18 +259,21 @@
     {
       "word": "reclusive",
       "ipa": "/rɪˈkluːsɪv/",
+      "trans": "（人）隐居避世的、不合群的。",
       "examples": [
         "It had been owned by the same reclusive family since the eighteenth century."
       ]
     },
     {
       "word": "set foot on",
+      "trans": "踏上；涉足；进入（某地）。",
       "examples": [
         "Even Jim Rothwell had never stepped foot on it."
       ]
     },
     {
       "word": "come to think of it",
+      "trans": "说起来、这么一想、我突然想到。",
       "examples": [
         "Come to think of it, I don't know anyone who has."
       ]
@@ -244,6 +281,7 @@
     {
       "word": "inquisitive",
       "ipa": "/ɪnˈkwɪzətɪv/",
+      "trans": "好奇的；爱打听的；好问的。",
       "examples": [
         "In his many inquisitive flights over it, Tom had seen little sign of the owners."
       ]
@@ -251,6 +289,7 @@
     {
       "word": "moor",
       "ipa": "/mɔːr/",
+      "trans": "v. 停泊（船只）；n. 荒原、沼泽地。",
       "examples": [
         "The Invincible was moored up under the Private: Keep Off sign."
       ]
@@ -258,6 +297,7 @@
     {
       "word": "secluded",
       "ipa": "/sɪˈkluːdɪd/",
+      "trans": "隐秘的、僻静隐蔽的、与世隔绝的。",
       "examples": [
         "He now owned its biggest and most secluded island."
       ]
@@ -265,24 +305,28 @@
     {
       "word": "luscious",
       "ipa": "/ˈlʌʃəs/",
+      "trans": "自带\"诱人\"的感觉，主要形容食物/味道/感官体验非常甜美、多汁、浓郁。形容水果甜美多汁；味道浓郁醇厚；声音柔和悦耳、富有感染力。",
       "examples": [
         "Luscious Lakeland - Real Ice Cream, Fresh from the Farm."
       ]
     },
     {
       "word": "be up to",
+      "trans": "（be up to sth）暗中谋划；在干（不明或不好的事）。",
       "examples": [
         "Whatever he was up to, he clearly meant business."
       ]
     },
     {
       "word": "mean business",
+      "trans": "动真格的；态度十分认真；决心要做成某事，不是玩玩而已。",
       "examples": [
         "Whatever he was up to, he clearly meant business."
       ]
     },
     {
       "word": "tourist launch",
+      "trans": "旅游船、观光汽艇。这里的 launch 不是\"发射\"，而是指\"汽艇、游艇\"（尤其小型机动船）。",
       "examples": [
         "Most people, speeding by on a tourist launch, only glimpsed the round house."
       ]
@@ -290,12 +334,14 @@
     {
       "word": "outbuilding",
       "ipa": "/ˈaʊtbɪldɪŋ/",
+      "trans": "附属配房、后院小屋。主楼之外独立的小房子（仓库、杂物间这类），不是主屋。",
       "examples": [
         "She disappeared into a concrete outbuilding around the back."
       ]
     },
     {
       "word": "around the back",
+      "trans": "在后面；绕到后面去。通常指建筑物、物体或某地的背面。",
       "examples": [
         "She disappeared into a concrete outbuilding around the back."
       ]
@@ -303,6 +349,7 @@
     {
       "word": "disused",
       "ipa": "/dɪsˈjuːzd/",
+      "trans": "废弃不用的（不再运营，但设备建筑还在）。",
       "examples": [
         "The flight path took Tom over a disused slate quarry."
       ]
@@ -310,6 +357,7 @@
     {
       "word": "slate quarry",
       "ipa": "/sleɪt ˈkwɒri/",
+      "trans": "板岩采石场。",
       "examples": [
         "The flight path took Tom over a disused slate quarry."
       ]
@@ -317,6 +365,7 @@
     {
       "word": "peregrine falcon",
       "ipa": "/ˈperəɡrɪn ˈfɔːlkən/",
+      "trans": "游隼（一种猛禽）。",
       "examples": [
         "He had flown in to look at a nest of peregrine falcons."
       ]
@@ -324,6 +373,7 @@
     {
       "word": "perch",
       "ipa": "/pɜːtʃ/",
+      "trans": "（鸟）栖息、停歇。",
       "examples": [
         "The falcons were perched high up in the wall of rock."
       ]
@@ -331,12 +381,14 @@
     {
       "word": "slate-strewn",
       "ipa": "/sleɪt struːn/",
+      "trans": "满地散落板岩的。",
       "examples": [
         "A vehicle was parked on the slate-strewn floor."
       ]
     },
     {
       "word": "stand guard",
+      "trans": "站岗；守卫；警戒。",
       "examples": [
         "Standing guard at the entrance was ponytail man."
       ]
@@ -344,18 +396,21 @@
     {
       "word": "feel a jolt",
       "ipa": "/dʒəʊlt/",
+      "trans": "本义猛地一震、颠簸冲击（物理震动）；引申内心猛然一惊、心头一震、精神受到冲击。",
       "examples": [
         "Tom felt a jolt as he realized it was a sub-machine gun."
       ]
     },
     {
       "word": "sub-machine gun",
+      "trans": "冲锋枪。",
       "examples": [
         "Tom felt a jolt as he realized it was a sub-machine gun."
       ]
     },
     {
       "word": "fall away",
+      "trans": "【地形】地面陡降、向下倾斜；【抽象】逐渐疏远、脱离。",
       "examples": [
         "Where the ground fell away into the woods, he saw straw-hat man."
       ]
@@ -363,6 +418,7 @@
     {
       "word": "clipboard",
       "ipa": "/ˈklɪpbɔːrd/",
+      "trans": "写字板、夹板；（电脑）剪贴板。",
       "examples": [
         "Straw-hat man stood there in a blazer and tie, with a clipboard in his hand."
       ]
@@ -370,18 +426,21 @@
     {
       "word": "billow",
       "ipa": "/ˈbɪləʊ/",
+      "trans": "（烟雾、云朵、尘土）滚滚翻腾、汹涌翻涌，大片弥漫散开。",
       "examples": [
         "Two Land Rovers followed with clouds of dust billowing behind."
       ]
     },
     {
       "word": "kitted out with",
+      "trans": "习语：全套配备、加装了（设备）。",
       "examples": [
         "Two black Land Rovers kitted out with spotlights and snorkels."
       ]
     },
     {
       "word": "bring up the rear",
+      "trans": "殿后，走在队伍的最后面。",
       "examples": [
         "One Land Rover came at the front, one bringing up the rear."
       ]
@@ -389,24 +448,28 @@
     {
       "word": "snorkel",
       "ipa": "/ˈsnɔːkl/",
+      "trans": "（人潜水用的）呼吸管（浮潜咬在嘴里、伸出水面呼吸）；汽车涉水喉。",
       "examples": [
         "Two Land Rovers kitted out with spotlights and snorkels."
       ]
     },
     {
       "word": "a flotilla of",
+      "trans": "一小支（船）队；一群（船）。",
       "examples": [
         "The Teal made her way through a flotilla of red and blue dinghies."
       ]
     },
     {
       "word": "stand around",
+      "trans": "闲站着（扎堆聊天）。",
       "examples": [
         "They stood around talking for a few more minutes."
       ]
     },
     {
       "word": "wisps of",
+      "trans": "一缕、一丝、薄薄一小股。专门形容轻薄、细长、飘散的东西（烟、云、尘）。",
       "examples": [
         "Tom watched the wisps of dust disperse."
       ]
@@ -414,24 +477,28 @@
     {
       "word": "disperse",
       "ipa": "/dɪˈspɜːs/",
+      "trans": "分散；散开；驱散。强调从聚集状态向四周散开。",
       "examples": [
         "Tom watched the wisps of dust disperse."
       ]
     },
     {
       "word": "cross the world",
+      "trans": "不远万里、跨越千山万水、漂洋过海远道而来。",
       "examples": [
         "He knew that tourists crossed the world to see sights like this."
       ]
     },
     {
       "word": "something told him",
+      "trans": "直觉告诉他、有某种预感、心里隐隐觉得。",
       "examples": [
         "But something told him these people were not there to enjoy the scenery."
       ]
     },
     {
       "word": "sights",
+      "trans": "名胜、景点。表名胜常用复数 sights。",
       "examples": [
         "Tourists crossed the world to see sights like this."
       ]
@@ -439,6 +506,7 @@
     {
       "word": "scenery",
       "ipa": "/ˈsiːnəri/",
+      "trans": "风景、景色。通常指一个地区整体的自然风光，是不可数名词。",
       "examples": [
         "These people were not there to enjoy the scenery."
       ]

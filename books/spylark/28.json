@@ -1,0 +1,944 @@
+{
+  "id": "28",
+  "title": "Chapter 28",
+  "order": 28,
+  "words": [
+    {
+      "word": "get a grip on oneself",
+      "trans": "控制自己的情绪、冷静下来、振作起来",
+      "key": "get a grip on oneself",
+      "examples": [
+        "He had to get a grip on himself before going back in."
+      ]
+    },
+    {
+      "word": "bare",
+      "trans": "adj. 裸露的、没有任何遮挡的；文中修饰 bulb（灯泡），指没有灯罩、光秃秃的灯泡",
+      "ipa": "beə(r)",
+      "examples": [
+        "A single bare bulb hung from the ceiling."
+      ]
+    },
+    {
+      "word": "get down on one's hands and knees",
+      "trans": "四肢着地（双膝跪地、双手撑地）；文中指 Tom 为看清地缝而趴跪在地的特定姿势",
+      "key": "get down on one's hands and knees",
+      "examples": [
+        "Tom got down on his hands and knees to peer into the crack."
+      ]
+    },
+    {
+      "word": "place",
+      "trans": "v. 辨认出、想起（某人或某物的身份或来源）；couldn’t quite place 一时间想不起来、无法确切辨别，常用于对某种声音/味道/面孔熟悉却卡壳说不上来",
+      "ipa": "pleɪs",
+      "examples": [
+        "The voice was familiar, but he couldn't quite place it."
+      ]
+    },
+    {
+      "word": "tingle",
+      "trans": "v.（皮肤）刺痛、发麻，微微震颤，激动兴奋；n. 麻刺感、一阵酥麻",
+      "ipa": "ˈtɪŋɡl",
+      "examples": [
+        "His scalp tingled with fear."
+      ]
+    },
+    {
+      "word": "tumble",
+      "trans": "v. 摔倒、翻滚、滚落、暴跌、仓促行动；n. 跌倒、翻滚、一堆杂乱之物",
+      "ipa": "ˈtʌmbl",
+      "examples": [
+        "She tumbled down the steps and rolled over."
+      ]
+    },
+    {
+      "word": "gushing",
+      "trans": "adj. 滔滔不绝的、过分热情的、喷涌的；v.（gush 现在分词）喷涌、大肆抒发情感",
+      "ipa": "ˈɡʌʃɪŋ",
+      "examples": [
+        "She gave a gushing account of the whole adventure."
+      ]
+    },
+    {
+      "word": "stairwell",
+      "trans": "n. 楼梯井、楼梯间（整段楼梯所在的封闭空间）",
+      "ipa": "ˈsteəwel",
+      "examples": [
+        "The shout echoed down the cold stairwell."
+      ]
+    },
+    {
+      "word": "a long shot",
+      "trans": "希望渺茫的尝试、孤注一掷、胜算很小（不等于完全没希望，只是几率低）；It’s a long shot but I’ll try. 机会渺茫，但我还是要试一试",
+      "examples": [
+        "It's a long shot, but the key might still fit."
+      ]
+    },
+    {
+      "word": "silhouette",
+      "trans": "n. 剪影、轮廓、黑色侧影；v. 使现出轮廓、使成剪影",
+      "ipa": "ˌsɪluˈet",
+      "examples": [
+        "A figure stood in silhouette against the grey window."
+      ]
+    },
+    {
+      "word": "yank",
+      "trans": "v. 猛拉、拽、用力扯；n. 猛拉、用力一拽；grabbed the key from the nail 从墙上那枚钉子上一把扯下钥匙",
+      "ipa": "jæŋk",
+      "examples": [
+        "He grabbed the key from the nail and gave it a sharp yank."
+      ]
+    },
+    {
+      "word": "low-level humming",
+      "trans": "n. 低沉微弱的嗡嗡声",
+      "examples": [
+        "A low-level humming came from somewhere behind the wall."
+      ]
+    },
+    {
+      "word": "little more than",
+      "trans": "只不过是、仅仅、几乎就是、充其量不过是，比 no more than 稍多一点。反向变体 little less than 几乎不亚于、差不多等于（It was little less than disaster. 这简直就是一场灾难）",
+      "examples": [
+        "The room was little more than a concrete box."
+      ]
+    },
+    {
+      "word": "sulphuric",
+      "trans": "adj. 含硫的、硫酸的（英式 sulphuric，美式 sulfuric）；sulphuric acid 硫酸",
+      "ipa": "sʌlˈfjʊərɪk",
+      "examples": [
+        "The water tasted faintly sulphuric, like rotten eggs."
+      ]
+    },
+    {
+      "word": "note",
+      "trans": "n.（香水、气味描写）调子、韵味、一丝气息，不是笔记、标记；background note 底层气息、隐隐的底色气味",
+      "ipa": "nəʊt",
+      "examples": [
+        "Under the disinfectant was a faint floral note."
+      ]
+    },
+    {
+      "word": "floor cleaner",
+      "trans": "n. 地板清洁剂",
+      "ipa": "flɔː ˈkliːnə(r)",
+      "examples": [
+        "The whole place reeked of strong floor cleaner."
+      ]
+    },
+    {
+      "word": "spotlessly",
+      "trans": "adv. 一尘不染地、毫无污渍地",
+      "ipa": "ˈspɒtləsli",
+      "examples": [
+        "The tiles were spotlessly, unnervingly clean."
+      ]
+    },
+    {
+      "word": "starkly",
+      "trans": "adv. 光秃秃地、刺眼地、毫无修饰地、鲜明地。①描写光线（本文用法）：灯光惨白、毫无装饰、刺眼生硬（The room was starkly lit by naked bulbs.）；②抽象语境：鲜明地、赤裸裸地（starkly different 截然不同）",
+      "ipa": "ˈstɑːkli",
+      "examples": [
+        "The room was starkly lit by naked bulbs."
+      ]
+    },
+    {
+      "word": "clopping",
+      "trans": "v.（clop 现在分词）（硬鞋底、马蹄）哒哒作响、踏得咯噔咯噔",
+      "ipa": "ˈklɒpɪŋ",
+      "examples": [
+        "He heard boots clopping along the corridor."
+      ]
+    },
+    {
+      "word": "crowd into one's mind",
+      "trans": "固定表达，思绪、画面一股脑涌上心头",
+      "key": "crowd into one's mind",
+      "examples": [
+        "A hundred questions crowded into his mind at once."
+      ]
+    },
+    {
+      "word": "psycho",
+      "trans": "n.（口语）疯子、变态恶棍",
+      "ipa": "ˈsaɪkəʊ",
+      "examples": [
+        "Some psycho had smashed every window on the street."
+      ]
+    },
+    {
+      "word": "stroke a cat",
+      "trans": "用手顺着猫毛轻轻抚摸猫咪",
+      "key": "stroke a cat",
+      "examples": [
+        "He stroked the cat slowly along its back as he talked."
+      ]
+    },
+    {
+      "word": "warily",
+      "trans": "adv. 警惕地、小心翼翼地、戒备地",
+      "ipa": "ˈweərəli",
+      "examples": [
+        "The boy watched him warily, one hand on the door."
+      ]
+    },
+    {
+      "word": "varnished",
+      "trans": "adj. 上了清漆的、漆面光亮的（varnish 过去分词）",
+      "ipa": "ˈvɑːnɪʃt",
+      "examples": [
+        "The varnished wood gleamed in the harsh light."
+      ]
+    },
+    {
+      "word": "paperweight",
+      "trans": "n. 镇纸",
+      "ipa": "ˈpeɪpəweɪt",
+      "examples": [
+        "A heavy glass paperweight held down the papers."
+      ]
+    },
+    {
+      "word": "take up",
+      "trans": "占据（面积、空间）；be taken up by sth（整片墙面空间）被某物占满",
+      "key": "take up",
+      "examples": [
+        "A huge desk took up most of the floor."
+      ]
+    },
+    {
+      "word": "brood",
+      "trans": "v. 忧思、郁郁沉思，闷闷地冥想",
+      "ipa": "bruːd",
+      "examples": [
+        "He sat brooding in the corner for hours."
+      ]
+    },
+    {
+      "word": "misty",
+      "trans": "adj. 雾气笼罩的、薄雾弥漫的",
+      "ipa": "ˈmɪsti",
+      "examples": [
+        "Beyond the window lay a grey, misty morning."
+      ]
+    },
+    {
+      "word": "gully",
+      "trans": "n.（复数 gullies）沟壑、溪谷，山体冲刷出的凹沟",
+      "ipa": "ˈɡʌli",
+      "examples": [
+        "Rainwater had cut a deep gully across the slope."
+      ]
+    },
+    {
+      "word": "spectacular",
+      "trans": "侧重景象场面宏大、视觉冲击力强，不一定甜美，壮丽/苍凉也可（spectacular view / scenery）",
+      "ipa": "spekˈtækjələ(r)",
+      "examples": [
+        "The view from the top was truly spectacular."
+      ]
+    },
+    {
+      "word": "deliberate",
+      "trans": "adj.（描写说话）语速从容不迫、字字斟酌，每句都经过思量，语速偏慢审慎，有意识地控制措辞；used to being listened to 习惯于别人听自己讲话",
+      "ipa": "dɪˈlɪbərət",
+      "examples": [
+        "He spoke in a slow, deliberate voice, used to being listened to."
+      ]
+    },
+    {
+      "word": "psychopath",
+      "trans": "精神变态者（书面用词，小说正式词汇）",
+      "ipa": "ˈsaɪkəpæθ",
+      "examples": [
+        "The papers called the killer a cold-blooded psychopath."
+      ]
+    },
+    {
+      "word": "reddish",
+      "trans": "adj. 略带红色的、泛红的、淡红的。-ish 放在颜色后表示微微带点儿：reddish 泛红、yellowish 微黄、greyish 泛灰",
+      "ipa": "ˈredɪʃ",
+      "examples": [
+        "He had short, reddish hair and a pale complexion."
+      ]
+    },
+    {
+      "word": "slightly puffy",
+      "trans": "略微浮肿",
+      "examples": [
+        "His eyes were slightly puffy, as if he hadn't slept."
+      ]
+    },
+    {
+      "word": "complexion",
+      "trans": "n. 面色、肤色（脸上皮肤）",
+      "ipa": "kəmˈplekʃn",
+      "examples": [
+        "A blotchy red complexion coloured his face."
+      ]
+    },
+    {
+      "word": "clasp",
+      "trans": "v. 十指交扣、双手合拢握在一起；clasp one’s hands 双手互握（可攥紧也可松弛）",
+      "ipa": "klɑːsp",
+      "examples": [
+        "He clasped his hands together on the desk."
+      ]
+    },
+    {
+      "word": "struggling student",
+      "trans": "学习吃力、学业陷入困境的学生、学困生",
+      "examples": [
+        "The tutor stayed late to help a struggling student."
+      ]
+    },
+    {
+      "word": "vicar",
+      "trans": "n.（英国国教）教区牧师",
+      "ipa": "ˈvɪkə(r)",
+      "examples": [
+        "The vicar called round on Sunday mornings."
+      ]
+    },
+    {
+      "word": "parishioner",
+      "trans": "n. 教区居民、教区信徒",
+      "ipa": "pəˈrɪʃənə(r)",
+      "examples": [
+        "Every parishioner knew the old man's habits."
+      ]
+    },
+    {
+      "word": "mastermind",
+      "trans": "n. 主谋、策划者、幕后首脑",
+      "ipa": "ˈmɑːstəmaɪnd",
+      "examples": [
+        "Police were still hunting the mastermind of the plot."
+      ]
+    },
+    {
+      "word": "reedy",
+      "trans": "adj.（声音）尖细单薄、细弱的嗓音（文学高频）",
+      "ipa": "ˈriːdi",
+      "examples": [
+        "He had a thin, reedy voice that was hard to take seriously."
+      ]
+    },
+    {
+      "word": "grab hold of",
+      "trans": "伸手一把抓住并紧紧攥住不放，重点落到抓牢这个状态",
+      "key": "grab hold of",
+      "examples": [
+        "She grabbed hold of his arm to stop him going."
+      ]
+    },
+    {
+      "word": "gather one's wits",
+      "trans": "镇定下来、收拢心神、回过神",
+      "key": "gather one's wits",
+      "examples": [
+        "She paused, gathering her wits before she spoke."
+      ]
+    },
+    {
+      "word": "rumble",
+      "trans": "v. ①发出隆隆轰鸣（雷声、肚子咕噜、车辆轰鸣）；②英式俚语（本句）看穿、识破、发觉秘密（We’ve been rumbled! 我们暴露了；He rumbled their plot. 他识破了他们的阴谋）",
+      "ipa": "ˈrʌmbl",
+      "examples": [
+        "'They've been rumbled,' the sergeant muttered — their plan was found out."
+      ]
+    },
+    {
+      "word": "poised",
+      "trans": "adj. 做好准备的；悬在上方蓄势待发。①物体悬于上方摆好即将行动的姿态；②描写人镇定自若、沉着（She was poised for action; a poised woman）；hold sth poised over 把某物举在……上方还没落下",
+      "ipa": "pɔɪzd",
+      "examples": [
+        "He held the pen poised over the paper, not writing."
+      ]
+    },
+    {
+      "word": "wag",
+      "trans": "v. 来回摇摆、摇动；wag a finger at somebody 对着某人摆动一根手指（多为食指左右摇晃）",
+      "ipa": "wæɡ",
+      "examples": [
+        "The old man wagged a finger at the children."
+      ]
+    },
+    {
+      "word": "heroically",
+      "trans": "adv. 英勇地、壮举般地",
+      "ipa": "həˈrəʊɪkli",
+      "examples": [
+        "He pretended to work heroically through the whole night."
+      ]
+    },
+    {
+      "word": "unwittingly",
+      "trans": "adv. 无意地、不知情地、非故意地",
+      "ipa": "ʌnˈwɪtɪŋli",
+      "examples": [
+        "She had unwittingly led them straight to the hideout."
+      ]
+    },
+    {
+      "word": "evasive",
+      "trans": "adj. 避险的、闪避的；take evasive action 固定术语（航海/军事）采取避险闪避行动",
+      "ipa": "ɪˈveɪsɪv",
+      "examples": [
+        "He took evasive action, steering sharply away."
+      ]
+    },
+    {
+      "word": "the dock",
+      "trans": "英国刑事法庭里被告人站立的围栏位置、被告席",
+      "examples": [
+        "The defendant stood silent in the dock."
+      ]
+    },
+    {
+      "word": "interrogate",
+      "trans": "v. 讯问、盘问、审问",
+      "ipa": "ɪnˈterəɡeɪt",
+      "examples": [
+        "The lawyer interrogated the witness without raising his voice."
+      ]
+    },
+    {
+      "word": "barrister",
+      "trans": "n.（英国）出庭大律师。英国律师分两类：barrister 出庭大律师，做辩护质询、可上高等法院；solicitor 事务律师，多做办公室工作、一般不上高等法庭",
+      "ipa": "ˈbærɪstə(r)",
+      "examples": [
+        "A sharp young barrister handled the questioning."
+      ]
+    },
+    {
+      "word": "bottle",
+      "trans": "英式俚语，不是瓶子，=guts/nerve/courage 胆量、勇气、硬气。have a bit of bottle 有几分胆量、敢硬撑；lose your bottle 怂了、泄气；bottle it 临阵退缩、打退堂鼓",
+      "examples": [
+        "'You've got more bottle than I gave you credit for,' the man said."
+      ]
+    },
+    {
+      "word": "Good for you",
+      "trans": "不等于“你很好/对你有好处”，而是算你有种！好样的！真有你的！表示赞许、认可对方所作所为",
+      "examples": [
+        "'You stood up to him? Good for you.'"
+      ]
+    },
+    {
+      "word": "flick through",
+      "trans": "飞快地随手翻阅、快速扫过，一般不逐字细读，手指快速一拨一页页过，侧重浏览翻查而非认真阅读",
+      "key": "flick through",
+      "examples": [
+        "He flicked through a file of old photographs."
+      ]
+    },
+    {
+      "word": "start",
+      "trans": "vi.（文学动词）猛地一惊、吓了一跳，身体不由自主地颤了一下，不是“开始”。老式书面义 start=give a sudden involuntary jump（受刺激身体猛然一抖、惊跳），不是大叫，是身体本能的一颤",
+      "ipa": "stɑːt",
+      "examples": [
+        "The quiet way he spoke made Tom start with fright."
+      ]
+    },
+    {
+      "word": "disarmingly",
+      "trans": "adv. 使人消除戒备地、化解敌意地",
+      "ipa": "dɪsˈɑːmɪŋli",
+      "examples": [
+        "'Sit down,' he said disarmingly, gesturing to a chair."
+      ]
+    },
+    {
+      "word": "gripe",
+      "trans": "n.（口语）不满、牢骚、怨言；have no gripe against sb 对某人并无不满、没有什么私怨",
+      "ipa": "ɡraɪp",
+      "examples": [
+        "I've no gripe against you personally."
+      ]
+    },
+    {
+      "word": "affectionately",
+      "trans": "adv. 满怀温情地、亲昵地",
+      "ipa": "əˈfekʃənətli",
+      "examples": [
+        "'My old friend,' she said affectionately."
+      ]
+    },
+    {
+      "word": "once",
+      "trans": "副词，一度、曾经，适合描述身份、职业、角色，突出那是人生当中一段往事、现状已改变（文学、小说高频）",
+      "examples": [
+        "He was once a well-known teacher around here."
+      ]
+    },
+    {
+      "word": "buy somebody time",
+      "trans": "（通过拖延、搪塞、不摊牌的手段）给自己争取缓冲时间，不是买来钟表时间，是争取喘息机会",
+      "key": "buy somebody time",
+      "examples": [
+        "The delay bought them precious time to think."
+      ]
+    },
+    {
+      "word": "be at your disposal",
+      "trans": "固定习语（正式书面、小说高频），任由你来支配、调遣、使用",
+      "key": "be at your disposal",
+      "examples": [
+        "'My time is at your disposal,' he said."
+      ]
+    },
+    {
+      "word": "be into something",
+      "trans": "对……很感兴趣、爱好……",
+      "key": "be into something",
+      "examples": [
+        "He's very into vintage motorbikes."
+      ]
+    },
+    {
+      "word": "put two and two together",
+      "trans": "习语，综合几条线索、碎片信息自己推导出真相，把几件事联系起来悟出原委",
+      "key": "put two and two together",
+      "examples": [
+        "She was slow to put two and two together."
+      ]
+    },
+    {
+      "word": "spur-of-the-moment",
+      "trans": "adj. 一时心血来潮的、临时起意的，事先没有计划",
+      "examples": [
+        "It was a spur-of-the-moment decision, not a plan."
+      ]
+    },
+    {
+      "word": "find one's voice",
+      "trans": "原本一时语塞、不知道该说什么，现在终于想好说辞、开口；找回自己的表达",
+      "key": "find one's voice",
+      "examples": [
+        "He stood frozen for a moment, then found his voice."
+      ]
+    },
+    {
+      "word": "the steeple-gesture",
+      "trans": "塔状手势/指尖塔。两手十指尖两两对碰、手掌分开留出空隙，形成像教堂尖塔一样的三角形空洞。寓意①自信、深思、权衡、分析思考（本场景审讯者 Rufus 听完说辞后摆出，冷静审视对方）；②也可表示优越感、胸有成竹",
+      "examples": [
+        "He listened with his fingertips together in a steeple-gesture."
+      ]
+    },
+    {
+      "word": "events unfold",
+      "trans": "事情一步步展开、事态的真实经过",
+      "key": "events unfold",
+      "examples": [
+        "He described how the events unfolded that night."
+      ]
+    },
+    {
+      "word": "on the contrary",
+      "trans": "连词性习语，恰恰相反",
+      "examples": [
+        "'Not scared?' — 'On the contrary, I'm furious.'"
+      ]
+    },
+    {
+      "word": "act with great purpose",
+      "trans": "行动带着强烈目的性、胸有成竹、有意为之，不是漫无目的、临时冲动",
+      "key": "act with great purpose",
+      "examples": [
+        "Everything about him suggested a man acting with great purpose."
+      ]
+    },
+    {
+      "word": "on the basis of",
+      "trans": "基于……、凭借……",
+      "examples": [
+        "On the basis of what he'd heard, he had to act."
+      ]
+    },
+    {
+      "word": "one's face is set",
+      "trans": "脸色凝固，面部肌肉绷紧，不再有任何柔和表情（like rock 如同岩石一般）；under the surface 表象之下（外表看不出来）",
+      "key": "one's face is set",
+      "examples": [
+        "His face was set like rock, betraying nothing."
+      ]
+    },
+    {
+      "word": "No rush",
+      "trans": "不用着急、慢慢来；嘴上客套，并不是真的不紧迫",
+      "examples": [
+        "'No rush,' the man said, though his eyes were cold."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "He took a breath to {} and face them calmly.",
+      "answer": "get a grip on himself",
+      "hint": "控制情绪、冷静下来"
+    },
+    {
+      "prompt": "Only a {} bulb swung above the table.",
+      "answer": "bare",
+      "hint": "光秃秃的、无灯罩的"
+    },
+    {
+      "prompt": "To see into the crack, Tom had to {}.",
+      "answer": "get down on his hands and knees",
+      "hint": "四肢着地、双膝跪地双手撑地"
+    },
+    {
+      "prompt": "The face was familiar but he couldn't quite {}.",
+      "answer": "place",
+      "hint": "辨认出、想起身份来源"
+    },
+    {
+      "prompt": "His skin {} all over at the sound.",
+      "answer": "tingled",
+      "hint": "刺痛、发麻、起鸡皮疙瘩"
+    },
+    {
+      "prompt": "He tripped and {} down the bank.",
+      "answer": "tumbled",
+      "hint": "摔倒、翻滚滚落"
+    },
+    {
+      "prompt": "The article gave a {} account of their meeting.",
+      "answer": "gushing",
+      "hint": "滔滔不绝、过分热情的"
+    },
+    {
+      "prompt": "Her footsteps faded down the empty {}.",
+      "answer": "stairwell",
+      "hint": "楼梯井、楼梯间"
+    },
+    {
+      "prompt": "It's {}, but the door may still be unlocked.",
+      "answer": "a long shot",
+      "hint": "希望渺茫的尝试"
+    },
+    {
+      "prompt": "We saw only the {} of a person at the window.",
+      "answer": "silhouette",
+      "hint": "剪影、轮廓"
+    },
+    {
+      "prompt": "He {} the tablecloth and the plates fell.",
+      "answer": "yanked",
+      "hint": "猛拉、用力拽"
+    },
+    {
+      "prompt": "A strange {} seemed to come from the walls.",
+      "answer": "low-level humming",
+      "hint": "低沉微弱的嗡嗡声"
+    },
+    {
+      "prompt": "His excuse was {} a pack of lies.",
+      "answer": "little more than",
+      "hint": "只不过、充其量不过是"
+    },
+    {
+      "prompt": "The spring water had a sharp, almost {} taste.",
+      "answer": "sulphuric",
+      "hint": "含硫的、硫酸味的"
+    },
+    {
+      "prompt": "The critic detected a smoky {} in the whisky.",
+      "answer": "note",
+      "hint": "（气味/味道的）一丝气息、调子"
+    },
+    {
+      "prompt": "The floors gleamed, scrubbed with {}.",
+      "answer": "floor cleaner",
+      "hint": "地板清洁剂"
+    },
+    {
+      "prompt": "Every surface was {} clean.",
+      "answer": "spotlessly",
+      "hint": "一尘不染地"
+    },
+    {
+      "prompt": "The cold room was {} lit by bare bulbs.",
+      "answer": "starkly",
+      "hint": "光秃秃、刺眼、毫无修饰地"
+    },
+    {
+      "prompt": "We heard hooves {} on the hard road.",
+      "answer": "clopping",
+      "hint": "（马蹄硬底）哒哒作响"
+    },
+    {
+      "prompt": "All the old memories came {} at once.",
+      "answer": "crowding into his mind",
+      "hint": "（思绪）一股脑涌上心头"
+    },
+    {
+      "prompt": "Some {} had slashed all four tyres.",
+      "answer": "psycho",
+      "hint": "（口语）疯子、变态恶棍"
+    },
+    {
+      "prompt": "He kept on {} the sleeping cat as he lied.",
+      "answer": "stroking",
+      "hint": "顺着猫毛轻抚"
+    },
+    {
+      "prompt": "The dog eyed the stranger {}.",
+      "answer": "warily",
+      "hint": "警惕地、戒备地"
+    },
+    {
+      "prompt": "A {} wooden cabinet stood against the wall.",
+      "answer": "varnished",
+      "hint": "上了清漆的、漆面光亮的"
+    },
+    {
+      "prompt": "She pressed a heavy {} down on the letter.",
+      "answer": "paperweight",
+      "hint": "镇纸"
+    },
+    {
+      "prompt": "The enormous wardrobe {} half the bedroom.",
+      "answer": "took up",
+      "hint": "占据（空间）"
+    },
+    {
+      "prompt": "He spent the evening {} over the insult.",
+      "answer": "brooding",
+      "hint": "忧思、闷闷沉思"
+    },
+    {
+      "prompt": "A grey, {} dawn broke over the hills.",
+      "answer": "misty",
+      "hint": "雾气笼罩的"
+    },
+    {
+      "prompt": "The stream had worn a deep {} in the hillside.",
+      "answer": "gully",
+      "hint": "沟壑、溪谷"
+    },
+    {
+      "prompt": "The canyon below offered a {} view.",
+      "answer": "spectacular",
+      "hint": "景象宏大、壮丽的"
+    },
+    {
+      "prompt": "He answered in a slow, {} manner.",
+      "answer": "deliberate",
+      "hint": "从容不迫、字字斟酌的"
+    },
+    {
+      "prompt": "The doctor described him as a calculating {}.",
+      "answer": "psychopath",
+      "hint": "精神变态者"
+    },
+    {
+      "prompt": "He had short, {} hair.",
+      "answer": "reddish",
+      "hint": "略带红色的、泛红的"
+    },
+    {
+      "prompt": "Her face was swollen and {} around the eyes.",
+      "answer": "slightly puffy",
+      "hint": "略微浮肿"
+    },
+    {
+      "prompt": "He had a ruddy {} that flushed easily.",
+      "answer": "complexion",
+      "hint": "面色、肤色"
+    },
+    {
+      "prompt": "He stood with his hands {} behind his back.",
+      "answer": "clasped",
+      "hint": "（双手）交扣、合拢握起"
+    },
+    {
+      "prompt": "Extra classes help every {} catch up.",
+      "answer": "struggling student",
+      "hint": "学习吃力的学生、学困生"
+    },
+    {
+      "prompt": "The {} rang the church bells at noon.",
+      "answer": "vicar",
+      "hint": "（英国国教）教区牧师"
+    },
+    {
+      "prompt": "She was a lifelong {} of the little parish.",
+      "answer": "parishioner",
+      "hint": "教区居民、信徒"
+    },
+    {
+      "prompt": "He was believed to be the {} of the whole scheme.",
+      "answer": "mastermind",
+      "hint": "主谋、策划者"
+    },
+    {
+      "prompt": "He spoke in a thin, {} voice.",
+      "answer": "reedy",
+      "hint": "（声音）尖细单薄的"
+    },
+    {
+      "prompt": "Quickly she {} the railing before she fell.",
+      "answer": "grabbed hold of",
+      "hint": "伸手一把抓住攥牢"
+    },
+    {
+      "prompt": "He paused to {} before giving his answer.",
+      "answer": "gather his wits",
+      "hint": "镇定下来、收拢心神"
+    },
+    {
+      "prompt": "'We've been {},' he hissed — they knew everything.",
+      "answer": "rumbled",
+      "hint": "（英俚语）看穿、识破、暴露"
+    },
+    {
+      "prompt": "The bird sat on the branch, ready to fly, {}. ",
+      "answer": "poised",
+      "hint": "蓄势待发、悬于上方准备行动"
+    },
+    {
+      "prompt": "The teacher {} at the noisy boy.",
+      "answer": "wagged a finger",
+      "hint": "对着某人摇（食）指"
+    },
+    {
+      "prompt": "He claimed to have fought {} against the odds.",
+      "answer": "heroically",
+      "hint": "英勇地、壮举般地"
+    },
+    {
+      "prompt": "She had {} given away their position.",
+      "answer": "unwittingly",
+      "hint": "无意地、不知情地"
+    },
+    {
+      "prompt": "The pilot {} to avoid the other plane.",
+      "answer": "took evasive action",
+      "hint": "采取避险闪避行动"
+    },
+    {
+      "prompt": "The prisoner waited nervously in {}.",
+      "answer": "the dock",
+      "hint": "（英国法庭）被告席"
+    },
+    {
+      "prompt": "The detectives {} the suspect all night.",
+      "answer": "interrogated",
+      "hint": "讯问、盘问、审问"
+    },
+    {
+      "prompt": "A senior {} would speak for them in court.",
+      "answer": "barrister",
+      "hint": "（英国）出庭大律师"
+    },
+    {
+      "prompt": "He finally admitted the boy had real {}, daring him on.",
+      "answer": "bottle",
+      "hint": "（英俚语）胆量、硬气"
+    },
+    {
+      "prompt": "You finished the whole climb? {}!",
+      "answer": "Good for you",
+      "hint": "算你有种、好样的（赞许）"
+    },
+    {
+      "prompt": "He {} the album without really looking.",
+      "answer": "flicked through",
+      "hint": "飞快随手翻阅、浏览"
+    },
+    {
+      "prompt": "The sudden noise made the horse {}.",
+      "answer": "start",
+      "hint": "（文学义）猛地一惊、吓一跳"
+    },
+    {
+      "prompt": "'Of course you may,' he replied with a {} smile.",
+      "answer": "disarmingly",
+      "hint": "使人消除戒备地、化解敌意地"
+    },
+    {
+      "prompt": "I bear you no {} — let's start over.",
+      "answer": "gripe",
+      "hint": "（口语）不满、私怨"
+    },
+    {
+      "prompt": "'My brave boy,' she murmured {}.",
+      "answer": "affectionately",
+      "hint": "满怀温情地、亲昵地"
+    },
+    {
+      "prompt": "He was {} a champion swimmer, years ago.",
+      "answer": "once",
+      "hint": "一度、曾经"
+    },
+    {
+      "prompt": "Their bickering at least {} for the others to hide.",
+      "answer": "bought them time",
+      "hint": "（拖延）给…争取缓冲时间"
+    },
+    {
+      "prompt": "'All my resources are {},' he offered.",
+      "answer": "at your disposal",
+      "hint": "任由你支配、调遣"
+    },
+    {
+      "prompt": "He's terribly {} old war films.",
+      "answer": "into",
+      "hint": "对…很感兴趣、爱好"
+    },
+    {
+      "prompt": "It didn't take her long to {} and work out the truth.",
+      "answer": "put two and two together",
+      "hint": "综合线索悟出真相"
+    },
+    {
+      "prompt": "Their decision was entirely {}, made in seconds.",
+      "answer": "spur-of-the-moment",
+      "hint": "一时心血来潮的、临时起意的"
+    },
+    {
+      "prompt": "Too frightened to speak, he slowly {}.",
+      "answer": "found his voice",
+      "hint": "找回声音、想好说辞开口"
+    },
+    {
+      "prompt": "He listened with hands folded in a {}.",
+      "answer": "steeple-gesture",
+      "hint": "指尖对碰的塔状手势"
+    },
+    {
+      "prompt": "He let {} exactly as they had happened.",
+      "answer": "events unfold",
+      "hint": "让事态一步步展开"
+    },
+    {
+      "prompt": "'Tired?' 'Not at all; {}, I'm wide awake.'",
+      "answer": "on the contrary",
+      "hint": "恰恰相反"
+    },
+    {
+      "prompt": "He moved through the house {}, certain of his aim.",
+      "answer": "acting with great purpose",
+      "hint": "行动带着强烈目的性"
+    },
+    {
+      "prompt": "He was judged {} what people said, not proof.",
+      "answer": "on the basis of",
+      "hint": "基于、凭借"
+    },
+    {
+      "prompt": "He gave no sign of fear; his face {}. ",
+      "answer": "was set like rock",
+      "hint": "脸色凝固、面部绷紧"
+    },
+    {
+      "prompt": "'{},' the man said coldly, tapping his watch.",
+      "answer": "No rush",
+      "hint": "不用着急慢慢来（客套话）"
+    }
+  ]
+}

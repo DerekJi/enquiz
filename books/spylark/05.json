@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "scrupulously",
+      "trans": "一丝不苟地、极其仔细严谨地（出于原则规矩、谨小慎微、不敢有半分疏漏）",
       "ipa": "/ˈskruːpjələsli/",
       "examples": [
         "He had always been scrupulously careful to avoid encounters with manned aircraft."
@@ -12,6 +13,7 @@
     },
     {
       "word": "manned aircraft",
+      "trans": "有人机/机上载有飞行员的飞行器",
       "ipa": "/mænd/",
       "examples": [
         "He had always been scrupulously careful to avoid encounters with manned aircraft."
@@ -19,18 +21,21 @@
     },
     {
       "word": "stay clear of",
+      "trans": "避开、远离、不要靠近（= get clear of）",
       "examples": [
         "He knew how to stay clear of the RAF's Hawks and Texans practising low-level flying."
       ]
     },
     {
       "word": "watch out for",
+      "trans": "留意、提防、当心",
       "examples": [
         "Watching out for Typhoons blasting up the valleys was all part of the thrill."
       ]
     },
     {
       "word": "thrill",
+      "trans": "n. 兴奋、激动、快感；v. 使非常兴奋（自带\"刺激感\"）",
       "ipa": "/θrɪl/",
       "examples": [
         "Watching out for Typhoons blasting up the valleys was all part of the thrill."
@@ -38,18 +43,21 @@
     },
     {
       "word": "all part of",
+      "trans": "…的正常内容、都是…的一部分（虽有点麻烦/奇怪但本属整体，不必大惊小怪；all part of the game/growing up）",
       "examples": [
         "Watching out for Typhoons blasting up the valleys was all part of the thrill."
       ]
     },
     {
       "word": "beat someone to it",
+      "trans": "抢先一步、比某人先做到（争夺同一机会/物品时更快）",
       "examples": [
         "He had to find the drone first, before someone beat him to it."
       ]
     },
     {
       "word": "suffocating",
+      "trans": "令人窒息的、喘不过气；（环境）空气不流通、闷热憋闷、胸口发闷",
       "ipa": "/sˈʌfəkeɪtɪŋ/",
       "examples": [
         "It was like the suffocating feeling he had in small spaces."
@@ -57,48 +65,56 @@
     },
     {
       "word": "close in",
+      "trans": "逼近、围拢；（白天）变短（the world would close in）",
       "examples": [
         "It seemed the world would close in and crush him."
       ]
     },
     {
       "word": "pull in",
+      "trans": "（车辆）靠边停车、（火车轮船）到站进站；吸引（顾客/观众）；逮捕带走问话；（口语）赚取大钱",
       "examples": [
         "Just then a Volvo estate pulled in outside the house."
       ]
     },
     {
       "word": "come to a standstill",
+      "trans": "陷入停滞、完全停止（原本运行的事物突然停下）",
       "examples": [
         "The girl shot out before the car had even come to a standstill."
       ]
     },
     {
       "word": "shoot out",
+      "trans": "迅速射出、突然冲出、喷出（快得像子弹\"嗖\"地出去）",
       "examples": [
         "The girl he had seen on the hilltop shot out of the car."
       ]
     },
     {
       "word": "stand like a rabbit caught in headlights",
+      "trans": "像被车灯照到的兔子一样僵在原地（因极度震惊、恐惧而不知所措、一动不动）",
       "examples": [
         "He stood like a rabbit caught in headlights while Aunt Emily greeted the new arrivals."
       ]
     },
     {
       "word": "go over to",
+      "trans": "走过去、到…那边去",
       "examples": [
         "He stood frozen while Aunt Emily went over to the new arrivals."
       ]
     },
     {
       "word": "just then",
+      "trans": "就在那时、正好那时（强调两动作同时发生，带巧合/突然意味）",
       "examples": [
         "But just then a Volvo estate pulled in."
       ]
     },
     {
       "word": "outdoorsy",
+      "trans": "喜欢户外活动的、热爱大自然的、有户外风格的",
       "ipa": "/ˌaʊtˈdɔːzi/",
       "examples": [
         "The man looked like the kind of outdoorsy type they always had staying in summer."
@@ -106,18 +122,21 @@
     },
     {
       "word": "jerk a thumb towards",
+      "trans": "用大拇指猛地朝…一指",
       "examples": [
         "He jerked a thumb towards the house. 'Lovely place you've got here!'"
       ]
     },
     {
       "word": "you've got",
+      "trans": "= you have；口语倒装【形+名】+ you've got（Lovely place you've got here! 你这儿地方真好）",
       "examples": [
         "Lovely place you've got here!"
       ]
     },
     {
       "word": "strenuous",
+      "trans": "费力的、艰苦的、需要很大体力/精力的",
       "ipa": "/ˈstrenjuəs/",
       "examples": [
         "He turned away and began the strenuous thirty-yard journey down to the river."
@@ -125,12 +144,14 @@
     },
     {
       "word": "pick up the pace",
+      "trans": "加快速度、加快步伐（也可比喻工作/事情提速）",
       "examples": [
         "He picked up the pace, his walking stick like a third leg."
       ]
     },
     {
       "word": "flail",
+      "trans": "（因失衡、恐慌或无力而）乱挥、乱蹬、胡乱挣扎",
       "ipa": "/fleɪl/",
       "examples": [
         "His walking stick flailed beside him on the path."
@@ -138,18 +159,21 @@
     },
     {
       "word": "great-nephew",
+      "trans": "侄孙、外甥孙",
       "examples": [
         "And that's Thomas, my great-nephew."
       ]
     },
     {
       "word": "abandon oneself to",
+      "trans": "沉溺于、陷入、完全放纵于（放任自己、不再克制）",
       "examples": [
         "He carried on, abandoning himself, in his hurry, to his trademark gait."
       ]
     },
     {
       "word": "gait",
+      "trans": "步态、走路的样子（特有的姿势或节奏）",
       "ipa": "/ɡeɪt/",
       "examples": [
         "He carried on in what was now his trademark gait."
@@ -157,6 +181,7 @@
     },
     {
       "word": "droop",
+      "trans": "下垂、低垂、耷拉（花/叶/眼皮/嘴角因疲惫失去力量垂下）",
       "ipa": "/druːp/",
       "examples": [
         "His walk had a whole-body droop to the right."
@@ -164,6 +189,7 @@
     },
     {
       "word": "convulsive",
+      "trans": "抽搐的、痉挛的、剧烈的（身体不受控制的抽动，或强烈的反应）",
       "ipa": "/kənˈvʌlsɪv/",
       "examples": [
         "His gait ended in a convulsive shake with each step."
@@ -171,18 +197,21 @@
     },
     {
       "word": "a bad case of",
+      "trans": "得了较厉害的某种病/严重陷入某种状态（a bad case of nerves 紧张得不行）",
       "examples": [
         "He walked like someone with a bad case of pins and needles."
       ]
     },
     {
       "word": "pins and needles",
+      "trans": "手脚发麻、像无数小针扎皮肤（久坐、压到肢体后的麻刺感，固定复数）",
       "examples": [
         "His leg felt like someone getting up with a bad case of pins and needles."
       ]
     },
     {
       "word": "scamper",
+      "trans": "（尤指小动物或小孩）轻快地跑、蹦蹦跳跳地跑（活泼、轻快、略慌忙）",
       "ipa": "/ˈskæmpə(r)/",
       "examples": [
         "There was the sound of scampering on the gravel behind him."
@@ -190,6 +219,7 @@
     },
     {
       "word": "gravel",
+      "trans": "碎石、砂砾（常铺在路上或院子里）",
       "ipa": "/ˈɡrævl/",
       "examples": [
         "There was the sound of scampering on the gravel behind him."
@@ -197,6 +227,7 @@
     },
     {
       "word": "wretched",
+      "trans": "可怜的、悲惨的、糟糕透顶的（语气很重）",
       "ipa": "/ˈretʃɪd/",
       "examples": [
         "Suddenly the wretched dog was at his feet."
@@ -204,18 +235,21 @@
     },
     {
       "word": "trip over",
+      "trans": "被…绊倒",
       "examples": [
         "He tripped over the dog and fell into a puddle."
       ]
     },
     {
       "word": "fall flat on one's face",
+      "trans": "脸朝下摔在地上；引申为彻底失败、出丑",
       "examples": [
         "He tripped and fell flat on his face into the only remaining puddle."
       ]
     },
     {
       "word": "malicious",
+      "trans": "恶意的、怀有恶意的",
       "ipa": "/məˈlɪʃəs/",
       "examples": [
         "The way she laughed wasn't malicious; she just smiled innocently."
@@ -223,6 +257,7 @@
     },
     {
       "word": "scowl",
+      "trans": "皱眉、怒视、愁眉苦脸（n./v.）",
       "ipa": "/skaʊl/",
       "examples": [
         "Despite his scowl, she held her hand out to help him up."
@@ -230,12 +265,14 @@
     },
     {
       "word": "hoist oneself to one's feet",
+      "trans": "费力地把自己撑起来/站起来（语气比 pull oneself up 更吃力）",
       "examples": [
         "He pushed the dog away and hoist himself to his feet with a growl."
       ]
     },
     {
       "word": "undaunted",
+      "trans": "未被吓倒的、不屈不挠的",
       "ipa": "/ʌnˈdɔːntɪd/",
       "examples": [
         "'I'm sorry, he must like your smell,' the girl said, undaunted."
@@ -243,12 +280,14 @@
     },
     {
       "word": "caked in mud",
+      "trans": "糊满泥的、泥巴结在身上的",
       "examples": [
         "Tom's arms were caked in mud from the fall."
       ]
     },
     {
       "word": "seep",
+      "trans": "（液体、气体）缓慢地渗出、渗透、漏出（强调缓慢透过细小缝隙）",
       "ipa": "/siːp/",
       "examples": [
         "He could feel moisture seeping through his shorts."
@@ -256,24 +295,28 @@
     },
     {
       "word": "rip off",
+      "trans": "撕掉、扯掉；（口语）敲竹杠、宰客（a total rip-off）",
       "examples": [
         "The blue button had ripped off his shirt when he fell."
       ]
     },
     {
       "word": "be rubbish at",
+      "trans": "在…方面很差劲",
       "examples": [
         "I'm rubbish at sewing, but I can do buttons."
       ]
     },
     {
       "word": "blistering",
+      "trans": "起水泡的；酷热的、猛烈的",
       "examples": [
         "He was too blistering with embarrassment to hear what she said."
       ]
     },
     {
       "word": "hurl",
+      "trans": "用力投掷、猛扔（比 throw 更用力更猛烈）",
       "ipa": "/hɜːl/",
       "examples": [
         "He climbed into Maggot and hurled his stick to the floor."
@@ -281,30 +324,35 @@
     },
     {
       "word": "razor edge",
+      "trans": "（语气、笑容中的）锋芒、尖锐感（edge to one's voice 语气带锋芒；razor-edge 更如刀锋般锐利）",
       "examples": [
         "There was a razor edge to her voice."
       ]
     },
     {
       "word": "throw someone a lifeline",
+      "trans": "主动想办法帮人解围、给台阶、给一线生机",
       "examples": [
         "He knew this was Aunt Emily's way of throwing him a lifeline."
       ]
     },
     {
       "word": "save someone from",
+      "trans": "使某人免于、免遭某事",
       "examples": [
         "It was a way of saving him from humiliating himself even more."
       ]
     },
     {
       "word": "humiliate oneself",
+      "trans": "让自己丢人、出丑、自取难堪",
       "examples": [
         "She saved him from humiliating himself even more."
       ]
     },
     {
       "word": "suffocate",
+      "trans": "使窒息、闷死、透不过气（物理或比喻环境/关系令人压抑）",
       "ipa": "/ˈsʌfəkeɪt/",
       "examples": [
         "The cabin filled with smoke and he feared he would suffocate if he stayed."

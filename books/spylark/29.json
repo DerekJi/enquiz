@@ -1,0 +1,730 @@
+{
+  "id": "29",
+  "title": "Chapter 29",
+  "order": 29,
+  "words": [
+    {
+      "word": "pitch",
+      "trans": "v.（及物）①搭、支（帐篷）；②投掷；③推销、定音调；pitch the tent 搭帐篷",
+      "ipa": "pɪtʃ",
+      "examples": [
+        "They pitched the tent on a flat strip of ground."
+      ]
+    },
+    {
+      "word": "boggy",
+      "trans": "adj.（地面）沼泽般的、泥泞湿软的",
+      "ipa": "ˈbɒɡi",
+      "examples": [
+        "The moor was soft and boggy underfoot."
+      ]
+    },
+    {
+      "word": "sedge",
+      "trans": "n. 莎草、薹草（水边丛生草本植物）",
+      "ipa": "sedʒ",
+      "examples": [
+        "Sedge grew thick along the edge of the pool."
+      ]
+    },
+    {
+      "word": "embankment",
+      "trans": "n.（河堤、土堤）填土筑出来的堤岸",
+      "ipa": "ɪmˈbæŋkmənt",
+      "examples": [
+        "They climbed up the earthen embankment of the reservoir."
+      ]
+    },
+    {
+      "word": "spit",
+      "trans": "n.（地理义）沙嘴、狭长陆岬（向水里伸出去的狭长陆地）",
+      "ipa": "spɪt",
+      "examples": [
+        "A narrow spit of land reached out into the lake."
+      ]
+    },
+    {
+      "word": "empty into",
+      "trans": "（水流）注入、流入（水体）",
+      "key": "empty into",
+      "examples": [
+        "The small river empties into the reservoir below."
+      ]
+    },
+    {
+      "word": "barrel",
+      "trans": "v. 飞速移动、滚滚而来（像木桶翻滚那样气势汹汹冲过来）；n. 木桶、桶",
+      "ipa": "ˈbærəl",
+      "examples": [
+        "The van barrelled down the empty country lane."
+      ]
+    },
+    {
+      "word": "sniff out",
+      "trans": "①字面（狗/野兽）靠嗅觉找出某物（本文 Archie 是狗狗，用鼻子嗅探发现东西）；②引申（人）察觉、打探出、发掘秘密（The reporter sniffed out a scandal. 记者打探出一桩丑闻）",
+      "key": "sniff out",
+      "examples": [
+        "Archie sniffed out the scent of the missing bag."
+      ]
+    },
+    {
+      "word": "triumphantly",
+      "trans": "adv. 得意洋洋地，带着发现猎物般的欣喜，胜利地",
+      "ipa": "traɪˈʌmfəntli",
+      "examples": [
+        "'Found it!' the dog barked triumphantly."
+      ]
+    },
+    {
+      "word": "cartilage",
+      "trans": "n. 软骨",
+      "ipa": "ˈkɑːtɪlɪdʒ",
+      "examples": [
+        "The vet examined the torn cartilage in the knee."
+      ]
+    },
+    {
+      "word": "rudder",
+      "trans": "n.（船、飞机、无人机的）方向舵",
+      "ipa": "ˈrʌdə(r)",
+      "examples": [
+        "The wind jammed the drone's rudder for a moment."
+      ]
+    },
+    {
+      "word": "to be precise",
+      "trans": "确切地说、准确来讲",
+      "ipa": "tuː bi prɪˈsaɪs",
+      "examples": [
+        "It was cold — freezing, to be precise."
+      ]
+    },
+    {
+      "word": "there's no doubt that",
+      "trans": "毫无疑问……（there’s no doubt + that 从句）",
+      "key": "there's no doubt that",
+      "examples": [
+        "There's no doubt that they came this way."
+      ]
+    },
+    {
+      "word": "close up the tent",
+      "trans": "合上帐篷（拉上拉链之类）",
+      "key": "close up",
+      "examples": [
+        "She closed up the tent and zipped it tight."
+      ]
+    },
+    {
+      "word": "conifer",
+      "trans": "n. 针叶树、松柏类树木（松树、冷杉、云杉这类结球果 cone 的树）",
+      "ipa": "ˈkɒnɪfə(r)",
+      "examples": [
+        "Tall conifers lined the track in dark ranks."
+      ]
+    },
+    {
+      "word": "scratch one's head on something",
+      "trans": "脑袋被细树枝剐蹭、刮到",
+      "key": "scratch one's head on",
+      "examples": [
+        "Low branches scratched their heads as they passed."
+      ]
+    },
+    {
+      "word": "handhold",
+      "trans": "n. 手可以抓牢的岩凹/岩凸起（手支点）",
+      "ipa": "ˈhændhəʊld",
+      "examples": [
+        "He found a firm handhold in the rock face."
+      ]
+    },
+    {
+      "word": "foothold",
+      "trans": "n. 脚踩的岩点（脚支点）",
+      "ipa": "ˈfʊthəʊld",
+      "examples": [
+        "She searched for a foothold on the wet stone."
+      ]
+    },
+    {
+      "word": "hand-and-foot holds",
+      "trans": "= handhold + foothold，手脚的攀爬支点",
+      "examples": [
+        "The climber tested the hand-and-foot holds before pulling up."
+      ]
+    },
+    {
+      "word": "boulder",
+      "trans": "n. 大圆石、巨砾、大块岩石",
+      "ipa": "ˈbəʊldə(r)",
+      "examples": [
+        "A huge boulder blocked the narrow path."
+      ]
+    },
+    {
+      "word": "crevice",
+      "trans": "n. 岩石缝隙、裂口",
+      "ipa": "ˈkrevɪs",
+      "examples": [
+        "Snow had gathered deep in every crevice."
+      ]
+    },
+    {
+      "word": "crest",
+      "trans": "n.（山丘、悬崖的）顶部、脊线、顶峰",
+      "ipa": "krest",
+      "examples": [
+        "They reached the crest of the ridge at last."
+      ]
+    },
+    {
+      "word": "escarpment",
+      "trans": "n. 大陡崖、峭壁、断崖（地质用词，一边近乎垂直下落的长崖壁）",
+      "ipa": "ɪˈskɑːpmənt",
+      "examples": [
+        "The long escarpment fell away almost straight down."
+      ]
+    },
+    {
+      "word": "gorge",
+      "trans": "n. 峡谷、深谷",
+      "ipa": "ɡɔːdʒ",
+      "examples": [
+        "Below them the river ran deep in a rocky gorge."
+      ]
+    },
+    {
+      "word": "loose scree",
+      "trans": "松散碎石堆",
+      "examples": [
+        "Her boots sent loose scree rattling down the slope."
+      ]
+    },
+    {
+      "word": "bottom out",
+      "trans": "降到最低点、到达谷底；也可作经济用语触底",
+      "examples": [
+        "Prices finally bottomed out and started to climb."
+      ]
+    },
+    {
+      "word": "be studded with",
+      "trans": "到处点缀着、星星点点布满",
+      "key": "be studded with",
+      "examples": [
+        "The hillside was studded with pale boulders."
+      ]
+    },
+    {
+      "word": "half-lost",
+      "trans": "半隐半现（half-lost in mist 雾中半隐半现）。half- 构词：half-buried 半埋的、half-forgotten 半淡忘的、half-asleep 半睡半醒",
+      "examples": [
+        "The ruined wall lay half-lost in the fern."
+      ]
+    },
+    {
+      "word": "beck",
+      "trans": "英国北方方言，指小山溪",
+      "examples": [
+        "A cold beck ran noisily over the stones."
+      ]
+    },
+    {
+      "word": "insignificant",
+      "trans": "adj. 微不足道的、不起眼的",
+      "ipa": "ˌɪnsɪɡˈnɪfɪkənt",
+      "examples": [
+        "It looked like an insignificant little stream."
+      ]
+    },
+    {
+      "word": "rutted",
+      "trans": "adj. 布满车辙的，被车轮轧出一道道凹痕",
+      "examples": [
+        "The rutted cart track was thick with mud."
+      ]
+    },
+    {
+      "word": "rambling",
+      "trans": "adj.（建筑群）错落蔓延、散漫铺开的，没有规整布局",
+      "ipa": "ˈræmblɪŋ",
+      "examples": [
+        "A rambling old farmhouse sprawled up the hill."
+      ]
+    },
+    {
+      "word": "squat",
+      "trans": "adj.（建筑物）矮墩墩的、低矮宽厚、楼层不高；squat and grey 房屋低矮、色调灰暗",
+      "ipa": "skwɒt",
+      "examples": [
+        "The squat grey buildings huddled behind the fence."
+      ]
+    },
+    {
+      "word": "razor-wire fences",
+      "trans": "n. 刀片刺绳、带利刃的刺丝围栏",
+      "examples": [
+        "The yard was ringed by razor-wire fences."
+      ]
+    },
+    {
+      "word": "perimeter",
+      "trans": "n.（复数 perimeters）数学本义为周长（图形外围总长度）；本文语境指外围边界、四周防线",
+      "ipa": "pəˈrɪmɪtə(r)",
+      "examples": [
+        "Armed guards patrolled the whole perimeter."
+      ]
+    },
+    {
+      "word": "raven",
+      "trans": "渡鸦。相比 crow 体型更大更壮、喙粗厚弯曲，飞行时尾巴呈楔形(V 形)，叫声低沉浑厚，野外荒山多见、常成对活动、城市少见；西方文学氛围感强，常关联神秘暗黑气氛",
+      "examples": [
+        "A great raven circled above the crags."
+      ]
+    },
+    {
+      "word": "buzzard",
+      "trans": "n. 鵟（kuáng），英国普通鵟，一种大型猛禽，类似老鹰",
+      "ipa": "ˈbʌzəd",
+      "examples": [
+        "A buzzard soared high on the rising air."
+      ]
+    },
+    {
+      "word": "mew",
+      "trans": "v.（猛禽）鸣叫、嘶鸣。mew 最熟含义是猫咪喵喵叫，但鸟类词典里也专指鵟这类猛禽的悠长啸叫，不是猫叫",
+      "ipa": "mjuː",
+      "examples": [
+        "The buzzard meweed high overhead."
+      ]
+    },
+    {
+      "word": "tuft",
+      "trans": "n. 一丛、一簇；a tuft of grass 一小丛草",
+      "examples": [
+        "A tuft of grass clung to the rock face."
+      ]
+    },
+    {
+      "word": "drizzle",
+      "trans": "n. 毛毛细雨、蒙蒙小雨；fine drizzle 细密的小雨",
+      "ipa": "ˈdrɪzl",
+      "examples": [
+        "A fine drizzle began to fall."
+      ]
+    },
+    {
+      "word": "wisps of cloud",
+      "trans": "一缕缕薄云",
+      "examples": [
+        "Thin wisps of cloud trailed across the peak."
+      ]
+    },
+    {
+      "word": "huddle",
+      "trans": "vi. 挤成一团、蜷缩靠拢，很多人/动物挨紧身体，一般为取暖也可出于害怕",
+      "examples": [
+        "The sheep huddled together against the wind."
+      ]
+    },
+    {
+      "word": "elaborate",
+      "trans": "v. 详细阐述、细说、进一步展开说明",
+      "ipa": "ɪˈlæbəreɪt",
+      "examples": [
+        "He declined to elaborate on his earlier remarks."
+      ]
+    },
+    {
+      "word": "scale",
+      "trans": "v. 翻越、攀爬越过（围墙、栅栏），手脚用力攀越障碍物从顶上翻过去（scale the fence 翻过栅栏、scale the wall 翻墙、scale a mountain 攀登大山）",
+      "ipa": "skeɪl",
+      "examples": [
+        "They scaled the high wire fence to get inside."
+      ]
+    },
+    {
+      "word": "Off you go",
+      "trans": "行，那你去吧！（另注：Johnny English 憨豆特工）",
+      "examples": [
+        "'Off you go, then,' she said, waving them away."
+      ]
+    },
+    {
+      "word": "get someone past",
+      "trans": "get … past … 带着某人顺利通过、绕过（守卫），不是简单字面“走过去”；past 介词指越过这道障碍关卡（guards 守卫是一道关卡）",
+      "key": "get ... past",
+      "examples": [
+        "The plan was to get them all past the guards unseen."
+      ]
+    },
+    {
+      "word": "panic-stricken",
+      "trans": "adj. 惊慌失措的、万分恐慌的",
+      "ipa": "ˈpænɪk ˈstrɪkən",
+      "examples": [
+        "Panic-stricken animals fled in every direction."
+      ]
+    },
+    {
+      "word": "hoarse",
+      "trans": "adj. 沙哑粗嘎的",
+      "ipa": "hɔːs",
+      "examples": [
+        "His hoarse voice cracked as he shouted."
+      ]
+    },
+    {
+      "word": "bursts of sound",
+      "trans": "一阵阵迸发出来的声响，断续爆发的噪音。bursts of + 名词固定搭配（bursts of wind 一阵阵狂风、bursts of laughter 一阵阵笑声）",
+      "examples": [
+        "The machine went in short bursts of sound."
+      ]
+    },
+    {
+      "word": "fringe",
+      "trans": "n. 流苏、外围边缘",
+      "ipa": "frɪndʒ",
+      "examples": [
+        "They waited at the fringe of the crowd."
+      ]
+    },
+    {
+      "word": "make a run for it",
+      "trans": "固定习语，赶紧逃跑、奋力冲出去逃命",
+      "key": "make a run for it",
+      "examples": [
+        "When the gate opened they made a run for it."
+      ]
+    },
+    {
+      "word": "dazzle",
+      "trans": "v. 强光使人目眩、晃得睁不开眼睛",
+      "ipa": "ˈdæzl",
+      "examples": [
+        "The headlights dazzled them as they crossed."
+      ]
+    },
+    {
+      "word": "slew",
+      "trans": "v. 车辆猛拐、侧滑，车身扭向一边",
+      "ipa": "sluː",
+      "examples": [
+        "The bike slew sideways across the wet gravel."
+      ]
+    },
+    {
+      "word": "a whole slew of",
+      "trans": "一大堆、许许多多",
+      "examples": [
+        "A whole slew of problems appeared all at once."
+      ]
+    },
+    {
+      "word": "skid to a stop",
+      "trans": "skidded to a stop 最后刹车瞬间打滑停下来",
+      "key": "skid to",
+      "examples": [
+        "The van skidded to a stop beside them."
+      ]
+    },
+    {
+      "word": "hem someone in",
+      "trans": "把某人包围起来、困住，使之无处脱身",
+      "key": "hem ... in",
+      "examples": [
+        "The police hemmed the fugitives in against the wall."
+      ]
+    },
+    {
+      "word": "exhaust fumes",
+      "trans": "（摩托车）尾气（废气，刺鼻）",
+      "examples": [
+        "The air stank of petrol and exhaust fumes."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "They {} on the only dry ground for miles.",
+      "answer": "pitched the tent",
+      "hint": "搭帐篷"
+    },
+    {
+      "prompt": "Walking across the {} moor was exhausting.",
+      "answer": "boggy",
+      "hint": "泥泞湿软的、沼泽般的"
+    },
+    {
+      "prompt": "The ducks hid among the {} by the water.",
+      "answer": "sedge",
+      "hint": "莎草、薹草"
+    },
+    {
+      "prompt": "They climbed the grassy {} of the old dam.",
+      "answer": "embankment",
+      "hint": "（河堤土）堤岸"
+    },
+    {
+      "prompt": "The lake was joined to the sea by a long sandy {}.",
+      "answer": "spit",
+      "hint": "（地理）沙嘴、狭长陆岬"
+    },
+    {
+      "prompt": "All the streams {} the reservoir.",
+      "answer": "empty into",
+      "hint": "（水流）注入、流入"
+    },
+    {
+      "prompt": "A police van {} toward them, siren blaring.",
+      "answer": "barrelled",
+      "hint": "飞速移动、滚滚而来"
+    },
+    {
+      "prompt": "The dog managed to {} the hidden drug.",
+      "answer": "sniff out",
+      "hint": "嗅出、察觉、打探出"
+    },
+    {
+      "prompt": "'Gotcha!' he said {}.",
+      "answer": "triumphantly",
+      "hint": "得意洋洋地、胜利地"
+    },
+    {
+      "prompt": "The surgeon repaired the damaged {} in his shoulder.",
+      "answer": "cartilage",
+      "hint": "软骨"
+    },
+    {
+      "prompt": "The broken {} left the plane drifting sideways.",
+      "answer": "rudder",
+      "hint": "（船/机）方向舵"
+    },
+    {
+      "prompt": "We waited three hours — two hours and forty minutes, {}.",
+      "answer": "to be precise",
+      "hint": "确切地说、准确来讲"
+    },
+    {
+      "prompt": "{} this is the right place.",
+      "answer": "There's no doubt that",
+      "hint": "毫无疑问……"
+    },
+    {
+      "prompt": "She {} for the night and crawled in.",
+      "answer": "closed up the tent",
+      "hint": "合上帐篷"
+    },
+    {
+      "prompt": "Spruce and pine are common {} trees.",
+      "answer": "conifer",
+      "hint": "针叶树、松柏类树木"
+    },
+    {
+      "prompt": "Low branches {} while pushing through the scrub.",
+      "answer": "scratched his head on",
+      "hint": "（树枝）剐蹭头部"
+    },
+    {
+      "prompt": "She gripped a tiny {} to hold herself up.",
+      "answer": "handhold",
+      "hint": "手抓的岩点"
+    },
+    {
+      "prompt": "He found no {} on the smooth wall.",
+      "answer": "foothold",
+      "hint": "脚踩的岩点"
+    },
+    {
+      "prompt": "The route had few reliable {} for beginners.",
+      "answer": "hand-and-foot holds",
+      "hint": "手脚的攀爬支点"
+    },
+    {
+      "prompt": "We sheltered behind a huge {} from the wind.",
+      "answer": "boulder",
+      "hint": "大圆石、巨砾"
+    },
+    {
+      "prompt": "A bird's nest filled the {} of the cliff.",
+      "answer": "crevice",
+      "hint": "岩石缝隙、裂口"
+    },
+    {
+      "prompt": "From the {} of the hill they could see for miles.",
+      "answer": "crest",
+      "hint": "（山脊/崖）顶部"
+    },
+    {
+      "prompt": "The track wound along below a steep {}.",
+      "answer": "escarpment",
+      "hint": "大陡崖、断崖"
+    },
+    {
+      "prompt": "The river disappeared into a deep wooded {}.",
+      "answer": "gorge",
+      "hint": "峡谷、深谷"
+    },
+    {
+      "prompt": "Be careful — the whole slope is loose {}.",
+      "answer": "scree",
+      "hint": "（松散的）碎石堆"
+    },
+    {
+      "prompt": "Sales have finally {} and are rising again.",
+      "answer": "bottomed out",
+      "hint": "降到最低点、触底"
+    },
+    {
+      "prompt": "The meadow was {} with bright wildflowers.",
+      "answer": "studded with",
+      "hint": "到处点缀着、布满"
+    },
+    {
+      "prompt": "An old fence ran {} in the long bracken.",
+      "answer": "half-lost",
+      "hint": "半隐半现"
+    },
+    {
+      "prompt": "After the heavy rain the shallow {} became a torrent.",
+      "answer": "beck",
+      "hint": "（英北方方言）小山溪"
+    },
+    {
+      "prompt": "The stream looked {}, yet it flooded in storms.",
+      "answer": "insignificant",
+      "hint": "微不足道的、不起眼的"
+    },
+    {
+      "prompt": "The lorry laboured along the deeply {} lane.",
+      "answer": "rutted",
+      "hint": "布满车辙的"
+    },
+    {
+      "prompt": "A few {} cottages clung to the hillside.",
+      "answer": "rambling",
+      "hint": "（建筑群）错落蔓延的"
+    },
+    {
+      "prompt": "Several {} grey huts stood in a row.",
+      "answer": "squat and grey",
+      "hint": "低矮灰暗的"
+    },
+    {
+      "prompt": "No one could climb the {} around the compound.",
+      "answer": "razor-wire fences",
+      "hint": "刀片刺绳围栏"
+    },
+    {
+      "prompt": "A guard walked the entire {} twice a night.",
+      "answer": "perimeter",
+      "hint": "外围边界"
+    },
+    {
+      "prompt": "A glossy black {} landed on the highest crag.",
+      "answer": "raven",
+      "hint": "渡鸦"
+    },
+    {
+      "prompt": "A {} rode the thermals far above the field.",
+      "answer": "buzzard",
+      "hint": "鵟（大型猛禽）"
+    },
+    {
+      "prompt": "A small {} of grass grew from the wall.",
+      "answer": "tuft",
+      "hint": "一丛、一簇"
+    },
+    {
+      "prompt": "It wasn't real rain, just a cold {}.",
+      "answer": "drizzle",
+      "hint": "毛毛细雨"
+    },
+    {
+      "prompt": "The summit was wreathed in thin {}.",
+      "answer": "wisps of cloud",
+      "hint": "一缕缕薄云"
+    },
+    {
+      "prompt": "The cyclists {} together out of the wind.",
+      "answer": "huddled",
+      "hint": "挤成一团、蜷缩靠拢"
+    },
+    {
+      "prompt": "He said little and refused to {}.",
+      "answer": "elaborate",
+      "hint": "详细阐述、细说"
+    },
+    {
+      "prompt": "They {} under cover of darkness.",
+      "answer": "scaled the fence",
+      "hint": "翻越、攀爬越过"
+    },
+    {
+      "prompt": "'{}, and don't come back,' she snapped.",
+      "answer": "Off you go",
+      "hint": "行，那你去吧"
+    },
+    {
+      "prompt": "He planned to {} the gate without a word.",
+      "answer": "get us past",
+      "hint": "带…顺利通过（守卫关卡）"
+    },
+    {
+      "prompt": "A {} crowd pushed past us toward the exit.",
+      "answer": "panic-stricken",
+      "hint": "惊慌失措的"
+    },
+    {
+      "prompt": "He shouted to us in a {} whisper.",
+      "answer": "hoarse",
+      "hint": "沙哑粗嘎的"
+    },
+    {
+      "prompt": "The old radio crackled in sharp {}.",
+      "answer": "bursts of sound",
+      "hint": "一阵阵迸发的声响"
+    },
+    {
+      "prompt": "She hung back at the {} of the crowd.",
+      "answer": "fringe",
+      "hint": "外围边缘"
+    },
+    {
+      "prompt": "The coast was clear — time to {}!",
+      "answer": "make a run for it",
+      "hint": "赶紧逃跑、奋力冲出去"
+    },
+    {
+      "prompt": "He was {} by the sudden glare of torches.",
+      "answer": "dazzled",
+      "hint": "（强光）使人目眩"
+    },
+    {
+      "prompt": "The car {} on the ice and slid off the road.",
+      "answer": "slew",
+      "hint": "（车辆）猛拐、侧滑"
+    },
+    {
+      "prompt": "{} excuses came at once, none believable.",
+      "answer": "A whole slew of",
+      "hint": "一大堆、许许多多"
+    },
+    {
+      "prompt": "The bus {} right in front of the child.",
+      "answer": "skidded to a stop",
+      "hint": "刹车瞬间打滑停下"
+    },
+    {
+      "prompt": "Soldiers formed a line to {} against the wall.",
+      "answer": "hem them in",
+      "hint": "把…包围困住、使无处脱身"
+    },
+    {
+      "prompt": "The tunnel was filled with choking {}.",
+      "answer": "exhaust fumes",
+      "hint": "（车辆）尾气废气"
+    }
+  ]
+}

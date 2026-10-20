@@ -5,6 +5,7 @@
   "words": [
     {
       "word": "lime-washed",
+      "trans": "adj. 刷石灰水的（刷白，用来防腐防虫）",
       "ipa": "laɪm wɒʃt",
       "examples": [
         "The old wooden boat, with her tarred hull and lime-washed decks, blended into the surroundings.",
@@ -13,6 +14,7 @@
     },
     {
       "word": "tarred",
+      "trans": "adj. 涂了焦油的；tar 的过去式/过去分词，给…涂焦油",
       "ipa": "tɑːd",
       "examples": [
         "The old wooden boat, with her tarred hull, blended into the surroundings.",
@@ -21,6 +23,7 @@
     },
     {
       "word": "alder",
+      "trans": "n. 桤木，一种水边生长的树木",
       "ipa": "ˈɔːldə(r)",
       "examples": [
         "The boat blended into the surroundings as easily as the twisted alders that fringed the shore.",
@@ -29,6 +32,7 @@
     },
     {
       "word": "galley",
+      "trans": "n. 专指交通工具上的厨房（船、邮轮、飞机、老式火车）。空间狭窄狭长，受船体/机舱限制，设备紧凑",
       "ipa": "ˈɡæli",
       "examples": [
         "Tom rapped on the galley window before climbing aboard.",
@@ -37,6 +41,7 @@
     },
     {
       "word": "fender",
+      "trans": "n.【航海】碰垫；护舷材；防撞绳垫。挂在船舷外侧，橡胶/绳索做的缓冲物，船靠岸、两船相靠时垫在船体之间防磕碰刮伤",
       "ipa": "ˈfendə(r)",
       "examples": [
         "Tom killed the engine and let Maggot drift into the rope fender.",
@@ -45,6 +50,7 @@
     },
     {
       "word": "rap",
+      "trans": "v. 1.笃笃地敲；急促轻叩（本文含义） 2.说唱",
       "ipa": "ræp",
       "examples": [
         "Tom rapped on the galley window.",
@@ -53,6 +59,7 @@
     },
     {
       "word": "squash",
+      "trans": "v. 挤压；把…挤在一起；压扁",
       "ipa": "skwɒʃ",
       "examples": [
         "Maggie and Joel were squashed together on a bench.",
@@ -61,6 +68,7 @@
     },
     {
       "word": "absently",
+      "trans": "adv. 心不在焉地，出神地（文学小说里几乎都表示精神走神、心思飘走、漫不经心，不是物理上不在现场）",
       "ipa": "ˈæbsəntli",
       "examples": [
         "Tom paced about, absently looking at the framed photos.",
@@ -69,6 +77,7 @@
     },
     {
       "word": "elderflower",
+      "trans": "n. 接骨木花；西洋接骨木的白色花簇，用来做饮品、糖浆",
       "ipa": "ˈeldəflaʊə(r)",
       "examples": [
         "He brought out a bottle of home-made elderflower cordial.",
@@ -77,6 +86,7 @@
     },
     {
       "word": "cordial",
+      "trans": "n. 浓缩果花甜糖浆（需兑水稀释饮用）  adj. 热诚的，友善的",
       "ipa": "ˈkɔːdiəl",
       "examples": [
         "He brought out a bottle of home-made elderflower cordial.",
@@ -85,6 +95,7 @@
     },
     {
       "word": "fizzy",
+      "trans": "adj. 冒泡的，充满气泡的。fizzy water 可指含糖汽水；sparkling water 专指无糖气泡水，不会联想到可乐雪碧",
       "ipa": "ˈfɪzi",
       "examples": [
         "He brought out some elderflower cordial and fizzy water.",
@@ -93,6 +104,7 @@
     },
     {
       "word": "on an empty stomach",
+      "trans": "固定短语：空腹、肚子饿着",
       "examples": [
         "No one thinks well on an empty stomach.",
         "You shouldn't take these tablets on an empty stomach."
@@ -100,6 +112,7 @@
     },
     {
       "word": "muzzle",
+      "trans": "n.（动物，尤指狗、狐狸等）口鼻部（本文含义）；嘴筒",
       "ipa": "ˈmʌzl",
       "examples": [
         "He added, rubbing Archie's muzzle.",
@@ -108,6 +121,7 @@
     },
     {
       "word": "fiddle",
+      "trans": "v. 摆弄，拨弄；做小动作，漫不经心地摸来摸去",
       "ipa": "ˈfɪdl",
       "examples": [
         "Tom fiddled with his untouched glass.",
@@ -116,6 +130,7 @@
     },
     {
       "word": "bay leaf",
+      "trans": "n. 月桂叶（复数 bay leaves）",
       "ipa": "beɪ liːf",
       "examples": [
         "He tore up a couple of bay leaves and scattered them on the fish.",
@@ -124,14 +139,16 @@
     },
     {
       "word": "make one's mouth water",
+      "trans": "经典高频固定习语。字面让嘴巴流口水；实际翻译：令人垂涎、馋得直流口水",
+      "key": "make one's mouth water",
       "examples": [
         "The cabin filled with an aroma that made their mouths water.",
         "The smell of fresh bread makes my mouth water."
-      ],
-      "key": "make one's mouth water"
+      ]
     },
     {
       "word": "chez",
+      "trans": "prep.【法语外来词】在…的家里；在…的住处",
       "ipa": "ʃeɪ",
       "examples": [
         "Then we'll be ready for char and chips, chez Matilda!",
@@ -140,14 +157,16 @@
     },
     {
       "word": "fill someone in on something",
+      "trans": "向某人完整通报情况、把前因后果全部讲清楚，把消息补全告诉对方",
+      "key": "fill ... in on",
       "examples": [
         "Tom filled Jim in on everything they knew.",
         "Let me fill you in on the latest news."
-      ],
-      "key": "fill ... in on"
+      ]
     },
     {
       "word": "pearly",
+      "trans": "adj. 珍珠般的；珍珠色的，泛着乳白温润光泽的",
       "ipa": "ˈpɜːli",
       "examples": [
         "As they ate the pearly flesh, they burnt their mouths on the chips.",
@@ -156,6 +175,7 @@
     },
     {
       "word": "flesh",
+      "trans": "n.（鱼肉、动物的）肉，肉质",
       "ipa": "fleʃ",
       "examples": [
         "As they ate the pearly flesh of the fish.",
@@ -164,30 +184,34 @@
     },
     {
       "word": "chatter away",
+      "trans": "轻松随意地闲聊，碎碎念，东拉西扯，不一定聊严肃正事（chatter 喋喋不休、叽叽喳喳说个不停）",
+      "key": "chatter away",
       "examples": [
         "While we were chattering away, Tom's got it all worked out.",
         "The children chattered away happily throughout lunch."
-      ],
-      "key": "chatter away"
+      ]
     },
     {
       "word": "get it all worked out",
+      "trans": "把事情全部想通、盘算清楚，琢磨出解决方案",
+      "key": "get it all worked out",
       "examples": [
         "Tom's got it all worked out!",
         "Don't worry about the trip — I'll get it all worked out."
-      ],
-      "key": "get it all worked out"
+      ]
     },
     {
       "word": "sit back",
+      "trans": "袖手旁观；坐视不理；安坐一旁不采取行动。暗含你有能力介入，但选择往后退、什么都不干",
+      "key": "sit back",
       "examples": [
         "We can't sit back and do nothing.",
         "You can't just sit back and expect everything to work out by itself."
-      ],
-      "key": "sit back"
+      ]
     },
     {
       "word": "rather too",
+      "trans": "adv. 未免有点；实在过于（带轻微评价、略有一点不以为然的语气）",
       "examples": [
         "Said Joel, rather too matter-of-factly, given the enormity of what this involved.",
         "It's rather too expensive for my budget."
@@ -195,6 +219,7 @@
     },
     {
       "word": "enormity",
+      "trans": "n. 1.事情的重大程度；严重性；巨大的风险/后果  2.滔天恶行，残暴的罪行",
       "ipa": "ɪˈnɔːməti",
       "examples": [
         "Given the enormity of what this was going to involve.",
@@ -203,14 +228,16 @@
     },
     {
       "word": "mop up",
+      "trans": "字面拖干净；擦干；（文中）用食物把盘里汤汁、碎屑蘸干净",
+      "key": "mop up",
       "examples": [
         "Maggie mopped up some salt with the last chip.",
         "He used the bread to mop up the sauce on his plate."
-      ],
-      "key": "mop up"
+      ]
     },
     {
       "word": "turret",
+      "trans": "n. 1.（坦克、军舰的）旋转炮塔（本文）  2.塔楼，角楼",
       "ipa": "ˈtʌrɪt",
       "examples": [
         "Joel turned his head like the rotating turret of a tank.",
@@ -219,6 +246,7 @@
     },
     {
       "word": "adapted",
+      "trans": "adj. 经过改装的；经过改造适配",
       "ipa": "əˈdæptɪd",
       "examples": [
         "Just a couple of adapted multi-rotors with blue lights.",
@@ -227,14 +255,16 @@
     },
     {
       "word": "the game's up",
+      "trans": "（完整 the game is up）把戏败露了；你们完蛋了；计划已经暴露。一般直接对做坏事的人说：你们的阴谋被识破，没有机会继续下去",
+      "key": "the game's up",
       "examples": [
         "So we tell them they're surrounded, and the game's up?",
         "When the police arrived, the thieves knew the game was up."
-      ],
-      "key": "the game's up"
+      ]
     },
     {
       "word": "simultaneous",
+      "trans": "adj. 同时发生的（副词 simultaneously）",
       "ipa": "ˌsɪmlˈteɪniəs",
       "examples": [
         "We can buzz them simultaneously using Skylark and two hexacopters.",
@@ -243,6 +273,7 @@
     },
     {
       "word": "hexacopter",
+      "trans": "n. 六轴无人机（hexa- = 六；copter = helicopter 旋翼飞行器）",
       "ipa": "ˈheksəkɒptə(r)",
       "examples": [
         "We can buzz them using Skylark and two hexacopters.",
@@ -251,6 +282,7 @@
     },
     {
       "word": "pike",
+      "trans": "n. 狗鱼（淡水大型掠食鱼）",
       "ipa": "paɪk",
       "examples": [
         "There was a picture of Jim holding a huge pike by the gills.",
@@ -259,6 +291,7 @@
     },
     {
       "word": "gills",
+      "trans": "n. 鱼鳃（gill 的复数）",
       "ipa": "ɡɪlz",
       "examples": [
         "He held a huge pike by the gills.",
@@ -267,6 +300,7 @@
     },
     {
       "word": "beam",
+      "trans": "v. 眉开眼笑，笑容灿烂，喜气洋洋地笑（开怀的大笑，不是浅浅微笑）。beam at camera 满面春风灿烂地笑（情绪更强）",
       "ipa": "biːm",
       "examples": [
         "They were beaming at the camera.",
@@ -275,6 +309,7 @@
     },
     {
       "word": "after all this time",
+      "trans": "时隔这么久，过了这么多年",
       "examples": [
         "He still wore his wedding ring after all this time.",
         "After all this time, she still remembered his kindness."
@@ -282,22 +317,25 @@
     },
     {
       "word": "puff out a cloud of smoke",
+      "trans": "v.（抽烟）一口吐出烟雾；噗地喷出",
+      "key": "puff out a cloud of",
       "examples": [
         "He puffed out a cloud of blue smoke.",
         "The old engine puffed out a cloud of black smoke."
-      ],
-      "key": "puff out a cloud of"
+      ]
     },
     {
       "word": "hear oneself whisper",
+      "trans": "字面听见自己在低语。文学含义：不由自主低声说出，几乎是下意识脱口而出",
+      "key": "hear oneself whisper",
       "examples": [
         "Tom heard himself whisper: 'No, Jim.'",
         "She was so shocked she heard herself whisper in disbelief."
-      ],
-      "key": "hear oneself whisper"
+      ]
     },
     {
       "word": "showcase",
+      "trans": "带有目的，为了突出优点、特色而专门展出",
       "examples": [
         "They want to showcase some local delicacies.",
         "The fair showcases traditional crafts from the region."
@@ -305,6 +343,7 @@
     },
     {
       "word": "delicacies",
+      "trans": "n. 珍馐，特色佳肴（delicacy 复数）。local delicacies 地方特色美食",
       "ipa": "ˈdelɪkəsiz",
       "examples": [
         "They want to showcase some local delicacies.",
@@ -313,6 +352,7 @@
     },
     {
       "word": "poached",
+      "trans": "adj.（烹饪）低温浸煮的，水波煮的",
       "ipa": "pəʊtʃt",
       "examples": [
         "There's going to be my char, poached with a wood sorrel sauce.",
@@ -321,6 +361,7 @@
     },
     {
       "word": "wood sorrel",
+      "trans": "n. 酸模（酢浆草，一种野生草本，味道清新带酸味，西餐传统香草）",
       "ipa": "wʊd ˈsɒrəl",
       "examples": [
         "My char, poached with a wood sorrel sauce.",
@@ -329,14 +370,16 @@
     },
     {
       "word": "suck one's cheeks in",
+      "trans": "收腮，把两颊往里吸、脸颊凹进去。小说里两种场景：1.忍住笑意、憋着不笑，控制表情；2.抽烟斗/抽烟时用力吸气、脸颊自然向内凹陷",
+      "key": "suck one's cheeks in",
       "examples": [
         "He sucked his cheeks in and then expelled a jet of smoke.",
         "She sucked her cheeks in to stop herself laughing."
-      ],
-      "key": "suck one's cheeks in"
+      ]
     },
     {
       "word": "panelling",
+      "trans": "n.[不可数] 木镶板、木护墙板（一整片用来贴墙的木板饰面，不是单独一块小板；英式拼写，美式 paneling）",
       "ipa": "ˈpænəlɪŋ",
       "examples": [
         "The cloud swirled against the wood panelling of the cabin.",
@@ -345,30 +388,34 @@
     },
     {
       "word": "wheel out",
+      "trans": "1.本义把（车子、设备）推出来；2.英式小说引申义动用、搬出（人/方案/招数）",
+      "key": "wheel out",
       "examples": [
         "They need to be able to wheel out a crusty old dinosaur.",
         "The company wheeled out its old chairman to charm the press."
-      ],
-      "key": "wheel out"
+      ]
     },
     {
       "word": "a crusty old dinosaur",
+      "trans": "一个脾气古板、观念陈旧的老顽固/老古董",
+      "key": "a crusty old dinosaur",
       "examples": [
         "They need to wheel out a crusty old dinosaur with local knowledge.",
         "He's a crusty old dinosaur who hates all new technology."
-      ],
-      "key": "a crusty old dinosaur"
+      ]
     },
     {
       "word": "swing out of the bay",
+      "trans": "不是单纯“出港”，强调船完成转向、摆开，离开港湾这个动态过程",
+      "key": "swing out of the bay",
       "examples": [
         "As the Teal swings out of the bay, I'll be on the port side.",
         "The ferry swung out of the bay and pointed towards the open sea."
-      ],
-      "key": "swing out of the bay"
+      ]
     },
     {
       "word": "port side",
+      "trans": "左舷（船的左侧，航海术语；starboard 右舷）",
       "examples": [
         "I'll be standing on the port side giving a little talk.",
         "The lifeboats are stored on the port side of the ship."
@@ -376,6 +423,7 @@
     },
     {
       "word": "physical proximity",
+      "trans": "物理距离上的靠近。the human being in closest physical proximity：前面名词已有 the，介词短语内部的最高级可以丢掉 the",
       "ipa": "prɒkˈsɪməti",
       "examples": [
         "I will be the human being in closest physical proximity to Her Majesty.",
@@ -384,6 +432,7 @@
     },
     {
       "word": "flora and fauna",
+      "trans": "动植物；当地的植物与动物（flora 植物群，fauna 动物群），书面、演讲、科普高频固定词组",
       "ipa": "ˈflɔːrə ənd ˈfɔːnə",
       "examples": [
         "I'll talk about the lake, its history, industry, flora and fauna.",
@@ -392,22 +441,25 @@
     },
     {
       "word": "give a start",
+      "trans": "猛地一惊，吓一跳",
+      "key": "give a start",
       "examples": [
         "Tom gave a start, knocking over an empty glass.",
         "She gave a start when the phone suddenly rang."
-      ],
-      "key": "give a start"
+      ]
     },
     {
       "word": "open and shut one's mouth",
+      "trans": "嘴巴一张一合。小说经典神态描写：想说什么，但震惊、错愕，一时讲不出完整的话",
+      "key": "open and shut one's mouth",
       "examples": [
         "Joel was opening and shutting his mouth, too stunned to speak.",
         "He stood there opening and shutting his mouth like a fish."
-      ],
-      "key": "open and shut one's mouth"
+      ]
     },
     {
       "word": "stammer",
+      "trans": "v. 结结巴巴地说，口吃、吞吐迟疑",
       "ipa": "ˈstæmə(r)",
       "examples": [
         "'But ...' stammered Tom.",
@@ -416,22 +468,25 @@
     },
     {
       "word": "swat away",
+      "trans": "挥手拍走、驱赶",
+      "key": "swat away",
       "examples": [
         "Jim waved his hand as if casually swatting away a fly.",
         "She swatted away the mosquito buzzing around her head."
-      ],
-      "key": "swat away"
+      ]
     },
     {
       "word": "be up for discussion",
+      "trans": "be up for sth 可以被拿来讨论、可供考虑。it wasn’t up for discussion 这事儿没得商量、不容讨论",
+      "key": "be up for discussion",
       "examples": [
         "Tom knew it wasn't up for discussion.",
         "The price is not up for discussion — that's final."
-      ],
-      "key": "be up for discussion"
+      ]
     },
     {
       "word": "rhubarb",
+      "trans": "n. 大黄（食用大黄，一种蔬菜）",
       "ipa": "ˈruːbɑːb",
       "examples": [
         "Jim brought out a huge rhubarb and custard cake.",
@@ -440,6 +495,7 @@
     },
     {
       "word": "slab",
+      "trans": "n. 厚块；厚片（厚实、大块，不是薄薄一片）",
       "ipa": "slæb",
       "examples": [
         "He served the cake in generous slabs with cream.",
@@ -448,6 +504,7 @@
     },
     {
       "word": "resolutely",
+      "trans": "adv. 坚决地；果断地；下定决心地",
       "ipa": "ˈrezəluːtli",
       "examples": [
         "Jim smiled, teeth clamped on the pipe resolutely.",
@@ -456,14 +513,16 @@
     },
     {
       "word": "weak link",
+      "trans": "n. 薄弱环节；软肋；不可靠的人/部分",
+      "key": "weak link",
       "examples": [
         "There were too many unknowns, too many weak links.",
         "A chain is only as strong as its weakest link."
-      ],
-      "key": "weak link"
+      ]
     },
     {
       "word": "streaks of smoke",
+      "trans": "一道道烟痕",
       "examples": [
         "He could imagine vivid streaks of smoke emanating from the peaks.",
         "Streaks of smoke drifted lazily from the factory chimneys."
@@ -471,6 +530,7 @@
     },
     {
       "word": "emanate",
+      "trans": "v. 散发；冒出；发出（烟、气味、光、情绪）",
       "ipa": "ˈeməneɪt",
       "examples": [
         "Vivid streaks of smoke emanating from the peaks.",
@@ -479,6 +539,7 @@
     },
     {
       "word": "impact",
+      "trans": "n. 撞击；碰撞；爆炸冲击",
       "ipa": "ˈɪmpækt",
       "examples": [
         "A sudden screaming roar, and then impact.",
@@ -487,6 +548,7 @@
     },
     {
       "word": "soothing",
+      "trans": "adj. 使人平静的；抚慰的；舒缓安心的",
       "ipa": "ˈsuːðɪŋ",
       "examples": [
         "The sound of the propeller bubbling away behind him was soothing.",
@@ -495,6 +557,7 @@
     },
     {
       "word": "drastic",
+      "trans": "adj. 极端的；猛烈的；大刀阔斧的，不惜代价的",
       "ipa": "ˈdræstɪk",
       "examples": [
         "He needed a safety net that, however drastic, would protect the Teal.",
@@ -503,22 +566,25 @@
     },
     {
       "word": "safety net",
+      "trans": "固定习语。本义安全网（杂技演员下面的防护网）；比喻义兜底保障、应急防护机制、最后的保险手段，万一别的办法失败它可以起保护作用",
+      "key": "safety net",
       "examples": [
         "He needed a safety net to protect the Teal and all her passengers.",
         "Unemployment benefits act as a safety net in hard times."
-      ],
-      "key": "safety net"
+      ]
     },
     {
       "word": "lash out at",
+      "trans": "习语：大发雷霆、迁怒、发泄怒火，对人/物猛烈攻击",
+      "key": "lash out at",
       "examples": [
         "He felt the urge to lash out at something or someone.",
         "In his anger he lashed out at anyone nearby."
-      ],
-      "key": "lash out at"
+      ]
     },
     {
       "word": "no more than",
+      "trans": "仅仅、只不过",
       "examples": [
         "In the end, the drones were no more than eyes.",
         "It was no more than a scratch, nothing serious."
@@ -526,6 +592,7 @@
     },
     {
       "word": "pathetic",
+      "trans": "adj. 1.可悲的；可怜的（同情）  2.差劲的，蹩脚的，让人瞧不起的",
       "ipa": "pəˈθetɪk",
       "examples": [
         "Throw back Snakey's slate with its pathetic skull and crossbones.",
@@ -534,6 +601,7 @@
     },
     {
       "word": "huddle",
+      "trans": "v. 蜷缩，挤在一起；抱团",
       "ipa": "ˈhʌdl",
       "examples": [
         "Maggie was huddled in the bow, arms around Archie.",
@@ -542,14 +610,16 @@
     },
     {
       "word": "pull away from",
+      "trans": "固定短语，挣脱、挪开身体部位，离开对方",
+      "key": "pull away from",
       "examples": [
         "The dog pulled his head away from her.",
         "She pulled away from him when he tried to hug her."
-      ],
-      "key": "pull away from"
+      ]
     },
     {
       "word": "instantly",
+      "trans": "adv. 立刻；当即；一瞬间。强调几乎没有时间间隔，一刹那之间就发生，文学小说高频",
       "ipa": "ˈɪnstəntli",
       "examples": [
         "Instantly, Tom knew what he had to do.",
