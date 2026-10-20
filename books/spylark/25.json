@@ -1,0 +1,632 @@
+{
+  "id": "25",
+  "title": "Chapter 25",
+  "order": 25,
+  "words": [
+    {
+      "word": "cast-iron",
+      "ipa": "ˌkɑːst ˈaɪən",
+      "examples": [
+        "An old cast-iron pan.",
+        "a cast-iron bridge."
+      ]
+    },
+    {
+      "word": "lazybones",
+      "ipa": "ˈleɪzibəʊnz",
+      "examples": [
+        "Go and get the map, lazybones.",
+        "Come on, lazybones!"
+      ]
+    },
+    {
+      "word": "Ordnance Survey",
+      "ipa": "ˈɔːdnəns ˈsɜːveɪ",
+      "examples": [
+        "Joel fetched an Ordnance Survey map.",
+        "a detailed Ordnance Survey map of the area."
+      ]
+    },
+    {
+      "word": "taper",
+      "ipa": "ˈteɪpə(r)",
+      "examples": [
+        "The ribbon of the Elleray tapered away to the west.",
+        "The road tapers to a track."
+      ]
+    },
+    {
+      "word": "swathe",
+      "ipa": "sweɪð",
+      "examples": [
+        "A swathe of brown showed the high fells.",
+        "a wide swathe of forest."
+      ]
+    },
+    {
+      "word": "woodland",
+      "ipa": "ˈwʊdlənd",
+      "examples": [
+        "Patches of green indicated woodland.",
+        "a woodland walk."
+      ]
+    },
+    {
+      "word": "relentless",
+      "ipa": "rɪˈlentləs",
+      "examples": [
+        "The relentless march of the contour lines.",
+        "The rain fell relentlessly."
+      ]
+    },
+    {
+      "word": "contour",
+      "ipa": "ˈkɒntʊə(r)",
+      "examples": [
+        "The relentless march of the contour lines.",
+        "a contour map."
+      ]
+    },
+    {
+      "word": "trough",
+      "ipa": "trɒf",
+      "examples": [
+        "It stopped in a deep U-shaped trough.",
+        "The boat pitched into a trough."
+      ]
+    },
+    {
+      "word": "jagged",
+      "ipa": "ˈdʒæɡɪd",
+      "examples": [
+        "A trough framed by jagged ridges.",
+        "jagged rocks."
+      ]
+    },
+    {
+      "word": "ridge",
+      "ipa": "rɪdʒ",
+      "examples": [
+        "Up that ridge.",
+        "We climbed to the ridge."
+      ]
+    },
+    {
+      "word": "hideout",
+      "ipa": "ˈhaɪdaʊt",
+      "examples": [
+        "The perfect hideout for someone up to no good.",
+        "The gang's hideout."
+      ]
+    },
+    {
+      "word": "proper",
+      "ipa": "ˈprɒpə(r)",
+      "examples": [
+        "It's not even on a proper road.",
+        "a proper meal."
+      ]
+    },
+    {
+      "word": "a farm track",
+      "examples": [
+        "That dotted line must be a farm track.",
+        "We followed the farm track."
+      ]
+    },
+    {
+      "word": "passers-by",
+      "examples": [
+        "No passers-by.",
+        "passers-by stopped to watch."
+      ]
+    },
+    {
+      "word": "for certain",
+      "examples": [
+        "We don't know for certain that this is their base.",
+        "I can't say for certain."
+      ]
+    },
+    {
+      "word": "by the looks of it",
+      "examples": [
+        "It's going to be baking today, by the looks of it.",
+        "By the looks of it, we'll be late."
+      ]
+    },
+    {
+      "word": "tarn",
+      "ipa": "tɑːn",
+      "examples": [
+        "Around that tarn.",
+        "The tarn lay below the ridge."
+      ]
+    },
+    {
+      "word": "grid references",
+      "examples": [
+        "Maggie left the grid references for the tarn.",
+        "find the grid reference on a map."
+      ]
+    },
+    {
+      "word": "haggard",
+      "ipa": "ˈhæɡəd",
+      "examples": [
+        "She looked haggard, Maggie thought.",
+        "He looked pale and haggard."
+      ]
+    },
+    {
+      "word": "skin",
+      "examples": [
+        "A skin of milk had formed on the top.",
+        "The soup had a skin."
+      ]
+    },
+    {
+      "word": "brief",
+      "ipa": "briːf",
+      "examples": [
+        "I saw him briefly.",
+        "a brief visit."
+      ]
+    },
+    {
+      "word": "unsettle",
+      "ipa": "ʌnˈsetl",
+      "examples": [
+        "She said something about unsettling him.",
+        "The news unsettled everyone."
+      ]
+    },
+    {
+      "word": "inmate",
+      "ipa": "ˈɪnmeɪt",
+      "examples": [
+        "Outside contact with inmates.",
+        "a young inmate."
+      ]
+    },
+    {
+      "word": "crease",
+      "ipa": "kriːs",
+      "examples": [
+        "She creased the newspaper along its fold.",
+        "crease up with laughter."
+      ]
+    },
+    {
+      "word": "gather oneself together",
+      "examples": [
+        "Aunt Emily gathered herself together.",
+        "Take a moment to gather yourself together."
+      ]
+    },
+    {
+      "word": "claustrophobia",
+      "ipa": "ˌklɔːstrəˈfəʊbiə",
+      "examples": [
+        "Hasn't he told you about his claustrophobia?",
+        "He suffers from claustrophobia."
+      ]
+    },
+    {
+      "word": "enclosed spaces",
+      "examples": [
+        "He hates being in enclosed spaces.",
+        "the fear of enclosed spaces."
+      ]
+    },
+    {
+      "word": "panic attack",
+      "examples": [
+        "He had a panic attack in the tunnel.",
+        "She suffered panic attacks."
+      ]
+    },
+    {
+      "word": "ledge",
+      "ipa": "ledʒ",
+      "examples": [
+        "Falling down past a ledge.",
+        "He hung from a ledge."
+      ]
+    },
+    {
+      "word": "more to it",
+      "examples": [
+        "I wonder if there was more to it.",
+        "There's more to it than that."
+      ]
+    },
+    {
+      "word": "in his deepest voice",
+      "examples": [
+        "He said in his deepest voice.",
+        "She said it in her deepest voice."
+      ]
+    },
+    {
+      "word": "sleep like a baby",
+      "examples": [
+        "I slept like a baby.",
+        "He slept like a baby through the storm."
+      ]
+    },
+    {
+      "word": "check out",
+      "examples": [
+        "It's time we checked out that farm.",
+        "We checked out the hotel online."
+      ]
+    },
+    {
+      "word": "spring up",
+      "examples": [
+        "Archie sprang up, sensing action.",
+        "He sprang up from his chair."
+      ]
+    },
+    {
+      "word": "lead",
+      "examples": [
+        "It's the one lead we have to go on.",
+        "The police had no lead."
+      ]
+    },
+    {
+      "word": "go on",
+      "examples": [
+        "It's the one lead we have to go on.",
+        "They had nothing else to go on."
+      ]
+    },
+    {
+      "word": "up to no good",
+      "examples": [
+        "The perfect hideout for someone up to no good.",
+        "He's probably up to no good."
+      ]
+    },
+    {
+      "word": "come at it a different way",
+      "examples": [
+        "We need to come at it a different way.",
+        "Let's come at the problem a different way."
+      ]
+    },
+    {
+      "word": "in which case",
+      "examples": [
+        "It'll be baking; in which case, a second breakfast is in order.",
+        "It might rain, in which case we cancel."
+      ]
+    },
+    {
+      "word": "be in order",
+      "examples": [
+        "A second breakfast might be in order.",
+        "A celebration is in order."
+      ]
+    },
+    {
+      "word": "given the circumstances",
+      "examples": [
+        "Not surprising, given the circumstances.",
+        "Given the circumstances, we should wait."
+      ]
+    },
+    {
+      "word": "cut in",
+      "examples": [
+        "Joel cut in before she could speak.",
+        "Don't cut in while I'm talking."
+      ]
+    },
+    {
+      "word": "so long as",
+      "examples": [
+        "So long as he's not cooped up in a small space.",
+        "You can go, so long as you're back by ten."
+      ]
+    },
+    {
+      "word": "coop up",
+      "examples": [
+        "Cooped up in a small space.",
+        "He hates being cooped up."
+      ]
+    },
+    {
+      "word": "have this thing about",
+      "examples": [
+        "He has this thing about enclosed spaces.",
+        "I have this thing about the dark."
+      ]
+    },
+    {
+      "word": "properly",
+      "ipa": "ˈprɒpəli",
+      "examples": [
+        "It's the only thing he's properly scared of.",
+        "She was properly scared."
+      ]
+    },
+    {
+      "word": "break off",
+      "examples": [
+        "She broke off, and wiped her eyes.",
+        "The talks broke off."
+      ]
+    },
+    {
+      "word": "in a bit of a state",
+      "examples": [
+        "She was in a bit of a state.",
+        "She was in a bit of a state after the phone call."
+      ]
+    },
+    {
+      "word": "rash",
+      "ipa": "ræʃ",
+      "examples": [
+        "It was a rash decision.",
+        "a rash assumption."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "A black {} pot sat on the old stove.",
+      "answer": "cast-iron",
+      "hint": "adj.铸铁的、生铁的"
+    },
+    {
+      "prompt": "Go fetch the map, you {}, she laughed.",
+      "answer": "lazybones",
+      "hint": "n.懒骨头、懒家伙"
+    },
+    {
+      "prompt": "Joel spread out the detailed {} map of the area.",
+      "answer": "Ordnance Survey",
+      "hint": "英国地形测量局（OS map）"
+    },
+    {
+      "prompt": "The blue line of the river {}ed away to the west.",
+      "answer": "tapered",
+      "hint": "v.逐渐变细、向远方收窄"
+    },
+    {
+      "prompt": "A broad {} of green marked the old woodland.",
+      "answer": "swathe",
+      "hint": "n.一大片（土地、区域）"
+    },
+    {
+      "prompt": "Green patches on the map showed sheltering {}.",
+      "answer": "woodland",
+      "hint": "n.林地、树林区域"
+    },
+    {
+      "prompt": "The sun beat down {} through the long climb.",
+      "answer": "relentless",
+      "hint": "adj.无休止的、毫不松懈的"
+    },
+    {
+      "prompt": "The closely spaced {} lines showed a steep climb.",
+      "answer": "contour",
+      "hint": "n.轮廓；（地图）等高线"
+    },
+    {
+      "prompt": "The valley dipped into a deep U-shaped {}.",
+      "answer": "trough",
+      "hint": "n.槽；U形山谷洼地"
+    },
+    {
+      "prompt": "Sharp, {} peaks surrounded the lake.",
+      "answer": "jagged",
+      "hint": "adj.锯齿状的、嶙峋的"
+    },
+    {
+      "prompt": "We followed the narrow {} to the top.",
+      "answer": "ridge",
+      "hint": "n.山脊"
+    },
+    {
+      "prompt": "A lonely hillside farm made the perfect criminal {}.",
+      "answer": "hideout",
+      "hint": "n.藏身点、窝点"
+    },
+    {
+      "prompt": "The farm wasn't even reached by a {} road.",
+      "answer": "proper",
+      "hint": "adj.像样的、正规的"
+    },
+    {
+      "prompt": "The dotted line on the map showed nothing but {}.",
+      "answer": "a farm track",
+      "hint": "农用小径、田间小路"
+    },
+    {
+      "prompt": "There were no {} to see them approaching.",
+      "answer": "passers-by",
+      "hint": "n.过路人（passer-by 复数）"
+    },
+    {
+      "prompt": "They didn't know {} that the farm was the base.",
+      "answer": "for certain",
+      "hint": "确凿地、有把握地"
+    },
+    {
+      "prompt": "It'll be scorching today, {}, said Joel.",
+      "answer": "by the looks of it",
+      "hint": "看样子、从表面来看"
+    },
+    {
+      "prompt": "They planned to camp beside a small mountain {}.",
+      "answer": "tarn",
+      "hint": "n.高山小湖、冰斗湖"
+    },
+    {
+      "prompt": "They left a note with the {} for where they were camping.",
+      "answer": "grid references",
+      "hint": "n.网格坐标（OS 方格定位）"
+    },
+    {
+      "prompt": "Aunt Emily looked pale and {} by the window.",
+      "answer": "haggard",
+      "hint": "adj.面容憔悴的、疲惫不堪的"
+    },
+    {
+      "prompt": "A {} of cold milk had formed on her untouched tea.",
+      "answer": "skin",
+      "hint": "n.（液体表面）薄皮、膜"
+    },
+    {
+      "prompt": "She had only a {} meeting with him at the station.",
+      "answer": "brief",
+      "hint": "adj.短暂的、时间不长的"
+    },
+    {
+      "prompt": "The social worker warned against {}ing him with contact.",
+      "answer": "unsettling",
+      "hint": "v.使心神不宁、扰乱"
+    },
+    {
+      "prompt": "They wondered if outsiders could meet the {}.",
+      "answer": "inmates",
+      "hint": "n.囚犯、被收容者"
+    },
+    {
+      "prompt": "She {}ed the newspaper along its old fold.",
+      "answer": "creased",
+      "hint": "n.折痕、皱纹；v.弄皱"
+    },
+    {
+      "prompt": "Emily {} before answering.",
+      "answer": "gathered herself together",
+      "hint": "镇定下来、平复情绪"
+    },
+    {
+      "prompt": "His {} makes small spaces unbearable.",
+      "answer": "claustrophobia",
+      "hint": "n.幽闭恐惧症"
+    },
+    {
+      "prompt": "Tom is terrified of {}.",
+      "answer": "enclosed spaces",
+      "hint": "n.封闭狭小空间"
+    },
+    {
+      "prompt": "He suffered a {} down in the mine.",
+      "answer": "panic attack",
+      "hint": "n.惊恐发作"
+    },
+    {
+      "prompt": "He fell over a narrow rock {} in the tunnel.",
+      "answer": "ledge",
+      "hint": "n.岩架、岩石窄台"
+    },
+    {
+      "prompt": "She wondered if there was {} the accident.",
+      "answer": "more to it",
+      "hint": "另有隐情、背后还有缘故"
+    },
+    {
+      "prompt": "Hello, Joel began {}.",
+      "answer": "in his deepest voice",
+      "hint": "用最低沉的嗓音"
+    },
+    {
+      "prompt": "I {}, Joel said cheerfully.",
+      "answer": "slept like a baby",
+      "hint": "睡得很香很沉"
+    },
+    {
+      "prompt": "They set off to {} the abandoned hillside farm.",
+      "answer": "check out",
+      "hint": "实地探查、查看"
+    },
+    {
+      "prompt": "The dog {} the moment he sensed something happening.",
+      "answer": "sprang up",
+      "hint": "猛地跳起来"
+    },
+    {
+      "prompt": "The hillside farm was their only {}.",
+      "answer": "lead",
+      "hint": "n.案件线索、突破口"
+    },
+    {
+      "prompt": "The farm was the only clue they had {}.",
+      "answer": "go on",
+      "hint": "（作为）依据、凭据"
+    },
+    {
+      "prompt": "A remote farm suits anyone {}.",
+      "answer": "up to no good",
+      "hint": "图谋不轨、干坏事"
+    },
+    {
+      "prompt": "To avoid being seen, they decided to {}.",
+      "answer": "come at it a different way",
+      "hint": "换个方向或方式靠近"
+    },
+    {
+      "prompt": "It was going to be very hot; {}, a second breakfast was in order.",
+      "answer": "in which case",
+      "hint": "既然如此、那样的话"
+    },
+    {
+      "prompt": "Given the long walk, a big lunch might {}.",
+      "answer": "be in order",
+      "hint": "合乎情理、理应做某事"
+    },
+    {
+      "prompt": "The call went to voicemail, expected, {}.",
+      "answer": "given the circumstances",
+      "hint": "考虑当下处境"
+    },
+    {
+      "prompt": "Joel {} before Maggie could reply.",
+      "answer": "cut in",
+      "hint": "v.插嘴、打断"
+    },
+    {
+      "prompt": "He'll be fine, {} he isn't locked in a tiny room.",
+      "answer": "so long as",
+      "hint": "conj.只要"
+    },
+    {
+      "prompt": "He hates being {} in a confined room.",
+      "answer": "cooped up",
+      "hint": "将…关在狭小空间、困住"
+    },
+    {
+      "prompt": "Ever since the coal shed, Tom's {} enclosed spaces.",
+      "answer": "had this thing about",
+      "hint": "对…抱有心结/抵触"
+    },
+    {
+      "prompt": "Small spaces are the only thing he's {} afraid of.",
+      "answer": "properly",
+      "hint": "adv.（英口）真正地、实打实地"
+    },
+    {
+      "prompt": "His father, you know... she {}.",
+      "answer": "broke off",
+      "hint": "v.（说话）突然中断"
+    },
+    {
+      "prompt": "After the phone call she was {}.",
+      "answer": "in a bit of a state",
+      "hint": "状态糟糕、情绪慌乱"
+    },
+    {
+      "prompt": "Selling the house was a {} decision he later regretted.",
+      "answer": "rash",
+      "hint": "adj.鲁莽的、冲动不计后果的"
+    }
+  ]
+}

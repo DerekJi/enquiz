@@ -1,0 +1,761 @@
+{
+  "id": "24",
+  "title": "Chapter 24",
+  "order": 24,
+  "words": [
+    {
+      "word": "fume",
+      "ipa": "fjuːm",
+      "examples": [
+        "She was still fuming about the injustice.",
+        "He fumed silently at the insult."
+      ]
+    },
+    {
+      "word": "pensively",
+      "ipa": "ˈpensɪvli",
+      "examples": [
+        "She looked at the sky pensively.",
+        "He stared pensively out of the window."
+      ]
+    },
+    {
+      "word": "turn for",
+      "examples": [
+        "She was about to turn for home.",
+        "The ship turned for port."
+      ]
+    },
+    {
+      "word": "shavings",
+      "ipa": "ˈʃeɪvɪŋz",
+      "examples": [
+        "The oars scooped up shavings of light.",
+        "Wood shavings curled from the plane."
+      ]
+    },
+    {
+      "word": "aromatic",
+      "ipa": "ˌærəˈmætɪk",
+      "examples": [
+        "She caught the aromatic trail of smoke.",
+        "aromatic herbs."
+      ]
+    },
+    {
+      "word": "trail of smoke",
+      "examples": [
+        "She caught the aromatic trail of smoke.",
+        "A trail of smoke rose from the chimney."
+      ]
+    },
+    {
+      "word": "cloves",
+      "ipa": "kləʊvz",
+      "examples": [
+        "A mix of fresh straw, cloves, burnt toast.",
+        "Add two cloves to the sauce."
+      ]
+    },
+    {
+      "word": "a clove of garlic",
+      "examples": [
+        "Crush a clove of garlic.",
+        "Stir in a clove of garlic."
+      ]
+    },
+    {
+      "word": "grown-up",
+      "ipa": "ˌɡrəʊn ˈʌp",
+      "examples": [
+        "The grown-up scent reached out to her.",
+        "She kept a grown-up calm."
+      ]
+    },
+    {
+      "word": "if it weren't for",
+      "examples": [
+        "If it weren't for Tom, the Queen would be dead.",
+        "If it weren't for you, we'd be lost."
+      ]
+    },
+    {
+      "word": "be praised from the rooftops",
+      "examples": [
+        "But who gets praised from the rooftops?",
+        "Their bravery should be praised from the rooftops."
+      ]
+    },
+    {
+      "word": "start by doing",
+      "examples": [
+        "We could start by being thankful.",
+        "Let's start by introducing ourselves."
+      ]
+    },
+    {
+      "word": "set out to do sth",
+      "examples": [
+        "You achieved what you set out to do.",
+        "She set out to break the record."
+      ]
+    },
+    {
+      "word": "tranquil",
+      "ipa": "ˈtræŋkwɪl",
+      "examples": [
+        "The Teal sails these tranquil waters.",
+        "a tranquil lake at dawn."
+      ]
+    },
+    {
+      "word": "presume",
+      "ipa": "prɪˈzjuːm",
+      "examples": [
+        "I presume you didn't do it to be praised.",
+        "I presume you've heard the news."
+      ]
+    },
+    {
+      "word": "come at a price",
+      "examples": [
+        "Saving people usually comes at a price.",
+        "Victory came at a price."
+      ]
+    },
+    {
+      "word": "daft",
+      "ipa": "dɑːft",
+      "examples": [
+        "Tom may have made himself look a bit daft.",
+        "Don't be daft."
+      ]
+    },
+    {
+      "word": "out",
+      "ipa": "aʊt",
+      "examples": [
+        "The truth will out in the end.",
+        "The truth is bound to out."
+      ]
+    },
+    {
+      "word": "see for myself",
+      "examples": [
+        "I intend to see for myself.",
+        "Let me see for myself."
+      ]
+    },
+    {
+      "word": "vouch for",
+      "examples": [
+        "I'm going to vouch for Tom's character.",
+        "I can vouch for him."
+      ]
+    },
+    {
+      "word": "first thing",
+      "examples": [
+        "I have an appointment first thing in the morning.",
+        "Call me first thing tomorrow."
+      ]
+    },
+    {
+      "word": "be mixed up in",
+      "examples": [
+        "If the authorities are mixed up in this.",
+        "He didn't want to be mixed up in a crime."
+      ]
+    },
+    {
+      "word": "be on to sb",
+      "examples": [
+        "We're on to them.",
+        "The police are on to the gang."
+      ]
+    },
+    {
+      "word": "bewilder",
+      "ipa": "bɪˈwɪldə(r)",
+      "examples": [
+        "Maggie shook her head, bewildered.",
+        "The question bewildered everyone."
+      ]
+    },
+    {
+      "word": "have sth in common",
+      "examples": [
+        "Tom and Ryan have more in common than you think.",
+        "We have nothing in common."
+      ]
+    },
+    {
+      "word": "on the brink",
+      "examples": [
+        "On the brink, trying to work out who he was.",
+        "on the brink of collapse."
+      ]
+    },
+    {
+      "word": "escapade",
+      "ipa": "ˌeskəˈpeɪd",
+      "examples": [
+        "This little escapade was the jolt he needed.",
+        "a drunken escapade."
+      ]
+    },
+    {
+      "word": "jolt",
+      "ipa": "dʒəʊlt",
+      "examples": [
+        "This escapade was the jolt he needed.",
+        "a sudden jolt woke me up."
+      ]
+    },
+    {
+      "word": "brood on",
+      "examples": [
+        "To stop brooding on his own problems.",
+        "Don't brood on past mistakes."
+      ]
+    },
+    {
+      "word": "spectacularly",
+      "ipa": "spekˈtækjələli",
+      "examples": [
+        "He saved others, spectacularly.",
+        "The plan failed spectacularly."
+      ]
+    },
+    {
+      "word": "lunatic",
+      "ipa": "ˈluːnətɪk",
+      "examples": [
+        "He would still have looked like a lunatic.",
+        "a lunatic scheme."
+      ]
+    },
+    {
+      "word": "count the cost",
+      "examples": [
+        "He'd counted the cost.",
+        "They acted without counting the cost."
+      ]
+    },
+    {
+      "word": "gossamer",
+      "ipa": "ˈɡɒsəmə(r)",
+      "examples": [
+        "A micro-light, gossamer wings backlit.",
+        "The spider's gossamer threads."
+      ]
+    },
+    {
+      "word": "backlit",
+      "ipa": "ˌbækˈlɪt",
+      "examples": [
+        "Its gossamer wings backlit in the last rays.",
+        "a backlit photograph."
+      ]
+    },
+    {
+      "word": "the last rays",
+      "examples": [
+        "Gossamer wings backlit in the last rays.",
+        "The sun cast its last rays."
+      ]
+    },
+    {
+      "word": "fringe",
+      "ipa": "frɪndʒ",
+      "examples": [
+        "Maggie pushed the fringe out of her eyes.",
+        "Her fringe fell over her eyes."
+      ]
+    },
+    {
+      "word": "a bit of digging",
+      "examples": [
+        "A bit of digging, before the trail goes cold.",
+        "A bit of digging turned up the truth."
+      ]
+    },
+    {
+      "word": "the trail goes cold",
+      "examples": [
+        "Before the trail goes cold.",
+        "The trail had gone cold."
+      ]
+    },
+    {
+      "word": "aqueduct",
+      "ipa": "ˈækwɪdʌkt",
+      "examples": [
+        "The Thirlmere Aqueduct passes under the fell.",
+        "water is carried by an aqueduct."
+      ]
+    },
+    {
+      "word": "reservoir",
+      "ipa": "ˈrezəvwɑː(r)",
+      "examples": [
+        "An enormous man-made reservoir up the valley.",
+        "The town draws water from a reservoir."
+      ]
+    },
+    {
+      "word": "lion's den",
+      "examples": [
+        "Don't go walking into the lion's den!",
+        "He walked back into the lion's den."
+      ]
+    },
+    {
+      "word": "Victorians",
+      "ipa": "vɪkˈtɔːriənz",
+      "examples": [
+        "The Victorians built it.",
+        "Amazing, those Victorians."
+      ]
+    },
+    {
+      "word": "and yet",
+      "examples": [
+        "And yet, if no one ever went near the den.",
+        "He was tired, and yet he kept going."
+      ]
+    },
+    {
+      "word": "get away with sth",
+      "examples": [
+        "Those people would get away with everything.",
+        "He got away with a fine."
+      ]
+    },
+    {
+      "word": "goosander",
+      "ipa": "ɡuːˈsændə(r)",
+      "examples": [
+        "A female goosander with some newly hatched chicks.",
+        "A goosander dived for fish."
+      ]
+    },
+    {
+      "word": "labour",
+      "ipa": "ˈleɪbə(r)",
+      "examples": [
+        "A female goosander was labouring upstream.",
+        "He laboured up the hill."
+      ]
+    },
+    {
+      "word": "tuft",
+      "ipa": "tʌft",
+      "examples": [
+        "Orange tufts glistening with jewels of water.",
+        "a tuft of grass."
+      ]
+    },
+    {
+      "word": "glisten",
+      "ipa": "ˈɡlɪsn",
+      "examples": [
+        "Orange tufts glistening with jewels of water.",
+        "Her eyes glistened with tears."
+      ]
+    },
+    {
+      "word": "jewels of water",
+      "examples": [
+        "Orange tufts glistening with jewels of water.",
+        "The grass glittered with jewels of water."
+      ]
+    },
+    {
+      "word": "shrink back",
+      "examples": [
+        "She shrank back from the barking dog.",
+        "The child shrank back into the corner."
+      ]
+    },
+    {
+      "word": "overhanging",
+      "ipa": "ˌəʊvəˈhæŋɪŋ",
+      "examples": [
+        "An overhanging roof.",
+        "overhanging branches."
+      ]
+    },
+    {
+      "word": "drape",
+      "ipa": "dreɪp",
+      "examples": [
+        "She draped a scarf over her shoulders.",
+        "Cloth draped across the table."
+      ]
+    },
+    {
+      "word": "slender",
+      "ipa": "ˈslendə(r)",
+      "examples": [
+        "Her slender fingers.",
+        "a slender path."
+      ]
+    },
+    {
+      "word": "be studded with sth",
+      "examples": [
+        "The shore was studded with rocks.",
+        "a sky studded with stars."
+      ]
+    },
+    {
+      "word": "strap",
+      "ipa": "stræp",
+      "examples": [
+        "She tightened the straps on her pack.",
+        "a camera strap."
+      ]
+    },
+    {
+      "word": "rhythmic",
+      "ipa": "ˈrɪðmɪk",
+      "examples": [
+        "The rhythmic sound of the oars.",
+        "a rhythmic drumming."
+      ]
+    },
+    {
+      "word": "goosebumps",
+      "ipa": "ˈɡuːsbʌmps",
+      "examples": [
+        "The cold gave her goosebumps.",
+        "It sent goosebumps down her arms."
+      ]
+    },
+    {
+      "word": "eddy",
+      "ipa": "ˈedi",
+      "examples": [
+        "A leaf spun in the eddy.",
+        "The boat drifted into an eddy."
+      ]
+    },
+    {
+      "word": "heal over",
+      "examples": [
+        "The wound healed over.",
+        "Time heals over old grief."
+      ]
+    },
+    {
+      "word": "find the guts",
+      "examples": [
+        "She finally found the guts to speak up.",
+        "He found the guts to tell the truth."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "prompt": "She sat rowing alone, still {}ing about the unfair arrest.",
+      "answer": "fuming",
+      "hint": "v.生闷气、大怒；n.烟气"
+    },
+    {
+      "prompt": "She stared at the clouds {}, deep in thought.",
+      "answer": "pensively",
+      "hint": "心事重重地、若有所思地"
+    },
+    {
+      "prompt": "She was just about to {} home when she saw him.",
+      "answer": "turn for",
+      "hint": "调转方向奔赴某处"
+    },
+    {
+      "prompt": "The oars scooped up {} of light from the water.",
+      "answer": "shavings",
+      "hint": "刨花、薄片细屑"
+    },
+    {
+      "prompt": "She caught the {} smell of his pipe on the breeze.",
+      "answer": "aromatic",
+      "hint": "芬芳的、气味浓郁的"
+    },
+    {
+      "prompt": "On the breeze came an aromatic {}.",
+      "answer": "trail of smoke",
+      "hint": "一缕飘来的烟"
+    },
+    {
+      "prompt": "His pipe smelled of straw, {} and burnt toast.",
+      "answer": "cloves",
+      "hint": "n.丁香（香料，clove 复数）"
+    },
+    {
+      "prompt": "Peel and crush {} before adding it.",
+      "answer": "a clove of garlic",
+      "hint": "一瓣大蒜"
+    },
+    {
+      "prompt": "The {} smell of his pipe felt like a kind arm.",
+      "answer": "grown-up",
+      "hint": "成年人特有的、成熟的"
+    },
+    {
+      "prompt": "{} Tom, the Queen would be dead.",
+      "answer": "if it weren't for",
+      "hint": "要不是因为…（虚拟）"
+    },
+    {
+      "prompt": "He saved the Queen, yet who {}?",
+      "answer": "gets praised from the rooftops",
+      "hint": "被大肆颂扬、到处夸"
+    },
+    {
+      "prompt": "We could {} being thankful, Jim suggested.",
+      "answer": "start by",
+      "hint": "以…开始、先从…入手"
+    },
+    {
+      "prompt": "You achieved exactly what you {}.",
+      "answer": "set out to do",
+      "hint": "立志要达成、出发时怀揣目标"
+    },
+    {
+      "prompt": "The old boat still sailed the {} waters as if nothing happened.",
+      "answer": "tranquil",
+      "hint": "平静的、宁静的"
+    },
+    {
+      "prompt": "I {} you didn't do all this just for praise.",
+      "answer": "presume",
+      "hint": "v.推测、假定"
+    },
+    {
+      "prompt": "Helping others often {}, he told her.",
+      "answer": "comes at a price",
+      "hint": "要付出代价"
+    },
+    {
+      "prompt": "Tom's made himself look a bit {} for now.",
+      "answer": "daft",
+      "hint": "adj.傻乎乎的、冒失的"
+    },
+    {
+      "prompt": "The truth will {} in the end, Jim always said.",
+      "answer": "out",
+      "hint": "v.（古）显露、真相大白"
+    },
+    {
+      "prompt": "Jim went to the police station to {}.",
+      "answer": "see for myself",
+      "hint": "亲自去看、亲眼核实"
+    },
+    {
+      "prompt": "Jim hoped to {} Tom's character to the police.",
+      "answer": "vouch for",
+      "hint": "为…（人品）担保、作证"
+    },
+    {
+      "prompt": "He has a meeting with the police {} in the morning.",
+      "answer": "first thing",
+      "hint": "第一件事、一…就（最先立刻做）"
+    },
+    {
+      "prompt": "If the police are {} this, talking could be dangerous.",
+      "answer": "mixed up in",
+      "hint": "卷入、牵涉进（坏事）"
+    },
+    {
+      "prompt": "Talking too much might warn them that we are {} them.",
+      "answer": "on to",
+      "hint": "察觉到…的秘密/阴谋、盯上"
+    },
+    {
+      "prompt": "Maggie shook her head, utterly {}.",
+      "answer": "bewildered",
+      "hint": "v.使困惑、使茫然"
+    },
+    {
+      "prompt": "Those two boys {} than you would guess.",
+      "answer": "have ... in common",
+      "hint": "有共同点"
+    },
+    {
+      "prompt": "Ryan had once been {}, about to lose his way.",
+      "answer": "on the brink",
+      "hint": "处在…的边缘、濒临"
+    },
+    {
+      "prompt": "In a strange way this little {} was what Tom needed.",
+      "answer": "escapade",
+      "hint": "n.冒险举动、出格的经历"
+    },
+    {
+      "prompt": "The whole ordeal was the {} he needed to look beyond himself.",
+      "answer": "jolt",
+      "hint": "n.猛然的冲击、一记警醒"
+    },
+    {
+      "prompt": "The adventure stopped him from {} his own troubles.",
+      "answer": "brooding on",
+      "hint": "耿耿于怀、反复琢磨烦心事"
+    },
+    {
+      "prompt": "He thought of someone else and, {}, saved the whole boat.",
+      "answer": "spectacularly",
+      "hint": "adv.极其、惊人地、壮观地"
+    },
+    {
+      "prompt": "Breaking through the cordon, he must have looked like a {}.",
+      "answer": "lunatic",
+      "hint": "n.疯子；adj.疯狂的"
+    },
+    {
+      "prompt": "He knew the danger, but he had {} anyway.",
+      "answer": "counted the cost",
+      "hint": "预先掂量风险与代价"
+    },
+    {
+      "prompt": "The micro-light's {} wings glowed in the setting sun.",
+      "answer": "gossamer",
+      "hint": "adj.薄如蝉翼的；n.蛛丝、薄纱"
+    },
+    {
+      "prompt": "The glider's wings were {} in the dying light.",
+      "answer": "backlit",
+      "hint": "adj.逆光的、从背后照亮的"
+    },
+    {
+      "prompt": "The little plane shone, lit from behind by {}.",
+      "answer": "the last rays",
+      "hint": "落日余晖、夕阳最后的光芒"
+    },
+    {
+      "prompt": "She pushed her {} out of her eyes and looked at him.",
+      "answer": "fringe",
+      "hint": "n.（英）刘海"
+    },
+    {
+      "prompt": "What do you have in mind? {}, before we lose the trail.",
+      "answer": "a bit of digging",
+      "hint": "做一番深挖调查"
+    },
+    {
+      "prompt": "They had to act fast before {}.",
+      "answer": "the trail goes cold",
+      "hint": "线索冷却、追查断线"
+    },
+    {
+      "prompt": "An underground {} carries water almost a hundred miles.",
+      "answer": "aqueduct",
+      "hint": "n.输水渠、高架引水管道"
+    },
+    {
+      "prompt": "The Victorians built an enormous {} for a distant city.",
+      "answer": "reservoir",
+      "hint": "n.水库、蓄水池"
+    },
+    {
+      "prompt": "Whatever you do, don't walk into the {}!",
+      "answer": "lion's den",
+      "hint": "n.狮子窝、龙潭虎穴"
+    },
+    {
+      "prompt": "It was the {} who built that reservoir over a century ago.",
+      "answer": "Victorians",
+      "hint": "n.维多利亚时代的人"
+    },
+    {
+      "prompt": "He warned her to stay away; {}, no one would stop the criminals if all did.",
+      "answer": "and yet",
+      "hint": "可是仍然（先让步再转折）"
+    },
+    {
+      "prompt": "If everyone stayed away, the criminals would {} everything.",
+      "answer": "get away with",
+      "hint": "侥幸逃脱、不受惩罚"
+    },
+    {
+      "prompt": "A female {} followed her ducklings upstream.",
+      "answer": "goosander",
+      "hint": "n.普通秋沙鸭"
+    },
+    {
+      "prompt": "The mother duck {}ed upstream against the current.",
+      "answer": "labouring",
+      "hint": "v.费力前行、吃力地干"
+    },
+    {
+      "prompt": "The ducklings' orange {}s sparkled in the light.",
+      "answer": "tufts",
+      "hint": "n.一丛、一簇羽毛/毛"
+    },
+    {
+      "prompt": "Their wet feathers {}ed with tiny drops of water.",
+      "answer": "glistening",
+      "hint": "v.（湿润表面）闪闪发亮"
+    },
+    {
+      "prompt": "After the dive the ducklings sparkled, dotted with {}.",
+      "answer": "jewels of water",
+      "hint": "文学比喻：水珠如宝石"
+    },
+    {
+      "prompt": "The little boy {} when the dog barked.",
+      "answer": "shrank back",
+      "hint": "向后退缩（因害怕）"
+    },
+    {
+      "prompt": "They ducked under the {} branches over the path.",
+      "answer": "overhanging",
+      "hint": "adj.向外悬垂、挑出的"
+    },
+    {
+      "prompt": "She {}ed a blanket over the shivering child.",
+      "answer": "draped",
+      "hint": "v.随意搭、披挂"
+    },
+    {
+      "prompt": "She held the oar with long {} fingers.",
+      "answer": "slender",
+      "hint": "adj.细长的、苗条纤细的"
+    },
+    {
+      "prompt": "The dark water was {} tiny points of light.",
+      "answer": "studded with",
+      "hint": "镶嵌、布满"
+    },
+    {
+      "prompt": "She pulled the {}s tight across her backpack.",
+      "answer": "straps",
+      "hint": "n.绑带、系带"
+    },
+    {
+      "prompt": "The rowing settled into a {} creak.",
+      "answer": "rhythmic",
+      "hint": "adj.有节奏的"
+    },
+    {
+      "prompt": "The eerie silence raised {} on her arms.",
+      "answer": "goosebumps",
+      "hint": "n.鸡皮疙瘩"
+    },
+    {
+      "prompt": "The stick was caught in a slow-moving {} behind the rock.",
+      "answer": "eddy",
+      "hint": "n.漩涡、回水涡流"
+    },
+    {
+      "prompt": "The cut on his hand had {} without a scar.",
+      "answer": "healed over",
+      "hint": "（伤口）愈合、长好"
+    },
+    {
+      "prompt": "He couldn't {} to tell her how he felt.",
+      "answer": "find the guts",
+      "hint": "鼓起勇气做某事"
+    }
+  ]
+}
