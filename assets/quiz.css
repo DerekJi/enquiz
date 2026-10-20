@@ -400,6 +400,49 @@ ol.review-list {
     white-space: nowrap;
 }
 
+/* Optional `trans` translation: a small pill next to the headword, and the
+   block it reveals underneath. Hidden by default so Part A stays English-only
+   until you ask for the meaning. */
+.trans-toggle {
+    appearance: none;
+    margin-left: 8px;
+    padding: 0 7px;
+    border: 1px solid var(--slate-300);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--slate-500);
+    font: inherit;
+    font-size: 0.72rem;
+    line-height: 1.6;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.trans-toggle:hover,
+.trans-toggle:focus-visible,
+.trans-toggle[aria-expanded="true"] {
+    color: var(--blue-700);
+    border-color: var(--blue-500);
+    background: var(--blue-50);
+}
+
+.trans {
+    display: block;
+    margin-top: 6px;
+    padding: 7px 12px;
+    border-left: 3px solid var(--amber-600);
+    border-radius: 0 4px 4px 0;
+    background-color: var(--amber-50);
+    color: var(--slate-700);
+    font-size: 0.92rem;
+}
+
+/* .trans sets display:block above, so the UA rule for [hidden] needs a nudge. */
+.trans[hidden] {
+    display: none;
+}
+
 .example {
     display: block;
     margin-top: 5px;
@@ -879,6 +922,16 @@ body.redirect-page .btn {
 
     .ipa {
         color: #333;
+    }
+
+    /* Print the revealed translation as plain text; the toggle pill is noise. */
+    .trans {
+        background: none;
+        color: #333;
+    }
+
+    .trans-toggle {
+        display: none;
     }
 
     .chinese-hint::before,

@@ -157,6 +157,11 @@ for (const folder of bookNames) {
             if (entry.ipa !== undefined && !isText(entry.ipa)) {
                 fail(fileWhere, `words[${index}] "${entry.word}".ipa must be a non-empty string when present`);
             }
+            // Optional Chinese translation / explanation, revealed in Part A by
+            // a per-word toggle button.
+            if (entry.trans !== undefined && !isText(entry.trans)) {
+                fail(fileWhere, `words[${index}] "${entry.word}".trans must be a non-empty string when present`);
+            }
         });
 
         if (!Array.isArray(chapter.quiz)) {

@@ -106,6 +106,7 @@ Build failed — fix these first:
     {
       "word": "return leg",
       "ipa": "/rɪˈtɜːn leɡ/",
+      "trans": "n. 返程段；回程的那一段行程",
       "examples": [
         "Tom Hopkins was beginning the return leg of his morning flight.",
         "例句可以有第二句"
@@ -131,6 +132,7 @@ Build failed — fix these first:
 | `intro` | | 整段替换 Learning Guide |
 | `words[].word` | ✅ | 单词 / 词组 / idiom（保持原形，别拆开） |
 | `words[].ipa` | | 音标，如 `rʌsɪt`、`/ˈrʌsɪt/`、`[ˈrʌsɪt]` 都行；渲染时统一显示成 `/ˈrʌsɪt/`，缺省就不显示 |
+| `words[].trans` | | 中文翻译／词性说明。Part A 里每条词后会多一个小「译」按钮，点一下显示／隐藏这段文字；缺省就没有按钮 |
 | `words[].examples` | ✅ | 至少一句，可多句 |
 | `quiz[].prompt` | ✅ | 原句，用 **恰好一个 `{}`** 标出空位 |
 | `quiz[].answer` | ✅ | 标准答案；判分忽略大小写、首尾空格、标点、弯引号 |

@@ -416,6 +416,15 @@
         return core ? '/' + core + '/' : '';
     }
 
+    // Optional Chinese translation / explanation, revealed by a per-word button.
+    function transOf(entry) {
+        var raw = entry && entry.trans;
+        if (typeof raw !== 'string' || raw.trim() === '') {
+            return '';
+        }
+        return raw.trim();
+    }
+
     function badge(record, show, multiBook) {
         if (!show) {
             return '';
@@ -455,15 +464,25 @@
         el.intro.innerHTML = introFor(list);
         el.intro.hidden = false;
 
-        el.reviewList.innerHTML = words.map(function (item) {
-            var examples = (item.entry.examples || []).map(function (example) {
+        el.reviewList.innerHTML = words.map(function (item, index) {
+            var entry = item.entry;
+            var examples = (entry.examples || []).map(function (example) {
                 return '<span class="example">' + esc(example) + '</span>';
             }).join('');
-            var ipa = ipaOf(item.entry);
+            var ipa = ipaOf(entry);
+            var trans = transOf(entry);
+            var transId = 'word-trans-' + index;
+            var transToggle = trans
+                ? '<button type="button" class="trans-toggle" data-trans-toggle aria-expanded="false"' +
+                  ' aria-controls="' + transId + '" title="Show / hide the translation">\u8bd1</button>'
+                : '';
+            var transBody = trans
+                ? '<span class="trans" id="' + transId + '" hidden>' + esc(trans) + '</span>'
+                : '';
             return '<li>' + badge(item.record, multi, multiBook) +
-                '<span class="word">' + esc(item.entry.word) + '</span>' +
+                '<span class="word">' + esc(entry.word) + '</span>' +
                 (ipa ? '<span class="ipa" lang="en-fonipa">' + esc(ipa) + '</span>' : '') +
-                examples + '</li>';
+                transToggle + transBody + examples + '</li>';
         }).join('');
 
         el.quizList.innerHTML = quiz.map(function (item, index) {
@@ -797,6 +816,16 @@
                 case 'clear': clearAnswers(); break;
                 case 'print': window.print(); break;
             }
+            return;
+        }
+
+        var transToggle = closest(event.target, '[data-trans-toggle]');
+        if (transToggle) {
+            var body = document.getElementById(transToggle.getAttribute('aria-controls') || '');
+            if (body) {
+                body.hidden = !body.hidden;
+            }
+            transToggle.setAttribute('aria-expanded', String(body ? !body.hidden : false));
             return;
         }
 
